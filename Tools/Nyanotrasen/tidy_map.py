@@ -1,33 +1,67 @@
 #!/usr/bin/python
-# Tidy a map of any unnecessary datafields.
+# Tidy a map of any unnecessary datafields with GUI and multiprocessing support.
 
 import argparse
 import locale
+import logging
+import multiprocessing as mp
+import traceback
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
-from ruamel import yaml
-from sys import argv
+from typing import Tuple
+
+from ruamel.yaml import YAML
+
+import tkinter as tk
+from tkinter import ttk, filedialog, messagebox
 
 
-def capitalized_bool_dumper(representer, data):
-    tag = "tag:yaml.org,2002:bool"
-    value = "True" if data else "False"
+# ---------------------------------------------------------------------
+# YAML setup (ОСНОВНЕ ВИПРАВЛЕННЯ)
+# ---------------------------------------------------------------------
 
-    return representer.represent_scalar(tag, value)
+def make_yaml() -> YAML:
+    y = YAML(typ='rt')          # round-trip
+    y.boolean_representation = ['False', 'True']
+    y.default_flow_style = False
+    return y
 
 
-# These components should be okay to remove entirely.
+# ---------------------------------------------------------------------
+# Logging
+# ---------------------------------------------------------------------
+
+def setup_logging():
+    script_dir = Path(__file__).parent
+    log_file = script_dir / f"map_cleaner_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+
+    logging.basicConfig(
+        level=logging.DEBUG,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler(log_file, encoding='utf-8'),
+            logging.StreamHandler()
+        ]
+    )
+
+    logging.info(f"Logging to: {log_file}")
+    return log_file
+
+
+# ---------------------------------------------------------------------
+# Cleanup rules
+# ---------------------------------------------------------------------
+
 REMOVE_COMPONENTS = [
     "AmbientSound",
     "EmitSoundOnCollide",
     "Fixtures",
     "GravityShake",
-    "HandheldLight", # Floodlights are serializing these?
+    "HandheldLight",
     "PlaySoundBehaviour",
 ]
 
-# The component will have these fields removed, and if there is no other data
-# left, the component itself will be removed.
 REMOVE_COMPONENT_DATA = {
     "Airtight": ["airBlocked"],
     "DeepFryer": ["nextFryTime"],
@@ -46,118 +80,211 @@ REMOVE_COMPONENT_DATA = {
     "VendingMachine": ["nextEmpEject"],
 }
 
-# Remove only these fields from the components.
-# The component will be kept no matter what.
 ERASE_COMPONENT_DATA = {
     "GridPathfinding": ["nextUpdate"],
     "SpreaderGrid": ["nextUpdate"],
 }
 
 
+# ---------------------------------------------------------------------
+# Core logic
+# ---------------------------------------------------------------------
+
 def tidy_entity(entity):
+    if "components" not in entity:
+        return
+
     components = entity["components"]
 
-    for i in range(len(components) - 1, 0, -1):
+    for i in range(len(components) - 1, -1, -1):
         component = components[i]
+
+        if not isinstance(component, dict) or "type" not in component:
+            continue
+
         ctype = component["type"]
 
-        # Remove unnecessary components.
         if ctype in REMOVE_COMPONENTS:
             del components[i]
 
-        # Remove unnecessary datafields and empty components.
         elif ctype in REMOVE_COMPONENT_DATA:
-            datafields_to_remove = REMOVE_COMPONENT_DATA[ctype]
+            for field in REMOVE_COMPONENT_DATA[ctype]:
+                component.pop(field, None)
 
-            for datafield in datafields_to_remove:
-                try:
-                    del component[datafield]
-                except KeyError:
-                    pass
-
-            # The only field left has to be the type, so remove the component entirely.
-            if len(component.keys()) == 1:
+            if len(component) == 1:  # only "type" left
                 del components[i]
 
-        # Remove unnecessary datafields only.
         elif ctype in ERASE_COMPONENT_DATA:
-            datafields_to_remove = ERASE_COMPONENT_DATA[ctype]
+            for field in ERASE_COMPONENT_DATA[ctype]:
+                component.pop(field, None)
 
-            for datafield in datafields_to_remove:
-                try:
-                    del component[datafield]
-                except KeyError:
-                    pass
 
 def tidy_map(map_data):
-    # Iterate through all of the map's prototypes.
-    for map_prototype in map_data["entities"]:
+    for proto in map_data.get("entities", []):
+        for ent in proto.get("entities", []):
+            tidy_entity(ent)
 
-        # Iterate through all of the instances of said prototype.
-        for map_entity in map_prototype["entities"]:
-            tidy_entity(map_entity)
 
+# ---------------------------------------------------------------------
+# File processing (multiprocessing-safe)
+# ---------------------------------------------------------------------
+
+def process_single_file(file_path: Path, output_dir: Path | None = None) -> Tuple[str, bool, int, str]:
+    yaml = make_yaml()
+
+    try:
+        logging.info(f"Processing: {file_path}")
+
+        with open(file_path, 'r', encoding='utf-8') as infile:
+            map_data = yaml.load(infile)
+
+        if not map_data:
+            return (str(file_path), False, 0, "Empty or invalid YAML")
+
+        tidy_map(map_data)
+
+        if output_dir:
+            outfname = (output_dir / file_path.name).with_stem(file_path.stem + "_tidy")
+        else:
+            outfname = file_path.with_stem(file_path.stem + "_tidy")
+
+        with open(outfname, 'w', newline='\n', encoding='utf-8') as outfile:
+            yaml.dump(map_data, outfile)
+            outfile.write("...\n")
+
+        saved = file_path.stat().st_size - outfname.stat().st_size
+        return (str(file_path), True, saved, "")
+
+    except Exception as e:
+        logging.error(traceback.format_exc())
+        return (str(file_path), False, 0, f"{type(e).__name__}: {e}")
+
+
+# ---------------------------------------------------------------------
+# GUI
+# ---------------------------------------------------------------------
+
+class MapCleanerGUI:
+    def __init__(self, root, log_file):
+        self.root = root
+        self.root.title("Map Cleaner - SS14")
+        self.root.geometry("800x600")
+        self.log_file = log_file
+
+        self.files_to_process = []
+        self.setup_ui()
+
+    def setup_ui(self):
+        main = ttk.Frame(self.root, padding=10)
+        main.pack(fill=tk.BOTH, expand=True)
+
+        btns = ttk.Frame(main)
+        btns.pack(fill=tk.X)
+
+        ttk.Button(btns, text="Вибрати файли", command=self.select_files).pack(side=tk.LEFT)
+        ttk.Button(btns, text="Вибрати папку", command=self.select_folder).pack(side=tk.LEFT)
+        ttk.Button(btns, text="Очистити", command=self.clear_list).pack(side=tk.LEFT)
+
+        self.recursive_var = tk.BooleanVar(value=True)
+        ttk.Checkbutton(btns, text="З підпапками", variable=self.recursive_var).pack(side=tk.LEFT, padx=20)
+
+        self.listbox = tk.Listbox(main)
+        self.listbox.pack(fill=tk.BOTH, expand=True, pady=10)
+
+        self.progress = ttk.Progressbar(main, maximum=100)
+        self.progress.pack(fill=tk.X)
+
+        self.status = ttk.Label(main, text="Готово")
+        self.status.pack(anchor=tk.W)
+
+        self.results = tk.Text(main, height=10)
+        self.results.pack(fill=tk.BOTH, expand=True)
+
+        ttk.Button(main, text="Обробити", command=self.process_files).pack(pady=5)
+
+    def select_files(self):
+        files = filedialog.askopenfilenames(filetypes=[("YAML", "*.yml")])
+        for f in files:
+            p = Path(f)
+            if p not in self.files_to_process:
+                self.files_to_process.append(p)
+                self.listbox.insert(tk.END, str(p))
+
+    def select_folder(self):
+        folder = filedialog.askdirectory()
+        if not folder:
+            return
+
+        pattern = "**/*.yml" if self.recursive_var.get() else "*.yml"
+        for p in Path(folder).glob(pattern):
+            if p not in self.files_to_process:
+                self.files_to_process.append(p)
+                self.listbox.insert(tk.END, str(p))
+
+    def clear_list(self):
+        self.files_to_process.clear()
+        self.listbox.delete(0, tk.END)
+        self.results.delete("1.0", tk.END)
+        self.progress["value"] = 0
+        self.status.config(text="Готово")
+
+    def process_files(self):
+        if not self.files_to_process:
+            messagebox.showwarning("Нічого нема", "Файли не вибрані")
+            return
+
+        total = len(self.files_to_process)
+        self.progress["value"] = 0
+        self.results.delete("1.0", tk.END)
+
+        with ProcessPoolExecutor(max_workers=max(1, mp.cpu_count() - 1)) as ex:
+            futures = [ex.submit(process_single_file, f) for f in self.files_to_process]
+
+            for i, fut in enumerate(as_completed(futures), 1):
+                name, ok, saved, err = fut.result()
+                if ok:
+                    self.results.insert(tk.END, f"✓ {Path(name).name} (-{saved} байт)\n")
+                else:
+                    self.results.insert(tk.END, f"✗ {Path(name).name}: {err}\n")
+
+                self.progress["value"] = (i / total) * 100
+                self.status.config(text=f"{i}/{total}")
+
+        self.status.config(text="Готово")
+
+
+# ---------------------------------------------------------------------
+# Entry point
+# ---------------------------------------------------------------------
 
 def main():
-    locale.setlocale(locale.LC_ALL, '')
+    log_file = setup_logging()
 
-    parser = argparse.ArgumentParser(description='Tidy a map of any unnecessary datafields')
-
-    parser.add_argument('--infile', type=str,
-                        required=True,
-                        help='which map file to load')
-
-    parser.add_argument('--outfile', type=str,
-                        help='where to save the cleaned map to')
-
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--cli", action="store_true")
+    parser.add_argument("--infile")
+    parser.add_argument("--outfile")
     args = parser.parse_args()
 
-    # SS14 saves some booleans as "True" and others as "true", so.
-    # If it's ever necessary that we use some specific format, re-enable this.
-    # yaml.RoundTripRepresenter.add_representer(bool, capitalized_bool_dumper)
+    if args.cli and args.infile:
+        yaml = make_yaml()
 
-    # Load the map.
-    infname = args.infile
-    print(f"Loading {infname} ...")
-    load_time = datetime.now()
-    infile = open(infname, 'r')
-    map_data = yaml.load(infile, Loader=yaml.RoundTripLoader)
-    infile.close()
-    print(f"Loaded in {datetime.now() - load_time}\n")
+        with open(args.infile, "r", encoding="utf-8") as f:
+            data = yaml.load(f)
 
-    # Clean it.
-    print(f"Cleaning map ...")
-    clean_time = datetime.now()
-    tidy_map(map_data)
-    print(f"Cleaned in {datetime.now() - clean_time}\n")
+        tidy_map(data)
 
-    # Save it.
-    outfname = args.outfile
+        out = args.outfile or Path(args.infile).with_stem(Path(args.infile).stem + "_tidy")
+        with open(out, "w", encoding="utf-8", newline="\n") as f:
+            yaml.dump(data, f)
+            f.write("...\n")
 
-    if outfname == None:
-        # No output filename was specified, so add a suffix to the input filename.
-        outfname = Path(args.infile)
-        outfname = outfname.with_stem(outfname.stem + "_tidy")
+        print("Done.")
+    else:
+        root = tk.Tk()
+        MapCleanerGUI(root, log_file)
+        root.mainloop()
 
-    # Force *nix line-endings.
-    # It's one less byte per line and maps are heavy on lines.
-    newline = '\n'
-
-    print(f"Saving cleaned map to {outfname} ...")
-    save_time = datetime.now()
-    outfile = open(outfname, 'w', newline=newline)
-    yaml.boolean_representation = ['False', 'True']
-    serialized = yaml.dump(map_data, Dumper=yaml.RoundTripDumper) + "...\n"
-    outfile.write(serialized)
-    outfile.close()
-    print(f"Saved in {datetime.now() - save_time}\n")
-
-    print("Done!")
-
-    start_size = Path(infname).stat().st_size
-    end_size = Path(outfname).stat().st_size
-    print(f"Saved {start_size - end_size:n} bytes.")
 
 if __name__ == "__main__":
     main()
-
