@@ -1,8 +1,3 @@
-
-# bar_signs.yml
-ent-EmpBarSign =
-ent-SignOff =
-
 # floor_trap.yml
 ent-CollideFloorTrapSpawn = спавн підлогової пастки
 ent-FloorTrapEMP = ЕМП пастка на підлозі
