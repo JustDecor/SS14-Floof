@@ -1,3 +1,3 @@
 ﻿marking-SingleAntenna=Single Antenna
-marking-SingleAntenna-singleantennaprimary=Base
-marking-SingleAntenna-singleantennasecondary=Gradient
+marking-SingleAntenna-singleantennaprimary = База
+marking-SingleAntenna-singleantennasecondary = Градієнт

@@ -1,11 +1,11 @@
-docking-component-dock = Dock
-docking-component-undock = Undock
+docking-component-dock = Пристикуватися
+docking-component-undock = Відстикуватися
 
-cmd-dock-desc = Attempts to dock 2 airlocks together. Doesn't check whether it is valid.
-cmd-dock-help = dock <airlock entityuid1> <airlock entityuid2>
+cmd-dock-desc = Спробувати з'єднати 2 шлюзи разом. Не перевіряється, чи це допустимо.
+cmd-dock-help = стикувати <airlock entityuid1> <airlock entityuid2>
 
-cmd-dock-args = Invalid number of args
-cmd-dock-invalid = Invalid EntityUid {$entity}
-cmd-dock-found = No docking component found on {$airlock}
-cmd-dock-success = Successfully docked
-cmd-dock-fail = Unable to dock
+cmd-dock-args = Недійсна кількість аргументів
+cmd-dock-invalid = Невірний EntityUid {$entity}
+cmd-dock-found = Не знайдено компонент стикування у {$airlock}
+cmd-dock-success = Успішно пристиковано
+cmd-dock-fail = Неможливо пристикуватись

@@ -1,4 +1,4 @@
-book-text-epistemics1 = THE EFFECTS OF HIGH GLIMMER LEVELS
+book-text-epistemics1 = ВПЛИВ ВИСОКИХ РІВНІВ ГЛІМЕРУ
 
       On a shift I served on one of our backwater stations, we had an eccentric mystagogue as our only command member.
       Their magnum opus experiment was to... raise the glimmer as far as they could, up until our grammateus couldn't tell how much there was.

@@ -1,1 +1,1 @@
-ipc-overheat-popup = {$name}'s circuits shut down from overheating!
+ipc-overheat-popup = Схеми {$name} вимкнулись через перегрів!

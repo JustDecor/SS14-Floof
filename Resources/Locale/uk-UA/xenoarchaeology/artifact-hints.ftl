@@ -1,45 +1,45 @@
 # you shouldn't be creating new hints for every effect/trigger
 # try and reuse them so that a hint isn't a dead giveaway. -emo
 
-artifact-effect-hint-mental = Cerebral influence
-artifact-effect-hint-environment = Environmental disruption
-artifact-effect-hint-electrical-interference = Electrical interference
-artifact-effect-hint-displacement = Metaphysical displacement
-artifact-effect-hint-creation = Matter creation
-artifact-effect-hint-consumption = Energy consumption
-artifact-effect-hint-release = Energy release
-artifact-effect-hint-biochemical = Biochemical disruption
-artifact-effect-hint-destruction = Station-wide destruction
-artifact-effect-hint-gun = Small entity accelerator
-artifact-effect-hint-multitool = Utility conglomerate
-artifact-effect-hint-storage = Internal chamber
-artifact-effect-hint-drill = Serrated rotator
-artifact-effect-hint-soap = Lubricated surface
-artifact-effect-hint-communication = Long-distance communication
-artifact-effect-hint-phasing = Structural phasing
-artifact-effect-hint-sentience = Neurological activity
-artifact-effect-hint-polymorph = Transmogrificational activity
-artifact-effect-hint-magnet = Magnetic waves
-artifact-effect-hint-visual = Visual distortions
+artifact-effect-hint-mental = Психічний вплив
+artifact-effect-hint-environment = Крах середовища
+artifact-effect-hint-electrical-interference = Електрична інтерференція
+artifact-effect-hint-displacement = Метафізичне зміщення
+artifact-effect-hint-creation = Створення матерії
+artifact-effect-hint-consumption = Споживання енергії
+artifact-effect-hint-release = Звільнення енергії
+artifact-effect-hint-biochemical = Біохімічне розпадання
+artifact-effect-hint-destruction = Руйнування в масштабах станції
+artifact-effect-hint-gun = Прискорювач малих об'єктів
+artifact-effect-hint-multitool = Уніфіковане з'єднування
+artifact-effect-hint-storage = Внутрішня камера
+artifact-effect-hint-drill = Зубчастий ротатор
+artifact-effect-hint-soap = Змащена поверхня
+artifact-effect-hint-communication = Комунікація дальньої дії
+artifact-effect-hint-phasing = Структурна поетапність
+artifact-effect-hint-sentience = Неврологічна активність
+artifact-effect-hint-polymorph = Трансмогріфікаційна активність
+artifact-effect-hint-magnet = Магнітні хвилі
+artifact-effect-hint-visual = Візуальні спотворення
 
 # the triggers should be more obvious than the effects
 # gives people an idea of what to do: don't be too specific (i.e. no "welders")
 
-artifact-trigger-hint-electricity = Electricity
-artifact-trigger-hint-heat = High temperatures
-artifact-trigger-hint-physical = Physical trauma
-artifact-trigger-hint-tool = Tool usage
-artifact-trigger-hint-music = Sonic vibrations
-artifact-trigger-hint-water = Hydro-reactive
-artifact-trigger-hint-blood = Reaction with hematological fluid
-artifact-trigger-hint-magnet = Magnetic waves
-artifact-trigger-hint-death = Life essence
-artifact-trigger-hint-radiation = Radiation
-artifact-trigger-hint-pressure = Extreme pressure
-artifact-trigger-hint-regular-gases = Standard atmospheric gases
-artifact-trigger-hint-plasma = Gaseous plasma
-artifact-trigger-hint-land = Active deceleration
-artifact-trigger-hint-examine = Examination
+artifact-trigger-hint-electricity = Електрика
+artifact-trigger-hint-heat = Високі температури
+artifact-trigger-hint-physical = Фізична травма
+artifact-trigger-hint-tool = Використання інструменту
+artifact-trigger-hint-music = Звукові коливання
+artifact-trigger-hint-water = Гідрореактивний
+artifact-trigger-hint-blood = Реакція з гематологічною рідиною
+artifact-trigger-hint-magnet = Магнітні хвилі
+artifact-trigger-hint-death = Життєва сутність
+artifact-trigger-hint-radiation = Радіація
+artifact-trigger-hint-pressure = Екстримальний тиск
+artifact-trigger-hint-regular-gases = Стандартні атмосферні гази
+artifact-trigger-hint-plasma = Газоподібна плазма
+artifact-trigger-hint-land = Активне уповільнення
+artifact-trigger-hint-examine = Вивчення
 
 # Psionic Effects
-artifact-effect-hint-psionic = Noöspheric disturbance
+artifact-effect-hint-psionic = Ноосферні бурі

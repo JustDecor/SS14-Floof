@@ -1,19 +1,19 @@
 # Locale values for TargetBodyPart
 
-body-part-Head = head
-body-part-Torso = torso
-body-part-Groin = groin
-body-part-LeftArm = left arm
-body-part-LeftHand = left hand
-body-part-RightArm = right arm
-body-part-RightHand = right hand
-body-part-LeftLeg = left leg
-body-part-LeftFoot = left foot
-body-part-RightLeg = right leg
-body-part-RightFoot = right foot
+body-part-Head = голова
+body-part-Torso = тулуб
+body-part-Groin = пах
+body-part-LeftArm = ліва рука
+body-part-LeftHand = ліва кисть
+body-part-RightArm = права рука
+body-part-RightHand = права кисть
+body-part-LeftLeg = ліва нога
+body-part-LeftFoot = ліва ступня
+body-part-RightLeg = права нога
+body-part-RightFoot = права ступня
 
-body-part-Hands = hands
-body-part-Arms = arms
-body-part-Legs = legs
-body-part-Feet = feet
-body-part-All = body
+body-part-Hands = кисті
+body-part-Arms = руки
+body-part-Legs = ноги
+body-part-Feet = ступні
+body-part-All = тіло

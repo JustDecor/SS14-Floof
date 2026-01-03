@@ -1,17 +1,17 @@
-surgery-verb-text = Start surgery
-surgery-verb-message = Begin surgery on this entity.
-surgery-ui-window-title = Surgery
-surgery-ui-window-require = Requires
-surgery-ui-window-parts = < Parts
-surgery-ui-window-surgeries = < Surgeries
-surgery-ui-window-steps = < Steps
-surgery-ui-window-steps-error-skills = You have no surgical skills.
-surgery-ui-window-steps-error-table = You need an operating table for this.
-surgery-ui-window-steps-error-armor = You need to remove their armor!
-surgery-ui-window-steps-error-tools = Missing tools.
-surgery-error-laying = They need to be laying down!
-surgery-error-self-surgery = You can't perform surgery on yourself!
-surgery-part-damage-evaded = {$user} narrowly evaded!
+surgery-verb-text = Почати операцію
+surgery-verb-message = Почати операцію на цій сутності.
+surgery-ui-window-title = Хірургія
+surgery-ui-window-require = Потрібно
+surgery-ui-window-parts = < Частини
+surgery-ui-window-surgeries = < Операції
+surgery-ui-window-steps = < Кроки
+surgery-ui-window-steps-error-skills = У вас немає хірургічних навичок.
+surgery-ui-window-steps-error-table = Для цього потрібен операційний стіл.
+surgery-ui-window-steps-error-armor = Потрібно зняти з них броню!
+surgery-ui-window-steps-error-tools = Відсутні інструменти.
+surgery-error-laying = Вони повинні лежати!
+surgery-error-self-surgery = Ви не можете оперувати себе!
+surgery-part-damage-evaded = {$user} ледь ухилився!
 
 # Floof
-surgery-verb-perform = Perform surgery
+surgery-verb-perform = Провести операцію

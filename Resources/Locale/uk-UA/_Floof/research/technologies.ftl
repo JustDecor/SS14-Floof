@@ -1,4 +1,4 @@
-research-technology-mini-hypo = Advanced Medical Injector
-research-technology-harvestbag = Advanced Hydroponics
-research-technology-tracking-implant = Advanced Tracking
-research-technology-advanced-energy-armaments = Advanced energy armaments
+research-technology-mini-hypo = Розширений медичний ін'єктор
+research-technology-harvestbag = Розширена гідропоніка
+research-technology-tracking-implant = Розширене відстеження
+research-technology-advanced-energy-armaments = Розширене енергетичне озброєння

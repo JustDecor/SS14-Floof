@@ -1,2 +1,2 @@
-objective-condition-spider-charge-title-no-target = Detonate the spider clan charge (no target)
-objective-condition-spider-charge-title = Detonate the spider clan charge in {$location}
+objective-condition-spider-charge-title-no-target = Підірвати заряд клану павуків (без цілі)
+objective-condition-spider-charge-title = Підірвати заряд клану павуків у {$location}

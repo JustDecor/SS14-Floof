@@ -1,1 +1,1 @@
-health-analyzer-window-entity-unborgable-text = [color=red]Patient's brain signatures are incompatible with MMI technology![/color]
+health-analyzer-window-entity-unborgable-text = [color=red]Сигнатури мозку пацієнта несумісні з технологією ММІ![/color]

@@ -1,44 +1,44 @@
-cqc-fail-used = {CAPITALIZE(THE($manual))} is already used.
-cqc-fail-notself = You can't teach anyone with {CAPITALIZE(THE($manual))}.
+cqc-fail-used = {CAPITALIZE(THE($manual))} вже використано.
+cqc-fail-notself = Ви не можете нікого навчити за допомогою {CAPITALIZE(THE($manual))}.
 
-cqc-fail-knowanother = You already know another martial art.
-cqc-fail-already = You already know everything about a Martial art.
-cqc-success-unblocked = Your CQC skills are not bound to kitchen anymore.
-cqc-success-learned = You have learned CQC.
+cqc-fail-knowanother = Ви вже знаєте інше бойове мистецтво.
+cqc-fail-already = Ви вже володієте бойовим мистецтвом.
+cqc-success-unblocked = Ваші навички Ближнього Бою більше не прив'язані до кухні.
+cqc-success-learned = Ви вивчили Ближній Бій.
 
-cqc-manual-used = [color=white]{CAPITALIZE(THE($manual))} looks to be already used.[/color]
+cqc-manual-used = [color=white]{CAPITALIZE(THE($manual))} схоже, вже використаний.[/color]
 
-ent-CQCManual = CQC manual
-    .desc = Looks like a usual book, but contains some secrets inside.
+ent-CQCManual = Посібник з Ближнього Бою
+    .desc = Виглядає як звичайна книга, але всередині приховує деякі секрети.
 
-carp-scroll-waiting = The journey of a thousand miles begins with one step, and the path of wisdom is traveled slowly, one lesson at a time.
-carp-scroll-advance = You have taken one step closer to becoming a master of the Way of the Sleeping Carp.
-carp-scroll-complete = You are now a master of the Way of the Sleeping Carp.
+carp-scroll-waiting = Подорож у тисячу миль починається з одного кроку, а шлях мудрості долається повільно, урок за уроком.
+carp-scroll-advance = Ви зробили ще один крок до того, щоб стати майстром Шляху Сплячого Коропа.
+carp-scroll-complete = Тепер ви майстер Шляху Сплячого Коропа.
 
-carp-saying-huah = HUAH!
-carv-saying-hya = HYA!
-carp-saying-choo = CHOO!
-carp-saying-wuo = WUO!
-carp-saying-kya = KYA!
-carp-saying-huh = HUH!
-carp-saying-hiyoh = HIYOH!
-carp-saying-strike = CARP STRIKE!
-carp-saying-bite = CARP BITE!
+carp-saying-huah = ХУАХ!
+carv-saying-hya = ХЯ!
+carp-saying-choo = ЧУУ!
+carp-saying-wuo = ВУО!
+carp-saying-kya = КІЯ!
+carp-saying-huh = ХАХ!
+carp-saying-hiyoh = ХІЙОХ!
+carp-saying-strike = УДАР КОРОПА!
+carp-saying-bite = УКУС КОРОПА!
 
-carp-saying-banzai = BANZAIII!
-carp-saying-kiya = KIYAAAA!
+carp-saying-banzai = БАНЗАЙ!
+carp-saying-kiya = КІЯЯЯЯ!
 carp-saying-omae = OMAE WA MOU SHINDEIRU!
-carp-saying-see = YOU CAN'T SEE ME!
-carp-saying-time = MY TIME IS NOW!!
-carp-saying-cowabunga = COWABUNGA!
+carp-saying-see = ТИ НЕ БАЧИШ МЕНЕ!
+carp-saying-time = МІЙ ЧАС НАСТАВ!!
+carp-saying-cowabunga = КАВАБАНГА!
 
-krav-maga-ready = You ready a {$action}
+krav-maga-ready = Ви готуєтеся до {$action}
 
-martial-arts-action-sender = You hit {$name} with {$move}
-martial-arts-action-receiver = {$name} hit you with {$move}
+martial-arts-action-sender = Ви застосували {$move} на {$name}
+martial-arts-action-receiver = {$name} застосував {$move} на вас
 
-uplink-cqc-name = CQC Manual
-uplink-cqc-desc = A manual that teaches a single user tactical Close-Quarters Combat before self-destructing. Does not restrict weapon usage. Your disarms will inflict some stamina damage while making people temporarily slur their words, your grabs will immobilize for a second making it easier to reinforce them, your harm attacks will deal moderate stamina damage, and you will get a set of combos that allow you to efficiently knockdown, disarm or stun your opponent. You can find more information on CQC and its combos here.
+uplink-cqc-name = Посібник з Ближнього Бою
+uplink-cqc-desc = Посібник, який навчає одного користувача тактичному Ближньому Бою перед самознищенням. Не обмежує використання зброї. Ваші обеззброювання завдаватимуть невеликої шкоди витривалості, змушуючи людей тимчасово невиразно говорити, ваші захвати знерухомлюватимуть на секунду, що полегшує їх посилення, ваші атаки завдаватимуть помірної шкоди витривалості, і ви отримаєте набір комбо, які дозволять вам ефективно збивати з ніг, обеззброювати або приголомшувати супротивника. Більше інформації про Ближній Бій та його комбо ви можете знайти тут.
 
-uplink-sleeping-carp-name = Martial Arts Scroll
-uplink-sleeping-carp-desc = This scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by vampire and changeling agents.
+uplink-sleeping-carp-name = Сувій Шляху Сплячого Коропа
+uplink-sleeping-carp-desc = Цей сувій містить секрети стародавньої техніки бойового мистецтва. Ви опануєте рукопашний бій, відбивання пострілів з дальньої зброї, і космічні коропи стануть до вас дружелюбними. Вивчення цього мистецтва означає, що ви також відмовитеся використовувати нечесну дальню зброю. Не може бути зрозумілим для підмінків.

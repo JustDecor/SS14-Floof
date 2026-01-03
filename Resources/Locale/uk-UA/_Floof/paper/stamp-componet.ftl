@@ -1,1 +1,1 @@
-stamp-component-stamped-name-surgeon-general = Surgeon General
+stamp-component-stamped-name-surgeon-general = Головний хірург

@@ -1,545 +1,545 @@
-trait-name-Blindness = Blindness
-trait-description-Blindness = You are legally blind, and can't see clearly past a few meters in front of you.
-trait-examined-Blindness = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are glassy and unfocused. It doesn't seem like {SUBJECT($target)} can see you well, if at all.[/color]
+trait-name-Blindness = Сліпота
+trait-description-Blindness = Ви юридично сліпий і не можете чітко бачити далі кількох метрів перед собою.
+trait-examined-Blindness = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} очі скляні та розфокусовані. Схоже, {SUBJECT($target)} не бачить вас добре, якщо взагалі бачить.[/color]
 
-trait-name-Narcolepsy = Narcolepsy
+trait-name-Narcolepsy = Нарколепсія
 trait-description-Narcolepsy =
-    Due to a neurological disorder, controlling your sleep-wake cycles is difficult for you.
-    As a result, you may repeatedly fall asleep for short periods of time throughout the day.
+    Через неврологічний розлад контролювати цикли сну та пробудження важко для вас.
+    Як наслідок, ви можете повторювано засинати на короткі періоди протягом дня.
 
-trait-name-Pacifist = Pacifist
+trait-name-Pacifist = Пацифіст
 trait-description-Pacifist =
-    Either due to moral principles, or as a result of body modification,
-    you cannot bring yourself to harm or to risk harming any other living being,
-    regardless of what threat they may pose.
+    Чи через моральні принципи, чи в результаті модифікації тіла,
+    ви не можете змусити себе завдати шкоди або ризикувати заподіянням шкоди будь-якій іншій живій істоті,
+    незалежно від того, яку загрозу вони можуть становити.
 
-trait-name-SelfAware = Self-Aware
+trait-name-SelfAware = Самосвідомість
 trait-description-SelfAware =
-    You possess a keen intuition of your body and senses.
-    You can accurately examine the severity of your wounds and burns like a health analyzer,
-    and can gauge if you have toxin or airloss damage.
+    Ви володієте гострим інтуїтивним розумінням свого тіла та почуттів.
+    Ви можете точно оцінити тяжкість своїх ран та опіків, як аналізатор здоров'я,
+    і можете оцінити, чи маєте ви токсичні пошкодження або втрату повітря.
 
-trait-name-LightweightDrunk = Lightweight Drunk
+trait-name-LightweightDrunk = Слабка стійкість до алкоголю
 trait-description-LightweightDrunk =
-    Your body exhibits a significantly heightened susceptibility to alcohol intoxication.
-    As a result, alcohol has a more significant effect on your cognitive functions.
-    Note: This pertrains solely to the [color=blue]visual effects[/color] of intoxication, and does not affect the alchohol poisoning threshold.
+    Ваше тіло виявляє значно підвищену сприйнятливість до алкогольного сп'яніння.
+    Як наслідок, алкоголь має більш значний вплив на ваші когнітивні функції.
+    Примітка: Це стосується лише [color=blue]візуальних ефектів[/color] сп'яніння та не впливає на поріг отруєння алкоголем.
 
-trait-name-HeavyweightDrunk = Alcohol Tolerance
+trait-name-HeavyweightDrunk = Толерантність до алкоголю
 trait-description-HeavyweightDrunk =
-    Your body has developed an exceptionally high level of alcohol tolerance, leaving the very beverages you consume intimidated.
-    As a result, the effects of alcohol on your cognitive functions are considerably less noticeable.
-    Note: This pertrains solely to the [color=blue]visual effects[/color] of intoxication, and does not affect the alchohol poisoning threshold.
+    Ваше тіло розвинуло винятково високий рівень толерантності до алкоголю, залишаючи самі напої, які ви споживаєте, заляканими.
+    Як наслідок, вплив алкоголю на ваші когнітивні функції значно менш помітний.
+    Примітка: Це стосується лише [color=blue]візуальних ефектів[/color] сп'яніння та не впливає на поріг отруєння алкоголем.
 
-trait-name-LiquorLifeline = Liquor Lifeline
+trait-name-LiquorLifeline = Алкогольна лінія життя
 trait-description-LiquorLifeline =
-    Forget the doctor — just hit the bar for your "ethanol prescription"!
-    While drunk, you slowly heal [color=red]Brute[/color], [color=orange]Heat[/color], [color=orange]Shock[/color], and [color=orange]Cold[/color] damage, scaling with how drunk you are.
-    You also gain the benefits of [color=lightblue]Alcohol Tolerance[/color].
+    Забудьте про лікаря - просто заходьте до бару за своєю "етаноловою рецептурою"!
+    Поки ви п'яні, ви повільно лікуєте [color=red]Фізичні[/color], [color=orange]Термічні[/color], [color=orange]Електричні[/color] та [color=orange]Холодові[/color] пошкодження, що масштабується залежно від того, наскільки ви п'яні.
+    Ви також отримуєте переваги [color=lightblue]Толерантності до Алкоголю[/color].
 
-trait-name-Muted = Muted
+trait-name-Muted = Німий
 trait-description-Muted =
-    Either due to to an abnormality in your body development, or due to some body augmentation, you are unable to utilize spoken language.
-    Consequently, you may encounter difficulties in communicating with others or using radio communication.
+    Через аномалію в розвитку вашого тіла, або через певні тілесні покращення, ви не можете використовувати усне мовлення.
+    Як наслідок, ви можете стикатися з труднощами у спілкуванні з іншими або використанні радіозв'язку.
 # Floof - M3739 - #701
-trait-name-BloodDeficiency = Blood Deficiency
+trait-name-BloodDeficiency = Дефіцит крові
 trait-description-BloodDeficiency =
-    Your body loses more blood than it can replenish.
-    You lose blood over time, and when left untreated you will eventually die from blood loss.
+    Ваше тіло втрачає більше крові, ніж може відновити.
+    Ви втрачаєте кров з часом, і якщо залишити це без лікування, ви врешті-решт помрете від крововтрати.
 
-trait-name-Hemophilia = Hemophilia
+trait-name-Hemophilia = Гемофілія
 trait-description-Hemophilia =
-    Your body's ability to form blood clots is impaired.
-    You bleed twice as long, and you have easy bruising, taking 10% more Blunt damage.
+    Здатність вашого тіла утворювати тромби порушена.
+    Ви кровоточите вдвічі довше, і у вас легко з'являються синяки, отримуючи на 10% більше фізичних пошкоджень від тупих ударів.
 
-trait-name-Paracusia = Paracusia
+trait-name-Paracusia = Паракузія
 trait-description-Paracusia =
-    The challenges of deep space life have led you to experience chronic and frequent auditory hallucinations,
-    causing you to perceive sounds that are not really there.
+    Труднощі життя в глибокому космосі призвели до того, що ви страждаєте на хронічні та часті слухові галюцинації,
+    змушуючи вас сприймати звуки, яких насправді немає.
 
-trait-name-Unrevivable = Unrevivable
-trait-description-Unrevivable = You have a unique body composition that prevents you from being revived by normal means.
+trait-name-Unrevivable = Невідновлюваний
+trait-description-Unrevivable = Ви маєте унікальний склад тіла, що перешкоджає вашому відновленню звичайними методами.
 
-trait-name-PirateAccent = Pirate Accent
+trait-name-PirateAccent = Піратський акцент
 trait-description-PirateAccent =
-    Your interactions with space pirates or a fascination with their culture
-    have influenced your speech, causing you to communicate in a manner characteristic of pirates.
+    Ваші взаємодії з космічними піратами або захоплення їхньою культурою
+    вплинули на вашу мову, змушуючи вас спілкуватися характерним для піратів чином.
 
-trait-name-Accentless = Accentless
+trait-name-Accentless = Без акценту
 trait-description-Accentless =
-    You may have developed in isolation or separation from other repsentatives of your species,
-    which resulted in you not having the typical accent that your species peers may possess.
+    Ви, можливо, розвивалися в ізоляції або відокремлено від інших представників свого виду,
+    що призвело до того, що у вас немає типового акценту, який можуть мати ваші побратими виду.
 
-trait-name-FrontalLisp = Frontal Lisp
+trait-name-FrontalLisp = Фронтальна шепелявість
 trait-description-FrontalLisp =
-    An abnormality in the development of your speech has caused you to pronounce the "s" and "z" sounds similarly to "th".
-    In other words, you thpeak with a lithp.
+    Аномалія у розвитку вашої мови призвела до того, що ви вимовляєте звуки "с" і "з" подібно до "тз".
+    Іншими словами, ви розмовляєте з шепелявістю.
 
-trait-name-Stutter = Stutter
+trait-name-Stutter = Заїкання
 trait-description-Stutter =
-    Either due to a speech disorder, or due to anxiety or stress, you often find yourself stuttering while trying to speak.
+    Через розлад мовлення, або через тривогу чи стрес, ви часто виявляєте, що заїкаєтеся, намагаючись говорити.
 
-trait-name-Southern = Southern Drawl
-trait-description-Southern = You have a different way of speakin'.
+trait-name-Southern = Південний протяжний вимов
+trait-description-Southern = У вас особливий спосіб розмовляти.
 
-trait-name-BoganAccent = Australian Accent
-trait-description-BoganAccent = You have accent from Australia district on Sol.
+trait-name-BoganAccent = Австралійський акцент
+trait-description-BoganAccent = Ви маєте акцент з австралійського району на Солі.
 
-trait-name-MedievalAccent = Medieval Accent
-trait-description-MedievalAccent = You doth speakth in a peculiar manner.
+trait-name-MedievalAccent = Середньовічний акцент
+trait-description-MedievalAccent = Ви глаголете мовою особливо.
 
-trait-name-Snoring = Snoring
-trait-description-Snoring = You tend to snore loudly while sleeping.
+trait-name-Snoring = Хропіння
+trait-description-Snoring = Ви схильні голосно хропіти під час сну.
 
-trait-name-CPRTraining = CPR Training
-trait-description-CPRTraining = At some point in your life, you have received training in how to perform CPR.
-                                This trait is automatically given for free to medical doctors, and is intended for non-medical characters
+trait-name-CPRTraining = Навчання ШВР
+trait-description-CPRTraining = У якийсь момент життя ви пройшли навчання з проведення штучного дихання та масажу серця.
+                                Ця рика автоматично та безкоштовно надається лікарям і призначена для немедичних персонажів.
 
-trait-name-Nearsighted = Nearsighted
-trait-description-Nearsighted = Your eyes are not what they once were, you have difficulty seeing things far away without corrective glasses.
+trait-name-Nearsighted = Короткозорість
+trait-description-Nearsighted = Ваші очі не такі, як колись, вам важко бачити віддалені об'єкти без корекційних окулярів.
 
-trait-name-NormalVisionHarpy = Trichromat Modification
+trait-name-NormalVisionHarpy = Модифікація трихромата
 trait-description-NormalVisionHarpy =
-    Your eyes have been modified by means of advanced medicine to see in the standard colors of Red, Green, and Blue.
-    You do not have the usual vision anomaly that your species may possess.
+    Ваші очі були модифіковані за допомогою передової медицини, щоб бачити стандартні кольори Червоний, Зелений та Синій.
+    У вас немає звичайної аномалії зору, яку може мати ваш вид.
 
-trait-name-NormalVision = Trichromat Modification
+trait-name-NormalVision = Модифікація трихромата
 trait-description-NormalVision =
-    Your eyes have been modified by means of advanced medicine to see in the standard colors of Red, Green, and Blue.
-    You do not have the usual vision anomaly that your species may possess.
+    Ваші очі були модифіковані за допомогою передової медицини, щоб бачити стандартні кольори Червоний, Зелений та Синій.
+    У вас немає звичайної аномалії зору, яку може мати ваш вид.
 
-trait-name-Thieving = Thieving
+trait-name-Thieving = Злодійство
 trait-description-Thieving =
-    You are deft with your hands, and talented at convincing people of their belongings.
-    You can identify pocketed items, steal them quieter, and steal ~33% faster.
+    Ви спритні руками і талановиті у переконуванні людей розлучитися зі своїми речами.
+    Ви можете визначати предмети в кишенях, красти їх тихіше і красти приблизно на ~33% швидше.
 
-trait-name-ForeignerLight = Foreigner (light)
+trait-name-ForeignerLight = Іноземець (легкий)
 trait-description-ForeignerLight =
-    You struggle to learn this station's primary language, and as such, cannot speak it. You can, however, comprehend what others say in that language.
-    To help you overcome this obstacle, you are equipped with a translator that helps you speak in this station's primary language.
+    Ви з труднощами вивчаєте основну мову цієї станції, і, як наслідок, не можете нею розмовляти. Однак ви можете розуміти, що інші говорять цією мовою.
+    Щоб допомогти вам подолати цю перешкоду, ви оснащені перекладачем, який допомагає вам розмовляти основною мовою цієї станції.
 
-trait-name-Foreigner = Foreigner
+trait-name-Foreigner = Іноземець
 trait-description-Foreigner =
-    For one reason or another you do not speak this station's primary language.
-    Instead, you have a translator issued to you that only you can use.
+    З тієї чи іншої причини ви не розмовляєте основною мовою цієї станції.
+    Натомість вам видали перекладач, яким можете користуватися лише ви.
 
-trait-name-Saturnine = Saturnine
-trait-description-Saturnine = You are naturally dour and morose. Your mood is permanently decreased by a large amount.
+trait-name-Saturnine = Меланхолійність
+trait-description-Saturnine = Ви природно похмурий та сумний. Ваш настрій постійно знижений на значну величину.
 
-trait-name-Sanguine = Sanguine
-trait-description-Sanguine = You are naturally upbeat and cheerful! Your mood is permanently increased by a large amount.
+trait-name-Sanguine = Сангвінічність
+trait-description-Sanguine = Ви природою бадьорий та життєрадісний! Ваш настрій постійно підвищений на значну величину.
 
-trait-name-WillToLive = Will To Live
+trait-name-WillToLive = Воля до життя
 trait-description-WillToLive =
-    You have an unusually strong "will to live", and will resist death more than others.
-    Your damage threshold for becoming Dead is increased by 10 points.
+    У вас незвично сильна "воля до життя", і ви будете чинити опір смерті більше, ніж інші.
+    Ваш поріг пошкоджень для стану Мертвий збільшено на 10 очок.
 
-trait-name-WillToDie = Will To Die
+trait-name-WillToDie = Воля до смерті
 trait-description-WillToDie =
-    You have an unusually weak "will to live", and will succumb to injuries sooner than others.
-    Your damage threshold for becoming Dead is decreased by 15 points.
+    У вас незвично слабка "воля до життя", і ви будете піддаватися травмам раніше, ніж інші.
+    Ваш поріг пошкоджень для стану Мертвий зменшено на 15 очок.
 
-trait-name-Tenacity = Tenacity
+trait-name-Tenacity = Завзятість
 trait-description-Tenacity =
-    Whether it be through raw grit, willpower, or subtle bionic augmentations, you are hardier than others.
-    Your damage threshold for becoming Critical is increased by 5 points.
+    Чи завдяки силі волі, чи завдяки тонким біонічним покращенням, ви витриваліші за інших.
+    Ваш поріг пошкоджень для стану Критичний збільшено на 5 очок.
 
-trait-name-GlassJaw = Glass Jaw
+trait-name-GlassJaw = Скляна щелепа
 trait-description-GlassJaw =
-    Your body is more fragile than others, resulting in a greater susceptibility to critical injuries
-    Your damage threshold for becoming Critical is decreased by 10 points.
+    Ваше тіло більш крихке, ніж у інших, що призводить до більшої сприйнятливості до критичних травм.
+    Ваш поріг пошкоджень для стану Критичний зменшено на 10 очок.
 
-trait-name-HighAdrenaline = High Adrenaline
+trait-name-HighAdrenaline = Високий адреналін
 trait-description-HighAdrenaline =
-    Whether by natural causes, genetic or bionic augmentation, you have a more potent adrenal gland.
-    When injured, your melee/throwing attacks deal up to 10% more damage, in addition to the natural bonuses from adrenaline.
-    The standard adrenaline bonuses to melee/throwing damage are up to a 20% increase.
+    Чи через природні причини, генетичні чи біонічні покращення, у вас потужніша надниркова залоза.
+    Коли поранені, ваші ближньобойні/кидальні атаки завдають до 10% більше шкоди, на додачу до природних бонусів від адреналіну.
+    Стандартні бонуси адреналіну до ближньобойної/кидальної шкоди становлять до 20% збільшення.
 
-trait-name-AdrenalDysfunction = Adrenal Dysfunction
+trait-name-AdrenalDysfunction = Дисфункція надниркових залоз
 trait-description-AdrenalDysfunction =
-    Your adrenal gland is completely nonfunctional, or potentially missing outright.
-    Your melee/throwing attacks do not benefit from Adrenaline when injured.
-    The standard adrenaline bonuses to melee/throwing damage are up to a 20% increase.
+    Ваша надниркова залоза повністю нефункціональна або, можливо, взагалі відсутня.
+    Ваші ближньобойні/кидальні атаки не отримують переваг від Адреналіну при пораненні.
+    Стандартні бонуси адреналіну до ближньобойної/кидальної шкоди становлять до 20% збільшення.
 
-trait-name-Masochism = Masochism
+trait-name-Masochism = Мазохізм
 trait-description-Masochism =
-    Deriving enjoyment from your own pain, you are not as inhibited by it as others.
-    You ignore the first 10% of stamina damage penalties to your melee/throwing attacks.
+    Отримуючи задоволення від власного болю, ви не такі стримані ним, як інші.
+    Ви ігноруєте перші 10% штрафів до ваших ближньобойних/кидальних атак від шкоди витривалості.
 
-trait-name-LowPainTolerance = Low Pain Tolerance
+trait-name-LowPainTolerance = Низька толерантність до болю
 trait-description-LowPainTolerance =
-    Your tolerance for pain is far below average, and its effects are more inhibiting.
-    Your melee/throwing damage is penalized by up to an additional 15% when taking stamina damage.
+    Ваша толерантність до болю значно нижча за середню, і його ефекти більш обмежувальні.
+    Шкода від ваших ближньобойних/кидальних атак штрафується до додаткових 15% при отриманні шкоди витривалості.
 
-trait-name-Steadfast = Steadfast
+trait-name-Steadfast = Незламність
 trait-description-Steadfast =
-    When others would buckle from the weight of your injuries, you still march forward unrelentingly.
-    For most species [color=gray](excluding IPC/Shadekin)[/color], this trait modifies:
-    - [color=yellow]25%[/color] movement slow at [color=red]60[/color] damage ➔ [color=yellow]17%[/color] movement slow at [color=red]70[/color] damage
-    - [color=yellow]45%[/color] movement slow at [color=red]80[/color] damage ➔ [color=yellow]30%[/color] movement slow at [color=red]90[/color] damage
+    Коли інші б піддалися під вагою ваших травм, ви все одно непохитно йдете вперед.
+    Для більшості видів [color=gray](за винятком ІШР/Шейдкінів)[/color] ця особливість змінює:
+    - [color=yellow]25%[/color] сповільнення руху при [color=red]60[/color] пошкодженнях ➔ [color=yellow]17%[/color] сповільнення руху при [color=red]70[/color] пошкодженнях
+    - [color=yellow]45%[/color] сповільнення руху при [color=red]80[/color] пошкодженнях ➔ [color=yellow]30%[/color] сповільнення руху при [color=red]90[/color] пошкодженнях
 
-trait-name-Feeble = Feeble
+trait-name-Feeble = Кволий
 trait-description-Feeble =
-    Your body responds poorly to injuries, making damage affect your movement more severely.
-    For most species [color=gray](excluding IPC/Shadekin)[/color], this trait modifies:
-    - [color=yellow]25%[/color] movement slow at [color=red]60[/color] damage ➔ [color=yellow]30%[/color] movement slow at [color=red]45[/color] damage
-    - [color=yellow]45%[/color] movement slow at [color=red]80[/color] damage ➔ [color=yellow]54%[/color] movement slow at [color=red]65[/color] damage
+    Ваше тіло погано реагує на травми, через що пошкодження більш серйозно впливають на ваш рух.
+    Для більшості видів [color=gray](за винятком ІШР/Шейдкінів)[/color] ця особливість змінює:
+    - [color=yellow]25%[/color] сповільнення руху при [color=red]60[/color] пошкодженнях ➔ [color=yellow]30%[/color] сповільнення руху при [color=red]45[/color] пошкодженнях
+    - [color=yellow]45%[/color] сповільнення руху при [color=red]80[/color] пошкодженнях ➔ [color=yellow]54%[/color] сповільнення руху при [color=red]65[/color] пошкодженнях
 
-trait-name-MartialArtist = Martial Artist
+trait-name-MartialArtist = Майстер бойових мистецтв
 trait-description-MartialArtist =
-    You have received formal training in unarmed combat, whether with fists, claws, feet, or teeth.
-    Your unarmed melee attack is now considered a single-target [color=orange]Power Attack[/color], requiring less precision.
-    Additionally, your unarmed melee attacks deal [color=yellow]20%[/color] more damage, attack [color=yellow]25%[/color] faster, and have [color=yellow]10%[/color] increased range.
-    This has no effect on damage dealt with any form of armed melee.
-    The [color=#9FED58]Boxer[/color], [color=#9FED58]Martial Artist[/color], and [color=#9FED58]Gladiator[/color] jobs start with this trait by default.
+    Ви пройшли формальне навчання рукопашному бою, будь то кулаками, кігтями, ногами або зубами.
+    Ваша беззбройна ближньобойна атака тепер вважається одиничною [color=orange]Потужною Атакою[/color], що потребує меншої точності.
+    Крім того, ваші беззбройні ближньобойні атаки завдають [color=yellow]20%[/color] більше шкоди, атакують [color=yellow]25%[/color] швидше і мають [color=yellow]10%[/color] збільшений радіус дії.
+    Це не впливає на шкоду, завдану будь-якою формою озброєної ближньої боротьби.
+    Роботи [color=#9FED58]Боксер[/color], [color=#9FED58]Майстер бойових мистецтв[/color] та [color=#9FED58]Гладіатор[/color] мають цю особливість за замовчуванням.
 
-trait-name-Vigor = Vigor
+trait-name-Vigor = Бадьорість
 trait-description-Vigor =
-    Whether by pure determination, fitness, or bionic augmentations, your endurance is enhanced.
-    Your stamina is increased by 10 points.
+    Чи завдяки чистій рішучості, фізичній формі чи біонічним покращенням, ваша витривалість покращена.
+    Ваша витривалість збільшена на 10 очок.
 
-trait-name-Lethargy = Lethargy
+trait-name-Lethargy = Летаргія
 trait-description-Lethargy =
-    You become tired faster than others, making you more vulnerable to exhaustion and fatigue.
-    Your stamina is decreased by 15 points.
+    Ви швидше втомлюєтеся, ніж інші, що робить вас більш вразливим до виснаження та втоми.
+    Ваша витривалість зменшена на 15 очок.
 
-trait-name-SignLanguage = Sign Language
+trait-name-SignLanguage = Мова жестів
 trait-description-SignLanguage =
-    You can understand and use Tau-Ceti Basic Sign Language (TCB-SL).
-    If you are mute for any reason, you can still communicate with sign language.
+    Ви розумієте та можете використовувати мову жестів Тау Кита Бейсік (TCB-SL).
+    Якщо ви німі з будь-якої причини, ви все одно можете спілкуватися мовою жестів.
 
-trait-name-SolCommon = Sol Common
+trait-name-SolCommon = Сол-Коммон
 trait-description-SolCommon =
-    With its roots in Mandarin Chinese - Common evolved as the official language of the Sol Alliance - with officials working to tie it together with a common tongue.
-    It's spoken by state officials - taught in schools - and spoken by those who either feel a sense of national pride in the Alliance or otherwise fell sway to the culture.
+    З корінням у мандаринській китайській - Common розвинулася як офіційна мова Союзу Сол, оскільки чиновники працювали над її об'єднанням загальною мовою.
+    На ній говорять державні службовці, викладають у школах, і говорять ті, хто або відчуває почуття національної гордості за Союз, або потрапив під вплив його культури.
 
-trait-name-Tradeband = Tradeband
+trait-name-Tradeband = Трейдбенд
 trait-description-Tradeband =
-    Descended from latin and romance languages of old Earth - Tradeband remains the main tongue of the upper class of humanity.
-    The language sounds elegant and well structured to most ears. It remains in popular use with traders - diplomats - and those seeking to hold onto a piece of a romantic past.
+    Походить від латини та романських мов старої Землі - Tradeband залишається основним язиком вищого класу людства.
+    Мова звучить витончено та добре структуровано для більшості вух. Вона залишається в популярному вжитку серед торговців, дипломатів та тих, хто прагне зберегти частку романтичного минулого.
 
-trait-name-Freespeak = Freespeak (Gutter)
+trait-name-Freespeak = Фріспік (Гіттер)
 trait-description-Freespeak =
-    A language of renegades and frontiersmen descending from various languages from Earth like Hindi combined into a multi-rooted jumble that sounds incoherent or even barbarian to non-native speakers.
-    This language is the only common cultural identity for humans in the frontier. Speaking this language in itself boldly declares the speaker a free spirit.
-    Often called 'Gutter' by Alliance citizens.
+    Мова вільних духом та жителів фронтиру, що походить від різних мов Землі, таких як гінді, об'єднаних у багатокореневий хаос, який звучить незв'язно або навіть варварсько для тих, хто не є носіями.
+    Ця мова є єдиною загальною культурною ідентичністю для людей на фронтирі. Говорити цією мовою саме по собі сміливо заявляє про вільний дух мовця.
+    Часто називається 'Ганебною' громадянами Альянсу.
 
-trait-name-Elyran = Elyran Standard
+trait-name-Elyran = Еліран Стандарт
 trait-description-Elyran =
-    Elyran Standard is the official tongue of the Republic of Elyra.
-    Constructed using elements of Farsi - Arabic - and Turkish - influence from all three of these languages can be seen throughout its grammar and vocabulary.
+    Елірський стандарт - офіційна мова Республіки Еліра.
+    Створений з використанням елементів фарсі, арабської та турецької мов - вплив усіх трьох цих мов можна побачити протягом усієї її граматики та словникового запасу.
 
-trait-name-Voracious = Voracious
+trait-name-Voracious = Ненажерливість
 trait-description-Voracious =
-    Nothing gets between you and your food.
-    Your endless consumption of food and drinks is twice as fast.
+    Ніщо не стає між вами та вашою їжею.
+    Ваше нескінченне споживання їжі та напоїв удвічі швидше.
 
--terrain-example = [color=gray](e.g. spider web, slime puddle, kudzu, space glue)[/color]
--slippery-example = [color=gray](e.g. banana peel, water puddle, soap, space lube)[/color]
+-terrain-example = [color=gray](напр. павутина, слизова калюжа, кущі, космічний клей)[/color]
+-slippery-example = [color=gray](напр. шкірка банана, водяна калюжа, мило, космічне мастило)[/color]
 
-trait-name-ParkourTraining = Parkour Training
+trait-name-ParkourTraining = Паркур
 trait-description-ParkourTraining =
-    Whether as a hobby, lifestyle, or professional training, you are trained in the discipline of parkour.
-    You climb structures like tables [color=yellow]50%[/color] faster.
-    Slipping leaves you stunned for [color=yellow]30%[/color] shorter. { -slippery-example }
-    You gain a [color=yellow]50%[/color] resistance to slows from difficult terrain. { -terrain-example }
+    Чи як хобі, спосіб життя, або професійне навчання, ви навчені дисципліні паркуру.
+    Ви лазите по конструкціях, як-от столи, [color=yellow]50%[/color] швидше.
+    Сковзання залишає вас оглушеним на [color=yellow]30%[/color] менший час. { -slippery-example }
+    Ви отримуєте [color=yellow]50%[/color] стійкості до сповільнень від складного рельєфу. { -terrain-example }
 
-trait-name-BadKnees = Bad Knees
+trait-name-BadKnees = Погані коліна
 trait-description-BadKnees =
-    Whether due to injury, age, or wear and tear, your knees aren't particularly strong or flexible.
-    You climb structures like tables [color=yellow]50%[/color] slower.
-    Slipping leaves you stunned for [color=yellow]40%[/color] longer. { -slippery-example }
-    Difficult terrain slows you down [color=yellow]35%[/color] more. { -terrain-example }
+    Через травму, вік або зношеність, ваші коліна не особливо міцні чи гнучкі.
+    Ви лазите по конструкціях, як-от столи, [color=yellow]50%[/color] повільніше.
+    Сковзання залишає вас оглушеним на [color=yellow]40%[/color] більший час. { -slippery-example }
+    Складний рельєф сповільнює вас на [color=yellow]35%[/color] більше. { -terrain-example }
 
-trait-name-Sluggish = Sluggish
+trait-name-Sluggish = Повільний
 trait-description-Sluggish =
-    You navigate the world slower than others, perhaps due to a medical condition, inactivity, or age.
-    Your movement speed is decreased by [color=yellow]16%[/color].
+    Ви пересуваєтеся світом повільніше, ніж інші, можливо, через медичний стан, бездіяльність або вік.
+    Ваша швидкість руху зменшена на [color=yellow]16%[/color].
 
-trait-name-SnailPaced = Snail-Paced
+trait-name-SnailPaced = Повільний як равлик
 trait-description-SnailPaced =
-    You walk at a snail's pace, perhaps due to a medical condition, mobility impairment, or age.
-    Your movement speed is decreased by [color=yellow]32%[/color].
+    Ви йдете повільним кроком равлика, можливо, через медичний стан, порушення рухливості або вік.
+    Ваша швидкість руху зменшена на [color=yellow]32%[/color].
 
-trait-name-LightStep = Light Step
+trait-name-LightStep = Легка хода
 trait-description-LightStep =
-    You move with a gentle step, which makes your footsteps quieter.
+    Ви пересуваєтеся легким кроком, що робить ваші кроки тихішими.
 
-trait-name-Swashbuckler = Swashbuckler
+trait-name-Swashbuckler = Фехтувальник
 trait-description-Swashbuckler =
-    You are an expert in swordsmanship, wielding swords, knives, and other blades with unrivaled finesse.
-    Your melee Slash bonus is increased to 35%, but your melee Blunt bonus is reduced to 25%.
+    Ви експерт фехтування, володіючи шпагами, ножами та іншими клинками з неперевершеною майстерністю.
+    Ваш бонус ближньобойної шкоди Рубаючого типу збільшено до 35%, але ваш бонус ближньобойної шкоди Тупого типу зменшено до 25%.
 
-trait-name-Spearmaster = Spearmaster
+trait-name-Spearmaster = Майстер списа
 trait-description-Spearmaster =
-    You have an outstanding proficiency with spears, wielding them as an extension of your body.
-    Your melee Piercing bonus is increased to 35%, but your melee Blunt bonus is reduced to 25%.
+    Ви володієте видатним вмінням володіння списами, розглядаючи їх як продовження свого тіла.
+    Ваш бонус ближньобойної шкоди Колючого типу збільшено до 35%, але ваш бонус ближньобойної шкоди Тупого типу зменшено до 25%.
 
-trait-name-WeaponsGeneralist = Weapons Generalist
+trait-name-WeaponsGeneralist = Універсал зброї
 trait-description-WeaponsGeneralist =
-    You are a jack of all trades with melee weapons, enabling you to be versatile with your weapon arsenal.
-    Your melee damage bonus for all Brute damage types (Blunt, Slash, Piercing) becomes 30%.
+    Ви майстер на всі руки в ближньому бою, що дозволяє вам бути універсальним у своєму арсеналі зброї.
+    Ваш бонус ближньобойної шкоди для всіх типів Фізичних пошкоджень (Тупих, Рубаючих, Колючих) стає 30%.
 
-trait-name-Mystic = Mystic
+trait-name-Mystic = Містик
 trait-description-Mystic =
-    You are trained in Mysticism instead of melee combat, reducing your melee capabilities but drastically increasing your psionic potential.
-    Your melee damage bonus for all Brute damage types (Blunt, Slash, Piercing) becomes 5%, but your Potentia gain is drastically increased.
+    Ви навчені Містицизму замість ближнього бою, що знижує ваші ближньобойні можливості, але різко підвищує ваш псионічний потенціал.
+    Ваш бонус ближньобойної шкоди для всіх типів Фізичних пошкоджень (Тупих, Рубаючих, Колючих) стає 5%, але ваш набір Потентії різко збільшений.
 
-trait-name-Singer = Singer
-trait-description-Singer = You are naturally capable of singing simple melodies with your voice.
+trait-name-Singer = Співак
+trait-description-Singer = Ви природно здатні співати прості мелодії своїм голосом.
 
-trait-name-LatentPsychic = Latent Psychic
+trait-name-LatentPsychic = Латентний Псіонік
 trait-description-LatentPsychic =
     Your mind and soul are open to the noosphere, allowing for use of Telepathy.
     Thus, you are eligible for potentially receiving psychic powers.
     It is possible that you may be hunted by otherworldly forces, so consider keeping your powers a secret.
 
-trait-name-PsionicInsulation = χ Waveform Misalignment
+trait-name-PsionicInsulation = χ Невідповідність Хвильової Форми
 trait-description-PsionicInsulation =
     You are a flesh automaton animated by neurotransmitters. Within your skull lies a
     1.5kg sack of meat pretending at sentience. By modern epistemiological theory, you aren't even a sophont.
     The good news is that you are immune to most positive and negative effects of psychic powers.
     There may be other consequences to this malady.
 
-trait-name-NaturalTelepath = Natural Telepath
+trait-name-NaturalTelepath = Природний телепат
 trait-description-NaturalTelepath =
-    As a naturally occuring Telepath, you are capable of fluent telepathic communication, regardless of
-    whether or not you possess any notable psychic powers. This offers all of the same benefits and
-    drawbacks of Latent Psychic, except that you are guaranteed to start with full Telepathy. You may
-    still gain powers as normal for a Latent Psychic.
+    Як природно народжений Телепат, ви здатні до вільної телепатичної комунікації, незалежно від
+    того, чи володієте ви якимись помітними псионічними здібностями. Це пропонує всі ті самі переваги та
+    недоліки, що й Прихована Псионіка, за винятком того, що ви гарантовано починаєте з повної Телепатії. Ви все ще
+    можете отримувати здібності, як звичайно для Прихованої Псионіки.
 
-trait-name-TrapAvoider = Trap Avoider
+trait-name-TrapAvoider = Уникач пасток
 trait-description-TrapAvoider =
-    You possess a preturnatural sense of traps, and will unconsciously avoid them. You will never trigger
-    floor traps, such as land mines, tripwires, mouse traps(If you're small enough), etc.
+    Ви володієте надприродним відчуттям пасток і несвідомо уникатимете їх. Ви ніколи не активуєте
+    пастки на підлозі, такі як протипіхотні міни, пастки, мишоловки (якщо ви достатньо малі) тощо.
 
-trait-name-AnomalousPositronics = Anomalous Positronics
+trait-name-AnomalousPositronics = Аномальні позитроніка
 trait-description-AnomalousPositronics =
-    Whether by intentional design from the manufacturer, black market modifications, or accidental omission,
-    your positronic brain lacks its standard psionic insulation. As a being that can be argued to have a soul,
-    this by extension means that it is possible for you to be influenced by the Noosphere.
+    Чи через навмисний задум виробника, чорноринкові модифікації, або випадкове упущення,
+    ваш позитронний мозок позбавлений стандартної псионічної ізоляції. Як істота, яку можна вважати такою, що має душу,
+    це, у свою чергу, означає, що можливо, щоб на вас впливала Ноосфера.
 
-trait-name-Photophobia = Photophobia
+trait-name-Photophobia = Світлобоязнь
 trait-description-Photophobia =
-    Your eyes are extremely sensitive to bright lights.
-    As a result, you may be blinded for a greater duration than others when exposed to sudden flashes of light.
-    Your eyes are also more likely to be injured by flashes.
+    Ваші очі надзвичайно чутливі до яскравого світла.
+    Як наслідок, ви можете бути осліплені на більший термін, ніж інші, при впливі раптових спалахів світла.
+    Ваші очі також більш схильні до пошкоджень від спалахів.
 
-trait-name-Clumsy = Clumsy
+trait-name-Clumsy = Неспорядність
 trait-description-Clumsy =
-    You have a severe deficiency in hand-eye-coordination, resulting in an inability to do some things that others would take for granted.
-    Any weapons you may try to use are more likely to injure yourself than others. You are unable to climb any objects without injuring yourself.
+    Ви маєте серйозний дефіцит координації рук та очей, що призводить до нездатності робити деякі речі, які інші вважали б за належне.
+    Будь-яка зброя, яку ви спробуєте використати, з більшою ймовірністю зашкодить вам самому, ніж іншим. Ви не здатні залазити на будь-які об'єкти, не поранившись.
 
-trait-name-Small = Small
+trait-name-Small = Малий
 trait-description-Small =
-    You are much smaller than a typical person, and can climb into spaces others would not normally be able to fit into, such as duffel bags.
-    This trait does not in any way modify your character's size, it merely requires that your character be at most the size of a standard Tajaran.
+    Ви набагато менші за звичайну людину і можете залазити в простори, куди інші зазвичай не помістяться, наприклад, у сумки.
+    Ця особливість ніяк не змінює розмір вашого персонажа, вона лише вимагає, щоб ваш персонаж був не більшим за стандартного Таяраніна.
 
-trait-name-TemperatureTolerance = Temperature Tolerance
+trait-name-TemperatureTolerance = Термостійкість
 trait-description-TemperatureTolerance =
-    You have a notable tolerance for lower temperatures. You can stand for extended periods of time
-    in conditions just slightly below freezing, such as the inside of a kitchen fridge,
-    or the sunlit mountainside of the famous Glacier station.
+    Ви маєте помітну стійкість до нижчих температур. Ви можете тривалий час стояти
+    в умовах, трохи нижчих за точку замерзання, наприклад, всередині кухонного холодильника,
+    або на сонячному гірському схилі знаменитої станції Льодовик.
 
-trait-name-Talons = Talons
+trait-name-Talons = Пазурі
 trait-description-Talons =
-    Your fingertips have been replaced with piercing talons.
-    These could come from gene modifications, vatgrown implants,
-    or even hard plastic retractable talons incorpoated into a prosthetic limb.
-    Your unarmed melee attacks deal Piercing damage instead of the standard damage type for your species.
-    This has no effect on damage dealt with any form of armed melee.
+    Ваші кінчики пальців замінено на колючі пазурі.
+    Вони можуть походити від генних модифікацій, ватних імплантатів,
+    або навіть твердих пластикових висувних пазурів, вбудованих у протез кінцівки.
+    Ваші беззбройні ближньобойні атаки завдають Колючих пошкоджень замість стандартного типу шкоди для вашого виду.
+    Це не впливає на шкоду, завдану будь-якою формою озброєної ближньої боротьби.
 
-trait-name-Claws = Claws
+trait-name-Claws = Кігті
 trait-description-Claws =
-    Your fingertips have been replaced with sharp claws.
-    These could come from gene modifications, vatgrown implants,
-    or even hard plastic retractable claws incorpoated into a prosthetic limb.
-    Your unarmed melee attacks deal Slashing damage instead of the standard damage type for your species.
-    This has no effect on damage dealt with any form of armed melee.
+    Ваші кінчики пальців замінено на гострі кігті.
+    Вони можуть походити від генних модифікацій, ватних імплантатів,
+    або навіть твердих пластикових висувних кігтів, вбудованих у протез кінцівки.
+    Ваші беззбройні ближньобойні атаки завдають Рубаючих пошкоджень замість стандартного типу шкоди для вашого виду.
+    Це не впливає на шкоду, завдану будь-якою формою озброєної ближньої боротьби.
 
-trait-name-NaturalWeaponRemoval = Natural Weapons Removal
+trait-name-NaturalWeaponRemoval = Видалення природної зброї
 trait-description-NaturalWeaponRemoval =
-    Whatever "Natural Weapons" your species are normally born with have been surgically removed.
-    This could have been done to better fit in with terran space stations, or as a cosmetic choice.
-    As a result, your unarmed attacks deal Blunt damage instead of the standard damage type for your species.
-    This has no effect on damage dealt with any form of armed melee.
+    Які б "Природні Зброї" ваш вид зазвичай не мав від народження, були хірургічно видалені.
+    Це могло бути зроблено, щоб краще вписатися на теранські космічні станції, або з косметичних міркувань.
+    Як наслідок, ваші беззбройні атаки завдають Тупі пошкодження замість стандартного типу шкоди для вашого виду.
+    Це не впливає на шкоду, завдану будь-якою формою озброєної ближньої боротьби.
 
-trait-name-StrikingCalluses = Striking Calluses
+trait-name-StrikingCalluses = Мозолі для ударів
 trait-description-StrikingCalluses =
-    An iconic enhancement commonly found in the world of cyberenhanced martial arts.
-    Striking Calluses consist of bony dermal deposits grafted into a user's hands, either inside the palm
-    for "Tiger Style" fighting, or just below the knuckles for those who favor traditional boxing.
-    Owners of prosthetic or bionic limbs would instead have a hard plastic shell over their knuckles.
-    These enhancements increase your unarmed strike damage by 1 point base, but do not confer
-    any benefits to any form of armed melee.
+    Знакова модифікація, яку зазвичай зустрічають у світі кібер-бойових мистецтв.
+    Мозолі для ударів складаються з кісткових шкірних відкладень, прищеплених до рук користувача, або всередині долоні
+    для бою у "стилі тигра", або прямо під суглобами для тих, хто віддає перевагу традиційному боксу.
+    Власники протезів або біонічних кінцівок замість цього мали б тверду пластикову оболонку над суглобами.
+    Ці покращення збільшують базову шкоду вашого беззбройного удару на 1 очко, але не дають
+    жодних переваг для будь-якої форми озброєної ближньої боротьби.
 
-trait-name-Spinarette = Bionic Spinarette
+trait-name-Spinarette = Біонічна прядильна залоза
 trait-description-Spinarette =
-    This vatgrown organ-- trademarked and patented by the Cybersun Corporation, is marketed as a highly
-    utilitarian enhancement, and sold in clinics all across known space. It consists of a nodule that is traditionally
-    implanted right below the wrist, which absorbs bodily lipids to convert into all natural silk. A small opening
-    in the palm allows the user to 'spin' this thread. Users of this enhancement typically require twice as much food
-    as a standard Sol Human, owing to the high metabolic cost of artificial Sericulture.
+    Цей ватний орган - зареєстрований торговельний знак і патентований корпорацією Cybersun, продається як високо
+    утилітарне покращення і продається у клініках по всьому відомому космосу. Він складається з вузла, який традиційно
+    імплантується прямо під зап'ястям, який поглинає ліпіди тіла для перетворення на натуральний шовк. Невеликий отвір
+    на долоні дозволяє користувачу "прясти" цю нитку. Користувачам цього покращення зазвичай потрібно вдвічі більше їжі
+    ніж стандартному Сол Людинові, через високу метаболічну вартість штучного шовківництва.
 
-trait-name-AddictionNicotine = Nicotine Addiction
+trait-name-AddictionNicotine = Залежність від нікотину
 trait-description-AddictionNicotine =
-    You have an addiction to Nicotine, and will require frequent smoke breaks to keep your mood in check.
+    У вас залежність від Нікотину, і вам знадобляться часті перекури, щоб тримати свій настрій під контролем.
 
-trait-name-AnimalFriend = Animal Friend
+trait-name-AnimalFriend = Друг тварин
 trait-description-AnimalFriend =
-    You have a way with animals. You will never be attacked by animals, unless you attack them first.
+    У вас є зв'язок з тваринами. На вас ніколи не нападуть тварини, якщо ви не нападете на них першими.
 
-trait-name-Liar = Pathological liar
-trait-description-Liar = You can hardly bring yourself to tell the truth. Sometimes you lie anyway.
+trait-name-Liar = Патологічний брехун
+trait-description-Liar = Ви ледь можете змусити себе сказати правду. Іноді ви все одно брешете.
 
-trait-name-ValyrianStandard = Valyrian Standard
+trait-name-ValyrianStandard = Валіріан Стандарт
 trait-description-ValyrianStandard =
-    A language descended from eastern european languages of old earth - Valyrian Standard is the commonly spoken tongue of Harpies brought up on their homeworld of Valyrian 4b
-    It is rarely spoken outside of the worlds of its native speakers, and has in modern times been supplanted by the 'Conlangs of the Sol Alliance.
-    Its speakers are those who wish to uphold the traditions and beliefs of ancient peoples from before the colonial era.
+    Мова, що походить від східноєвропейських мов старої землі - Валірійський стандарт є загальновживаною мовою Гарпій, вихованих на їхній рідній планеті Валірії 4b.
+    Рідко вживається поза світами її носіїв, і в сучасні часи була витіснена "штучними мовами" Союзу Сол.
+    Її носії - це ті, хто бажає підтримувати традиції та вірування древніх народів з доколоніальної епохи.
 
-trait-name-LowPotential = Low Psi-Potential
+trait-name-LowPotential = Низький Псі-Потенціал
 trait-description-LowPotential =
-    You possess an unusually weak connection to the noösphere, which makes it more difficult to obtain new psionic powers.
+    Ви маєте незвично слабкий зв'язок із ноосферою, що ускладнює отримання нових псионічних здібностей.
 
-trait-name-HighPotential = High Psi-Potential
+trait-name-HighPotential = Високий Псі-Потенціал
 trait-description-HighPotential =
-    Your connection to the noösphere is greater than average, making it easier to obtain new psionic powers.
+    Ваш зв'язок із ноосферою вищий за середній, що полегшує отримання нових псионічних здібностей.
 
-trait-name-LowAmplification = kα Deficiency
+trait-name-LowAmplification = Дефіцит kα
 trait-description-LowAmplification =
-    Your psionic abilities are noticeably weaker than ones used by other psions.
+    Ваші псионічні здібності помітно слабші, ніж ті, що використовують інші псиони.
 
-trait-name-HighAmplification = kα Abundance
+trait-name-HighAmplification = Надлишок kα
 trait-description-HighAmplification =
-    Your psionic abilities are stronger than those of other psions.
+    Ваші псионічні здібності сильніші, ніж у інших псионів.
 
-trait-name-PowerOverwhelming = Power Overwhelming
+trait-name-PowerOverwhelming = Всепоглинаюча Сила
 trait-description-PowerOverwhelming =
-    WITNESS MY HATE MORTALS, COWER BEFORE MY PSIONIC MIGHT! REALITY IS AS I DEEM IT.
+    СВІДЧІТЬ МОЮ НЕНАВИСТЬ СМЕРТНІ, ТРЕМТІТЬ ПЕРЕД МОЄЮ ПСИОНІЧНОЮ МОГОЮ! РЕАЛЬНІСТЬ ТАКА, ЯКОЮ Я ЇЇ ВИЗНАЧУ.
 
-trait-name-LowDampening = kδ Defect
+trait-name-LowDampening = Дефект kδ
 trait-description-LowDampening =
-    Your skill in manipulating the noösphere is weaker than others. You may experience unintended effects from using your abilities.
+    Ваша майстерність у маніпулюванні ноосферою слабша, ніж у інших. Ви можете відчувати небажані ефекти від використання ваших здібностей.
 
-trait-name-HighDampening = kδ Proficient
+trait-name-HighDampening = Профіцієнтність kδ
 trait-description-HighDampening =
-    You are skilled in the art of subtly manipulating the noösphere. Your powers are less likely to show unintended effects.
+    Ви вправні в мистецтві тонкого маніпулювання ноосферою. Ваші здібності з меншою ймовірністю виявлять небажані ефекти.
 
-trait-name-Azaziba = Sinta'Azaziba
+trait-name-Azaziba = Сінта'Азазіба
 trait-description-Azaziba =
-    A language of Moghes consisting of a combination of spoken word and gesticulation.
-    While waning since Moghes entered the galactic stage - it enjoys popular use by Unathi that never fell to the Hegemony's cultural dominance.
+    Мова Могхеса, що складається з комбінації усного слова та жестикуляції.
+    Хоча вона занепадає з того часу, як Могхес вийшов на галактичну арену, вона користується популярністю серед Унатхів, які ніколи не підпали під культурне панування Гегемонії.
 
-trait-name-BionicArm = Bionic Arm
+trait-name-BionicArm = Біонічна рука
 trait-description-BionicArm =
-    One or more of your limbs have been replaced with an expensive, state of the art bionic. It could be either one made of highly realistic synthflesh,
-    or a more obvious metal limb. This limb provides enhanced strength to its user, allowing one to pry open barriers with their bare hands.
+    Одна або більше ваших кінцівок замінено дорогим, сучасним біоніком. Це може бути як кінцівка з високореалістичного синтезу,
+    так і більш очевидна металева кінцівка. Ця кінцівка надає посилену силу своєму користувачеві, дозволяючи одним рукам відкривати перешкоди.
 
-trait-name-PlateletFactories = Platelet Factories
+trait-name-PlateletFactories = Фабрики тромбоцитів
 trait-description-PlateletFactories =
-    Your body has been augmented with a series of biotailored organs that enhance the owner's long term survivability. These organs will attempt
-    to keep the user alive, even in the face of advanced trauma, all the way up until - but not including - death.
-    Your natural healing is no longer capped, and will now slowly heal any damage type. This includes more exotic injuries like radiation exposure, or cancer.
+    Ваше тіло було покращено серією біотехнологічних органів, які підвищують довгострокову життєздатність власника. Ці органи спробують
+    тримати користувача живим, навіть перед обличчям серйозної травми, аж до - але не включаючи - смерті.
+    Ваше природне лікування більше не обмежене і тепер повільно лікуватиме будь-який тип пошкоджень. Це включає більш екзотичні травми, як-от опромінення або рак.
 
-trait-name-DermalArmor = Subdermal Armor
+trait-name-DermalArmor = Підшкірна броня
 trait-description-DermalArmor =
-    Your skin contains an array of nanoweave layers embedded beneath the surface, engineered as a cost-effective solution for integrated protection that maintains full flexibility.
-    This augmentation provides 1.5 points of flat reduction from all physical damage.
+    Ваша шкіра містить ряд нановелетонів, вбудованих під поверхнею, розроблених як економічно ефективне рішення для інтегрованого захисту, яке зберігає повну гнучкість.
+    Це покращення надає 1.5 очка плоского зниження від усіх фізичних пошкоджень.
 
-trait-name-HeavyDermalArmor = Heavy Subdermal Armor
+trait-name-HeavyDermalArmor = Важка підшкірна броня
 trait-description-HeavyDermalArmor =
-    Your skin contains an advanced composite lattice embedded beneath the surface, engineered to reduce physical trauma to the body without compromising flexibility.
-    This augmentation provides 3 points of flat reduction from all physical damage.
+    Ваша шкіра містить просунуту композитну решітку, вбудовану під поверхнею, розроблену для зменшення фізичної травми тіла без компромісу гнучкості.
+    Це покращення надає 3 очки плоского зниження від усіх фізичних пошкоджень.
 
-trait-name-CyberEyes = Cyber-Eyes Basic System
+trait-name-CyberEyes = Базова система кібер-очей
 trait-description-CyberEyes =
-    One or more of your eyes have been replaced with modular cybernetic optical implants.
-    Their most basic functionality is to ameliorate weaknesses in the wearer's natural eyes.
-    The functionality of these implants can be extended with a variety of commercially available upgrades.
+    Один або більше ваших очей замінено модульними кібернетичними оптичними імплантами.
+    Їхня найбазованіша функціональність - виправляти недоліки природних очей власника.
+    Функціональність цих імплантатів може бути розширена різноманітними комерційно доступними оновленнями.
 
-trait-name-FlareShielding = Cyber-Eyes: Eye Damage Resistance
+trait-name-FlareShielding = Кібер-очі: Стійкість до пошкодження очей
 trait-description-FlareShielding =
-    Your Cyber-Eyes have been upgraded with a set of photochromic lenses that automatically darken in response to intense light.
-    This helps prevent optical damage caused by events such as exposure to welding arcs.
+    Ваші Кібер-Очі були оновлені набором фотохромних лінз, які автоматично затемнюються у відповідь на інтенсивне світло.
+    Це допомагає запобігти оптичним пошкодженням, викликаним такими подіями, як вплив зварювальних дуг.
 
-trait-name-CyberEyesSecurity = Cyber-Eyes: Integrated Security HUD
+trait-name-CyberEyesSecurity = Кібер-очі: Вбудований HUD безпеки
 trait-description-CyberEyesSecurity =
-    Your Cyber-Eyes have been upgraded to include an integrated Security HUD.
-    Note that this type of optical augmentation is considered Contraband for anyone not under the employ of station Security personnel,
-    and may be disabled by your employer before dispatch to the station.
+    Ваші Кібер-Очі були оновлені, щоб включати інтегрований Інтерфейс Безпеки.
+    Зауважте, що цей тип оптичного покращення вважається Контрабандою для будь-кого, хто не працює в персоналі Безпеки станції,
+    і може бути вимкненим вашим роботодавцем перед відправкою на станцію.
 
-trait-name-CyberEyesMedical = Cyber-Eyes: Integrated Medical HUD
+trait-name-CyberEyesMedical = Кібер-очі: Вбудований медичний HUD
 trait-description-CyberEyesMedical =
-    Your Cyber-Eyes have been upgraded to include an integrated Medical HUD, allowing you to monitor the relative health condition of biological organisms.
+    Ваші Кібер-Очі були оновлені, щоб включати інтегрований Медичний Інтерфейс, дозволяючи вам моніторити відносний стан здоров'я біологічних організмів.
 
-trait-name-CyberEyesDiagnostic = Cyber-Eyes: Integrated Diagnostics HUD
+trait-name-CyberEyesDiagnostic = Кібер-очі: Вбудований діагностичний HUD
 trait-description-CyberEyesDiagnostic =
-    Your Cyber-Eyes have been upgraded to include an integrated Diagnostic HUD, allowing you to monitor the overall structural integrity of synthetic entities.
+    Ваші Кібер-Очі були оновлені, щоб включати інтегрований Діагностичний Інтерфейс, дозволяючи вам моніторити загальну структурну цілісність синтетичних сутностей.
 
-trait-name-CyberEyesOmni = Cyber-Eyes: Premium Suite Module
+trait-name-CyberEyesOmni = Кібер-очі: Преміум-модуль
 trait-description-CyberEyesOmni =
-    Your Cyber-Eyes have been extensively upgraded to provide the combined benefits of an integrated Security HUD, Medical HUD, and a Diagnostics HUD.
-    Note that this type of optical augmentation is considered Contraband for anyone not under the employ of station Security personnel,
-    and may be disabled by your employer before dispatch to the station.
+    Ваші Кібер-Очі були значно оновлені, щоб надавати комбіновані переваги інтегрованого Інтерфейсу Безпеки, Медичного Інтерфейсу та Діагностичного Інтерфейсу.
+    Зауважте, що цей тип оптичного покращення вважається Контрабандою для будь-кого, хто не працює в персоналі Безпеки станції,
+    і може бути вимкненим вашим роботодавцем перед відправкою на станцію.
 
-trait-name-DispelPower = Normality Projection
+trait-name-DispelPower = Проєкція Нормальності
 trait-description-DispelPower =
-    Your Mentalic abilities include the power to enforce normality upon Noospheric phenomena.
-    This power, commonly known as "Dispel", allows the user to destroy otherworldly entities with their mind,
-    or to immediately end psychic effects.
+    Ваші Менталічні здібності включають силу нав'язування нормальності Ноосферним явищам.
+    Ця сила, зазвичай відома як "Розсіювання", дозволяє користувачеві знищувати потойбічні сутності розумом,
+    або негайно припиняти псионічні ефекти.
 
-trait-name-MetapsionicPower = Metapsion
+trait-name-MetapsionicPower = Метапсіон
 trait-description-MetapsionicPower =
-    You are able to intuitively sense the activation of psionic abilities, as well as send out a 'scanning' pulse
-    to detect whether or not psions are nearby. This ability has a wide area of effect, and cannot precisely
-    scan individual entities. Still, it is better than being blind.
+    Ви здатні інтуїтивно відчувати активацію псионічних здібностей, а також відправляти "скануючий" імпульс
+    для виявлення того, чи псиони поряд. Ця здатність має широку область дії і не може точно
+    сканувати окремі сутності. Все ж таки, це краще, ніж бути сліпим.
 
-trait-name-XenoglossyPower = Xenoglossy
+trait-name-XenoglossyPower = Ксеноглосія
 trait-description-XenoglossyPower =
-    An advanced form of Telepathy, Xenoglossy is the ability to speak using emotional and metaphysical concepts,
-    rather than words, to impart meaning directly into the minds of a listener. When speaking using Xenoglossy, a psion can be
-    universally understood by any entity, who will hear the words as if spoken in one's own native tongue. Additionally,
-    Xenoglossy grants the ability to divine the underlying emotional meaning from the minds of other speakers,
-    allowing its user to understand any spoken language as if it was the user's own native tongue.
+    Розширена форма Телепатії, Ксеноглосія - це здатність говорити, використовуючи емоційні та метафізичні концепції,
+    замість слів, щоб вкладати значення безпосередньо в розум слухача. Коли розмовляють, використовуючи Ксеноглосію, псион може бути
+    універсально зрозумілим будь-якою сутністю, яка почує слова так, ніби вони вимовлені рідною мовою. Крім того,
+    Ксеноглосія надає здатність вгадувати основне емоційне значення з розуму інших мовців,
+    дозволяючи її користувачеві розуміти будь-яку розмовну мову так, ніби це була його власна рідна мова.
 
-trait-name-PsychognomyPower = Psychognomist
+trait-name-PsychognomyPower = Психогноміст
 trait-description-PsychognomyPower =
-    A special talent derived from Telepathy, Psychognomy is the ability to read the underlying imprint of telepathic messages.
-    A Psychognomist can glean additional information from their telepathy, seeing vague outlines of what the source of a message
-    might be. This information is not precise, and is largely only useful for narrowing down who the source of a message might be.
+    Особливий талант, що походить від Телепатії, Психогномія - це здатність читати основний відбиток телепатичних повідомлень.
+    Психогноміст може отримати додаткову інформацію зі своєї телепатії, бачачи нечіткі контури того, чим може бути джерело повідомлення.
+    Ця інформація не точна і в основному корисна лише для звуження кола того, хто може бути джерелом повідомлення.
 
-trait-name-Redshirt = Redshirt
+trait-name-Redshirt = Червоносорочечник
 trait-description-Redshirt =
-    They said this air would be breathable.
-    Get in, get out again, and no one gets hurt.
-    Something is pulling me up the hill.
-    I look down in my red shirt.
-    I look down in my red shirt.
-    This trait reduces your death threshold by 100. This means you likely WILL NOT have a critical state.
+    Вони сказали, що це повітря буде диханим.
+    Заходь, виходь знову, і ніхто не постраждає.
+    Щось тягне мене вгору на пагорб.
+    Я дивлюсь вниз у свою червону сорочку.
+    Я дивлюсь вниз у свою червону сорочку.
+    Ця особливість знижує ваш поріг смерті на 100. Це означає, що у вас, швидше за все, НЕ БУДЕ критичного стану.
 
-trait-name-BrittleBoneDisease = Osteogenesis Imperfecta
-trait-description-BrittleBoneDisease =
-    Also known as "brittle bone disease", people with this genetic disorder have bones that are easily broken,
-    often simply by moving. This trait reduces your threshold for critical injury by 50 points.
+trait-name-BrittleBoneDisease = Недосконалий остеогенез
+trait-description-BrittleBoneDisease = 
+    Також відома як "хвороба крихких кісток", люди з цим генетичним розладом мають кістки, які легко ламаються,
+    часто просто від руху. Ця особливість зменшує ваш поріг критичної травми на 50 пунктів.
 
-trait-name-LightAmplification = Cyber-Eyes Module: Light Amplification
+trait-name-LightAmplification = Модуль кібер-очей: Підсилення світла
 trait-description-LightAmplification =
-    Your Cyber-Eyes have been upgraded with a toggleable image intensifier, which enhances ambient visible light and converts near-infrared light into visible light.
-    This results in better night vision but comes at the cost of being vulnerable to bright flashes of light due to the lack of automatic gain control.
+    Ваші Кібер-Очі були оновлені перемикачем підсилювача зображення, який посилює навколишнє видиме світло і перетворює ближнє інфрачервоне світло на видиме світло.
+    Це призводить до кращого нічного зору, але має наслідком уразливість до яскравих спалахів світла через відсутність автоматичного контролю посилення.
 
-trait-name-ThermographicVision = Cyber-Eyes Module: Thermographic Scanner
+trait-name-ThermographicVision = Модуль кібер-очей: Термографічний сканер
 trait-description-ThermographicVision =
-    Your Cyber-Eyes have been enhanced with a Thermographic Scanner. When enabled, it captures a snapshot of the user's surroundings, while highlighting all
-    biological life forms. It can even detect individuals through the walls of a station.
+    Ваші Кібер-Очі були покращені Термографічним Сканером. Коли ввімкнено, він робить знімок оточення користувача, одночасно виділяючи всі
+    біологічні форми життя. Він може навіть виявляти осіб крізь стінки станції.
 
-trait-name-BionicLeg = Bionic Legs
+trait-name-BionicLeg = Біонічні ноги
 trait-description-BionicLeg =
-    One or more of your limbs have been replaced with an expensive, state of the art bionic. It could be either one made of highly realistic synthflesh,
-    or a more obvious metal limb. This limb provides enhanced speed to it's user, allowing you to run away from situations faster or get to a place faster.
+    Одна або більше ваших кінцівок замінено дорогим, сучасним біоніком. Це може бути як кінцівка з високореалістичного синтезу,
+    так і більш очевидна металева кінцівка. Ця кінцівка надає посилену швидкість своєму користувачеві, дозволяючи вам швидше тікати від ситуацій або швидше дістатися до місця.
 
-trait-name-BionicPryArm = Prybar Prosthetics
+trait-name-BionicPryArm = Важільні протези
 trait-description-BionicPryArm =
-    Your arms have been reinforced with steel and hydraulics. You can force your way out of some unpleasant situations.
-    This trait gives you cybernetic DX-1 Pryarms, which let you pry open unpowered doors easily.
-    (They essentially function like a crowbar)
+    Ваші руки були посилені сталевими та гідравлічними системами. Ви можете пробивати собі шлях з деяких неприємних ситуацій.
+    Ця особливість надає вам кібернетичні DX-1 Пріроми, які дозволяють легко відкривати незабезпечені енергією двері.
+    (Вони по суті функціонують як лом)

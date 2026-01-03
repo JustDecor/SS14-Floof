@@ -1,55 +1,55 @@
 # chatterboy !
-bark-chatterboySpeak-1 = gonna drag Skunk Humper into ss14 so we can cuddle in an escape pod while the station burns to the ground
-bark-chatterboySpeak-2 = I will use the loufa and it will not be gentle
-bark-chatterboySpeak-3 = I will use the loufa and it will be very gentle
-bark-chatterboySpeak-4 = I will use the loufa and it will be very gentle and then I will eat the loufa
-bark-chatterboySpeak-5 = soooo I gave up to go flop and play something else
-bark-chatterboySpeak-6 = I agreed to work an hour and a half overtime the rest of the week because I'm an idiot
-bark-chatterboySpeak-7 = i dont get it
-bark-chatterboySpeak-8 = I don't get it and I don't want to get it
+bark-chatterboySpeak-1 = затягну Skunk Humper в ss14, щоб ми могли обійматися в евакуаційній капсулі, поки станція горить
+bark-chatterboySpeak-2 = Я використаю мочалку, і це не буде м'яко
+bark-chatterboySpeak-3 = Я використаю люфу, і це буде дуже ніжно
+bark-chatterboySpeak-4 = Я використаю люфу, і це буде дуже ніжно, а потім я з'їм люфу
+bark-chatterboySpeak-5 = тооооож я здався грати в флоп і грати в щось інше
+bark-chatterboySpeak-6 = Я погодився попрацювати півтори години понаднормово решту тижня, тому що я ідіот
+bark-chatterboySpeak-7 = я не розумію
+bark-chatterboySpeak-8 = Я не розумію, і не хочу розуміти
 bark-chatterboySpeak-count = 8
 
 # chatterboy ! but this time its emotes!
-bark-chatterboyEmote-1 = flies in ur window and makes a mess of ur pots and pans
-bark-chatterboyEmote-2 = shatters into a thousand pieces!! wow!
-bark-chatterboyEmote-3 = calls your mom and tells her you are a loser
-bark-chatterboyEmote-4 = whines about how you never take him out to dinner
-bark-chatterboyEmote-5 = throws a tantrum and breaks all your stuff
-bark-chatterboyEmote-6 = cries in your socks
-bark-chatterboyEmote-7 = eats your lunch and then throws up on your shoes
-bark-chatterboyEmote-8 = dates your blender and then breaks up with it for your toaster
+bark-chatterboyEmote-1 = влітає у твоє вікно та робить безлад з твоїх каструль та сковорідок
+bark-chatterboyEmote-2 = розбивається на тисячу шматків!! вау!
+bark-chatterboyEmote-3 = телефонує вашій мамі і каже їй, що ви невдаха
+bark-chatterboyEmote-4 = скаржиться, що ви ніколи не водите його на вечерю
+bark-chatterboyEmote-5 = закочує істерику і ламає всі ваші речі
+bark-chatterboyEmote-6 = плаче у ваших шкарпетках
+bark-chatterboyEmote-7 = з'їдає ваш обід, а потім блює на ваші черевики
+bark-chatterboyEmote-8 = зустрічається з вашим блендером, а потім кидає його заради вашого тостера
 bark-chatterboyEmote-count = 8
 
 # chatterboy ! but this time its subtles! (aka: ERP posting)
-bark-chatterboySubtle-1 = yarpzes skreet numthing into ur rear
-bark-chatterboySubtle-2 = caringulates ur rumbleback and changes ur batteries
-bark-chatterboySubtle-3 = thrunts a grungle bingus extra hardly
+bark-chatterboySubtle-1 = ярпзує скріт намтінґ у твій зад
+bark-chatterboySubtle-2 = каринґулює твій рамблбек та міняє твої батарейки
+bark-chatterboySubtle-3 = тхрунтає грунгле бінгус надто сильно
 bark-chatterboySubtle-4 = :)
 bark-chatterboySubtle-5 = :3
-bark-chatterboySubtle-6 = asphyxiates in the sweet sweet vaccum of u
-bark-chatterboySubtle-7 = hi mom
-bark-chatterboySubtle-8 = hi dad
+bark-chatterboySubtle-6 = задихається в солодкому солодкому вакуумі тебе
+bark-chatterboySubtle-7 = привіт мамо
+bark-chatterboySubtle-8 = привіт тату
 bark-chatterboySubtle-count = 8
 
 # chatterboy ! but this time its subtleOOC (aka: ERP posting but OOC)
-bark-chatterboySubtleOOC-1 = hey would you like to ERP with me? I promise I won't be weird about it
-bark-chatterboySubtleOOC-2 = bro i gave you antag objectives to vore me, do it or eat a ban =)
-bark-chatterboySubtleOOC-3 = I don't want to ERP with you, I just want to cuddle and watch cartoons
-bark-chatterboySubtleOOC-4 = yeah sure im into that, sounds fun
-bark-chatterboySubtleOOC-5 = hey did you get my post? I think BYOND ate it
-bark-chatterboySubtleOOC-6 = you still awake?
-bark-chatterboySubtleOOC-7 = hi mom
-bark-chatterboySubtleOOC-8 = hi dad
+bark-chatterboySubtleOOC-1 = гей, хочеш ERP зі мною? Обіцяю, я не буду дивним
+bark-chatterboySubtleOOC-2 = бро, я дав тобі антаг завдання зжерти мене, зроби це або отримай бан =)
+bark-chatterboySubtleOOC-3 = Я не хочу ЕРП з тобою, я просто хочу обійнятися і дивитися мультики
+bark-chatterboySubtleOOC-4 = так, звісно, мені це подобається, звучить весело
+bark-chatterboySubtleOOC-5 = гей, ти отримав мій пост? Думаю, BYOND з'їв його
+bark-chatterboySubtleOOC-6 = ти ще не спиш?
+bark-chatterboySubtleOOC-7 = привіт мамо
+bark-chatterboySubtleOOC-8 = привіт тату
 bark-chatterboySubtleOOC-count = 8
 
 # chatterboy ! but this time its whispers!
-bark-chatterboyWhisper-1 = pspspspppsssppps
-bark-chatterboyWhisper-2 = pssst psst psst
-bark-chatterboyWhisper-3 = pssst pssst pssst
-bark-chatterboyWhisper-4 = hwffhhfhhhf hwffhhfhhhf
-bark-chatterboyWhisper-5 = whisper whisper
-bark-chatterboyWhisper-6 = shhhhhh
-bark-chatterboyWhisper-7 = hfhfhfhfhfh
-bark-chatterboyWhisper-8 = hi mom
+bark-chatterboyWhisper-1 = псспсспппсссппппс
+bark-chatterboyWhisper-2 = пссст псст псст
+bark-chatterboyWhisper-3 = пссст пссст пссст
+bark-chatterboyWhisper-4 = хвффххфхххф хвффххфхххф
+bark-chatterboyWhisper-5 = шепіт шепіт
+bark-chatterboyWhisper-6 = тихооооо
+bark-chatterboyWhisper-7 = хфхфхфхфхфх
+bark-chatterboyWhisper-8 = привіт мамо
 bark-chatterboyWhisper-count = 8
 

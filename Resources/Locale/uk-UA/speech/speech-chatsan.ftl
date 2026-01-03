@@ -1,122 +1,122 @@
-chatsan-word-1 = omg
-chatsan-replacement-1 = oh my god
+chatsan-word-1 = пох
+chatsan-replacement-1 = начхати
 
-chatsan-word-2 = omfg
-chatsan-replacement-2 = oh my fucking god
+chatsan-word-2 = даун
+chatsan-replacement-2 = пришелепкуватий
 
-chatsan-word-3 = ong
-chatsan-replacement-3 = on god
+chatsan-word-3 = пж
+chatsan-replacement-3 = будь ласка
 
-chatsan-word-4 = wtf
-chatsan-replacement-4 = what the fuck
+chatsan-word-4 = аноми
+chatsan-replacement-4 = аномалії
 
-chatsan-word-5 = wth
-chatsan-replacement-5 = what the heck
+chatsan-word-5 = анома
+chatsan-replacement-5 = аномалія
 
-chatsan-word-6 = tf
-chatsan-replacement-6 = the fuck
+chatsan-word-6 = 6
+chatsan-replacement-6 = 6
 
-chatsan-word-7 = afaik
-chatsan-replacement-7 = as far as i know
+chatsan-word-7 = 7
+chatsan-replacement-7 = 7
 
-chatsan-word-8 = ik
-chatsan-replacement-8 = i know
+chatsan-word-8 = 8
+chatsan-replacement-8 = 8
 
-chatsan-word-9 = ikr
-chatsan-replacement-9 = i know, right
+chatsan-word-9 = 9
+chatsan-replacement-9 = 9
 
-chatsan-word-10 = idc
-chatsan-replacement-10 = i don't care
+chatsan-word-10 = 10
+chatsan-replacement-10 = 10
 
-chatsan-word-12 = tbh
-chatsan-replacement-12 = to be honest
+chatsan-word-12 = 12
+chatsan-replacement-12 = 12
 
-chatsan-word-13 = lmk
-chatsan-replacement-13 = let me know
+chatsan-word-13 = 13
+chatsan-replacement-13 = 13
 
-chatsan-word-14 = ur
-chatsan-replacement-14 = your
+chatsan-word-14 = 14
+chatsan-replacement-14 = 14
 
-chatsan-word-15 = ffs
-chatsan-replacement-15 = for fuck's sake
+chatsan-word-15 = 15
+chatsan-replacement-15 = 15
 
-chatsan-word-16 = iirc
-chatsan-replacement-16 = if i remember correctly
+chatsan-word-16 = 16
+chatsan-replacement-16 = 16
 
-chatsan-word-17 = np
-chatsan-replacement-17 = no problem
+chatsan-word-17 = 17
+chatsan-replacement-17 = 17
 
-chatsan-word-18 = omw
-chatsan-replacement-18 = on my way
+chatsan-word-18 = 18
+chatsan-replacement-18 = 18
 
-chatsan-word-19 = nvm
-chatsan-replacement-19 = nevermind
+chatsan-word-19 = 19
+chatsan-replacement-19 = 19
 
-chatsan-word-20 = imo
-chatsan-replacement-20 = in my opinion
+chatsan-word-20 = 20
+chatsan-replacement-20 = 20
 
-chatsan-word-21 = pls
-chatsan-word-22 = plz
-chatsan-word-23 = plox
-chatsan-replacement-please = please
+chatsan-word-21 = 21
+chatsan-word-22 = 21
+chatsan-word-23 = 21
+chatsan-replacement-please = 21
 
-chatsan-word-24 = fr
-chatsan-replacement-24 = for real
+chatsan-word-24 = 24
+chatsan-replacement-24 = 24
 
-chatsan-word-25 = brb
-chatsan-replacement-25 = be right back
+chatsan-word-25 = 25
+chatsan-replacement-25 = 25
 
-chatsan-word-26 = btw
-chatsan-replacement-26 = by the way
+chatsan-word-26 = 26
+chatsan-replacement-26 = 26
 
-chatsan-word-27 = jk
-chatsan-replacement-27 = just kidding
+chatsan-word-27 = 27
+chatsan-replacement-27 = 27
 
-chatsan-word-28 = thx
-chatsan-replacement-28 = thanks
+chatsan-word-28 = 28
+chatsan-replacement-28 = 28
 
-chatsan-word-29 = ty
-chatsan-replacement-29 = thank you
+chatsan-word-29 = 29
+chatsan-replacement-29 = 29
 
-chatsan-word-30 = afk
-chatsan-replacement-30 = ssd
+chatsan-word-30 = 30
+chatsan-replacement-30 = 30
 
-chatsan-word-31 = stfu
-chatsan-replacement-31 = shut the fuck up
+chatsan-word-31 = 31
+chatsan-replacement-31 = 31
 
-chatsan-word-32 = gtg
-chatsan-replacement-32 = got to go
+chatsan-word-32 = 32
+chatsan-replacement-32 = 32
 
-chatsan-word-33 = gl
-chatsan-replacement-33 = good luck
+chatsan-word-33 = 33
+chatsan-replacement-33 = 33
 
-chatsan-word-34 = hbu
-chatsan-replacement-34 = how about you
+chatsan-word-34 = 34
+chatsan-replacement-34 = 34
 
-chatsan-word-35 = hmu
-chatsan-replacement-35 = hit me up
+chatsan-word-35 = 35
+chatsan-replacement-35 = 35
 
-chatsan-word-36 = gtfo
-chatsan-replacement-36 = get the fuck out
+chatsan-word-36 = 36
+chatsan-replacement-36 = 36
 
-chatsan-word-37 = wdym
-chatsan-replacement-37 = what do you mean
+chatsan-word-37 = 37
+chatsan-replacement-37 = 37
 
-chatsan-word-38 = mf
-chatsan-replacement-38 = motherfucker
+chatsan-word-38 = 38
+chatsan-replacement-38 = 38
 
-chatsan-word-39 = etc
-chatsan-word-40 = etc.
-chatsan-replacement-etcetera = etcetera
+chatsan-word-39 = 40
+chatsan-word-40 = 40
+chatsan-replacement-etcetera = 40
 
-chatsan-word-41 = wyd
-chatsan-replacement-41 = what are you doing
+chatsan-word-41 = 41
+chatsan-replacement-41 = 41
 
-chatsan-word-42 = ofc
-chatsan-replacement-42 = of course
+chatsan-word-42 = 42
+chatsan-replacement-42 = 42
 
-chatsan-word-43 = ig
-chatsan-replacement-43 = i guess
+chatsan-word-43 = 43
+chatsan-replacement-43 = 43
 
-chatsan-word-44 = tbf
-chatsan-replacement-44 = to be fair
+chatsan-word-44 = 44
+chatsan-replacement-44 = 44

@@ -1,22 +1,22 @@
-paperwork-command-header = {"["}color=#009100]◥[bold]N[/bold]◣ [head=3][bold]Central Command[/bold][/head][/color]
+paperwork-command-header = {"["}color=#009100]◥[bold]N[/bold]◣ [head=3][bold]Центральне командування[/bold][/head][/color]
 paperwork-command-separator = {"["}color=#009100]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
-paperwork-command-emergency-personal-recovery =
+paperwork-command-emergency-personal-recovery = 
     { paperwork-command-header }
     { paperwork-command-separator }
-        {"["}bold]EMERGENCY PERSONAL RECOVERY[/bold]
+        {"["}bold]ЕКСТРЕНЕ ВІДШУКАННЯ ПЕРСОНАЛУ[/bold]
     { paperwork-command-separator }
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]CAPTAIN:[/bold]
-        {"["}bold]HEAD OF PERSONNEL:[/bold]
-        {"["}bold]HEAD OF SECURITY:[/bold]
-        {"["}bold]QUARTERMASTER:[/bold]
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]КАПІТАН:[/bold]
+        {"["}bold]ГЛАВА ПЕРСОНАЛУ:[/bold]
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ:[/bold]
+        {"["}bold]КВАРТИРМЕЙСТЕР:[/bold]
     { paperwork-command-separator }
-    Reason for Faxing Central Command:
-    Desired Response From Central Command:
-    Details of Missing person(s):
-    Last Known Local:
+    Причина звернення до Центрального командування:
+    Бажана відповідь від Центрального командування:
+    Деталі зниклої особи (осіб):
+    Останнє відоме місцезнаходження:
     { paperwork-command-separator }
 
     {"["}color=red]This document is not valid unless stamped by The Captain & least two of the required personnel.[/color]
@@ -27,21 +27,21 @@ paperwork-command-emergency-personal-recovery =
     {"["}bold]COMMAND MEMBER'S SIGNATURE:[/bold]
     {"["}bold]COMMAND MEMBER'S SIGNATURE:[/bold]
 
-paperwork-command-station-request-for-assistance =
+paperwork-command-station-request-for-assistance = 
     { paperwork-command-header }
     { paperwork-command-separator }
-        {"["}bold]STATION REQUEST FOR ASSISTANCE[/bold]
+        {"["}bold]ЗАПИТ СТАНЦІЇ НА ДОПОМОГУ[/bold]
     { paperwork-command-separator }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]CAPTAIN:[/bold]
-        {"["}bold]HEAD OF PERSONNEL:[/bold]
-        {"["}bold]HEAD OF SECURITY:[/bold]
-        {"["}bold]CHIEF ENGINEER:[/bold]
-        {"["}bold]CHIEF MEDICAL OFFICER:[/bold]
-        {"["}bold]QUARTERMASTER:[/bold]
-        {"["}bold]RESEARCH DIRECTOR:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]КАПІТАН:[/bold]
+        {"["}bold]ГЛАВА ПЕРСОНАЛУ:[/bold]
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ:[/bold]
+        {"["}bold]ГОЛОВНИЙ ІНЖЕНЕР:[/bold]
+        {"["}bold]ГОЛОВНИЙ ЛІКАР:[/bold]
+        {"["}bold]КВАРТИРМЕЙСТЕР:[/bold]
+        {"["}bold]ДИРЕКТОР ДОСЛІДЖЕНЬ:[/bold]
     { paperwork-command-separator }
 
     Reason for Faxing Central Command:

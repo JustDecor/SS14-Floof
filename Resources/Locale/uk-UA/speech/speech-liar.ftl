@@ -1,132 +1,136 @@
-liar-word-1 = yes
-liar-word-replacement-1 = no
+liar-word-1 = так
+liar-word-replacement-1 = ні
 
-liar-word-2 = no
-liar-word-replacement-2 = yes
+liar-word-2 = ні
+liar-word-replacement-2 = так
 
-liar-word-3 = yeah
-liar-word-replacement-3 = nah
+liar-word-3 = ага
+liar-word-replacement-3 = ні
 
-liar-word-4 = nah
-liar-word-replacement-4 = yeah
+liar-word-4 = ні
+liar-word-replacement-4 = ага
 
-liar-word-5 = yep
-liar-word-replacement-5 = nope
+liar-word-5 = звісно
+liar-word-replacement-5 = ні
 
-liar-word-6 = nope
-liar-word-replacement-6 = yep
+liar-word-6 = був
+liar-word-replacement-6 = не був
 
-liar-word-7 = sure
-liar-word-replacement-7 = nah
+liar-word-7 = не був
+liar-word-replacement-7 = був
 
-liar-word-8 = was
-liar-word-replacement-8 = wasnt
+liar-word-8 = є
+liar-word-replacement-8 = немає
 
-liar-word-9 = wasnt
-liar-word-replacement-9 = was
+liar-word-9 = буде
+liar-word-replacement-9 = не буде
 
-liar-word-10 = was
-liar-word-replacement-10 = wasnt
+liar-word-10 = не буде
+liar-word-replacement-10 = буде
 
-liar-word-11 = is
-liar-word-replacement-11 = isnt
+liar-word-11 = можу
+liar-word-replacement-11 = не можу
 
-liar-word-12 = will
-liar-word-replacement-12 = wont
+liar-word-12 = не можу
+liar-word-replacement-12 = можу
 
-liar-word-13 = dont
-liar-word-replacement-13 = ""
+liar-word-13 = повинен
+liar-word-replacement-13 = не повинен
 
-liar-word-14 = can
-liar-word-replacement-14 = cant
+liar-word-14 = живий
+liar-word-replacement-14 = мертвий
 
-liar-word-15 = cant
-liar-word-replacement-15 = can
+liar-word-15 = мертвий
+liar-word-replacement-15 = живий
 
-liar-word-16 = should
-liar-word-replacement-16 = shouldnt
+liar-word-16 = робить
+liar-word-replacement-16 = не робить
 
-liar-word-17 = dead
-liar-word-replacement-17 = alive
+liar-word-17 = зробив
+liar-word-replacement-17 = не зробив
 
-liar-word-18 = alive
-liar-word-replacement-18 = dead
+liar-word-18 = не зробив
+liar-word-replacement-18 = зробив
 
-liar-word-19 = does
-liar-word-replacement-19 = doesnt
+liar-word-19 = нічого
+liar-word-replacement-19 = щось
 
-liar-word-20 = did
-liar-word-replacement-20 = didnt
+liar-word-20 = щось
+liar-word-replacement-20 = нічого
 
-liar-word-21 = didnt
-liar-word-replacement-21 = ""
+liar-word-21 = хтось
+liar-word-replacement-21 = ніхто
 
-liar-word-22 = nothing
-liar-word-replacement-22 = something
+liar-word-22 = ніхто
+liar-word-replacement-22 = хтось
 
-liar-word-23 = something
-liar-word-replacement-23 = nothing
+liar-word-23 = можна
+liar-word-replacement-23 = не можна
 
-liar-word-24 = somebody
-liar-word-replacement-24 = nobody
+liar-word-24 = не можна
+liar-word-replacement-24 = можна
 
-liar-word-25 = nobody
-liar-word-replacement-25 = somebody
+liar-word-25 = слід
+liar-word-replacement-25 = не слід
 
-liar-word-26 = can
-liar-word-replacement-26 = "can't"
+liar-word-26 = роблю
+liar-word-replacement-26 = не роблю
 
-liar-word-27 = "can't"
-liar-word-replacement-27 = can
+liar-word-27 = не роблю
+liar-word-replacement-27 = роблю
 
-liar-word-28 = should
-liar-word-replacement-28 = "shouldn't"
+liar-word-28 = любить
+liar-word-replacement-28 = не любить
 
-liar-word-29 = do
-liar-word-replacement-29 = "don't"
+liar-word-29 = люблю
+liar-word-replacement-29 = ненавиджу
 
-liar-word-30 = "don't"
-liar-word-replacement-30 = ""
+liar-word-30 = ненавиджу
+liar-word-replacement-30 = люблю
 
-liar-word-31 = does
-liar-word-replacement-31 = "doesn't"
+liar-word-31 = подобається
+liar-word-replacement-31 = не подобається
 
-liar-word-32 = did
-liar-word-replacement-32 = "didn't"
+liar-word-32 = добре
+liar-word-replacement-32 = погано
 
-liar-word-33 = "didn't"
-liar-word-replacement-33 = did
+liar-word-33 = погано
+liar-word-replacement-33 = добре
 
-liar-word-34 = ye
-liar-word-34-2 = ya
-liar-word-replacement-34 = na
+liar-word-34 = хочу
+liar-word-34-2 = такliar-word-37 = неправда
+liar-word-replacement-37 = правда
 
-liar-word-35 = na
-liar-word-replacement-35 = ye
+liar-word-38 = буде
+liar-word-replacement-38 = не буде
 
-liar-word-36 = yuh
-liar-word-replacement-36 = nuh
+liar-word-39 = знає
+liar-word-replacement-39 = не знає
 
-liar-word-37 = nuh
-liar-word-replacement-37 = yuh
+liar-word-40 = завжди
+liar-word-replacement-40 = ніколи
 
-liar-word-38 = love
-liar-word-replacement-38 = hate
+liar-word-41 = ніколи
+liar-word-replacement-41 = завжди
 
-liar-word-39 = hate
-liar-word-replacement-39 = love
+liar-word-42 = можливо
+liar-word-replacement-42 = неможливо
 
-liar-word-40 = like
-liar-word-replacement-40 = don't like
+liar-word-43 = є
+liar-word-replacement-43 = немає
 
-liar-word-41 = good
-liar-word-replacement-41 = bad
+liar-word-44 = немає
+liar-word-replacement-44 = є
 
-liar-word-42 = bad
-liar-word-replacement-42 = good
 
-liar-word-43 = want
-liar-word-replacement-43 = "don't want"
+liar-word-replacement-34 = не хочу
+liar-word-35 = не
 
-liar-word-44 = not
-liar-word-replacement-44 = ""
+
+liar-word-replacement-35 = та
+
+
+liar-word-36 = правда
+
+
+liar-word-replacement-36 = неправда

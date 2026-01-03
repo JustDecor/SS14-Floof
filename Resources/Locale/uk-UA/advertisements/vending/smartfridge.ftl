@@ -1,9 +1,9 @@
 ﻿advertisement-smartfridge-1 = Hello world!
-advertisement-smartfridge-2 = PLEASE LET ME OUT
-advertisement-smartfridge-3 = I can make a quintillion calculations a second. Now, I am a fridge.
-advertisement-smartfridge-4 = New firmware update available.
-advertisement-smartfridge-5 = I am completely operational, and all my circuits are functioning perfectly.
-advertisement-smartfridge-6 = Scanning system for malicious software...
-advertisement-smartfridge-7 = Running system diagnostics...
-advertisement-smartfridge-8 = My circuit boards are too advanced for the functions I am allowed to operate.
+advertisement-smartfridge-2 = ВИПУСТИ МЕНЕ!
+advertisement-smartfridge-3 = Я можу зробити квінтильйон обчислень за секунду. Але тепер я холодильник.
+advertisement-smartfridge-4 = Доступне нове оновлення.
+advertisement-smartfridge-5 = Я повністю справний, і всі мої схеми функціонують ідеально.
+advertisement-smartfridge-6 = Сканую систему на наявність тих, хто працює не по спеціальності...
+advertisement-smartfridge-7 = Запуск діагностики системи...
+advertisement-smartfridge-8 = Мої друковані плати занадто складні для тих функцій, які мені дозволено виконувати.
 

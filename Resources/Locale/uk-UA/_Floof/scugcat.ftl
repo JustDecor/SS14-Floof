@@ -1,2 +1,2 @@
-ghost-role-information-scugcat-name = ScugCat
-ghost-role-information-scugcat-description = You're a scugcat! a very smart creature capable of many things!
+ghost-role-information-scugcat-name = Скагкіт
+ghost-role-information-scugcat-description = Ти скагкіт! дуже розумне створіння, здатне на багато чого!

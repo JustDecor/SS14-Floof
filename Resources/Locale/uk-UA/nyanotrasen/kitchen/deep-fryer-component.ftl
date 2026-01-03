@@ -1,47 +1,47 @@
 ## DeepFryer Entity
 
-deep-fryer-blacklist-item-failed = {CAPITALIZE(THE($item))} fails to be covered in oil.
-deep-fryer-oil-purity-low = {CAPITALIZE(THE($deepFryer))} sputters to no effect.
-deep-fryer-oil-volume-low = {CAPITALIZE(THE($deepFryer))} burns and spews smoke!
-deep-fryer-oil-no-slag = There's no slag to drain.
+deep-fryer-blacklist-item-failed = {CAPITALIZE(THE($item))} не вдається покрити олією.
+deep-fryer-oil-purity-low = {CAPITALIZE(THE($deepFryer))} безрезультатно поцмокує.
+deep-fryer-oil-volume-low = {CAPITALIZE(THE($deepFryer))} горить і випускає дим!
+deep-fryer-oil-no-slag = Немає шлаку для зливу.
 
-deep-fryer-storage-full = All of the baskets are full.
-deep-fryer-storage-no-fit = {CAPITALIZE(THE($item))} won't fit inside one of the baskets.
-deep-fryer-interact-using-not-item = That doesn't seem to be an item.
+deep-fryer-storage-full = Усі кошики заповнені.
+deep-fryer-storage-no-fit = {CAPITALIZE(THE($item))} не поміститься в один із кошиків.
+deep-fryer-interact-using-not-item = Це, здається, не предмет.
 
-deep-fryer-need-liquid-container-in-hand = You need to first hold a liquid container like a beaker or bowl in your active hand.
+deep-fryer-need-liquid-container-in-hand = Спочатку потрібно тримати ємність для рідини, таку як мензурка або мисочка, в активній руці.
 
-deep-fryer-thrown-missed = Missed!
-deep-fryer-thrown-hit-oil = Plop!
-deep-fryer-thrown-hit-oil-low = Plonk!
+deep-fryer-thrown-missed = Промах!
+deep-fryer-thrown-hit-oil = Плюх!
+deep-fryer-thrown-hit-oil-low = Плюнк!
 
-deep-fryer-entity-escape = {CAPITALIZE(THE($victim))} leaps out of {THE($deepFryer)}!
+deep-fryer-entity-escape = {CAPITALIZE(THE($victim))} вистрибує з {THE($deepFryer)}!
 
 ## DeepFryer UI
 
-deep-fryer-window-title = Deep Fryer
-deep-fryer-label-baskets = Baskets
-deep-fryer-label-oil-level = Oil Level
-deep-fryer-label-oil-purity = Oil Purity
-deep-fryer-button-insert-item = Insert Item
-deep-fryer-button-insert-item-tooltip = Place your held item into one of the deep fryer baskets.
-deep-fryer-button-scoop-vat = Scoop Vat
-deep-fryer-button-scoop-vat-tooltip = Scoop out some liquid from the oil vat. You need to hold a liquid container for this.
-deep-fryer-button-clear-slag = Clear Slag
-deep-fryer-button-clear-slag-tooltip = Clear out some waste from the oil vat. You need to hold a liquid container for this.
-deep-fryer-button-remove-all-items = Remove All Items
-deep-fryer-button-remove-all-items-tooltip = Remove all of the items from the deep fryer baskets at once.
+deep-fryer-window-title = Фритюрниця
+deep-fryer-label-baskets = Кошики
+deep-fryer-label-oil-level = Рівень олії
+deep-fryer-label-oil-purity = Чистота олії
+deep-fryer-button-insert-item = Вставити предмет
+deep-fryer-button-insert-item-tooltip = Розмістіть предмет, який тримаєте, в один із кошиків фритюрниці.
+deep-fryer-button-scoop-vat = Зачерпнути з чана
+deep-fryer-button-scoop-vat-tooltip = Зачерпніть трохи рідини з чана з олією. Для цього потрібно тримати ємність для рідини.
+deep-fryer-button-clear-slag = Очистити шлак
+deep-fryer-button-clear-slag-tooltip = Очистіть трохи відходів з чана з олією. Для цього потрібно тримати ємність для рідини.
+deep-fryer-button-remove-all-items = Видалити всі предмети
+deep-fryer-button-remove-all-items-tooltip = Видалити всі предмети з кошиків фритюрниці одразу.
 
 ## DeepFriedComponent
 
-deep-fried-crispy-item = crispy {$entity}
-deep-fried-crispy-item-examine = It's covered in a crispy, oily texture.
+deep-fried-crispy-item = хрусткий(-а) {$entity}
+deep-fried-crispy-item-examine = Він(-а) покритий(-а) хрусткою, олійною текстурою.
 
-deep-fried-fried-item = deep-fried {$entity}
-deep-fried-fried-item-examine = It's covered in a thick, crispy layer.
+deep-fried-fried-item = смажений(-а) у фритюрі {$entity}
+deep-fried-fried-item-examine = Він(-а) покритий(-а) товстим, хрустким шаром.
 
-deep-fried-burned-item = burned {$entity}
-deep-fried-burned-item-examine = It's blackened with char.
+deep-fried-burned-item = спалений(-а) {$entity}
+deep-fried-burned-item-examine = Він(-а) почорнів(-ла) від нагару.
 
-reagent-name-oil-ghee = ghee
-reagent-desc-oil-ghee = Thick and translucent.
+reagent-name-oil-ghee = гхі
+reagent-desc-oil-ghee = Густе та прозоре.

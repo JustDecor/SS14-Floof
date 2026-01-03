@@ -1,35 +1,35 @@
-reverse-engineering-machine-menu-title = reverse engineering machine
-reverse-engineering-machine-server-list-button = Server List
-reverse-engineering-machine-scan-button = Analyze
-reverse-engineering-machine-scan-tooltip-info = Analyze the inserted item to attempt to reverse engineer it.
-reverse-engineering-machine-safety-button = Safety
-reverse-engineering-machine-safety-tooltip-info = Toggle safety protocols. Safety off will use stronger but possibly destructive methods of analysis.
-reverse-engineering-machine-autoscan-button = AutoProbe
-reverse-engineering-machine-autoscan-tooltip-info = Toggle whether to automatically start a new probe when the previous one finishes.
-reverse-engineering-machine-stop-button = Stop
-reverse-engineering-machine-stop-tooltip-info = Stop the current probe.
-reverse-engineering-machine-eject-button = Eject
-reverse-engineering-machine-eject-tooltip-info = Eject the current item.
+reverse-engineering-machine-menu-title = машина зворотного інжинірингу
+reverse-engineering-machine-server-list-button = Список серверів
+reverse-engineering-machine-scan-button = Аналізувати
+reverse-engineering-machine-scan-tooltip-info = Проаналізуйте вставлений предмет, щоб спробувати зробити зворотний інжиніринг.
+reverse-engineering-machine-safety-button = Безпека
+reverse-engineering-machine-safety-tooltip-info = Перемкнути протоколи безпеки. Вимкнена безпека використовуватиме сильніші, але можливо руйнівні методи аналізу.
+reverse-engineering-machine-autoscan-button = Автозонд
+reverse-engineering-machine-autoscan-tooltip-info = Перемкнути, чи починати автоматично новий зонд після завершення попереднього.
+reverse-engineering-machine-stop-button = Зупинити
+reverse-engineering-machine-stop-tooltip-info = Зупинити поточний зонд.
+reverse-engineering-machine-eject-button = Витягнути
+reverse-engineering-machine-eject-tooltip-info = Витягти поточний предмет.
 
-reverse-engineering-status-ready = Insert item to reverse engineer.
-reverse-engineering-current-item = Current item: {$item}
-reverse-engineering-analysis-score = Analysis power: {$score}
-reverse-engineering-item-difficulty = Difficulty: {$difficulty}
-reverse-engineering-progress = Progress: {$progress}%
-reverse-engineering-last-attempt-result = Last probe result: {$result}
+reverse-engineering-status-ready = Вставте предмет для зворотного інжинірингу.
+reverse-engineering-current-item = Поточний предмет: {$item}
+reverse-engineering-analysis-score = Сила аналізу: {$score}
+reverse-engineering-item-difficulty = Складність: {$difficulty}
+reverse-engineering-progress = Прогрес: {$progress}%
+reverse-engineering-last-attempt-result = Результат останнього зондування: {$result}
 
-reverse-engineering-total-progress-label = Total
+reverse-engineering-total-progress-label = Загалом
 
-reverse-engineering-failure = CRITICAL FAILURE
-reverse-engineering-stagnation = Minimal Progress
-reverse-engineering-minor = Minor progress
-reverse-engineering-average = Acceptable progress
-reverse-engineering-major = Major progress
-reverse-engineering-success = Breakthrough
+reverse-engineering-failure = КРИТИЧНА НЕВДАЧА
+reverse-engineering-stagnation = Мінімальний прогрес
+reverse-engineering-minor = Незначний прогрес
+reverse-engineering-average = Прийнятний прогрес
+reverse-engineering-major = Значний прогрес
+reverse-engineering-success = Прорив
 
-reverse-engineering-machine-bonus-upgrade = Analysis power
-reverse-engineering-machine-aversion-upgrade = Destruction aversion bonus
+reverse-engineering-machine-bonus-upgrade = Сила аналізу
+reverse-engineering-machine-aversion-upgrade = Бонус уникнення руйнування
 
-reverse-engineering-popup-failure = {CAPITALIZE(THE($machine))} blows smoke and debris everywhere!
+reverse-engineering-popup-failure = {CAPITALIZE(THE($machine))} випускає дим та уламки скрізь!
 
-reverse-engineering-examine = [color=yellow]This item can be reverse engineered. Difficulty: {$diff}[/color]
+reverse-engineering-examine = [color=yellow]Цей предмет можна піддати зворотному інжинірингу. Складність: {$diff}[/color]

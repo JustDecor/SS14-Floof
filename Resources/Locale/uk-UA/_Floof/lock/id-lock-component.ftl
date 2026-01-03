@@ -1,18 +1,18 @@
-id-lock-examined-locked-revealing = It is ID-locked by {$ownerName} ({$ownerJob}).
-id-lock-examined-locked = It is ID-locked. You cannot tell who is the access owner.
-id-lock-examined-unlocked = It looks like you can use your ID to restrict access to it.
-id-lock-examined-info = Swipe the owner's ID or use a master ID to unlock it.
+id-lock-examined-locked-revealing = Він заблокований ID {$ownerName} ({$ownerJob}).
+id-lock-examined-locked = Він заблокований ID. Ви не можете сказати, хто є власником доступу.
+id-lock-examined-unlocked = Схоже, ви можете використати своє ID, щоб обмежити доступ до нього.
+id-lock-examined-info = Проведіть ID власника або використайте головне ID для розблокування.
 
-id-lock-fail-locked = The {CAPITALIZE($ent)} is ID-locked!
-id-lock-fail-disabled = The lock buzzes with no effect.
-id-lock-fail-access-no-match = ID does not match!
-id-lock-fail-must-be-locked = It must be locked first.
-id-lock-fail-requires-master = You need to use a master ID to re-engage the lock.
+id-lock-fail-locked = {CAPITALIZE($ent)} заблокований ID!
+id-lock-fail-disabled = Замок дзижчить без ефекту.
+id-lock-fail-access-no-match = ID не співпадає!
+id-lock-fail-must-be-locked = Спочатку потрібно заблокувати.
+id-lock-fail-requires-master = Вам потрібно використати головне ID, щоб повторно активувати замок.
 
-id-lock-verb-lock = Lock to ID
-id-lock-verb-unlock = Remove ID lock
-id-lock-verb-reengage = Re-engage ID lock
+id-lock-verb-lock = Заблокувати на ID
+id-lock-verb-unlock = Зняти блокування ID
+id-lock-verb-reengage = Повторно активувати блокування ID
 
-id-lock-locked = ID lock engaged
-id-lock-unlocked = ID lock removed
-id-lock-re-locked = ID lock re-engaged
+id-lock-locked = Блокування ID активоване
+id-lock-unlocked = Блокування ID знято
+id-lock-re-locked = Блокування ID повторно активоване

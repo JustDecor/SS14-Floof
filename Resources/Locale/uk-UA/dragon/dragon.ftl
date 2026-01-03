@@ -1,5 +1,5 @@
-dragon-round-end-agent-name = dragon
+dragon-round-end-agent-name = дракон
 
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
+objective-issuer-dragon = [color=#7567b6]Космічний Дракон[/color]
 
-dragon-role-briefing = Summon 3 carp rifts and take over this quadrant; or don't, and spend some time seeing the sights, meeting the locals, or building an interesting horde. It's not like you'll disappear without those rifts.
+dragon-role-briefing = Викличте 3 коропових розломів і захопіть цей квадрант!

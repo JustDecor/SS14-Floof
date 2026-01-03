@@ -1,10 +1,10 @@
 ### UI
 
 # Displayed in the Character prefs window
-humanoid-character-profile-summary = 
-    This is {$name}. {$gender ->
-    [male] He is
-    [female] She is
-    [neuter] It is
-    *[other] They are
-} {$age} years old.
+humanoid-character-profile-summary =
+    Це {$name}. {$gender ->
+    [male] Йому
+    [female] Їй
+    [neuter] Йому
+    *[other] Їм
+} {$age} років.

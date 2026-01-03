@@ -1,20 +1,20 @@
-reagent-name-thermite = thermite
-reagent-desc-thermite = A mixture that becomes extremely hot when ignited.
+reagent-name-thermite = терміт
+reagent-desc-thermite = Суміш, яка при запалюванні стає надзвичайно гарячою.
 
-reagent-name-napalm = napalm
-reagent-desc-napalm = It's just a little flammable.
+reagent-name-napalm = напалм
+reagent-desc-napalm = Він просто трохи легкозаймистий.
 
-reagent-name-phlogiston = phlogiston
-reagent-desc-phlogiston = Catches you on fire and makes you ignite.
+reagent-name-phlogiston = флогістон
+reagent-desc-phlogiston = Підпалює вас і змушує спалахнути.
 
-reagent-name-chlorine-trifluoride = CLF3
-reagent-desc-chlorine-trifluoride = You really, REALLY don't want to get this shit anywhere near you.
+reagent-name-chlorine-trifluoride = трифторид хлору
+reagent-desc-chlorine-trifluoride = Ви справді, СПРАВДІ не хочете, щоб це лайно потрапило на вас.
 
-reagent-name-foaming-agent = foaming agent
-reagent-desc-foaming-agent = Makes foam such as that's required in metal foam grenades.
+reagent-name-foaming-agent = піноутворювач
+reagent-desc-foaming-agent = Утворює піну, яка потрібна, наприклад, у гранатах з металевої піни.
 
-reagent-name-welding-fuel = welding fuel
-reagent-desc-welding-fuel = Used by welders to weld.
+reagent-name-welding-fuel = зварювальне паливо
+reagent-desc-welding-fuel = Використовується зварювальниками для зварювання.
 
-reagent-name-fluorosurfactant = fluorosurfactant
-reagent-desc-fluorosurfactant = A perfluoronated sulfonic acid that forms a foam when mixed with water.
+reagent-name-fluorosurfactant = фторсурфактант
+reagent-desc-fluorosurfactant = Перфторована сульфонова кислота, яка утворює піну при змішуванні з водою.

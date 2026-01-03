@@ -1,15 +1,15 @@
 ## UI
-door-remote-open-close-text = Opens and Closes Doors
-door-remote-toggle-bolt-text = Toggles Bolts
-door-remote-emergency-access-text = Toggles Emergency Access
-door-remote-invalid-text = Invalid
-door-remote-mode-label = Mode: [color=white]{$modeString}[/color]
+door-remote-open-close-text = Відчиняє та зачиняє двері
+door-remote-toggle-bolt-text = Перемикачі Болти
+door-remote-emergency-access-text = Вмикає аварійний доступ
+door-remote-invalid-text = Недійсний
+door-remote-mode-label = Режим: [color=white]{$modeString}[/color]
 
 ## Entity
 
-door-remote-switch-state-open-close = You switch the remote to open and close doors
-door-remote-switch-state-toggle-bolts = You switch the remote to toggle bolts
-door-remote-switch-state-toggle-emergency-access = You switch the remote to toggle emergency access
-door-remote-no-power = The door is not powered
-door-remote-denied = Access denied
+door-remote-switch-state-open-close = Ви перемикаєте пульт на відчинення та зачинення дверей
+door-remote-switch-state-toggle-bolts = Ви перемикаєте пульт на перемикання болтів дверей
+door-remote-switch-state-toggle-emergency-access = Ви перемикаєте пульт на увімкнення аварійного доступу
+door-remote-no-power = Ці двері без живлення
+door-remote-denied = У доступі відмовлено
 

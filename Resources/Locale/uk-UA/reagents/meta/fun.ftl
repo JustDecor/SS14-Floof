@@ -1,29 +1,29 @@
-reagent-name-carpetium = carpetium
-reagent-desc-carpetium = A mystical chemical, usually outsourced from the Clown Planet, that covers everything it touches in carpet. Somehow filters out carpotoxin from the blood stream.
+reagent-name-carpetium = карпетіум
+reagent-desc-carpetium = Містична хімічна речовина, яку зазвичай постачають з Планети Клоунів, що покриває все, до чого торкається, килимом. Якимось чином фільтрує карпотоксин з кровотоку.
 
-reagent-name-fiber = fiber
-reagent-desc-fiber = A raw material, usually extracted from wool or other fabric products.
+reagent-name-fiber = волокно
+reagent-desc-fiber = Сировина, яку зазвичай видобувають з вовни або інших тканинних виробів.
 
-reagent-name-buzzochloric-bees = buzzochloric bees
-reagent-desc-buzzochloric-bees = Liquid bees. Oh god it's LIQUID BEES NO-
+reagent-name-buzzochloric-bees = бджоли-бузохлорики
+reagent-desc-buzzochloric-bees = Рідкі бджоли. О боже, це РІДКІ БДЖОЛИ, НІ-
 
-reagent-name-ground-bee = ground Bee
-reagent-desc-ground-bee = Bee grounds. Gross.
+reagent-name-ground-bee = мелена бджола
+reagent-desc-ground-bee = Бджолина гуща. Огидно.
 
-reagent-name-saxoite = saxoite
-reagent-desc-saxoite = Smells like jazz.
+reagent-name-saxoite = саксоїт
+reagent-desc-saxoite = Пахне джазом.
 
-reagent-name-licoxide = licoxide
-reagent-desc-licoxide = A synthetic battery acid. It looks... electrifying.
+reagent-name-licoxide = лікоксид
+reagent-desc-licoxide = Синтетична акумуляторна кислота. Виглядає... наелектризовано.
 
-reagent-name-razorium = razorium
-reagent-desc-razorium = A strange, non-newtonian chemical. It is produced when two conflicting brute medications are combined. When force is applied to it, it temporarily hardens creating millions of tiny, sharp edges. Very painful.
+reagent-name-razorium = разоріум
+reagent-desc-razorium = Дивна, неньютонівська хімічна речовина. Вона утворюється при поєднанні двох конфліктуючих медикаментів грубої дії. При застосуванні сили вона тимчасово твердне, створюючи мільйони крихітних гострих країв. Дуже боляче.
 
-reagent-name-fresium = Fresium
-reagent-desc-fresium = A mysterious compound that slows the vibration of atoms and molecules... somehow. In layman's terms, it makes things cold... REALLY cold. Can cause long-lasting movement issues if ingested.
+reagent-name-fresium = Фрезіум
+reagent-desc-fresium = Таємнича сполука, що уповільнює вібрацію атомів і молекул... якимось чином. Простими словами, вона робить речі холодними... ДУЖЕ холодними. Може спричинити тривалі проблеми з рухом при вживанні.
 
-reagent-name-laughter = laughter
-reagent-desc-laughter = Some say that this is the best medicine, but recent studies have proven that to be untrue.
+reagent-name-laughter = сміх
+reagent-desc-laughter = Дехто каже, що це найкращі ліки, але нещодавні дослідження довели, що це не так.
 
-reagent-name-weh = juice that makes you Weh
-reagent-desc-weh = Pure essence of lizard plush. Makes you Weh!
+reagent-name-weh = сік, що змушує казати 'вех'
+reagent-desc-weh = Чиста есенція плюшевої ящірки. Змушує вас казати "вех"!

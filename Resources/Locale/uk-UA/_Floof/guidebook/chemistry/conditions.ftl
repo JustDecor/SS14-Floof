@@ -1,5 +1,5 @@
-reagent-effect-condition-guidebook-has-mood-effect =
-  the mob { $inverted ->
-    [true] is not
-    *[false] is
-  } experiencing {$effect}
+reagent-effect-condition-guidebook-has-mood-effect = 
+  моб { $inverted ->
+    [true] не є
+    *[false] є
+  } відчуває {$effect}

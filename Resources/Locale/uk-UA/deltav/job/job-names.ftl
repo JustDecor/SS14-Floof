@@ -1,7 +1,7 @@
-job-name-medical-borg = Medical Cyborg
-job-name-chief-justice = Chief Justice
-job-name-clerk = Clerk
-job-name-prosecutor = Prosecutor
-job-name-lawyer = Attorney
-job-name-courier = Courier
-job-name-admin-assistant = Administrative Assistant
+job-name-medical-borg = Медичний Кіборг
+job-name-chief-justice = Головний Суддя
+job-name-clerk = Клерк
+job-name-prosecutor = Прокурор
+job-name-lawyer = Юрист
+job-name-courier = Кур'єр
+job-name-admin-assistant = Адміністративний асистент

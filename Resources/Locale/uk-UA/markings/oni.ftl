@@ -1,176 +1,176 @@
-marking-OniHornTallCurved = Tall Curved
-marking-OniHornTallCurved-tall_curved = Tall Curved
+marking-OniHornTallCurved = Високі вигнуті
+marking-OniHornTallCurved-tall_curved = Високі вигнуті
 
-marking-OniHornTallCurved3Tone = Tall Curved (Three Tone)
-marking-OniHornTallCurved3Tone-tall_curved_3tone_1 = Bottom Third
-marking-OniHornTallCurved3Tone-tall_curved_3tone_2 = Middle Third
-marking-OniHornTallCurved3Tone-tall_curved_3tone_3 = Top Third
+marking-OniHornTallCurved3Tone = Високі вигнуті (три тони)
+marking-OniHornTallCurved3Tone-tall_curved_3tone_1 = Нижня третина
+marking-OniHornTallCurved3Tone-tall_curved_3tone_2 = Середня третина
+marking-OniHornTallCurved3Tone-tall_curved_3tone_3 = Верхня третина
 
-marking-OniHornTallBull= Tall Bull
-marking-OniHornTallBull-tall_bull = Tall Bull
+marking-OniHornTallBull = Високі бичачі
+marking-OniHornTallBull-tall_bull = Високі бичачі
 
-marking-OniHornTallBull3Tone = Tall Bull (Three Tone)
-marking-OniHornTallBull3Tone-tall_bull_3tone_1 = Bottom Third
-marking-OniHornTallBull3Tone-tall_bull_3tone_2 = Middle Third
-marking-OniHornTallBull3Tone-tall_bull_3tone_3 = Top Third
+marking-OniHornTallBull3Tone = Високі бичачі (три тони)
+marking-OniHornTallBull3Tone-tall_bull_3tone_1 = Нижня третина
+marking-OniHornTallBull3Tone-tall_bull_3tone_2 = Середня третина
+marking-OniHornTallBull3Tone-tall_bull_3tone_3 = Верхня третина
 
-marking-OniHornCrowned = Crowned
-marking-OniHornCrowned-crowned = Crowned
+marking-OniHornCrowned = Короновані
+marking-OniHornCrowned-crowned = Короновані
 
-marking-OniHornSerket = Serket
-marking-OniHornSerket-serket = Serket
+marking-OniHornSerket = Серкет
+marking-OniHornSerket-serket = Серкет
 
-marking-OniHornSerket3Tone = Serket (Three Tone)
-marking-OniHornSerket3Tone-serket_3tone_1 = Bottom Third
-marking-OniHornSerket3Tone-serket_3tone_2 = Middle Third
-marking-OniHornSerket3Tone-serket_3tone_3 = Top Third
+marking-OniHornSerket3Tone = Серкет (три тони)
+marking-OniHornSerket3Tone-serket_3tone_1 = Нижня третина
+marking-OniHornSerket3Tone-serket_3tone_2 = Середня третина
+marking-OniHornSerket3Tone-serket_3tone_3 = Верхня третина
 
-marking-OniHornPisces = Pisces
-marking-OniHornPisces-pisces = Pisces
+marking-OniHornPisces = Риби
+marking-OniHornPisces-pisces = Риби
 
-marking-OniHornPisces2Tone = Pisces (Striped)
-marking-OniHornPisces2Tone-pisces_2tone_1 = Even stripes
-marking-OniHornPisces2Tone-pisces_2tone_2 = Odd stripes
+marking-OniHornPisces2Tone = Риби (смугасті)
+marking-OniHornPisces2Tone-pisces_2tone_1 = Парні смуги
+marking-OniHornPisces2Tone-pisces_2tone_2 = Непарні смуги
 
-marking-OniHornPisces3Tone = Pisces (Three Tone)
-marking-OniHornPisces3Tone-pisces_3tone_1 = Bottom Third
-marking-OniHornPisces3Tone-pisces_3tone_2 = Middle Third
-marking-OniHornPisces3Tone-pisces_3tone_3 = Top Third
+marking-OniHornPisces3Tone = Риби (три тони)
+marking-OniHornPisces3Tone-pisces_3tone_1 = Нижня третина
+marking-OniHornPisces3Tone-pisces_3tone_2 = Середня третина
+marking-OniHornPisces3Tone-pisces_3tone_3 = Верхня третина
 
-marking-OniHornVirgo = Virgo
-marking-OniHornVirgo-virgo = Virgo
+marking-OniHornVirgo = Діва
+marking-OniHornVirgo-virgo = Діва
 
-marking-OniHornVirgo3Tone = Virgo (Three Tone)
-marking-OniHornVirgo3Tone-virgo_3tone_1 = Bottom Third
-marking-OniHornVirgo3Tone-virgo_3tone_2 = Middle Third
-marking-OniHornVirgo3Tone-virgo_3tone_3 = Top Third
+marking-OniHornVirgo3Tone = Діва (три тони)
+marking-OniHornVirgo3Tone-virgo_3tone_1 = Нижня третина
+marking-OniHornVirgo3Tone-virgo_3tone_2 = Середня третина
+marking-OniHornVirgo3Tone-virgo_3tone_3 = Верхня третина
 
-marking-OniHornSagittarius = Sagittarius
-marking-OniHornSagittarius-sagittarius = Sagittarius
+marking-OniHornSagittarius = Стрілець
+marking-OniHornSagittarius-sagittarius = Стрілець
 
-marking-OniHornSagittarius3Tone = Sagittarius (Three Tone)
-marking-OniHornSagittarius3Tone-sagittarius_3tone_1 = Bottom Third
-marking-OniHornSagittarius3Tone-sagittarius_3tone_2 = Middle Third
-marking-OniHornSagittarius3Tone-sagittarius_3tone_3 = Top Third
+marking-OniHornSagittarius3Tone = Стрілець (три тони)
+marking-OniHornSagittarius3Tone-sagittarius_3tone_1 = Нижня третина
+marking-OniHornSagittarius3Tone-sagittarius_3tone_2 = Середня третина
+marking-OniHornSagittarius3Tone-sagittarius_3tone_3 = Верхня третина
 # Begin Floof - M3739 - #1084
-marking-OniHornVanira = Vanira
-marking-OniHornVanira-vanira = Vanira
+marking-OniHornVanira = Ваніра
+marking-OniHornVanira-vanira = Ваніра
 
-marking-OniHornVanira3Tone = Vanira (Three Tone)
-marking-OniHornVanira3Tone-vanira_3tone_1 = Bottom Third
-marking-OniHornVanira3Tone-vanira_3tone_2 = Middle Third
-marking-OniHornVanira3Tone-vanira_3tone_3 = Top Third
+marking-OniHornVanira3Tone = Ваніра (Три тони)
+marking-OniHornVanira3Tone-vanira_3tone_1 = Нижня третина
+marking-OniHornVanira3Tone-vanira_3tone_2 = Середня третина
+marking-OniHornVanira3Tone-vanira_3tone_3 = Верхня третина
 # End Floof - M3739 - #1084
-marking-OniHornMakara = Makara
-marking-OniHornMakara-makara = Makara
+marking-OniHornMakara = Макара
+marking-OniHornMakara-makara = Макара
 
-marking-OniHornMakara2Tone = Makara (Striped)
-marking-OniHornMakara2Tone-makara_2tone_1 = Even stripes
-marking-OniHornMakara2Tone-makara_2tone_2 = Odd stripes
+marking-OniHornMakara2Tone = Макара (смугасті)
+marking-OniHornMakara2Tone-makara_2tone_1 = Парні смуги
+marking-OniHornMakara2Tone-makara_2tone_2 = Непарні смуги
 
-marking-OniHornMakara3Tone = Makara (Three Tone)
-marking-OniHornMakara3Tone-makara_3tone_1 = Bottom Third
-marking-OniHornMakara3Tone-makara_3tone_2 = Middle Third
-marking-OniHornMakara3Tone-makara_3tone_3 = Top Third
+marking-OniHornMakara3Tone = Макара (три тони)
+marking-OniHornMakara3Tone-makara_3tone_1 = Нижня третина
+marking-OniHornMakara3Tone-makara_3tone_2 = Середня третина
+marking-OniHornMakara3Tone-makara_3tone_3 = Верхня третина
 
-marking-OniHornNepeta = Nepeta
-marking-OniHornNepeta-nepeta = Nepeta
+marking-OniHornNepeta = Непета
+marking-OniHornNepeta-nepeta = Непета
 
-marking-OniHornNepeta3Tone = Nepeta (Three Tone)
-marking-OniHornNepeta3Tone-nepeta_3tone_1 = Bottom Third
-marking-OniHornNepeta3Tone-nepeta_3tone_2 = Middle Third
-marking-OniHornNepeta3Tone-nepeta_3tone_3 = Top Third
+marking-OniHornNepeta3Tone = Непета (три тони)
+marking-OniHornNepeta3Tone-nepeta_3tone_1 = Нижня третина
+marking-OniHornNepeta3Tone-nepeta_3tone_2 = Середня третина
+marking-OniHornNepeta3Tone-nepeta_3tone_3 = Верхня третина
 
-marking-OniHornTaurus = Taurus
-marking-OniHornTaurus-taurus = Taurus
+marking-OniHornTaurus = Телець
+marking-OniHornTaurus-taurus = Телець
 
-marking-OniHornTaurus2Tone = Taurus (Striped)
-marking-OniHornTaurus2Tone-taurus_2tone_1 = Even stripes
-marking-OniHornTaurus2Tone-taurus_2tone_2 = Odd stripes
+marking-OniHornTaurus2Tone = Телець (смугасті)
+marking-OniHornTaurus2Tone-taurus_2tone_1 = Парні смуги
+marking-OniHornTaurus2Tone-taurus_2tone_2 = Непарні смуги
 
-marking-OniHornTaurus3Tone = Taurus (Three Tone)
-marking-OniHornTaurus3Tone-taurus_3tone_1 = Bottom Third
-marking-OniHornTaurus3Tone-taurus_3tone_2 = Middle Third
-marking-OniHornTaurus3Tone-taurus_3tone_3 = Top Third
+marking-OniHornTaurus3Tone = Телець (три тони)
+marking-OniHornTaurus3Tone-taurus_3tone_1 = Нижня третина
+marking-OniHornTaurus3Tone-taurus_3tone_2 = Середня третина
+marking-OniHornTaurus3Tone-taurus_3tone_3 = Верхня третина
 
-marking-OniHornAries = Aries
-marking-OniHornAries-aries = Aries
+marking-OniHornAries = Овен
+marking-OniHornAries-aries = Овен
 
-marking-OniHornAries3Tone = Aries (Three Tone)
-marking-OniHornAries3Tone-aries_3tone_1 = Bottom Third
-marking-OniHornAries3Tone-aries_3tone_2 = Middle Third
-marking-OniHornAries3Tone-aries_3tone_3 = Top Third
+marking-OniHornAries3Tone = Овен (три тони)
+marking-OniHornAries3Tone-aries_3tone_1 = Нижня третина
+marking-OniHornAries3Tone-aries_3tone_2 = Середня третина
+marking-OniHornAries3Tone-aries_3tone_3 = Верхня третина
 
-marking-OniHornTavris = Tavris
-marking-OniHornTavris-tavris = Tavris
+marking-OniHornTavris = Тавріс
+marking-OniHornTavris-tavris = Тавріс
 
-marking-OniHornTavris3Tone = Tavris (Three Tone)
-marking-OniHornTavris3Tone-tavris_3tone_1 = Bottom Third
-marking-OniHornTavris3Tone-tavris_3tone_2 = Middle Third
-marking-OniHornTavris3Tone-tavris_3tone_3 = Top Third
+marking-OniHornTavris3Tone = Тавріс (три тони)
+marking-OniHornTavris3Tone-tavris_3tone_1 = Нижня третина
+marking-OniHornTavris3Tone-tavris_3tone_2 = Середня третина
+marking-OniHornTavris3Tone-tavris_3tone_3 = Верхня третина
 
-marking-OniHornInclined = Inclined
-marking-OniHornInclined-inclined = Inclined
+marking-OniHornInclined = Нахилені
+marking-OniHornInclined-inclined = Нахилені
 
-marking-OniHornInclined3Tone = Inclined (Three Tone)
-marking-OniHornInclined3Tone-inclined_3tone_1 = Bottom Third
-marking-OniHornInclined3Tone-inclined_3tone_2 = Middle Third
-marking-OniHornInclined3Tone-inclined_3tone_3 = Top Third
+marking-OniHornInclined3Tone = Нахилені (три тони)
+marking-OniHornInclined3Tone-inclined_3tone_1 = Нижня третина
+marking-OniHornInclined3Tone-inclined_3tone_2 = Середня третина
+marking-OniHornInclined3Tone-inclined_3tone_3 = Верхня третина
 
-marking-OniHornWavy = Wavy
-marking-OniHornWavy-wavy = Wavy
+marking-OniHornWavy = Хвилясті
+marking-OniHornWavy-wavy = Хвилясті
 
-marking-OniHornWavy2Tone = Wavy (Striped)
-marking-OniHornWavy2Tone-wavy_2tone_1 = Even stripes
-marking-OniHornWavy2Tone-wavy_2tone_2 = Odd stripes
+marking-OniHornWavy2Tone = Хвилясті (смугасті)
+marking-OniHornWavy2Tone-wavy_2tone_1 = Парні смуги
+marking-OniHornWavy2Tone-wavy_2tone_2 = Непарні смуги
 
-marking-OniHornWavy3Tone = Wavy (Three Tone)
-marking-OniHornWavy3Tone-wavy_3tone_1 = Bottom Third
-marking-OniHornWavy3Tone-wavy_3tone_2 = Middle Third
-marking-OniHornWavy3Tone-wavy_3tone_3 = Top Third
+marking-OniHornWavy3Tone = Хвилясті (три тони)
+marking-OniHornWavy3Tone-wavy_3tone_1 = Нижня третина
+marking-OniHornWavy3Tone-wavy_3tone_2 = Середня третина
+marking-OniHornWavy3Tone-wavy_3tone_3 = Верхня третина
 
-marking-OniHornAntlers = Antlers
-marking-OniHornAntlers-antlers_2tone_1 = Base
-marking-OniHornAntlers-antlers_2tone_2 = Wings
+marking-OniHornAntlers = Роги
+marking-OniHornAntlers-antlers_2tone_1 = Основа
+marking-OniHornAntlers-antlers_2tone_2 = Крила
 
-marking-OniHornAntlers3Tone = Antlers (Three Tone)
-marking-OniHornAntlers3Tone-antlers_3tone_1 = Bottom Third
-marking-OniHornAntlers3Tone-antlers_3tone_2 = Middle Third
-marking-OniHornAntlers3Tone-antlers_3tone_3 = Top Third
+marking-OniHornAntlers3Tone = Роги (три тони)
+marking-OniHornAntlers3Tone-antlers_3tone_1 = Нижня третина
+marking-OniHornAntlers3Tone-antlers_3tone_2 = Середня третина
+marking-OniHornAntlers3Tone-antlers_3tone_3 = Верхня третина
 
-marking-OniHornUnicorn = Unicorn
-marking-OniHornUnicorn-unicorn = Unicorn
+marking-OniHornUnicorn = Єдиноріг
+marking-OniHornUnicorn-unicorn = Єдиноріг
 
-marking-OniHornErebia = Erebia
-marking-OniHornErebia-erebia = Erebia
+marking-OniHornErebia = Еребія
+marking-OniHornErebia-erebia = Еребія
 
-marking-OniHornErebia3Tone = Erebia (Three Tone)
-marking-OniHornErebia3Tone-erebia_3tone_1 = Bottom Third
-marking-OniHornErebia3Tone-erebia_3tone_2 = Middle Third
-marking-OniHornErebia3Tone-erebia_3tone_3 = Top Third
+marking-OniHornErebia3Tone = Еребія (три тони)
+marking-OniHornErebia3Tone-erebia_3tone_1 = Нижня третина
+marking-OniHornErebia3Tone-erebia_3tone_2 = Середня третина
+marking-OniHornErebia3Tone-erebia_3tone_3 = Верхня третина
 
-marking-OniHornErebiaRings = Erebia (Ringed)
-marking-OniHornErebiaRings-erebia = Erebia
-marking-OniHornErebiaRings-erebia_rings = Rings
+marking-OniHornErebiaRings = Еребія (з кільцями)
+marking-OniHornErebiaRings-erebia = Еребія
+marking-OniHornErebiaRings-erebia_rings = Кільця
 
-marking-OniHornDoubleThick = Double Thick
-marking-OniHornDoubleThick-double_thick = Double Thick
+marking-OniHornDoubleThick = Подвійні товсті
+marking-OniHornDoubleThick-double_thick = Подвійні товсті
 
-marking-OniHornDoubleThick2Tone = Double Thick (Striped)
-marking-OniHornDoubleThick2Tone-double_thick_2tone_1 = Even stripes
-marking-OniHornDoubleThick2Tone-double_thick_2tone_2 = Odd stripes
+marking-OniHornDoubleThick2Tone = Подвійні товсті (смугасті)
+marking-OniHornDoubleThick2Tone-double_thick_2tone_1 = Парні смуги
+marking-OniHornDoubleThick2Tone-double_thick_2tone_2 = Непарні смуги
 
-marking-OniHornDoubleThick3Tone = Double Thick (Three Tone)
-marking-OniHornDoubleThick3Tone-double_thick_3tone_1 = Bottom Third
-marking-OniHornDoubleThick3Tone-double_thick_3tone_2 = Middle Third
-marking-OniHornDoubleThick3Tone-double_thick_3tone_3 = Top Third
+marking-OniHornDoubleThick3Tone = Подвійні товсті (три тони)
+marking-OniHornDoubleThick3Tone-double_thick_3tone_1 = Нижня третина
+marking-OniHornDoubleThick3Tone-double_thick_3tone_2 = Середня третина
+marking-OniHornDoubleThick3Tone-double_thick_3tone_3 = Верхня третина
 
-marking-OniHornDoubleCurved3Tone = Double Curved (Three Tone)
-marking-OniHornDoubleCurved3Tone-double_curved_3tone_1 = Bottom Third
-marking-OniHornDoubleCurved3Tone-double_curved_3tone_2 = Middle Third
-marking-OniHornDoubleCurved3Tone-double_curved_3tone_3 = Top Third
+marking-OniHornDoubleCurved3Tone = Подвійні вигнуті (три тони)
+marking-OniHornDoubleCurved3Tone-double_curved_3tone_1 = Нижня третина
+marking-OniHornDoubleCurved3Tone-double_curved_3tone_2 = Середня третина
+marking-OniHornDoubleCurved3Tone-double_curved_3tone_3 = Верхня третина
 
-marking-OniHornDoubleCurvedOutwards3Tone = Double Curved Outwards (Three Tone)
-marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_1 = Bottom Third
-marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_2 = Middle Third
-marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_3 = Top Third
+marking-OniHornDoubleCurvedOutwards3Tone = Подвійні вигнуті назовні (три тони)
+marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_1 = Нижня третина
+marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_2 = Середня третина
+marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_3 = Верхня третина

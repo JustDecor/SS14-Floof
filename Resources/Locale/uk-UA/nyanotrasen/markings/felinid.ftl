@@ -1,56 +1,56 @@
-marking-FelinidEarsBasic = Basic Ears
-marking-FelinidEarsBasic-basic_outer = Outer ear
-marking-FelinidEarsBasic-basic_inner = Inner ear
+marking-FelinidEarsBasic = Звичайні вуха
+marking-FelinidEarsBasic-basic_outer = Зовнішнє вухо
+marking-FelinidEarsBasic-basic_inner = Внутрішнє вухо
 
-marking-FelinidEarsCurled = Curled Ears
-marking-FelinidEarsCurled-curled_outer = Outer ear
-marking-FelinidEarsCurled-curled_inner = Inner ear
+marking-FelinidEarsCurled = Закручені вуха
+marking-FelinidEarsCurled-curled_outer = Зовнішнє вухо
+marking-FelinidEarsCurled-curled_inner = Внутрішнє вухо
 
-marking-FelinidEarsDroopy = Droopy Ears
-marking-FelinidEarsDroopy-droopy_outer = Outer ear
-marking-FelinidEarsDroopy-droopy_inner = Inner ear
+marking-FelinidEarsDroopy = Обвислі вуха
+marking-FelinidEarsDroopy-droopy_outer = Зовнішнє вухо
+marking-FelinidEarsDroopy-droopy_inner = Внутрішнє вухо
 
-marking-FelinidEarsFuzzy = Fuzzy Ears
-marking-FelinidEarsFuzzy-basic_outer = Outer ear
-marking-FelinidEarsFuzzy-fuzzy_inner = Ear fuzz
+marking-FelinidEarsFuzzy = Пухнасті вуха
+marking-FelinidEarsFuzzy-basic_outer = Зовнішнє вухо
+marking-FelinidEarsFuzzy-fuzzy_inner = Вушний пух
 
-marking-FelinidEarsStubby = Stubby Ears
-marking-FelinidEarsStubby-stubby_outer = Outer ear
-marking-FelinidEarsStubby-stubby_inner = Inner ear
+marking-FelinidEarsStubby = Короткі вуха
+marking-FelinidEarsStubby-stubby_outer = Зовнішнє вухо
+marking-FelinidEarsStubby-stubby_inner = Внутрішнє вухо
 
-marking-FelinidEarsTall = Tall Ears
-marking-FelinidEarsTall-tall_outer = Outer ear
-marking-FelinidEarsTall-tall_inner = Inner ear
-marking-FelinidEarsTall-tall_fuzz = Ear fuzz
+marking-FelinidEarsTall = Високі вуха
+marking-FelinidEarsTall-tall_outer = Зовнішнє вухо
+marking-FelinidEarsTall-tall_inner = Внутрішнє вухо
+marking-FelinidEarsTall-tall_fuzz = Вушний пух
 
-marking-FelinidEarsTorn = Torn Ears
-marking-FelinidEarsTorn-torn_outer = Outer ear
-marking-FelinidEarsTorn-torn_inner = Inner ear
+marking-FelinidEarsTorn = Надірвані вуха
+marking-FelinidEarsTorn-torn_outer = Зовнішнє вухо
+marking-FelinidEarsTorn-torn_inner = Внутрішнє вухо
 
-marking-FelinidEarsWide = Wide Ears
-marking-FelinidEarsWide-wide_outer = Outer ear
-marking-FelinidEarsWide-wide_inner = Inner ear
+marking-FelinidEarsWide = Широкі вуха
+marking-FelinidEarsWide-wide_outer = Зовнішнє вухо
+marking-FelinidEarsWide-wide_inner = Внутрішнє вухо
 
-marking-FelinidTailBasic = Basic Tail
-marking-FelinidTailBasic-basic_tail_tip = Tail tip
-marking-FelinidTailBasic-basic_tail_stripes_even = Tail stripes, even
-marking-FelinidTailBasic-basic_tail_stripes_odd = Tail stripes, odd
+marking-FelinidTailBasic = Звичайний котячий хвіст
+marking-FelinidTailBasic-basic_tail_tip = Кінчик хвоста
+marking-FelinidTailBasic-basic_tail_stripes_even = Смужки на хвості, парні
+marking-FelinidTailBasic-basic_tail_stripes_odd = Смужки на хвості, непарні
 
-marking-FelinidTailBasicWithBow = Basic Tail with Bow
-marking-FelinidTailBasicWithBow-basic_tail_tip = Tail tip
-marking-FelinidTailBasicWithBow-basic_tail_stripes_even = Tail stripes, even
-marking-FelinidTailBasicWithBow-basic_tail_stripes_odd = Tail stripes, odd
-marking-FelinidTailBasicWithBow-basic_bow = Bow
+marking-FelinidTailBasicWithBow = Звичайний котячий хвіст з бантом
+marking-FelinidTailBasicWithBow-basic_tail_tip = Кінчик хвоста
+marking-FelinidTailBasicWithBow-basic_tail_stripes_even = Смужки на хвості, парні
+marking-FelinidTailBasicWithBow-basic_tail_stripes_odd = Смужки на хвості, непарні
+marking-FelinidTailBasicWithBow-basic_bow = Бант
 
-marking-FelinidTailBasicWithBell = Basic Tail with Bell
-marking-FelinidTailBasicWithBell-basic_tail_tip = Tail tip
-marking-FelinidTailBasicWithBell-basic_tail_stripes_even = Tail stripes, even
-marking-FelinidTailBasicWithBell-basic_tail_stripes_odd = Tail stripes, odd
-marking-FelinidTailBasicWithBell-basic_bell = Bell
+marking-FelinidTailBasicWithBell = Звичайний котячий хвіст з дзвіночком
+marking-FelinidTailBasicWithBell-basic_tail_tip = Кінчик хвоста
+marking-FelinidTailBasicWithBell-basic_tail_stripes_even = Смужки на хвості, парні
+marking-FelinidTailBasicWithBell-basic_tail_stripes_odd = Смужки на хвості, непарні
+marking-FelinidTailBasicWithBell-basic_bell = Дзвіночок
 
-marking-FelinidTailBasicWithBowAndBell = Basic Tail with Bow & Bell
-marking-FelinidTailBasicWithBowAndBell-basic_tail_tip = Tail tip
-marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_even = Tail stripes, even
-marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_odd = Tail stripes, odd
-marking-FelinidTailBasicWithBowAndBell-basic_bow = Bow
-marking-FelinidTailBasicWithBowAndBell-basic_bell = Bell
+marking-FelinidTailBasicWithBowAndBell = Звичайний котячий хвіст з бантом та дзвіночком
+marking-FelinidTailBasicWithBowAndBell-basic_tail_tip = Кінчик хвоста
+marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_even = Смужки на хвості, парні
+marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_odd = Смужки на хвості, непарні
+marking-FelinidTailBasicWithBowAndBell-basic_bow = Бант
+marking-FelinidTailBasicWithBowAndBell-basic_bell = Дзвіночок

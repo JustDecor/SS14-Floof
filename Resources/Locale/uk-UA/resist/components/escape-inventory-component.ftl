@@ -1,3 +1,3 @@
-escape-inventory-component-start-resisting = You start struggling to escape!
-escape-inventory-component-start-resisting-target = Something is struggling to get out of your inventory!
-escape-inventory-component-failed-resisting = Can't escape!
+escape-inventory-component-start-resisting = Ви намагаєтесь втікти!
+escape-inventory-component-start-resisting-target = Щось намагається втікти з ваших речей!
+escape-inventory-component-failed-resisting = Не можу втекти!

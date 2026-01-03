@@ -1,10 +1,10 @@
-interaction-verb-invalid = Some requirements for this verb are not met. You cannot use it right now.
-interaction-verb-cooldown = This verb is on cooldown. Wait {TOSTRING($seconds, "F1")} seconds.
-interaction-verb-too-strong = You are too strong to use this verb.
-interaction-verb-too-weak = You are too weak to use this verb.
-interaction-verb-invalid-target = You cannot use this verb on that target.
-interaction-verb-no-hands = You have no usable hands.
-interaction-verb-cannot-reach = You cannot reach there.
+interaction-verb-invalid = Деякі вимоги для цієї дії не виконано. Ви не можете використати її зараз.
+interaction-verb-cooldown = Ця дія на перезарядці. Зачекайте {TOSTRING($seconds, "F1")} секунд.
+interaction-verb-too-strong = Ви надто сильні, щоб використати цю дію.
+interaction-verb-too-weak = Ви надто слабкі, щоб використати цю дію.
+interaction-verb-invalid-target = Ви не можете застосувати цю дію до цієї цілі.
+interaction-verb-no-hands = У вас немає придатних рук.
+interaction-verb-cannot-reach = Ви не можете дістати туди.
 
 # Floofstation
-interaction-verb-unconscious = You cannot use this verb while unconscious.
+interaction-verb-unconscious = Ви не можете використовувати цю дію, поки непритомні.

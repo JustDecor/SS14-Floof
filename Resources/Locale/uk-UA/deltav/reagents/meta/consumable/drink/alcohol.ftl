@@ -1,2 +1,2 @@
-reagent-name-angobitters = angostura bitters
-reagent-desc-angobitters = An herbal bitters making use of angostura bark, often used to flavor drinks.
+reagent-name-angobitters = ангоські бітери
+reagent-desc-angobitters = Трав'яні бітери з використанням кори ангостури, часто використовуються для ароматизації напоїв.

@@ -1,5 +1,5 @@
-action-name-internals-toggle = Toggle Internals
-action-description-internals-toggle = Breathe from the equipped gas tank. Also requires equipped breath mask.
+action-name-internals-toggle = Перемкнути автономне дихання
+action-description-internals-toggle = Дихати з обладнаного газового балона. Також потребує обладнаної дихальної маски.
 
-internals-no-breath-tool = You are not wearing a breathing tool
-internals-no-tank = You are not wearing a gas tank
+internals-no-breath-tool = Ви не носіть дихальний пристрій
+internals-no-tank = Ви не носіть газовий балон

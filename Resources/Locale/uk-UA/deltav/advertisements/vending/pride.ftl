@@ -1,5 +1,5 @@
-advertisement-pride-1 = Be gay do crime!
-advertisement-pride-2 = Full of colors!
-advertisement-pride-3 = You are valid!
-thankyou-pride-1 = Go, do some crime!
-thankyou-pride-2 = Have a colorful day!
+advertisement-pride-1 = Будь геєм, чини злочини!
+advertisement-pride-2 = Сповнений кольорів!
+advertisement-pride-3 = Ти - валідний!
+thankyou-pride-1 = Вражай!
+thankyou-pride-2 = Вбий їх наповал!

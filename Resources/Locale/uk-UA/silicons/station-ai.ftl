@@ -1,22 +1,22 @@
 # General
-ai-wire-snipped = Wire has been cut at {$coords}.
-wire-name-ai-vision-light = AIV
-wire-name-ai-act-light = AIA
-station-ai-takeover = AI takeover
+ai-wire-snipped = Провід був перерізаний на {$coords}.
+wire-name-ai-vision-light = АІВ
+wire-name-ai-act-light = АІА
+station-ai-takeover = Захоплення станції ШІ
 
 # Radial actions
-ai-open = Open actions
-ai-close = Close actions
+ai-open = Відкрити дії
+ai-close = Закрити дії
 
-bolt-close = Close bolt
-bolt-open = Open bolt
+bolt-close = Закрити болт
+bolt-open = Відкрити болт
 
-emergency-access-on = Enable emergency access
-emergency-access-off = Disable emergency access
+emergency-access-on = Увімкнути аварійний доступ
+emergency-access-off = Вимкнути аварійний доступ
 
-electrify-door-on = Enable overcharge
-electrify-door-off = Disable overcharge
+electrify-door-on = Увімкнути перезарядку
+electrify-door-off = Вимкнути перезарядку
 
-toggle-light = Toggle light
+toggle-light = Перемкнути світло
 
-ai-device-not-responding = Device is not responding
+ai-device-not-responding = Пристрій не відповідає

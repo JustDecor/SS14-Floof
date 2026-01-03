@@ -1,9 +1,9 @@
 ﻿advertisement-sovietsoda-1 = For comrade and country.
-advertisement-sovietsoda-2 = Have you fulfilled your nutrition quota today?
-advertisement-sovietsoda-3 = Very nice!
-advertisement-sovietsoda-4 = We are simple people, for this is all we eat.
-advertisement-sovietsoda-5 = If there is a person, there is a problem. If there is no person, then there is no problem.
-advertisement-sovietsoda-6 = If its good enough for daily life, it's good enough for us!
-thankyou-sovietsoda-1 = Enjoy, comrade!
-thankyou-sovietsoda-2 = Now get back to work.
-thankyou-sovietsoda-3 = This is all you're getting.
+advertisement-sovietsoda-2 = Махно мій батько, правду кажу!
+advertisement-sovietsoda-3 = Чудово, комради!
+advertisement-sovietsoda-4 = Ми проста люді, нічіво нізнаєм
+advertisement-sovietsoda-5 = Якщо є людина, то є проблема. Якщо немає людини, то немає проблеми.
+advertisement-sovietsoda-6 = Якщо це достатньо добре для повсякденного життя, то це достатньо добре для нас!
+thankyou-sovietsoda-1 = Смачного, товаришу!
+thankyou-sovietsoda-2 = А тепер повертайтеся до роботи.
+thankyou-sovietsoda-3 = Це все, що ти отримаєш.

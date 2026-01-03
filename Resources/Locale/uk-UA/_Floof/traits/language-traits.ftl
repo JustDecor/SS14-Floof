@@ -14,162 +14,162 @@ trait-name-KoboldLanguage = {language-Kobold-name}
 trait-description-KoboldLanguage = {language-Kobold-description}
 
 
-trait-name-Ratvarian = Ratvarian
-trait-description-Ratvarian =
-    The language of the cult of Ratvar. Enigmatic, guttural, and difficult to pronounce.
-        With some effort it can be understood by those not affiliated with the cult, but for you it comes naturally.
+trait-name-Ratvarian = Ратваріанська
+trait-description-Ratvarian = 
+    Мова культу Ратвара. Загадкова, гортанна та важка для вимови.
+        З деякими зусиллями вона може бути зрозумілою тими, хто не пов'язаний з культом, але для вас вона приходить природно.
 
-trait-name-NaturalRatvarian = Natural Ratvarian Speaker
-trait-description-NaturalRatvarian =
-    The language of the cult of Ratvar. Enigmatic, guttural, and difficult to pronounce.
-        You speak this instead of your species's usual natural language.
+trait-name-NaturalRatvarian = Природний носій ратваріанської
+trait-description-NaturalRatvarian = 
+    Мова культу Ратвара. Загадкова, гортанна та важка для вимови.
+        Ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Chittin = Chittin
-trait-description-Chittin =
-    A language consisting of clicks, buzzes, and some variety of harsh insect sounds.
-        Most of what makes up their speech comes from their antennae, making it a near-impossible language for those without to learn.
-        Through some adaptation, augmentation or clever workaround, you speak this.
+trait-name-Chittin = Хіттін
+trait-description-Chittin = 
+    Мова, що складається з клацання, дзижчання та різноманітних різких комахоподібних звуків.
+        Більша частина їхньої мови походить від їхніх антен, що робить її майже неможливою для вивчення тими, у кого їх немає.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою.
 
-trait-name-NaturalChittin = Natural Chittin Speaker
-trait-description-NaturalChittin =
-    A language consisting of clicks, buzzes, and some variety of harsh insect sounds.
-        Most of what makes up their speech comes from their antennae, making it a near-impossible language for those without to learn.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalChittin = Природний носій хіттін
+trait-description-NaturalChittin = 
+    Мова, що складається з клацання, дзижчання та різноманітних різких комахоподібних звуків.
+        Більша частина їхньої мови походить від їхніх антен, що робить її майже неможливою для вивчення тими, у кого їх немає.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Nehina = Nehina
+trait-name-Nehina = Nēhina
 trait-description-Nehina =
     A language spoken by the Feroxi, well adapted to speaking under the waters of ocean planets.
 
-trait-name-NaturalNehina = Natural Nehina Speaker
+trait-name-NaturalNehina = Природний носій мови Нехіна
 trait-description-NaturalNehina =
-    A language spoken by the Feroxi, well adapted to speaking under the waters of ocean planets.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+    Мова, якою розмовляють Фероксі, добре пристосована для розмови під водами океанічних планет.
+        Через певну адаптацію, покращення або кмітливий обхідний шлях, ви розмовляєте нею замість звичайної природної мови вашого виду.
 
-trait-name-Mouse = Mouse
-trait-description-Mouse =
-    A squeaky language known by the Rodentia, many other rodent based species and standard mice, it is comprised of short and sharp squeaks.
+trait-name-Mouse = Миша
+trait-description-Mouse = 
+    Пискляча мова, відома Родентії, багатьом іншим гризуноподібним видам та звичайним мишам, вона складається з коротких та різких писків.
 
-trait-name-NaturalMouse = Natural Mouse Speaker
-trait-description-NaturalMouse =
-    A squeaky language known by the Rodentia, many other rodent based species and standard mice, it is comprised of short and sharp squeaks.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalMouse = Природний носій мишачої мови
+trait-description-NaturalMouse = 
+    Пискляча мова, відома Родентії, багатьом іншим гризуноподібним видам та звичайним мишам, вона складається з коротких та різких писків.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Canilunzt = Canilunzt
-trait-description-Canilunzt =
-    The guttural language spoken and utilized by the inhabitants of the Vazzend system,
-        composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
-        Through some adaptation, augmentation or clever workaround, you speak this.
+trait-name-Canilunzt = Канілунцт
+trait-description-Canilunzt = 
+    Гортанна мова, якою говорять та користуються мешканці системи Ваззенд,
+        складається з гарчання, гавкання, тявкання та активного використання рухів вух та хвоста. Вульпканіни говорять цією мовою з легкістю.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою.
 
-trait-name-NaturalCanilunzt = Natural Canilunzt Speaker
-trait-description-NaturalCanilunzt =
-    The guttural language spoken and utilized by the inhabitants of the Vazzend system,
-        composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalCanilunzt = Природний носій канілунцт
+trait-description-NaturalCanilunzt = 
+    Гортанна мова, якою говорять та користуються мешканці системи Ваззенд,
+        складається з гарчання, гавкання, тявкання та активного використання рухів вух та хвоста. Вульпканіни говорять цією мовою з легкістю.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-RobotTalk = Robot
-trait-description-RobotTalk =
-    A language consisting of harsh binary chirps, whistles, hisses, and whines. Organic tongues cannot speak it without aid from special translators.
-        Through some adaptation, augmentation or clever workaround, you speak this.
+trait-name-RobotTalk = Роботяча
+trait-description-RobotTalk = 
+    Мова, що складається з різких бінарних щебетань, свистів, шипіння та скиглінь. Органічні язики не можуть говорити нею без допомоги спеціальних перекладачів.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою.
 
-trait-name-NaturalRobotTalk = Natural Robot Speaker
-trait-description-NaturalRobotTalk =
-    A language consisting of harsh binary chirps, whistles, hisses, and whines. Organic tongues cannot speak it without aid from special translators.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalRobotTalk = Природний носій роботячої мови
+trait-description-NaturalRobotTalk = 
+    Мова, що складається з різких бінарних щебетань, свистів, шипіння та скиглінь. Органічні язики не можуть говорити нею без допомоги спеціальних перекладачів.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Arachnic = Arachnic
-trait-description-Arachnic =
-    The language of arachnids is composed of mostly clicks and hisses, it almost has a rhythmic character to it at times.
+trait-name-Arachnic = Арахнічна
+trait-description-Arachnic = 
+    Мова павукоподібних складається здебільшого з клацання та шипіння, іноді вона має ритмічний характер.
 
-trait-name-NaturalArachnic = Natural Arachnic Speaker
-trait-description-NaturalArachnic =
-    The language of arachnids is composed of mostly clicks and hisses, it almost has a rhythmic character to it at times.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalArachnic = Природний носій арахнічної мови
+trait-description-NaturalArachnic = 
+    Мова павукоподібних складається здебільшого з клацання та шипіння, іноді вона має ритмічний характер.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-RootSpeak = RootSpeak
-trait-description-RootSpeak =
-    The strange whistling-style language spoken by the Diona.
+trait-name-RootSpeak = Кореневомова
+trait-description-RootSpeak = 
+    Дивна мова у стилі свисту, якою говорять Діони.
 
-trait-name-NaturalRootSpeak = Natural RootSpeak Speaker
-trait-description-NaturalRootSpeak =
-    The strange whistling-style language spoken by the Diona.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalRootSpeak = Природний носій кореневомови
+trait-description-NaturalRootSpeak = 
+    Дивна мова у стилі свисту, якою говорять Діони.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-NaturalSolCommon = Natural Sol Common Speaker
-trait-description-NaturalSolCommon =
-    With its roots in Mandarin Chinese - Common evolved as the official language of the Sol Alliance - with officials working to tie it together with a common tongue.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalSolCommon = Природний носій загальносолярної
+trait-description-NaturalSolCommon = 
+    З корінням у мандаринській китайській - Загальна розвивалася як офіційна мова Солярного Альянсу - з чиновниками, які працюють над тим, щоб зв'язати її разом зі спільною мовою.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-NaturalValyrianStandard = Natural Valyrian Standard Speaker
-trait-description-NaturalValyrianStandard =
-    A language descended from eastern european languages of old earth - Valyrian Standard is the commonly spoken tongue of Harpies brought up on their homeworld of Valyrian 4b
-        It is rarely spoken outside of the worlds of its native speakers, and has in modern times been supplanted by the 'Conlangs of the Sol Alliance.
-        Its speakers are those who wish to uphold the traditions and beliefs of ancient peoples from before the colonial era.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalValyrianStandard = Природний носій валіріанського стандарту
+trait-description-NaturalValyrianStandard = 
+    Мова, що походить від східноєвропейських мов старої землі - Валіріанський стандарт є поширеною мовою гарпій, які виросли на їхній рідній планеті Валіріан 4b
+        Рідко говориться поза світами її носіїв та в сучасні часи була витіснена "Конланґами Солярного Альянсу.
+        Її носії - ті, хто бажає підтримувати традиції та вірування стародавніх народів з колоніальної ери.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Moffic = Moffic
-trait-description-Moffic =
-    The language of the mothpeople, it borders on complete unintelligibility.
+trait-name-Moffic = Моффік
+trait-description-Moffic = 
+    Мова мотеподібних, на межі повної незрозумілості.
 
-trait-name-NaturalMoffic = Natural Moffic Speaker
-trait-description-NaturalMoffic =
-    The language of the mothpeople, it borders on complete unintelligibility.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalMoffic = Природний носій моффік
+trait-description-NaturalMoffic = 
+    Мова мотеподібних, на межі повної незрозумілості.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Draconic = Sinta'Unathi
-trait-description-Draconic =
-    The language of Moghes, natively spoken by the Unathi, composed of sibilant hisses and rattles.
+trait-name-Draconic = Сінта'Унатхі
+trait-description-Draconic = 
+    Мова Могеса, яку природно говорять Унатхі, складається з сиплячих шипінь та тріскотінь.
 
-trait-name-NaturalDraconic = Natural Sinta'Unathi Speaker
-trait-description-NaturalDraconic =
-    The language of Moghes, natively spoken by the Unathi, composed of sibilant hisses and rattles.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalDraconic = Природний носій сінта'унатхі
+trait-description-NaturalDraconic = 
+    Мова Могеса, яку природно говорять Унатхі, складається з сиплячих шипінь та тріскотінь.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Bubblish = Bubblish
-trait-description-Bubblish =
-    The language of Slimes. Being a mixture of bubbling noises and pops it's very difficult to speak for humans without the use of mechanical aids.
-        Through some adaptation, augmentation or clever workaround, you speak this.
+trait-name-Bubblish = Бульбашкова
+trait-description-Bubblish = 
+    Мова Слаймів. Будучи сумішшю булькаючих шумів та плесків, дуже важко говорити для людей без використання механічних допоміжних засобів.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою.
 
-trait-name-NaturalBubblish = Natural Bubblish Speaker
-trait-description-NaturalBubblish =
-    The language of Slimes. Being a mixture of bubbling noises and pops it's very difficult to speak for humans without the use of mechanical aids.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalBubblish = Природний носій бульбашкової мови
+trait-description-NaturalBubblish = 
+    Мова Слаймів. Будучи сумішшю булькаючих шумів та плесків, дуже важко говорити для людей без використання механічних допоміжних засобів.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Schechi = Schechi
-trait-description-Schechi =
-    The language of Resomi, primarily featuring frontal sounds made without rounding. Fluent speakers sound quite close to birdsong.
+trait-name-Schechi = Схечі
+trait-description-Schechi = 
+    Мова Ресомі, переважно з передніми звуками, зробленими без округлення. Вільні носії звучать дуже близько до пташиного співу.
 
-trait-name-NaturalSchechi = Natural Schechi Speaker
-trait-description-NaturalSchechi =
-    The language of Resomi, primarily featuring frontal sounds made without rounding. Fluent speakers sound quite close to birdsong.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalSchechi = Природний носій схечі
+trait-description-NaturalSchechi = 
+    Мова Ресомі, переважно з передніми звуками, зробленими без округлення. Вільні носії звучать дуже близько до пташиного співу.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Nekomimetic = Nekomimetic
-trait-description-Nekomimetic =
-    To the casual observer, this language is an incomprehensible mess of broken Japanese. To the Felinids and Oni, it's somehow comprehensible.
+trait-name-Nekomimetic = Некоміметічна
+trait-description-Nekomimetic = 
+    Для випадкового спостерігача ця мова - незрозумілий безлад зламаної японської. Для фелінідів та оні це якось зрозуміло.
 
-trait-name-NaturalNekomimetic = Natural Nekomimetic Speaker
-trait-description-NaturalNekomimetic =
-    To the casual observer, this language is an incomprehensible mess of broken Japanese. To the Felinids and Oni, it's somehow comprehensible.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalNekomimetic = Природний носій некоміметічної мови
+trait-description-NaturalNekomimetic = 
+    Для випадкового спостерігача ця мова - незрозумілий безлад зламаної японської. Для фелінідів та оні це якось зрозуміло.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Kagebun = Kagebun
-trait-description-Kagebun =
-    An ancient language primarily used by the yōkai, originating from their supernatural roots.
-        To the uninitiated, it is a chorus of sounds ranging from eerie whispers to ritualistic chanting.
-        To those who speak it, it is a living tongue that links them to the spirit world and their ancient pacts.
+trait-name-Kagebun = Каґебун
+trait-description-Kagebun = 
+    Стародавня мова, якою переважно користуються йокаї, що походить від їхнього надприродного коріння.
+        Для непосвячених це хор звуків, що варіюються від моторошного шепоту до ритуальних співів.
+        Для тих, хто нею говорить, це жива мова, яка зв'язує їх зі світом духів та їхніми стародавніми договорами.
 
-trait-name-NaturalKagebun = Natural Kagebun Speaker
-trait-description-NaturalKagebun =
-    An ancient language primarily used by the yōkai, originating from their supernatural roots.
-        To the uninitiated, it is a chorus of sounds ranging from eerie whispers to ritualistic chanting.
-        To those who speak it, it is a living tongue that links them to the spirit world and their ancient pacts.
-        Through some adaptation, augmentation or clever workaround, you speak this instead of your species's usual natural language.
+trait-name-NaturalKagebun = Природний носій каґебун
+trait-description-NaturalKagebun = 
+    Стародавня мова, якою переважно користуються йокаї, що походить від їхнього надприродного коріння.
+        Для непосвячених це хор звуків, що варіюються від моторошного шепоту до ритуальних співів.
+        Для тих, хто нею говорить, це жива мова, яка зв'язує їх зі світом духів та їхніми стародавніми договорами.
+        Завдяки деякій адаптації, покращенню або кмітливому обхідному шляху, ви говорите цією мовою замість звичайної природної мови вашого виду.
 
-trait-name-Bilingual = Bilingual
-trait-description-Bilingual = By upbringing or by immersion, you've picked up more languages than most. You're able to speak two languages in addition to your native tongue.
+trait-name-Bilingual = Двомовний
+trait-description-Bilingual = Через виховання або занурення ви вивчили більше мов, ніж більшість. Ви здатні говорити двома мовами на додаток до вашої рідної мови.
 
-trait-name-Trilingual = Trilingual
-trait-description-Trilingual = You're well-traveled or had a very diverse upbringing. You're able to speak three languages in addition to your native tongue.
+trait-name-Trilingual = Тримовний
+trait-description-Trilingual = Ви багато подорожували або мали дуже різноманітне виховання. Ви здатні говорити трьома мовами на додаток до вашої рідної мови.
 
-trait-name-Quadrilingual = Quadrilingual
-trait-description-Quadrilingual = You've been to more places than you can count, and picked up more than a few languages along the way. You're able to speak four languages in addition to your native tongue.
+trait-name-Quadrilingual = Чотиримовний
+trait-description-Quadrilingual = Ви побували в більшій кількості місць, ніж можете порахувати, і по дорозі вивчили більше ніж декілька мов. Ви здатні говорити чотирма мовами на додаток до вашої рідної мови.

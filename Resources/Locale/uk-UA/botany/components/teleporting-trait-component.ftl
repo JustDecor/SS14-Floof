@@ -1,1 +1,1 @@
-teleporting-trait-component-slipped = You slip through bluespace!
+teleporting-trait-component-slipped = Ти прослизаєш крізь блюспейс простір!

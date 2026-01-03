@@ -1,4 +1,4 @@
 ﻿price-gun-pricing-result = The device deems {THE($object)} to be worth {$price} spesos.
-price-gun-verb-text = Appraisal
-price-gun-verb-message = Appraise {THE($object)}.
-price-gun-bounty-complete = The device confirms that the bounty contained within is completed.
+price-gun-verb-text = Оцінка
+price-gun-verb-message = Оцінити вартість предмету: {THE($object)}.
+price-gun-bounty-complete = Пристрій підтверджує, що винагорода, яка міститься всередині, виконана.

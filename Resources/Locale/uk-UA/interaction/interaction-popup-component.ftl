@@ -2,117 +2,117 @@
 
 ## Petting animals
 
-petting-success-generic = You pet {THE($target)} on {POSS-ADJ($target)} head.
-petting-success-soft-floofy = You pet {THE($target)} on {POSS-ADJ($target)} soft floofy head.
+petting-success-generic = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} голові.
+petting-success-soft-floofy = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} м'якій пухнастій голові.
 
-petting-success-bingus = You pet {THE($target)} on {POSS-ADJ($target)} wrinkly little head.
-petting-success-bird = You pet {THE($target)} on {POSS-ADJ($target)} cute feathery head.
-petting-success-carp = You pet {THE($target)} on {POSS-ADJ($target)} fishy little head.
-petting-success-cat = You pet {THE($target)} on {POSS-ADJ($target)} fuzzy little head.
-petting-success-corrupted-corgi = In an act of hubris, you pet {THE($target)} on {POSS-ADJ($target)} cursed little head.
-petting-success-crab = You pet {THE($target)} on {POSS-ADJ($target)} smooth little head.
-petting-success-dehydrated-carp = You pet {THE($target)} on {POSS-ADJ($target)} dry little head. {CAPITALIZE(OBJECT($target))} seems to like you now!
-petting-success-dog = You pet {THE($target)} on {POSS-ADJ($target)} soft floofy head.
-petting-success-frog = You pet {THE($target)} on {POSS-ADJ($target)} slippery little head.
-petting-success-goat = You pet {THE($target)} on {POSS-ADJ($target)} horned floofy head.
-petting-success-goose = Against all odds, you manage to pet {THE($target)} on {POSS-ADJ($target)} horrible little head.
-petting-success-kangaroo = You pet {THE($target)} on {POSS-ADJ($target)} Strayan head.
-petting-success-possum = You pet {THE($target)} on {POSS-ADJ($target)} horrible little head.
-petting-success-pig = You pet {THE($target)} on {POSS-ADJ($target)} hairy head.
-petting-success-raccoon = You pet {THE($target)} on {POSS-ADJ($target)} trash eating little head.
-petting-success-reptile = You pet {THE($target)} on {POSS-ADJ($target)} scaly little head.
-petting-success-sloth = You pet {THE($target)} on {POSS-ADJ($target)} slow moving head.
-petting-success-space-cat = You pet {THE($target)} on {POSS-ADJ($target)} glass domed head.
-petting-success-tarantula = You pet {THE($target)} on {POSS-ADJ($target)} hairy little head.
-petting-success-holo = You pet {THE($target)} on {POSS-ADJ($target)} metallic spiky head.
-petting-success-dragon = Dodging teeth, claws, and flames, you pet {THE($target)} on {POSS-ADJ($target)} massive scaled head.
-petting-success-hamster = You pet {THE($target)} on {POSS-ADJ($target)} fluffy little head.
-petting-success-bear = You reluctantly pet {THE($target)} on {POSS-ADJ($target)} mystical head.
-petting-success-slimes = You pet {THE($target)} on {POSS-ADJ($target)} mucous surface.
-petting-success-snake = You pet {THE($target)} on {POSS-ADJ($target)} scaly large head.
-petting-success-monkey = You pet {THE($target)} on {POSS-ADJ($target)} mischevious little head.
-petting-success-nymph = You pet {THE($target)} on {POSS-ADJ($target)} wooden little head.
+petting-success-bingus = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} зморшкуватій голівці.
+petting-success-bird = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} милій пір'ястій голові.
+petting-success-carp = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} милій риб'ячій голові.
+petting-success-cat = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} кучерявій голівці.
+petting-success-corrupted-corgi = {THE($target)} гордиливо отримує ващі пестощі по {POSS-ADJ($target)} проклятій голівноці.
+petting-success-crab = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} твердій голові.
+petting-success-dehydrated-carp = Ти пестиш {THE($target)} по {POSS-ADJ($target)} висушеній маленькій голові. {CAPITALIZE(OBJECT($target))} схоже тепер тебе любить!
+petting-success-dog = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} м'якій пухнастій голові.
+petting-success-frog = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} слизькій голівці.
+petting-success-goat = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} рогатій пухнастій голові.
+petting-success-goose = Наперекір всьому, {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} жахливій голівці.
+petting-success-kangaroo = Ви гладите {THE($target)} по {POSS-ADJ($target)} голові Страяна.
+petting-success-possum = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} страшній голівці.
+petting-success-pig = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} волохатій голові.
+petting-success-raccoon = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} сміттєядній маленькій голові.
+petting-success-reptile = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} лускатій голівці.
+petting-success-sloth = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} голові, що повільно рухається.
+petting-success-space-cat = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} скляному куполу.
+petting-success-tarantula = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} волохатій голівці.
+petting-success-holo = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} металевій шипастій голові.
+petting-success-dragon = Ухиляючись від зубів, пазурів та вогню, ви пестите тварину «{THE($target)}» по {POSS-ADJ($target)} масивній лускатій голові.
+petting-success-hamster = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} м'якій пухнастій голові.
+petting-success-bear = Ти неохоче пестиш {THE($target)} по {POSS-ADJ($target)} містичній голові.
+petting-success-slimes = {THE($target)} отримує ваші пестощі по {POSS-ADJ($target)} слизькій голівці.
+petting-success-snake = {THE($target)} отримує ваші пестощі по {POSS-ADJ($target)} лускатій великій голові.
+petting-success-monkey = {THE($target)} отримує ваші пестощі по {POSS-ADJ($target)} пустотливій голівці.
+petting-success-nymph = Ви гладите {THE($target)} по {POSS-ADJ($target)} дерев’яній голівці.
 
-petting-failure-generic = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} aloof towards you.
+petting-failure-generic = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} не виглядає зацікавлено.
 
-petting-failure-bat = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} too hard to catch!
-petting-failure-carp = You reach out to pet {THE($target)}, but {POSS_ADJ($target)} sharp teeth make you think twice.
-petting-failure-corrupted-corgi = You reach out to pet {THE($target)}, but think better of it.
-petting-failure-crab = You reach out to pet {THE($target)}, but {SUBJECT($target)} snaps {POSS-ADJ($target)} claws in your general direction!
-petting-failure-dehydrated-carp = You pet {THE($target)} on {POSS-ADJ($target)} dry little head.
-petting-failure-goat = You reach out to pet {THE($target)}, but {SUBJECT($target)} stubbornly refuses!
-petting-failure-goose = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} too horrible!
-petting-failure-possum = You reach out to pet {THE($target)}, but are met with hisses and snarls!
-petting-failure-pig = You reach out to pet {THE($target)}, but are met with irritated oinks and squeals!
-petting-failure-raccoon = You reach out to pet {THE($target)}, but {THE($target)} is busy raccooning around.
-petting-failure-sloth = You reach out to pet {THE($target)}, but {SUBJECT($target)} somehow dodge with ludicrous speed!
-petting-failure-holo = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} spikes almost impale your hand!
-petting-failure-dragon = You raise your hand, but as {THE($target)} roars, you decide you'd rather not be toasty carp food.
-petting-failure-hamster = You reach out to pet {THE($target)}, but {SUBJECT($target)} attempts to bite your finger and only your quick reflexes save you from an almost fatal injury.
-petting-failure-pibble = You reach out to pet {THE($target)}, and {SUBJECT($target)} lunges at you!
-petting-failure-bear = You reach out to pet {THE($target)}, but {SUBJECT($target)} growls, making you think twice.
-petting-failure-monkey = You reach out to pet {THE($target)}, but {SUBJECT($target)} almost bites your fingers!
-petting-failure-nymph = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} moves their branches away.
-petting-failure-shadow = You're trying to pet {THE($target)}, but your hand passes through the cold darkness of his body.
+petting-failure-bat = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} не спіймати!
+petting-failure-carp = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} гострі зуби змушують задуматися.
+petting-failure-corrupted-corgi = Ви тягнетесь, аби попестити тварину «{THE($target)}», але подумайте двічі.
+petting-failure-crab = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} клацає {POSS-ADJ($target)} щелепами у вашому напрямку!
+petting-failure-dehydrated-carp = Ви пестите {THE($target)} по {POSS-ADJ($target)} сухій маленькі голові.
+petting-failure-goat = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} вперто відмовляється!
+petting-failure-goose = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} надто лячний!
+petting-failure-possum = Ви тягнетесь, аби попестити тварину «{THE($target)}», але отримуєте лише гарчання та шипіння!
+petting-failure-pig = Ви тягнетесь, аби попестити тварину {THE($target)}, але зустрів роздратовані хрю та вереск!
+petting-failure-raccoon = Ви тягнетесь, аби попестити тварину {THE($target)}, але {THE($target)} занадто заєнотився у своїх справах.
+petting-failure-sloth = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)}, якимсь чином, ухиляється напрочуд швидко!
+petting-failure-holo = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {POSS-ADJ($target)} шипи мало не проколюють вашу долоню!
+petting-failure-dragon = Ви піднімаєте руку, але коли {THE($target)} починає гарчати, ви вирішуєте, що краще не ставати смачною їжею.
+petting-failure-hamster = Ви тягнетесь, аби попестити тварину «{THE($target)}», але {SUBJECT($target)} спробував вкусити ваш палець. Тільки швидкі рефлекси врятували вас від фатальної помилки.
+petting-failure-pibble = Ви простягаєте руку, щоб погладити {THE($target)}, а {SUBJECT($target)} кидається на вас!
+petting-failure-bear = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} гарчить, змушуючи вас двічі задуматися.
+petting-failure-monkey = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} майже кусає ваші зуби!
+petting-failure-nymph = Ви простягаєте руку, щоб погладити {THE($target)}, але {POSS-ADJ($target)} відсуває свої гілки.
+petting-failure-shadow = Ви намагаєтеся погладити {THE($target)}, але ваша рука проходить крізь холодну темряву його тіла.
 
 ## Petting silicons
 
-petting-success-honkbot = You pet {THE($target)} on {POSS-ADJ($target)} slippery metal head.
-petting-success-mimebot = You pet {THE($target)} on {POSS-ADJ($target)} cold metal head.
-petting-success-cleanbot = You pet {THE($target)} on {POSS-ADJ($target)} damp metal head.
-petting-success-medibot = You pet {THE($target)} on {POSS-ADJ($target)} sterile metal head.
-petting-success-weldbot = You pet {THE($target)} on {POSS-ADJ($target)} stained metal head.
-petting-success-firebot = You pet {THE($target)} on {POSS-ADJ($target)} warm metal head.
-petting-success-generic-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} metal head.
-petting-success-salvage-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} dirty metal head.
-petting-success-engineer-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} reflective metal head.
-petting-success-janitor-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} damp metal head.
-petting-success-medical-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} sterile metal head.
-petting-success-service-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} dapper looking metal head.
-petting-success-syndicate-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} menacing metal head.
-petting-success-derelict-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} rusty metal head.
-petting-success-recycler = You pet {THE($target)} on {POSS-ADJ($target)} mildly threatening steel exterior.
-petting-success-gladiabot = You pet {THE($target)} on {POSS-ADJ($target)} vicious cardboard head.
-petting-success-batonbot = You pet {THE($target)} on {POSS-ADJ($target)} protective metal head.
-petting-success-disablerbot = You pet {THE($target)} on {POSS-ADJ($target)} protective metal head.
-petting-success-fillbot = You pet {THE($target)} on {POSS-ADJ($target)} diligent metal head.
-petting-success-station-ai = You pet {THE($target)} on {POSS-ADJ($target)} cold, square screen.
+petting-success-honkbot = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} кумедній металевій голові.
+petting-success-mimebot = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} холодній металевій голові.
+petting-success-cleanbot = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} вологій металевій голові.
+petting-success-medibot = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} стерильній металевій голові.
+petting-success-weldbot = Ви гладите {THE($target)} по {POSS-ADJ($target)} заплямованій металевій голові.
+petting-success-firebot = Ви гладите {THE($target)} по {POSS-ADJ($target)} теплій металевій голові.
+petting-success-generic-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} металевій голові.
+petting-success-salvage-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} брудній металевій голові.
+petting-success-engineer-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} блискучій металевій голові.
+petting-success-janitor-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} вологій металевій голові.
+petting-success-medical-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} стерильній металевій голові.
+petting-success-service-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} елегантній на вигляд металевій голові.
+petting-success-syndicate-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} загрозливій металевій голові.
+petting-success-derelict-cyborg = Ви гладите {THE($target)} по {POSS-ADJ($target)} іржавій металевій голові.
+petting-success-recycler = {THE($target)} отримує ващі пестощі по {POSS-ADJ($target)} помірно загрозливій сталевій голові.
+petting-success-gladiabot = Ви гладите {THE($target)} по {POSS-ADJ($target)} злісній картонній голові.
+petting-success-batonbot = Ви гладите {THE($target)} по {POSS-ADJ($target)} захисній металевій голові.
+petting-success-disablerbot = Ви гладите {THE($target)} по {POSS-ADJ($target)} захисній металевій голові.
+petting-success-fillbot = Ви гладите {THE($target)} по {POSS-ADJ($target)} старанній металевій голові.
+petting-success-station-ai = Ви гладите {THE($target)} по {POSS-ADJ($target)} холодному, квадратному екрану.
 
-petting-failure-honkbot = You reach out to pet {THE($target)}, but {SUBJECT($target)} honks in refusal!
-petting-failure-cleanbot = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy mopping!
-petting-failure-plantbot = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} clippers nearly snip your fingers off!
-petting-failure-mimebot = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy miming!
-petting-failure-medibot = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} syringe nearly stabs your hand!
+petting-failure-honkbot = Ви тягнетесь, аби попестити «{THE($target)}», але {SUBJECT($target)} обурливо сигналить!
+petting-failure-cleanbot = Ви тягнетесь, аби попестити «{THE($target)}», але {SUBJECT($target)} зайнятий прибиранням!
+petting-failure-plantbot = Ви простягаєте руку, щоб погладити {THE($target)}, але {POSS-ADJ($target)} ножиці ледь не відрізали вам пальці!
+petting-failure-mimebot = Ви тягнетесь, аби попестити {THE($target)}, але {SUBJECT($target)} зайнятий мімікою!
+petting-failure-medibot = Ви тягнетесь, аби попестити «{THE($target)}», але {POSS-ADJ($target)} шприц ледь не вколов вашу долоню!
 
-petting-failure-firebot = You reach out to pet {THE($target)}, but {SUBJECT($target)} sprays you in the face before you can get close!
-petting-failure-generic-cyborg = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy stating laws!
-petting-failure-salvage-cyborg = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy drilling!
-petting-failure-engineer-cyborg = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy repairing!
-petting-failure-janitor-cyborg = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy cleaning!
-petting-failure-medical-cyborg = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy saving lives!
-petting-failure-service-cyborg = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy serving others!
-petting-failure-weldbot = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} welder nearly burns your hand!
-petting-failure-gladiabot = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} only wants to fight!
-petting-failure-batonbot = You reach out to pet {THE($target)}, but {SUBJECT($target)} nearly prods you with its baton!
-petting-failure-disablerbot = You reach out to pet {THE($target)}, but {SUBJECT($target)} angrily waves its weapon at you!
-petting-failure-fillbot = You reach out to pet {THE($target)}, but {SUBJECT($target)} pushes your hand away!
-petting-failure-syndicate-cyborg = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} treacherous affiliation makes you reconsider.
-petting-failure-derelict-cyborg = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} rusty and jagged exterior makes you reconsider.
-petting-failure-station-ai = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "zaps")} your hand away.
+petting-failure-firebot = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} бризкає вам в обличчя, перш ніж ви встигаєте наблизитися!
+petting-failure-generic-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BE($target)} зайнятий переліченням законів!
+petting-failure-salvage-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BE($target)} зайнятий бурінням!
+petting-failure-engineer-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BE($target)} зайнятий ремонтом!
+petting-failure-janitor-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BE($target)} зайнятий прибиранням!
+petting-failure-medical-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BE($target)} зайнятий порятунком життів!
+petting-failure-service-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BE($target)} зайнятий обслуговуванням інших!
+petting-failure-weldbot = Ви простягаєте руку, щоб погладити {THE($target)}, але {POSS-ADJ($target)} зварювальний апарат ледь не обпікає вашу руку!
+petting-failure-gladiabot = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} лише хоче битися!
+petting-failure-batonbot = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} ледь не тицяє вас своєю палицею!
+petting-failure-disablerbot = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} сердито махає на вас своєю зброєю!
+petting-failure-fillbot = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} відштовхує вашу руку!
+petting-failure-syndicate-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {POSS-ADJ($target)} зрадницька приналежність змушує вас передумати.
+petting-failure-derelict-cyborg = Ви простягаєте руку, щоб погладити {THE($target)}, але {POSS-ADJ($target)} іржавий та зазубрений вигляд змушує вас передумати.
+petting-failure-station-ai = Ви простягаєте руку, щоб погладити {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "zaps")} вашу руку геть.
 
-petting-success-station-ai-others = { CAPITALIZE(THE($user)) } pets {THE($target)} on {POSS-ADJ($target)} cold, square screen.
+petting-success-station-ai-others = { CAPITALIZE(THE($user)) } гладить {THE($target)} по {POSS-ADJ($target)} холодному, квадратному екрану.
 ## Rattling fences
 
-fence-rattle-success = *rattle*
+fence-rattle-success = *брязкіт*
 
 ## Hugging players
 
-hugging-success-generic = You hug {THE($target)}.
-hugging-success-generic-others = { CAPITALIZE(THE($user)) } hugs {THE($target)}.
-hugging-success-generic-target = { CAPITALIZE(THE($user)) } hugs you.
+hugging-success-generic = {THE($target)} тане в обіймах.
+hugging-success-generic-others = { CAPITALIZE(THE($user)) } обіймає {THE($target)}.
+hugging-success-generic-target = { CAPITALIZE(THE($user)) } обіймає вас.
 
 ## Other
 
-petting-success-tesla = You pet {THE($target)}, violating the laws of nature and physics.
+petting-success-tesla = Ви гладите {THE($target)}, порушуючи закони природи та фізики.
 
-petting-failure-tesla = You reach out towards {THE($target)}, but it zaps your hand away.
+petting-failure-tesla = Ви простягаєте руку до {THE($target)}, але {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "zaps")} вашу руку геть.

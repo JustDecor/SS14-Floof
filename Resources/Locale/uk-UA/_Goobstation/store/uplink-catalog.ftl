@@ -1,7 +1,7 @@
 # Mechs
 # Floof - Descriptions altered
-uplink-mech-teleporter-heavy-name = Heavy Mech teleporter
-uplink-mech-teleporter-heavy-desc = Contains a heavily armored Cybersun mech with an integrated chainsword, MG-30V "Crashout", KS-50V "Punisher", Type 267 Missile Rack and Schema 86 tesla cannon.
+uplink-mech-teleporter-heavy-name = Телепортер важкого меха
+uplink-mech-teleporter-heavy-desc = Містить важкоброньований мех Cybersun з інтегрованим ланцюговим мечем, Ultra AC-2, LBX AC 10 "Scattershot", ракетною установкою BRM-6 та тесла-гарматою P-X.
 
-uplink-mech-teleporter-assault-name = Assault Mech teleporter
-uplink-mech-teleporter-assault-desc = Contains a lightly armored Cybersun mech with an integrated chainsword, KS-50V "Punisher", MLS-8 "Masterkey" light missile rack and Schema 86 tesla cannon.
+uplink-mech-teleporter-assault-name = Телепортер штурмового меха
+uplink-mech-teleporter-assault-desc = Містить легкоброньований мех Cybersun з інтегрованим ланцюговим мечем, LBX AC 10 "Scattershot", легкою ракетною установкою SRM-8 та тесла-гарматою P-X.

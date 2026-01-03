@@ -1,5 +1,5 @@
-reagent-name-traumoxadone = traumoxadone
-reagent-desc-traumoxadone = A cryogenics chemical. Used to treat severe trauma via regeneration of the damaged tissue. Works regardless of the patient being alive or dead.  Product of Mystic Medical
+reagent-name-traumoxadone = травмоксадон
+reagent-desc-traumoxadone = Кріогенна хімічна речовина. Використовується для лікування важкої травми через регенерацію пошкодженої тканини. Працює незалежно від того, живий пацієнт чи мертвий. Продукт Mystic Medical
 
-reagent-name-stelloxadone = stelloxadone
-reagent-desc-stelloxadone = A cryogenics chemical. Used to aggressively dissolve toxins from the body. Works regardless of the patient being alive or dead.  Product of Mystic Medical
+reagent-name-stelloxadone = стеллоксадон
+reagent-desc-stelloxadone = Кріогенна хімічна речовина. Використовується для агресивного розчинення токсинів з організму. Працює незалежно від того, живий пацієнт чи мертвий. Продукт Mystic Medical

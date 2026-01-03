@@ -1,1 +1,1 @@
-flavor-complex-fentanyl = burning tar
+flavor-complex-fentanyl = палаючий дьоготь

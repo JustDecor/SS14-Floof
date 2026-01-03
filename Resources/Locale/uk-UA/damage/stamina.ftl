@@ -1,5 +1,5 @@
-melee-stamina = Not enough stamina
+melee-stamina = Не вистачає витривалості
 
-slow-on-damage-modifier-examine = Slowness from injuries is reduced by [color=yellow]{$mod}%[/color].
+slow-on-damage-modifier-examine = Повільність від поранень зменшується на [color=yellow]{$mod}%[/color]
 
-throw-no-stamina = You don't have enough stamina to throw the {$item}!
+throw-no-stamina = У вас недостатньо витривалості, щоб кинути {$item}!

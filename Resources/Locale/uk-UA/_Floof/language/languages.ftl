@@ -1,17 +1,21 @@
-language-Ratvarian-name = Ratvarian
-language-Ratvarian-description = The language of the cult of Ratvar. Some have worked out how to decipher the language, but be it through growing up Ratvarian or divine intervention, speaking and understanding it comes naturally to you.
+language-Ratvarian-name = Ратваріанська
+language-Ratvarian-description = Мова культу Ратвара. Деякі навчилися розшифровувати цю мову, але чи то через виховання як ратваріанець, чи божественне втручання, говоріння та розуміння приходить до вас природно.
 
-language-Schechi-name = Schechi
-language-Schechi-description = The language of Resomi, primarily featuring frontal sounds made without rounding. Fluent speakers sound quite close to birdsong.
+language-Schechi-name = Шечі
+language-Schechi-description = Мова Ресомі, що переважно складається з передніх звуків, які вимовляються без заокруглення губ. Носії мови звучать дуже схоже на пташиний спів.
 
-language-NewKinPidgin-name = Ka'rakk
-language-NewKinPidgin-description = A debased dialect cobbled together by lower-caste Vox, mangled beyond recognition.
-    While a primitive and clumsy attempt resulting in a dull, simplified mockery of their true language,
-    higher-caste Vox can still discern meaning within the crude approximations.
-    It sounds like chaotic shrieking to everyone else.
+language-NewKinPidgin-name = Ка'ракк
+language-NewKinPidgin-description = Знецінений діалект, нашвидкуруч складений воксами нижчої касти, спотворений до невпізнання.
+    Хоча це примітивна і незграбна спроба, що призвела до тьмяної, спрощеної пародії на їхню справжню мову,
+    вищі касти воксів все ще можуть розрізнити сенс у грубих наближеннях.
+    Для всіх інших це звучить як хаотичний вереск.language-OldKinPidgin-description = Давня матриця звуку і думки, що передує мовному спрощенню.
+    Її шаблони відображають глибшу свідомість старшої касти, створюючи симфонію значення
+    і несучи мудрість, що існує поза обмеженим фонологічним діапазоном молодшої родини.
+    Для всіх інших це все ще звучить як хаотичний вереск.
+
 
 language-OldKinPidgin-name = Zhra'kht
-language-OldKinPidgin-description = An ancient matrix of sound and thought that predates linguistic simplification.
-    Its patterns reflect the deeper consciousness of the elder caste, creating a symphony of meaning
-    and carrying wisdom that exists beyond the limited phonological range of younger kin.
-    It "still" sounds like chaotic shrieking to everyone else.
+language-OldKinPidgin-description = Давня матриця звуку і думки, що передує мовному спрощенню.
+    Її шаблони відображають глибшу свідомість старшої касти, створюючи симфонію значення
+    і несучи мудрість, що існує поза обмеженим фонологічним діапазоном молодшої родини.
+    Для всіх інших це все ще звучить як хаотичний вереск.

@@ -1,24 +1,24 @@
-custom-exam-guidelines-heading = Guidelines
-custom-exam-guidelines =
-    {"["}color=yellow]1.[/color] Be [color=#8020ff]concise[/color]. Not everyone will have time to read long paragraphs.
-    {"["}color=yellow]2.[/color] When including [color=red]ERP/NSFW content[/color], enable the [color=8020ff]NSFW toggle[/color]. Only people consenting to it will see it.
-    {"["}color=yellow]3.[/color] Stay [color=8020ff]in-character[/color]. Include things other character would [color=8020ff]see[/color] or otherwise [color=8020ff]perceive[/color] about your character. Don't include subjective info, for example "they look good".
-    {"["}color=yellow]4.[/color] If necessary, you can use same markup tags in your text as on paper (for example, "\[color=red\]red text\[color\]" to create [color=red]red text[/color]). However, you cannot use headings (because they increase font size drastically). Markup tags won't count towards the character limit.
-custom-exam-part-title-nsfw = NSFW (require consent)
-custom-exam-title-distance = Visible at distance:
-custom-exam-title-expiration = Clear after (minutes):
+custom-exam-guidelines-heading = Інструкції
+custom-exam-guidelines = 
+    {"["}color=yellow]1.[/color] Будьте [color=#8020ff]лаконічними[/color]. Не у всіх буде час читати довгі параграфи.
+    {"["}color=yellow]2.[/color] Коли включаєте [color=red]ERP/NSFW контент[/color], увімкніть [color=8020ff]NSFW перемикач[/color]. Тільки люди, які дали згоду, побачать це.
+    {"["}color=yellow]3.[/color] Залишайтеся [color=8020ff]в ролі[/color]. Включайте речі, які інший персонаж би [color=8020ff]побачив[/color] або іншим чином [color=8020ff]сприйняв[/color] про вашого персонажа. Не включайте суб'єктивну інформацію, наприклад "вони виглядають добре".
+    {"["}color=yellow]4.[/color] Якщо необхідно, ви можете використовувати ті ж теги розмітки у вашому тексті, що й на папері (наприклад, "\[color=red\]червоний текст\[color\]" для створення [color=red]червоного тексту[/color]). Однак ви не можете використовувати заголовки (оскільки вони значно збільшують розмір шрифту). Теги розмітки не враховуються в ліміт символів.
+custom-exam-part-title-nsfw = NSFW (потрібна згода)
+custom-exam-title-distance = Видно на відстані:
+custom-exam-title-expiration = Очистити через (хвилини):
 
-custom-exam-title = Custom examination settings
-custom-exam-public-title = Public examine
-custom-exam-subtle-title = Subtle examine
-custom-exam-reset = Reset
-custom-exam-save = Save changes
+custom-exam-title = Налаштування власного огляду
+custom-exam-public-title = Публічний огляд
+custom-exam-subtle-title = Тонкий огляд
+custom-exam-reset = Скинути
+custom-exam-save = Зберегти зміни
 
-custom-exam-part-content-tooltip = What other people will see when examining your character. Example: "They look tired of their job."
-custom-exam-part-distance-tooltip = From how far away (in meters) will this tooltip category will be visible.
-custom-exam-part-expiration-tooltip = How long (in minutes) until this tooltip expires. The last saved description will expire in {$minutes} minutes (unless you hit save).
+custom-exam-part-content-tooltip = Що інші люди побачать при огляді вашого персонажа. Приклад: "Вони виглядають втомленими від своєї роботи."
+custom-exam-part-distance-tooltip = З якої відстані (у метрах) ця категорія підказки буде видимою.
+custom-exam-part-expiration-tooltip = Як довго (у хвилинах) до закінчення терміну дії цієї підказки. Останній збережений опис закінчиться через {$minutes} хвилин (якщо ви не натиснете зберегти).
 
-custom-examine-too-long = (too long, may lose data)
+custom-examine-too-long = (занадто довго, можуть бути втрачені дані)
 
-custom-examine-verb = Custom Examine
-custom-examine-nsfw-hidden = [color=#9999a9]<More is hidden due to consent prefs>[/color]
+custom-examine-verb = Власний огляд
+custom-examine-nsfw-hidden = [color=#9999a9]<Більше приховано через налаштування згоди>[/color]

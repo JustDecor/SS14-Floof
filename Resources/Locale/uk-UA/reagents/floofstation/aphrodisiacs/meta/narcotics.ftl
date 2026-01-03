@@ -1,2 +1,2 @@
-reagent-name-libidozenithizine = libidozenithizine
-reagent-desc-libidozenithizine = An incredibly potent aphrodisiac. A controlled substance under space law, with ample punishment if abused. It will cause even the most reserved to lose their inhibition. Overdose is known to cause Nymphomania.
+reagent-name-libidozenithizine = лібідозенітизин
+reagent-desc-libidozenithizine = Надзвичайно потужний афродизіак. Контрольована речовина за космічним законодавством із суворим покаранням за зловживання. Викликає втрату заборон навіть у найстриманіших. Передозування може спричинити німфоманію.

@@ -1,53 +1,53 @@
 ﻿### Localization for role ban command
 
-cmd-roleban-desc = Bans a player from a role
-cmd-roleban-help = Usage: roleban <name or user ID> <job> <reason> [duration in minutes, leave out or 0 for permanent ban]
+cmd-roleban-desc = Банить гравця від ролі
+cmd-roleban-help = Використання: roleban <ім'я або ID користувача> <професія> <причина> [тривалість у хвилинах, залиште пустим або 0 для постійного бану]
 
 ## Completion result hints
-cmd-roleban-hint-1 = <name or user ID>
-cmd-roleban-hint-2 = <job>
-cmd-roleban-hint-3 = <reason>
-cmd-roleban-hint-4 = [duration in minutes, leave out or 0 for permanent ban]
-cmd-roleban-hint-5 = [severity]
+cmd-roleban-hint-1 = <ім'я або ID користувача>
+cmd-roleban-hint-2 = <професія>
+cmd-roleban-hint-3 = <причина>
+cmd-roleban-hint-4 = [тривалість у хвилинах, залиште пустим або 0 для постійного]
+cmd-roleban-hint-5 = [суворість]
 
-cmd-roleban-hint-duration-1 = Permanent
-cmd-roleban-hint-duration-2 = 1 day
-cmd-roleban-hint-duration-3 = 3 days
-cmd-roleban-hint-duration-4 = 1 week
-cmd-roleban-hint-duration-5 = 2 week
-cmd-roleban-hint-duration-6 = 1 month
+cmd-roleban-hint-duration-1 = Постійно
+cmd-roleban-hint-duration-2 = 1 день
+cmd-roleban-hint-duration-3 = 3 дні
+cmd-roleban-hint-duration-4 = 1 тиждень
+cmd-roleban-hint-duration-5 = 2 тижні
+cmd-roleban-hint-duration-6 = 1 місяць
 
 
 ### Localization for role unban command
 
-cmd-roleunban-desc = Pardons a player's role ban
-cmd-roleunban-help = Usage: roleunban <role ban id>
+cmd-roleunban-desc = Знімає бан з ролі гравця
+cmd-roleunban-help = Використання: roleunban <ID бану ролі>
 
 ## Completion result hints
-cmd-roleunban-hint-1 = <role ban id>
+cmd-roleunban-hint-1 = <ID бану ролі>
 
 
 ### Localization for roleban list command
 
-cmd-rolebanlist-desc = Lists the user's role bans
-cmd-rolebanlist-help = Usage: <name or user ID> [include unbanned]
+cmd-rolebanlist-desc = Показує список банів ролей користувача
+cmd-rolebanlist-help = Використання: <ім'я або ID користувача> [включити зняті бани]
 
 ## Completion result hints
-cmd-rolebanlist-hint-1 = <name or user ID>
-cmd-rolebanlist-hint-2 = [include unbanned]
+cmd-rolebanlist-hint-1 = <ім'я або ID користувача>
+cmd-rolebanlist-hint-2 = [включити зняті бани]
 
 
-cmd-roleban-minutes-parse = {$time} is not a valid amount of minutes.\n{$help}
-cmd-roleban-severity-parse = ${severity} is not a valid severity\n{$help}.
-cmd-roleban-arg-count = Invalid amount of arguments.
-cmd-roleban-job-parse = Job {$job} does not exist.
-cmd-roleban-name-parse = Unable to find a player with that name.
-cmd-roleban-existing = {$target} already has a role ban for {$role}.
-cmd-roleban-success = Role banned {$target} from {$role} with reason {$reason} {$length}.
+cmd-roleban-minutes-parse = {$time} не є дійсною кількістю хвилин.\n{$help}
+cmd-roleban-severity-parse = {$severity} не є дійсною суворістю\n{$help}.
+cmd-roleban-arg-count = Невірна кількість аргументів.
+cmd-roleban-job-parse = Професія {$job} не існує.
+cmd-roleban-name-parse = Не вдалося знайти гравця з таким ім'ям.
+cmd-roleban-existing = {$target} вже має бан для ролі {$role}.
+cmd-roleban-success = Забанено гравця {$target} від ролі {$role} з причиною {$reason} {$length}.
 
-cmd-roleban-inf = permanently
-cmd-roleban-until =  until {$expires}
+cmd-roleban-inf = назавжди
+cmd-roleban-until = до {$expires}
 
 # Department bans
-cmd-departmentban-desc = Bans a player from the roles comprising a department
-cmd-departmentban-help = Usage: departmentban <name or user ID> <department> <reason> [duration in minutes, leave out or 0 for permanent ban]
+cmd-departmentban-desc = Банить гравця від ролей, що складають відділ
+cmd-departmentban-help = Використання: departmentban <ім'я або ID користувача> <відділ> <причина> [тривалість у хвилинах, залиште пустим або 0 для постійного]

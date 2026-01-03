@@ -1,5 +1,5 @@
-chat-language-SiikMaas-name = Siik'maas
-chat-language-YaSsa-name = Ya'ssa
-chat-language-Delvahii-name = Delvahii
-chat-language-NalRasan-name = Nal'Rasan
-chat-language-SiikTajr-name = Siik'Tajr
+chat-language-SiikMaas-name = Сіік'маас
+chat-language-YaSsa-name = Я'сса
+chat-language-Delvahii-name = Делвахії
+chat-language-NalRasan-name = Нал'расан
+chat-language-SiikTajr-name = Сіік'тайр

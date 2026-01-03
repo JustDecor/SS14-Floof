@@ -1,31 +1,31 @@
 ## UI
 
-injector-draw-text = Draw
-injector-inject-text = Inject
-injector-invalid-injector-toggle-mode = Invalid
-injector-volume-label = Volume: [color=white]{$currentVolume}/{$totalVolume}[/color]
-    Mode: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
+injector-draw-text = Набрати
+injector-inject-text = Ввести
+injector-invalid-injector-toggle-mode = Неправильний режим
+injector-volume-label = Кількість: [color=white]{$currentVolume}/{$totalVolume}[/color]
+    Режим: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
 
 ## Entity
 
-injector-component-drawing-text = Now drawing
-injector-component-injecting-text = Now injecting
-injector-component-cannot-transfer-message = You aren't able to transfer to {$target}!
-injector-component-cannot-draw-message = You aren't able to draw from {$target}!
-injector-component-cannot-inject-message = You aren't able to inject to {$target}!
-injector-component-inject-success-message = You inject {$amount}u into {$target}!
-injector-component-transfer-success-message = You transfer {$amount}u into {$target}.
-injector-component-draw-success-message = You draw {$amount}u from {$target}.
-injector-component-target-already-full-message = {$target} is already full!
-injector-component-target-is-empty-message = {$target} is empty!
-injector-component-cannot-toggle-draw-message = Too full to draw!
-injector-component-cannot-toggle-inject-message = Nothing to inject!
+injector-component-drawing-text = Набирання речовини
+injector-component-injecting-text = Введення речовини
+injector-component-cannot-transfer-message = Ви не можете перемістити речовину в {$target}!
+injector-component-cannot-draw-message = Ви не можете набрати речовину з {$target}!
+injector-component-cannot-inject-message = Ви не можете ввести речовину в {$target}!
+injector-component-inject-success-message = Ви ввели {$amount}u в {$target}!
+injector-component-transfer-success-message = Ви перемістили {$amount}u в {$target}.
+injector-component-draw-success-message = Ви набрали {$amount}u з {$target}.
+injector-component-target-already-full-message = {$target} вже повний!
+injector-component-target-is-empty-message = {$target} пустий!
+injector-component-cannot-toggle-draw-message = Занадто повний, щоб набрати!
+injector-component-cannot-toggle-inject-message = Нічого вводити!
 
 ## mob-inject doafter messages
 
-injector-component-drawing-user = You start drawing the needle.
-injector-component-injecting-user = You start injecting the needle.
-injector-component-drawing-target = {CAPITALIZE(THE($user))} is trying to use a needle to draw from you!
-injector-component-injecting-target = {CAPITALIZE(THE($user))} is trying to inject a needle into you!
-injector-component-deny-chitinid = {CAPITALIZE(THE($target))}'s exoskeleton is too thick for the needle to pierce.
+injector-component-drawing-user = Ви починаєте набирати голкою.
+injector-component-injecting-user = Ви починаєте вводити голкою.
+injector-component-drawing-target = {CAPITALIZE(THE($user))} намагається голкою набрати кров вашого тіла!
+injector-component-injecting-target = {CAPITALIZE($user)} намагається встромити в вас голку!
+injector-component-deny-chitinid = Екзоскелет {CAPITALIZE(THE($target))} занадто товстий, щоб голка могла його пробити.
 # Floof - M3739 - #726 - For some god awful reason, it isn't even processing the $target of deny-chitinid. Thanks EE.

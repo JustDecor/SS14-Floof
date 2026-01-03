@@ -1,7 +1,7 @@
-lathe-category-ammo = Ammo
-lathe-category-circuitry = Circuitry
-lathe-category-lights = Lights
-lathe-category-parts = Parts
-lathe-category-robotics = Robotics
-lathe-category-tools = Tools
-lathe-category-weapons = Weapons
+lathe-category-ammo = Боєприпаси
+lathe-category-circuitry = Схеми
+lathe-category-lights = Світло
+lathe-category-parts = Деталі
+lathe-category-robotics = Робототехніка
+lathe-category-tools = Інструменти
+lathe-category-weapons = Зброя

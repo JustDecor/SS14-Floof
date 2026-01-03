@@ -1,32 +1,32 @@
-alerts-mood-dead-name = Dead
-alerts-mood-dead-desc = Eternal emptiness has enveloped me, and the world no longer has power over my soul.
+alerts-mood-dead-name = Мертвий
+alerts-mood-dead-desc = Мене огорнула вічна порожнеча, і світ більше не має влади над моєю душею.
 
-alerts-mood-insane-name = Insane
-alerts-mood-insane-desc = Darkness and hopelessness smolder in my soul, the world is doomed to absolute evil.
+alerts-mood-insane-name = Божевільний
+alerts-mood-insane-desc = Темрява і безнадія жевріють в моїй душі, світ приречений на абсолютне зло.
 
-alerts-mood-horrible-name = Horrible
-alerts-mood-horrible-desc = I struggle with pain and fears, my fate is a series of torments and sufferings.
+alerts-mood-horrible-name = Жахливо
+alerts-mood-horrible-desc = Я борюся з болем і страхами, моя доля - це низка мук і страждань.
 
-alerts-mood-terrible-name = Terrible
-alerts-mood-terrible-desc = My life has dried up like blood from a wound, and there is only darkness and despair all around.
+alerts-mood-terrible-name = Жахливо
+alerts-mood-terrible-desc = Моє життя висохло, як кров з рани, а навколо лише темрява і відчай.
 
-alerts-mood-bad-name = Bad
-alerts-mood-bad-desc = My strength is leaving me, and every day becomes a difficult ordeal.
+alerts-mood-bad-name = Погано
+alerts-mood-bad-desc = Сили покидають мене, і кожен день стає важким випробуванням.
 
-alerts-mood-meh-name = Mediocre
-alerts-mood-meh-desc = The world is full of dangers and pain, and my hopes are slowly dying.
+alerts-mood-meh-name = Посередньо
+alerts-mood-meh-desc = Світ сповнений небезпек і болю, а мої надії повільно вмирають.
 
-alerts-mood-neutral-name = Neutral
-alerts-mood-neutral-desc = I continue on my way, despite threats and hardships, looking for the slightest light in the darkness.
+alerts-mood-neutral-name = Нейтральний
+alerts-mood-neutral-desc = Я продовжую свій шлях, незважаючи на погрози і труднощі, шукаючи найменше світло в темряві.
 
-alerts-mood-good-name = Good
-alerts-mood-good-desc = In this world of suffering, I find a little relief and hope.
+alerts-mood-good-name = Добре
+alerts-mood-good-desc = У цьому світі страждань я знаходжу трохи полегшення і надії.
 
-alerts-mood-great-name = Great
-alerts-mood-great-desc = My strength is restored, and the world seems to be the lesser evil and pain.
+alerts-mood-great-name = Чудово
+alerts-mood-great-desc = Мої сили відновлюються, і світ здається меншим злом і болем.
 
-alerts-mood-exceptional-name = Exceptional
-alerts-mood-exceptional-desc = Strength and hope fills me, despite the threats that lurk around me.
+alerts-mood-exceptional-name = Винятковий
+alerts-mood-exceptional-desc = Сила і надія наповнюють мене, незважаючи на загрози, які підстерігають мене навколо.
 
-alerts-mood-perfect-name = Perfect
-alerts-mood-perfect-desc = My soul is full of light and power, and I am ready to fight the darkness in this cruel world.
+alerts-mood-perfect-name = Чудово
+alerts-mood-perfect-desc = Моя душа сповнена світла і сили, і я готовий боротися з темрявою в цьому жорстокому світі.

@@ -1,101 +1,109 @@
 # Alphabetically ordered, except for Uncategorized since it is always first
 
-loadout-category-Uncategorized = Uncategorized
-loadout-category-Accessories = Accessories
-loadout-category-Backpacks = Backpacks
-loadout-category-Eyes = Eyes
-loadout-category-Hands = Hands
-loadout-category-Head = Head
-loadout-category-Items = Items
+loadout-category-Uncategorized = Без категорії
+loadout-category-Accessories = Аксесуари
+loadout-category-Backpacks = Рюкзаки
+loadout-category-Eyes = Очі
+loadout-category-Hands = Руки
+loadout-category-Head = Голова
+loadout-category-Items = Речі
 
 # Jobs
-loadout-category-Jobs = Jobs
-loadout-category-JobsAUncategorized = Uncategorized
+loadout-category-Jobs = Робота
+loadout-category-JobsAUncategorized = Без категорії
 
 # Command
-loadout-category-JobsCommand = Command
-loadout-category-JobsCommandAUncategorized = All Command
-loadout-category-JobsCommandCaptain = Captain
-loadout-category-JobsCommandHeadOfPersonnel = Head of Personnel
-loadout-category-JobsCommandAdminAssistant = Administrative Assistant
-loadout-category-JobsCommandBlueshieldOfficer = Blueshield Officer
-loadout-category-JobsCommandNanorep = Nanotrasen Representative
-loadout-category-JobsCommandMagistrate = Magistrate
+loadout-category-JobsCommand = Командир
+loadout-category-JobsCommandAUncategorized = Без категорії
+loadout-category-JobsCommandCaptain = Капітан
+loadout-category-JobsCommandHeadOfPersonnel = Керівник відділу кадрів
+loadout-category-JobsCommandAdminAssistant = Адміністративний асистент
+loadout-category-JobsCommandBlueshieldOfficer = Офіцер Блакитного Щита
+loadout-category-JobsCommandNanorep = Представник Nanotrasen
+loadout-category-JobsCommandMagistrate = Магістр
 
 # Engineering
-loadout-category-JobsEngineering = Engineering
-loadout-category-JobsEngineeringAAUncategorized = All Engineers
-loadout-category-JobsEngineeringAtmosphericTechnician = Atmospheric Technician
-loadout-category-JobsEngineeringChiefEngineer = Chief Engineer
-loadout-category-JobsEngineeringSeniorEngineer = Senior Engineer
-loadout-category-JobsEngineeringStationEngineer = Station Engineer
-loadout-category-JobsEngineeringTechnicalAssistant = Technical Assistant
+loadout-category-JobsEngineering = Інжиніринг
+loadout-category-JobsEngineeringAAUncategorized = Всім інженерам
+loadout-category-JobsEngineeringAtmosphericTechnician = Атмосферний технік
+loadout-category-JobsEngineeringChiefEngineer = Головний інженер
+loadout-category-JobsEngineeringSeniorEngineer = Старший інженер
+loadout-category-JobsEngineeringStationEngineer = Інженер станції
+loadout-category-JobsEngineeringTechnicalAssistant = Технічний асистент
 
 # Epistemics
-loadout-category-JobsEpistemics = Epistemics
-loadout-category-JobsEpistemicsAAUncategorized = All Epistemiologists
-loadout-category-JobsEpistemicsAcolyte = Acolyte
-loadout-category-JobsEpistemicsCataloger = Cataloger
-loadout-category-JobsEpistemicsChaplain = Chaplain
+loadout-category-JobsEpistemics = Епістеміка
+loadout-category-JobsEpistemicsAAUncategorized = Всі епістемологи
+loadout-category-JobsEpistemicsAcolyte = Аколіт
+loadout-category-JobsEpistemicsCataloger = Каталогізатор
+loadout-category-JobsEpistemicsChaplain = Капелан
 # Floof - renamed back
-loadout-category-JobsEpistemicsGolemancer = Roboticist
-loadout-category-JobsEpistemicsMystagogue = Mystagogue
-loadout-category-JobsEpistemicsMystic = Mystic
-loadout-category-JobsEpistemicsNoviciate = Noviciate
-loadout-category-JobsEpistemicsPsionicMantis = Psionic Mantis
+loadout-category-JobsEpistemicsGolemancer = Големан
+loadout-category-JobsEpistemicsMystagogue = Містифікатор
+loadout-category-JobsEpistemicsMystic = Містика
+loadout-category-JobsEpistemicsNoviciate = Послушник
+loadout-category-JobsEpistemicsPsionicMantis = Псіонічний Мантід
 
 # Logistics
-loadout-category-JobsLogistics = Logistics
-loadout-category-JobsLogisticsAUncategorized = All Logistics
-loadout-category-JobsLogisticsCargoTechnician = Cargo Technician
-loadout-category-JobsLogisticsCourier = Courier
+loadout-category-JobsLogistics = Логістика
+loadout-category-JobsLogisticsAUncategorized = Вся логістика
+loadout-category-JobsLogisticsCargoTechnician = Вантажний технік
+loadout-category-JobsLogisticsCourier = Кур'єр
 # Floof - senior cargo
-loadout-category-JobsLogisticsInventorySpecialist = Inventory Specialist
-loadout-category-JobsLogisticsLogisticsOfficer = Logistics Officer
-loadout-category-JobsLogisticsSalvageSpecialist = Salvage Specialist
+loadout-category-JobsLogisticsInventorySpecialist = Фахівець з інвентаризації
+loadout-category-JobsLogisticsLogisticsOfficer = Офіцер з логістики
+loadout-category-JobsLogisticsSalvageSpecialist = Спеціаліст з порятунку
 
 # Medical
-loadout-category-JobsMedical = Medical
-loadout-category-JobsMedicalAUncategorized = All Medical
-loadout-category-JobsMedicalChemist = Chemist
-loadout-category-JobsMedicalChiefMedicalOfficer = Chief Medical Officer
-loadout-category-JobsMedicalMedicalDoctor = Medical Doctor
-loadout-category-JobsMedicalMedicalIntern = Medical Intern
-loadout-category-JobsMedicalParamedic = Paramedic
-loadout-category-JobsMedicalPsychologist = Psychologist
-loadout-category-JobsMedicalSeniorPhysician = Senior Physician
+loadout-category-JobsMedical = Медичні
+loadout-category-JobsMedicalAUncategorized = Усе медичне
+loadout-category-JobsMedicalChemist = Хімік
+loadout-category-JobsMedicalChiefMedicalOfficer = Головний лікар
+loadout-category-JobsMedicalMedicalDoctor = Доктор медичних наук
+loadout-category-JobsMedicalMedicalIntern = Лікар-інтерн
+loadout-category-JobsMedicalParamedic = Фельдшер
+loadout-category-JobsMedicalPsychologist = Психолог
+loadout-category-JobsMedicalSeniorPhysician = Старший лікар
 
 # Security
-loadout-category-JobsSecurity = Security
-loadout-category-JobsSecurityAUncategorized = All Security
-loadout-category-JobsSecurityWeapons = Service Weapons 
-loadout-category-JobsSecurityCadet = Cadet
-loadout-category-JobsSecurityCorpsman = Corpsman
-loadout-category-JobsSecurityDetective = Detective
-loadout-category-JobsSecurityHeadOfSecurity = Head of Security
-loadout-category-JobsSecuritySecurityOfficer = Security Officer
-loadout-category-JobsSecuritySeniorOfficer = Senior Officer
-loadout-category-JobsSecurityWarden = Warden
-# Floof - Prison Guard loadout implementation
-loadout-category-JobsSecurityPrisonGuard = Prison Guard
+loadout-category-JobsSecurity = Безпека
+loadout-category-JobsSecurityAUncategorized = Вся служба безпеки
+loadout-category-JobsSecurityWeapons = Службова Зброяloadout-category-JobsSecurityPrisonGuard = Тюремний охоронець
 
 # Service
-loadout-category-JobsService = Service
-loadout-category-JobsServiceAUncategorized = All Service
-loadout-category-JobsServiceBartender = Bartender
-loadout-category-JobsServiceBotanist = Botanist
-loadout-category-JobsServiceChef = Chef
-loadout-category-JobsServiceClown = Clown
-loadout-category-JobsServiceJanitor = Janitor
+loadout-category-JobsService = Сервіс
+loadout-category-JobsServiceAUncategorized = Вся служба
+loadout-category-JobsServiceBartender = Бармен
+loadout-category-JobsServiceBotanist = Ботанік
+loadout-category-JobsServiceChef = Шеф-кухар
+loadout-category-JobsServiceClown = Клоун
+loadout-category-JobsServiceJanitor = Прибиральник
 # Floof - Lawyer has been changed to Attorney in this FTL as part of the Justice loadout implementation.
-loadout-category-JobsServiceLawyer = Attorney
-loadout-category-JobsServiceMime = Mime
-loadout-category-JobsServiceMusician = Musician
-loadout-category-JobsServiceReporter = Reporter
+loadout-category-JobsServiceLawyer = Адвокат
+loadout-category-JobsServiceMime = Пантоміма
+loadout-category-JobsServiceMusician = Музикант
+loadout-category-JobsServiceReporter = Репортер
 
-loadout-category-Mask = Mask
-loadout-category-Neck = Neck
-loadout-category-Outer = Outer
-loadout-category-Shoes = Shoes
-loadout-category-Species = Species
-loadout-category-Uniform = Uniform
+loadout-category-Mask = Маска
+loadout-category-Neck = Шия
+loadout-category-Outer = Верхній одяг
+loadout-category-Shoes = Взуття
+loadout-category-Species = Види
+loadout-category-Uniform = Уніформа
+
+
+loadout-category-JobsSecurityCadet = Кадет!
+loadout-category-JobsSecurityCorpsman = Санітар
+loadout-category-JobsSecurityDetective = Детективе
+
+
+loadout-category-JobsSecurityHeadOfSecurity = Керівник служби безпеки
+
+
+loadout-category-JobsSecuritySecurityOfficer = Офіцер служби безпеки
+
+
+loadout-category-JobsSecuritySeniorOfficer = Старший офіцер
+
+
+loadout-category-JobsSecurityWarden = Наглядач

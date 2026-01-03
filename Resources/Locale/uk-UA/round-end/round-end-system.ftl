@@ -1,14 +1,14 @@
 ## RoundEndSystem
 
-round-end-system-shuttle-called-announcement = An emergency shuttle has been sent. ETA: {$time} {$units}.
-round-end-system-shuttle-already-called-announcement = An emergency shuttle has already been sent.
-round-end-system-shuttle-auto-called-announcement = An automatic crew shift change shuttle has been sent. ETA: {$time} {$units}. Recall the shuttle to extend the shift.
-round-end-system-shuttle-recalled-announcement = The emergency shuttle has been recalled.
-round-end-system-round-restart-eta-announcement = Restarting the round in {$time} {$units}...
+round-end-system-shuttle-called-announcement = Було викликано евакуаційний шатл. Oрієнтовний час прибуття: {$time} {$units}.
+round-end-system-shuttle-already-called-announcement = Евакуаційний шатл вже було вислано.
+round-end-system-shuttle-auto-called-announcement = Автоматичний шатл повернення екіпажу був відправлений. Oрієнтовний час прибуття: {$time} {$units}. Скасуйте шатл для подовження робочої зміни.
+round-end-system-shuttle-recalled-announcement = Евакуаційний шатл було скасовано.
+round-end-system-round-restart-eta-announcement = Перезапуск через {$time} {$units}...
 
-eta-units-minutes = minutes
-eta-units-seconds = seconds
+eta-units-minutes = хвилин
+eta-units-seconds = секунд
 
 # Vulpstation
-round-end-system-shuttle-call-vote = Call the emergency shuttle (end the shift)?
-round-end-system-shuttle-call-vote-initiator = Central Command
+round-end-system-shuttle-call-vote = Викликати аварійний шатл (закінчити зміну)?
+round-end-system-shuttle-call-vote-initiator = Центральне Командування

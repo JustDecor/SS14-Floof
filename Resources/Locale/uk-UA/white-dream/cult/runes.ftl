@@ -1,19 +1,24 @@
 ﻿cult-rune-cant-draw = You can not draw rune here!
-cult-rune-cant-draw-rending = You have to be near the area where the veil between our Worlds is the thinnest.
-cult-rune-started-erasing = Started erasing...
-cult-rune-erased = Rune has been erased.
-cult-rune-not-enough-cultists = Not enough cultists to perform the ritual!
-cult-rune-no-targets = No targets have been found!
+cult-rune-cant-draw-rending = Ти маєш бути поруч з тією ділянкою, де завіса між нашими світами найтонша.cult-revive-rune-already-alive = Ціль вже жива.  
 
-cult-teleport-not-found = No runes found.
+cult-buff-already-buffed = Ви вже посилені.  
 
-cult-revive-rune-no-charges = Can not perform the revive ritual: no charges left.
-cult-revive-rune-already-alive = The target is already alive.
+cult-rending-drawing-finished = Геометрія Крові завершила малювання руни кінця! Найближче розташування: {$location}  
+cult-rending-target-alive = Неможливо почати ритуал: ціль жива.  
+cult-rending-already-summoning = Неможливо почати ритуал: він вже в процесі.  
+cult-rending-started = Геометрія Крові розпочала ритуал Просторового Розриву!  
+cult-rending-prevented = Хтось зупинив ритуал.  
 
-cult-buff-already-buffed = You are already empowered.
 
-cult-rending-drawing-finished = The Geometer Of Blood has finished drawing the rune of end {$location}!
-cult-rending-target-alive = Can not start the ritual: the target is alive.
-cult-rending-already-summoning = Can not start the ritual: it's already in progress.
-cult-rending-started = The Geometer Of Blood has started the ritual of Dimensional Rending {$location}!
-cult-rending-prevented = Someone has stopped the ritual.
+cult-rune-started-erasing = Почато стирання...  
+cult-rune-erased = Руну стерто.  
+cult-rune-not-enough-cultists = Недостатньо культістів для проведення ритуалу!  
+
+
+cult-rune-no-targets = Цілі не знайдено!  
+
+
+cult-teleport-not-found = Руни не знайдено.  
+
+
+cult-revive-rune-no-charges = Неможливо виконати ритуал відродження: зарядів не залишилося.  

@@ -1,23 +1,23 @@
-leash-attaching-popup-self = You are trying to attach a leash to {$selfAnchor ->
-    [false] {THE($target)}'s {$anchor}
+leash-attaching-popup-self = Ви намагаєтесь прикріпити повідець до {$selfAnchor ->
+    [false] {POSS-ADJ($target)} {$anchor}
     *[true] {THE($target)}
 }...
-leash-attaching-popup-target = {THE($target)} is trying to attach a leash to {$selfAnchor ->
-    [false] your {$anchor}
-    *[true] you
+leash-attaching-popup-target = {THE($target)} намагається прикріпити повідець до {$selfAnchor ->
+    [false] вашого {$anchor}
+    *[true] вас
 }...
-leash-attaching-popup-others = {THE($user)} is trying to attach a leash to {$selfAnchor ->
-    [false] {THE($target)}'s {$anchor}
+leash-attaching-popup-others = {THE($user)} намагається прикріпити повідець до {$selfAnchor ->
+    [false] {POSS-ADJ($target)} {$anchor}
     *[true] {THE($target)}
 }
 
-leash-detaching-popup-self = You are trying to remove the leash...
-leash-detaching-popup-others = {THE($user)} is trying to remove the leash {$isSelf ->
-    [true] from {REFLEXIVE($user)}
-    *[false] from {THE($target)}
+leash-detaching-popup-self = Ви намагаєтесь зняти повідець...
+leash-detaching-popup-others = {THE($user)} намагається зняти повідець {$isSelf ->
+    [true] з {REFLEXIVE($user)}
+    *[false] з {THE($target)}
 }...
 
-leash-snap-popup = {THE($leash)} snaps off!
-leash-set-length-popup = Length set to {$length}m.
+leash-snap-popup = {THE($leash)} відскочив!
+leash-set-length-popup = Довжину встановлено на {$length}м.
 
-leash-length-examine-text = Its current length is {$length}m.
+leash-length-examine-text = Його поточна довжина становить {$length}м.

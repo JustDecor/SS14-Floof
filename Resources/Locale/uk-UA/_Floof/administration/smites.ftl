@@ -1,2 +1,2 @@
-admin-smite-horny-sign-description = Marks a player as horny. You know, in case that wasn't obvious already.
-admin-smite-chameleon-description = Puts a chameleon set on the player, comes with agent ID, haircut scissors, voice mask and chameleon theiving gloves. Use for admin events. 
+admin-smite-horny-sign-description = Позначає гравця як збудженого. Знаєте, на випадок, якщо це не було очевидним.
+admin-smite-chameleon-description = Надає гравцю набір хамелеона, включає агентське ID, ножиці для стрижки, голосову маску та злодійські рукавички-хамелеони. Використовуйте для адмін-івентів.

@@ -1,98 +1,98 @@
-reagent-name-coffee = coffee
-reagent-desc-coffee = A drink made from brewed coffee beans. Contains a moderate amount of caffeine.
+reagent-name-coffee = кава
+reagent-desc-coffee = Напій, виготовлений із заварених кавових зерен. Містить помірну кількість кофеїну.
 
-reagent-name-cream = cream
-reagent-desc-cream = The fatty, still liquid part of milk. Why don't you mix this with sum scotch, eh?
+reagent-name-cream = вершки
+reagent-desc-cream = Жирна, ще рідка частина молока. Чому б не змішати це з порцією скотчу, е?
 
-reagent-name-coconut-water = coconut water
-reagent-desc-coconut-water = A favorite of survivors on deserted islands.
+reagent-name-coconut-water = кокосова вода
+reagent-desc-coconut-water = Улюблений напій тих, хто вижив на безлюдних островах.
 
-reagent-name-cream-of-coconut = cream of coconut
-reagent-desc-cream-of-coconut = Sweet, syrupy version of coconut cream with added sugar.
+reagent-name-cream-of-coconut = кокосові вершки
+reagent-desc-cream-of-coconut = Солодка, сиропоподібна версія кокосових вершків з додаванням цукру.
 
-reagent-name-cafe-latte = cafe latte
-reagent-desc-cafe-latte = A nice, strong and tasty beverage while you are reading.
+reagent-name-cafe-latte = кафе-лате
+reagent-desc-cafe-latte = Приємний, міцний і смачний напій для читання.
 
-reagent-name-green-tea = green tea
-reagent-desc-green-tea = Tasty green tea.
+reagent-name-green-tea = зелений чай
+reagent-desc-green-tea = Смачний зелений чай.
 
-reagent-name-grenadine = grenadine
-reagent-desc-grenadine = Not cherry flavored!
+reagent-name-grenadine = гренадин
+reagent-desc-grenadine = Не з вишневим смаком!
 
-reagent-name-iced-coffee = iced coffee
-reagent-desc-iced-coffee = Coffee and ice, refreshing and cool.
+reagent-name-iced-coffee = холодна кава
+reagent-desc-iced-coffee = Кава та лід, освіжаюче та прохолодно.
 
-reagent-name-iced-green-tea = iced green tea
-reagent-desc-iced-green-tea = Cold green tea.
+reagent-name-iced-green-tea = холодний зелений чай
+reagent-desc-iced-green-tea = Холодний зелений чай.
 
-reagent-name-iced-tea = iced tea
-reagent-desc-iced-tea = No relation to a certain rap artist/actor.
+reagent-name-iced-tea = холодний чай
+reagent-desc-iced-tea = Ніякого відношення до певного реп-виконавця/актора.
 
-reagent-name-lemonade = lemonade
-reagent-desc-lemonade = Drink using lemon juice, water, and a sweetener such as cane sugar or honey.
+reagent-name-lemonade = лимонад
+reagent-desc-lemonade = Напій з лимонного соку, води та підсолоджувача, такого як тростинний цукор або мед.
 
-reagent-name-arnold-palmer = arnold palmer
-reagent-desc-arnold-palmer = Now watch this drive.
+reagent-name-arnold-palmer = Арнольд Палмер
+reagent-desc-arnold-palmer = А тепер дивіться на цей удар.
 
-reagent-name-milk = milk
-reagent-desc-milk = An opaque white liquid produced by the mammary glands of mammals.
+reagent-name-milk = молоко
+reagent-desc-milk = Непрозора біла рідина, що виробляється молочними залозами ссавців.
 
-reagent-name-milk-goat = goats milk
-reagent-desc-milk-goat = An opaque white liquid produced by a goat. High buttermilk content.
+reagent-name-milk-goat = козяче молоко
+reagent-desc-milk-goat = Непрозора біла рідина, що виробляється козою. Високий вміст маслянки.
 
-reagent-name-milk-oat = oat milk
-reagent-desc-milk-oat = Surprisingly tasty.
+reagent-name-milk-oat = вівсяне молоко
+reagent-desc-milk-oat = Напрочуд смачне.
 
-reagent-name-milk-soy = soy milk
-reagent-desc-milk-soy = Consumers favorite.
+reagent-name-milk-soy = соєве молоко
+reagent-desc-milk-soy = Улюбленець споживачів.
 
-reagent-name-milk-spoiled = spoiled milk
-reagent-desc-milk-spoiled = This milk has gone rancid.
+reagent-name-milk-spoiled = зіпсоване молоко
+reagent-desc-milk-spoiled = Це молоко прогіркло.
 
-reagent-name-nothing = nothing
-reagent-desc-nothing = Absolutely nothing.
+reagent-name-nothing = ніщо
+reagent-desc-nothing = Абсолютно нічого.
 
-reagent-name-nuclear-cola = nuclear cola
-reagent-desc-nuclear-cola = Cola, cola never changes.
+reagent-name-nuclear-cola = ядерна кола
+reagent-desc-nuclear-cola = Кола, кола ніколи не змінюється.
 
-reagent-name-hot-cocoa = hot cocoa
-reagent-desc-hot-cocoa = Smells like the holidays!
+reagent-name-hot-cocoa = гаряче какао
+reagent-desc-hot-cocoa = Пахне святами!
 
-reagent-name-soda-water = soda water
-reagent-desc-soda-water = A container of club soda. Why not make a scotch and soda?
+reagent-name-soda-water = содова вода
+reagent-desc-soda-water = Контейнер з содовою. Чому б не зробити скотч з содовою?
 
-reagent-name-soy-latte = soy latte
-reagent-desc-soy-latte = A coffee drink made with espresso and steamed soy milk.
+reagent-name-soy-latte = соєвий лате
+reagent-desc-soy-latte = Кавовий напій, приготований з еспресо та спіненого соєвого молока.
 
-reagent-name-tea = tea
-reagent-desc-tea = A drink made by boiling leaves of the tea tree, Camellia sinensis.
+reagent-name-tea = чай
+reagent-desc-tea = Напій, приготований шляхом заварювання листя чайного дерева, Camellia sinensis.
 
-reagent-name-tonic-water = tonic water
-reagent-desc-tonic-water = It tastes strange but at least the quinine keeps the Space Malaria at bay.
+reagent-name-tonic-water = тонік
+reagent-desc-tonic-water = На смак дивно, але принаймні хінін стримує Космічну Малярію.
 
-reagent-name-water = water
-reagent-desc-water = A colorless liquid that humans need in order to survive.
+reagent-name-water = вода
+reagent-desc-water = Безбарвна рідина, необхідна людям для виживання.
 
-reagent-name-ice = ice
-reagent-desc-ice = Frozen water.
+reagent-name-ice = лід
+reagent-desc-ice = Заморожена вода.
 
-reagent-name-dry-ramen = dry ramen
-reagent-desc-dry-ramen = Dry noodles and salt.
+reagent-name-dry-ramen = сухий рамен
+reagent-desc-dry-ramen = Суха локшина та сіль.
 
-reagent-name-hot-ramen = hot ramen
-reagent-desc-hot-ramen = Hot noodles.
+reagent-name-hot-ramen = гарячий рамен
+reagent-desc-hot-ramen = Гаряча локшина.
 
-reagent-name-pilk = pilk
-reagent-desc-pilk = A sickening mixture of milk and cola.
+reagent-name-pilk = пілк
+reagent-desc-pilk = Нудотна суміш молока та коли.
 
-reagent-name-posca = posca
-reagent-desc-posca = Poor warriors' drink from a forgotten era.
+reagent-name-posca = поска
+reagent-desc-posca = Напій бідних воїнів із забутої епохи.
 
-reagent-name-the-martinez = The Martinez
-reagent-desc-the-martinez = The edgerunner legend. Remembered by a drink, forgotten by a drunk.
+reagent-name-the-martinez = Мартінез
+reagent-desc-the-martinez = Легенда еджранерів. Напій, що запам'ятовується, п'яниця, що забувається.
 
-reagent-name-white-gilgamesh = white gilgamesh
-reagent-desc-white-gilgamesh = A sickening mixture of milk and beer. Makes you feel like you're made of wood.
+reagent-name-white-gilgamesh = Білий Гільгамеш
+reagent-desc-white-gilgamesh = Нудотна суміш молока та пива. Відчуття, ніби ти зроблений з дерева.
 
-reagent-name-mopwata = mopwata
-reagent-desc-mopwata = Dirty, stagnant mop water.
+reagent-name-mopwata = швабровода
+reagent-desc-mopwata = Брудна, застояна вода зі швабри.

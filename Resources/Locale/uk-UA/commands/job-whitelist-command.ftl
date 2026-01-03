@@ -1,18 +1,18 @@
-cmd-jobwhitelist-job-does-not-exist = Job {$job} does not exist.
-cmd-jobwhitelist-player-not-found = Player {$player} not found.
-cmd-jobwhitelist-hint-player = [player]
-cmd-jobwhitelist-hint-job = [job]
-cmd-jobwhitelistadd-desc = Lets a player play a whitelisted job.
-cmd-jobwhitelistadd-help = Usage: jobwhitelistadd <username> <job>
-cmd-jobwhitelistadd-already-whitelisted = {$player} is already whitelisted to play as {$jobId} .({$jobName}).
-cmd-jobwhitelistadd-added = Added {$player} to the {$jobId} ({$jobName}) whitelist.
-cmd-jobwhitelistget-desc = Gets all the jobs that a player has been whitelisted for.
-cmd-jobwhitelistget-help = Usage: jobwhitelistadd <username>
-cmd-jobwhitelistget-whitelisted-none = Player {$player} is not whitelisted for any jobs.
-cmd-jobwhitelistget-whitelisted-for = "Player {$player} is whitelisted for:
+cmd-jobwhitelist-job-does-not-exist = Робота {$job} не існує.
+cmd-jobwhitelist-player-not-found = Гравець {$player} не знайдений.
+cmd-jobwhitelist-hint-player = [гравець]
+cmd-jobwhitelist-hint-job = [робота]
+cmd-jobwhitelistadd-desc = Дозволяє гравцеві виконувати роботу з білого списку.
+cmd-jobwhitelistadd-help = Використання: jobwhitelistadd <ім'я користувача> <посада>
+cmd-jobwhitelistadd-already-whitelisted = {$player} вже внесено до білого списку для гри як {$jobId} .({$jobName}).
+cmd-jobwhitelistadd-added = Додано {$player} до білого списку {$jobId} ({$jobName}).
+cmd-jobwhitelistget-desc = Отримує всі роботи, за які гравця було занесено до білого списку.
+cmd-jobwhitelistget-help = Використання: jobwhitelistadd <ім'я користувача>
+cmd-jobwhitelistget-whitelisted-none = Гравця {$player} не внесено до білого списку на жодній роботі.
+cmd-jobwhitelistget-whitelisted-for = "Гравець {$player} внесений до білого списку за:
 {$jobs}"
 
-cmd-jobwhitelistremove-desc = Removes a player's ability to play a whitelisted job.
-cmd-jobwhitelistremove-help = Usage: jobwhitelistadd <username> <job>
-cmd-jobwhitelistremove-was-not-whitelisted = {$player} was not whitelisted to play as {$jobId} ({$jobName}).
-cmd-jobwhitelistremove-removed = Removed {$player} from the whitelist for {$jobId} ({$jobName}).
+cmd-jobwhitelistremove-desc = Видаляє можливість гравця виконувати роботу з білого списку.
+cmd-jobwhitelistremove-help = Використання: jobwhitelistadd <ім'я користувача> <посада>
+cmd-jobwhitelistremove-was-not-whitelisted = {$player} не було внесено до білого списку, щоб грати як {$jobId} ({$jobName}).
+cmd-jobwhitelistremove-removed = Вилучено {$player} з білого списку для {$jobId} ({$jobName}).

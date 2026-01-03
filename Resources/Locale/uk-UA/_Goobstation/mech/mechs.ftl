@@ -1,11 +1,11 @@
-goobstation-clarke-bounty-desc = The local mining colony at the Sol Sector requires some more mechs. Send us a Clarke.
+goobstation-clarke-bounty-desc = Місцевій шахтарській колонії в секторі Соль потрібно більше мехів. Надішліть нам Clarke.
 goobstation-clarke-bounty-name = Clarke
 
-goobstation-durand-bounty-desc = The Tranquility Assurance Force requires some more defensive power on the frontlines. We request a Durand.
+goobstation-durand-bounty-desc = Сили Спокою потребують більше оборонної потужності на передовій. Ми просимо надіслати Durand.
 goobstation-durand-bounty-name = Durand
 
-goobstation-ripley-bounty-desc = Hephaestus Industries is looking for some spare mechs to use in their dig sites. Send us a Ripley MkII.
+goobstation-ripley-bounty-desc = Hephaestus Industries шукає кілька запасних мехів для використання на місцях розкопок. Надішліть нам Ripley MkII.
 goobstation-ripley-bounty-name = Ripley MkII
 
-goobstation-gygax-bounty-desc = The Tranquility Assurance Force needs to enhance their Peacekeeping squadrons, we request a Gygax.
+goobstation-gygax-bounty-desc = Силам Спокою потрібно посилити свої миротворчі ескадрони, ми просимо надіслати Gygax.
 goobstation-gygax-bounty-name = Gygax

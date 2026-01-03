@@ -1,20 +1,24 @@
 ﻿blood-cult-title = The Blood Cult
-blood-cult-description = The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
+blood-cult-description = Найдавніше і найсильніше почуття людства — це страх, а найдавніший і найсильніший вид страху — це страх перед невідомим.  
 
-roles-antag-blood-cultist-name = Blood cultist
-roles-antag-blood-cultist-objective = Summon the Old God Nar'Sie.
+roles-antag-blood-cultist-name = Культист крові  
+roles-antag-blood-cultist-objective = Закликати Старого Бога Нар'Сі.  
 
-blood-cult-role-greeting = The Geometer of Blood, Nar-Sie, has sent a number of her followers to Space Station.
-    As a cultist, you have an abundance of cult magics at your disposal, something for all situations.
-    You must work with your brethren to summon an avatar of your eldritch goddess!
+blood-cult-role-greeting = Геометрія Крові, Нар'Сі, відправила кількох своїх послідовників на космічну станцію.  
+    Як культіст, ви маєте в своєму розпорядженні багатство культової магії, яка підходить для будь-якої ситуації.  
+    Ви повинні працювати зі своїми побратимами, щоб викликати аватар вашої неземної богині!  
 
-blood-cult-role-briefing-short = Use your eldritch language to telepathically contact other members of your brethren.
-blood-cult-role-briefing-rending-locations = The veil can be thorn {$location}, {$coordinates}
-blood-cult-role-briefing-emergency-rending = We can draw {$amount} more rending or apocalypse runes!
+blood-cult-role-briefing-short = Використовуйте '^' для зв'язку з іншими членами вашого братства.  
+blood-cult-role-briefing-rending-locations = Завісу можна прорвати у {$location}, {$coordinates}
+blood-cult-role-briefing-emergency-rending = Ми можемо накреслити ще {$amount} рун розриву чи апокаліпсису!
+blood-cult-condition-win = Геометрія Крові успішно закликала свою неземну Богиню!  
+blood-cult-condition-draw = Обидві сторони були знищені.  
 
-blood-cult-condition-win = The Geometer of Blood has successfully summoned their Eldritch Goddess!
-blood-cult-condition-draw = Both parties were destroyed.
-blood-cult-condition-failure = The crew have managed to stop the rending of reality!
 
-blood-cultists-list-start = Members of Geometer of Blood were:
-blood-cultists-list-name = [color=White]{ $name }[/color] ([color=gray]{ $user }[/color])
+blood-cult-condition-failure = Екіпажу вдалося зупинити розрив реальності!  
+
+
+blood-cultists-list-start = Члени Геометрії Крові були:  
+
+
+blood-cultists-list-name = [color=White]{ $name }[/color] ([color=gray]{ $user}[/color])

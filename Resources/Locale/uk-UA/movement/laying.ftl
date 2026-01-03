@@ -1,10 +1,10 @@
-crawling-under-tables-disabled-popup = Crawling under tables is disabled on this server.
+crawling-under-tables-disabled-popup = Повзання під столами вимкнено на цьому сервері.
 
 # TODO either remove those, or make use of them
-laying-comp-lay-success-self = You lay down.
-laying-comp-lay-success-other = {THE($entity)} lays down.
-laying-comp-lay-fail-self = You can't lay down right now.
+laying-comp-lay-success-self = Ти ліг на землю
+laying-comp-lay-success-other = {THE($entity)} лягає на землю
+laying-comp-lay-fail-self = Ти не можеш зараз лягти.
 
-laying-comp-stand-success-self = You stand up.
-laying-comp-stand-success-other = {THE($entity)} stands up.
-laying-comp-stand-fail-self = You can't stand up right now.
+laying-comp-stand-success-self = Ти підіймаєшся на ноги
+laying-comp-stand-success-other = {THE($entity)} підіймається з землі
+laying-comp-stand-fail-self = Ти не можеш зараз встати.

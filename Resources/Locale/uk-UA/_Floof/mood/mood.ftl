@@ -1,57 +1,57 @@
-mood-effect-BeingKissed = That kiss was delightful.
+mood-effect-BeingKissed = Той поцілунок був чудовим.
 
-mood-effect-BeingLicked = I've been Licked!
+mood-effect-BeingLicked = Мене облизали!
 
-mood-effect-IceCreamBenefit = Ice cream, Yum!
+mood-effect-IceCreamBenefit = Морозиво, ням!
 
-mood-effect-IceCreamBrainFreeze = Arrggghh, my head. Brain freeze.
+mood-effect-IceCreamBrainFreeze = Аррггх, моя голова. Заморожування мозку.
 
-mood-effect-SuccubiumBenefit = Let's fucking GOOOOOOO! It's so PEAK! We're so BACK!
+mood-effect-SuccubiumBenefit = Давайте йобаний ВПЕРРРЕЕЕД! Це так ТОП! Ми так ПОВЕРНУЛИСЯ!
 
-mood-effect-FavoriteDrink = My favorite drink!
+mood-effect-FavoriteDrink = Мій улюблений напій!
 
 # Addictions
-mood-effect-name-AmphetamineBenefit = amphetamine addiction
-mood-effect-AmphetamineBenefit = Intent flows into action without barrier. I feel like I can do anything.
+mood-effect-name-AmphetamineBenefit = амфетамінова залежність
+mood-effect-AmphetamineBenefit = Намір перетікає в дію без перешкод. Я відчуваю, що можу зробити все.
 
-mood-effect-name-AmphetamineNeutral = withdrawal abatement
-mood-effect-AmphetamineNeutral = My cravings are satisfied. For now.
+mood-effect-name-AmphetamineNeutral = зменшення абстиненції
+mood-effect-AmphetamineNeutral = Моє бажання задоволене. Поки що.
 
-mood-effect-name-AmphetamineWithdrawal = amphetamine withdrawal
-mood-effect-AmphetamineWithdrawal = That perfect focus has escaped me. I need more...
+mood-effect-name-AmphetamineWithdrawal = амфетамінова абстиненція
+mood-effect-AmphetamineWithdrawal = Ця ідеальна концентрація втекла від мене. Мені потрібно більше...
 
-mood-effect-name-AntidepressantBenefit = blissifylovene addiction
-mood-effect-AntidepressantBenefit = I can finally think about my future without giving up.
+mood-effect-name-AntidepressantBenefit = бліссіфілавенова залежність
+mood-effect-AntidepressantBenefit = Я нарешті можу думати про своє майбутнє, не здаючись.
 
-mood-effect-name-AntidepressantNeutral = withdrawal abatement
-mood-effect-AntidepressantNeutral = My cravings are satisfied. For now.
+mood-effect-name-AntidepressantNeutral = зменшення абстиненції
+mood-effect-AntidepressantNeutral = Моє бажання задоволене. Поки що.
 
-mood-effect-name-AntidepressantWithdrawal = blissifylovene withdrawal
-mood-effect-AntidepressantWithdrawal = The world exists, but I do not feel part of it. It is difficult to have any motivation.
+mood-effect-name-AntidepressantWithdrawal = бліссіфілавенова абстиненція
+mood-effect-AntidepressantWithdrawal = Світ існує, але я не відчуваю себе його частиною. Важко мати будь-яку мотивацію.
 
-mood-effect-name-HappinessBenefit = happiness addiction
-mood-effect-HappinessBenefit = The world is joy and laughter. There is nothing that does not bring a smile.
+mood-effect-name-HappinessBenefit = щастива залежність
+mood-effect-HappinessBenefit = Світ - це радість і сміх. Немає нічого, що не приносить усмішку.
 
-mood-effect-name-HappinessNeutral = withdrawal abatement
-mood-effect-HappinessNeutral = My cravings are satisfied. For now.
+mood-effect-name-HappinessNeutral = зменшення абстиненції
+mood-effect-HappinessNeutral = Моє бажання задоволене. Поки що.
 
-mood-effect-name-HappinessWithdrawal = happiness withdrawal
-mood-effect-HappinessWithdrawal = Joy has fled me, and only darkness and despair remains.
+mood-effect-name-HappinessWithdrawal = щаслива абстиненція
+mood-effect-HappinessWithdrawal = Радість залишила мене, і залишається тільки темрява та відчай.
 
-mood-effect-name-ImpedrezeneBenefit = impedrezene addiction
-mood-effect-ImpedrezeneBenefit = I am detached and light-headed. Nothing seems very important.
+mood-effect-name-ImpedrezeneBenefit = імпедрезенова залежність
+mood-effect-ImpedrezeneBenefit = Я відсторонений та легкоголовний. Ніщо не здається дуже важливим.
 
-mood-effect-name-ImpedrezeneNeutral = withdrawal abatement
-mood-effect-ImpedrezeneNeutral = My cravings are satisfied. For now.
+mood-effect-name-ImpedrezeneNeutral = зменшення абстиненції
+mood-effect-ImpedrezeneNeutral = Моє бажання задоволене. Поки що.
 
-mood-effect-name-ImpedrezeneWithdrawal = impedrezene withdrawal
-mood-effect-ImpedrezeneWithdrawal = My thoughts fill my head at odd angles. I need something to slow them down.
+mood-effect-name-ImpedrezeneWithdrawal = імпедрезенова абстиненція
+mood-effect-ImpedrezeneWithdrawal = Мої думки наповнюють мою голову під незвичайними кутами. Мені потрібно щось, щоб їх уповільнити.
 
-mood-effect-name-PainkillerBenefit = opioid addiction
-mood-effect-PainkillerBenefit = I am floating on clouds. Nothing physical can touch my spiritual form.
+mood-effect-name-PainkillerBenefit = опіоїдна залежність
+mood-effect-PainkillerBenefit = Я пливу на хмарах. Ніщо фізичне не може доторкнутися до моєї духовної форми.
 
-mood-effect-name-PainkillerNeutral = withdrawal abatement
-mood-effect-PainkillerNeutral = My cravings are satisfied. For now.
+mood-effect-name-PainkillerNeutral = зменшення абстиненції
+mood-effect-PainkillerNeutral = Моє бажання задоволене. Поки що.
 
-mood-effect-name-PainkillerWithdrawal = opioid withdrawal
-mood-effect-PainkillerWithdrawal = My skin is sweaty, my muscles ache. I need more of that ambrosia...
+mood-effect-name-PainkillerWithdrawal = опіоїдна абстиненція
+mood-effect-PainkillerWithdrawal = Моя шкіра спітніла, м'язи болять. Мені потрібно більше тієї амброзії...

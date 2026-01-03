@@ -1,1 +1,1 @@
-station-event-scug-cat-spawn-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
+station-event-scug-cat-spawn-announcement = Увага. Виявлено великий приплив невідомих форм життя, що проживають у вентиляційних системах станції. Будь ласка, позбудьтеся цих створінь, перш ніж це почне впливати на продуктивність.

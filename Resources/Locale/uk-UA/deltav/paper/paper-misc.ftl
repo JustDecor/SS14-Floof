@@ -1,12 +1,12 @@
-book-text-lunchbox-generic = Hello Honey!
-      I've packed your lunch for this shift, I hope you enjoy it!!
-      Love you so so much,
-       - Mum.
-book-text-lunchbox-healthy = Hello Honey!
-      I've packed you something healthy for this shift! I hope you enjoy it!!
-      Love you so so much,
-       - Mum.
-book-text-lunchbox-unhealthy = Hello Honey!
-      I've packed you something fun for this shift! I hope you enjoy it!!
-      Love you so so much,
-       - Mum.
+book-text-lunchbox-generic = Привіт, кохана/коханий!
+      Я спакувала тобі обід на цю зміну, сподіваюся, тобі сподобається!!
+      Люблю тебе дуже-дуже сильно,
+       - Мама.
+book-text-lunchbox-healthy = Привіт, кохана/коханий!
+      Я спакувала тобі щось корисне на цю зміну! Сподіваюся, тобі сподобається!!
+      Люблю тебе дуже-дуже сильно,
+       - Мама.
+book-text-lunchbox-unhealthy = Привіт, кохана/коханий!
+      Я спакувала тобі щось смачне на цю зміну! Сподіваюся, тобі сподобається!!
+      Люблю тебе дуже-дуже сильно,
+       - Мама.

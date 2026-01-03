@@ -1,2 +1,2 @@
-trait-category-Marked = Marked
-trait-category-TraitsSpeechNatural= Natural
+trait-category-Marked = Помічений
+trait-category-TraitsSpeechNatural = Природні

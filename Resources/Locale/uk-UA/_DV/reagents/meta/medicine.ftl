@@ -1,5 +1,5 @@
-reagent-name-umbroxol = umbroxol
-reagent-desc-umbroxol = An ominous chemical. Used to treat holy damage from those weak to the veil. Overdoses may leave patients feeling cold.
+reagent-name-umbroxol = умброксол
+reagent-desc-umbroxol = Зловісна хімічна речовина. Використовується для лікування святої шкоди тим, хто слабкий до завіси. Передозування може викликати у пацієнтів відчуття холоду.
 
-reagent-name-unholy-water = unholy water
-reagent-desc-unholy-water = Water treated with blood and sulfur. Just looking at it chills you to the bone.
+reagent-name-unholy-water = нечестива вода
+reagent-desc-unholy-water = Вода, оброблена кров'ю та сіркою. Один погляд на неї пробирає до кісток.

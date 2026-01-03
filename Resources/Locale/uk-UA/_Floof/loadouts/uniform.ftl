@@ -1,2 +1,2 @@
-loadout-name-LoadoutClothingOuterCyberJacketWhite = cyberjacket (colorable)
-loadout-name-LoadoutClothingUniformLoinClothWhite = loin-cloth (colorable)
+loadout-name-LoadoutClothingOuterCyberJacketWhite = кібер-куртка (кольорова)
+loadout-name-LoadoutClothingUniformLoinClothWhite = набедрена пов'язка (кольорова)

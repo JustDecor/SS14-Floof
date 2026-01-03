@@ -1,1 +1,1 @@
-department-Miscellaneous = Miscellaneous
+department-Miscellaneous = Різне

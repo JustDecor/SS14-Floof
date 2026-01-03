@@ -1,5 +1,5 @@
-reagent-name-pomelustine = pomelustine
-reagent-desc-pomelustine = A mild aphrodisiac, present naturally within certain fruits such as pomegranate, usually in too small of a dose to do too much harm.
+reagent-name-pomelustine = помелюстин
+reagent-desc-pomelustine = Помірний афродизіак, природно присутній у деяких фруктах, таких як гранат, зазвичай у занадто малій дозі, щоб заподіяти серйозну шкоду.
 
-reagent-name-philterex = philterex
-reagent-desc-philterex = A strong aphrodisiac, not yet regulated by Space Law. It is known for its high use in particular sectors.
+reagent-name-philterex = фільтерекс
+reagent-desc-philterex = Сильний афродизіак, ще не регульований Космічним Законом. Відомий своїм високим вживанням у певних секторах.

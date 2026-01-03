@@ -1,30 +1,30 @@
-reagent-name-acetone = acetone
-reagent-desc-acetone = A slick, slightly carcinogenic liquid. Has a multitude of mundane uses in everyday life.
+reagent-name-acetone = ацетон
+reagent-desc-acetone = Слизька, трохи канцерогенна рідина. Має безліч повсякденних застосувань.
 
-reagent-name-phenol = phenol
-reagent-desc-phenol = An aromatic ring of carbon with a hydroxyl group. A useful precursor to some medicines, but has no healing properties on its own.
+reagent-name-phenol = фенол
+reagent-desc-phenol = Ароматичне кільце вуглецю з гідроксильною групою. Корисний прекурсор для деяких ліків, але сам по собі не має лікувальних властивостей.
 
-reagent-name-sodium-carbonate = sodium carbonate
-reagent-desc-sodium-carbonate = A white, odorless, water-soluble salt that yields an alkaline solution in water.  Also known as soda ash.
+reagent-name-sodium-carbonate = карбонат натрію
+reagent-desc-sodium-carbonate = Біла, без запаху, розчинна у воді сіль, що утворює лужний розчин у воді. Також відома як кальцинована сода.
 
-reagent-name-artifexium = artifexium
-reagent-desc-artifexium = A lavender mixture of microscopic artifact fragments and a strong acid. It has the ability to activate artifacts.
+reagent-name-artifexium = артифексіум
+reagent-desc-artifexium = Лавандова суміш мікроскопічних фрагментів артефактів і сильної кислоти. Має здатність активувати артефакти.
 
-reagent-name-benzene = benzene
-reagent-desc-benzene = An aromatic, slightly carcinogenic, ring of carbon, forming a base for many organic compounds.
+reagent-name-benzene = бензол
+reagent-desc-benzene = Ароматичне, трохи канцерогенне, кільце вуглецю, що утворює основу для багатьох органічних сполук.
 
-reagent-name-hydroxide = hydroxide
-reagent-desc-hydroxide = A strong alkaline chemical, forming a base for many organic compounds.
+reagent-name-hydroxide = гідроксид
+reagent-desc-hydroxide = Сильна лужна хімічна речовина, що утворює основу для багатьох органічних сполук.
 
-reagent-name-sodium-hydroxide = sodium hydroxide
-reagent-desc-sodium-hydroxide = A white, odorless, water-soluble salt that yields an strong alkaline solution in water. Causes burns and vomiting when ingested.
+reagent-name-sodium-hydroxide = гідроксид натрію
+reagent-desc-sodium-hydroxide = Біла, без запаху, розчинна у воді сіль, що утворює сильний лужний розчин у воді. При вживанні всередину викликає опіки та блювоту.
 
-reagent-name-fersilicite = fersilicite
-reagent-desc-fersilicite = An intermetallic compound with unusual magnetic properties at low temperatures.
+reagent-name-fersilicite = ферсиліцит
+reagent-desc-fersilicite = Інтерметалічна сполука з незвичайними магнітними властивостями при низьких температурах.
 
-reagent-name-sodium-polyacrylate = sodium polyacrylate
-reagent-desc-sodium-polyacrylate = A super-absorbent polymer with assorted industrial uses.
+reagent-name-sodium-polyacrylate = поліакрилат натрію
+reagent-desc-sodium-polyacrylate = Суперабсорбуючий полімер з різноманітним промисловим застосуванням.
 
-reagent-name-cellulose = cellulose fibers
-reagent-desc-cellulose = A crystaline polydextrose polymer, plants swear by this stuff.
+reagent-name-cellulose = целюлоза
+reagent-desc-cellulose = Кристалічний полідекстрозний полімер, рослини від нього в захваті.
 

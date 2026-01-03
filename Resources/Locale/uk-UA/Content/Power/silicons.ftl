@@ -1,4 +1,4 @@
-ipc-recharge-tip = You charged a litte of your battery.
-dead-startup-button-verb = Reboot
-dead-startup-system-reboot-success = {$target}'s system was rebooted.
-dead-startup-system-reboot-failed = {$target}'s chassis is way too damaged.
+ipc-recharge-tip = Ви заряджаєте свою батарею.
+dead-startup-button-verb = Перезавантажити
+dead-startup-system-reboot-success = Система {$target} була перезавантажена.
+dead-startup-system-reboot-failed = Шасі {$target} надто пошкоджене.

@@ -1,9 +1,9 @@
 ﻿# Rules
 
-ui-rules-header = Floof Station Official Server Rules
-ui-rules-header-rp = Floof Station Roleplay Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules
-ui-rules-wait = The accept button will be enabled after {$time} seconds.
+ui-rules-header = Правила Серверу Троєщинські Пірати
+ui-rules-header-rp = Правила рольової поведінки серверу Троєщинські пірати Wizard's Den
+ui-rules-accept = Прочитав та погоджуюсь з правилами
+ui-rules-wait = Кнопка буде доступна через {$time} сек.
 
-ui-rules-button-home = Home
-ui-rules-button-back = Back
+ui-rules-button-home = Головна
+ui-rules-button-back = Назад

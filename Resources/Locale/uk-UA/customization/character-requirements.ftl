@@ -1,150 +1,150 @@
 ## Job
-character-job-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be one of these jobs: {$jobs}
+character-job-requirement = Ви повинні {$inverted ->
+    [true] не бути
+    *[other] бути
+} на одній з цих робіт: {$jobs}
 
-character-department-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be in one of these departments: {$departments}
+character-department-requirement = Ви повинні {$inverted ->
+    [true] не бути
+    *[other] бути
+} в одному з цих відділів: {$departments}
 
-character-timer-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of [color={$departmentColor}]{$department}[/color] department playtime
-character-timer-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes in [color={$departmentColor}]{$department}[/color] department
+character-timer-department-insufficient = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин більше ігрового часу у відділі [color={$departmentColor}]{$department}[/color]
+character-timer-department-too-high = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин менше ігрового часу у відділі [color={$departmentColor}]{$department}[/color]
 
-character-timer-overall-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of playtime
-character-timer-overall-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes of playtime
+character-timer-overall-insufficient = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин більше ігрового часу
+character-timer-overall-too-high = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин менше ігрового часу
 
-character-timer-role-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes with [color={$departmentColor}]{$job}[/color]
-character-timer-role-too-high = You require[color=yellow] {TOSTRING($time, "0")}[/color] fewer minutes with [color={$departmentColor}]{$job}[/color]
+character-timer-role-insufficient = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин більше ігрового часу за роль [color={$departmentColor}]{$job}[/color]
+character-timer-role-too-high = Вам потрібно на [color=yellow] {TOSTRING($time, "0")}[/color] менше ігрового часу за роль [color={$departmentColor}]{$job}[/color]
 
 
 ## Logic
 character-logic-and-requirement-listprefix = {""}
     {$indent}[color=gray]&[/color]{" "}
-character-logic-and-requirement = You must{$inverted ->
-    [true]{" "}not
+character-logic-and-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} fit [color=red]all[/color] of [color=gray]these[/color]: {$options}
+} підходити [color=red]усім[/color] з [color=gray]цього[/color]: {$options}
 
 character-logic-or-requirement-listprefix = {""}
-    {$indent}[color=white]O[/color]{" "}
-character-logic-or-requirement = You must{$inverted ->
-    [true]{" "}not
+    {$indent}[color=white]АБО[/color]{" "}
+character-logic-or-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} fit [color=red]at least one[/color] of [color=white]these[/color]: {$options}
+} підходити [color=red]хоча б одному[/color] з [color=white]цього[/color]: {$options}
 
 character-logic-xor-requirement-listprefix = {""}
-    {$indent}[color=white]X[/color]{" "}
-character-logic-xor-requirement = You must{$inverted ->
-    [true]{" "}not
+    {$indent}[color=white]XОR[/color]{" "}
+character-logic-xor-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} fit [color=red]only one[/color] of [color=white]these[/color]: {$options}
+} підходити [color=red]лише одному[/color] з [color=white]цього[/color]: {$options}
 
 
 ## Profile
-character-age-requirement = You must{$inverted ->
-    [true]{" "}not
+character-age-requirement = Ви повинні {$inverted ->
+    [true] не бути
+    *[other] бути
+} у межах [color=yellow]{$min}[/color] та [color=yellow]{$max}[/color] років
+
+character-backpack-type-requirement = Ви повинні {$inverted ->
+    [true] не використовувати
+    *[other] використовувати
+} [color=lightblue]{$type}[/color] як ваш мішок
+
+character-clothing-preference-requirement = Ви повинні {$inverted ->
+    [true] не носити
+    *[other] носити
+} [color=lightblue]{$type}[/color]
+
+character-gender-requirement = Ви повинні {$inverted ->
+    [true] не мати
+    *[other] мати
+} займенники [color=white]{$gender}[/color]
+
+character-sex-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} be within [color=yellow]{$min}[/color] and [color=yellow]{$max}[/color] years old
-
-character-backpack-type-requirement = You must {$inverted ->
-    [true] not use
-    *[other] use
-} a [color=brown]{$type}[/color] as your bag
-
-character-clothing-preference-requirement = You must {$inverted ->
-    [true] not wear
-    *[other] wear
-} a [color=white]{$type}[/color]
-
-character-gender-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} the pronouns [color=white]{$gender}[/color]
-
-character-sex-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be [color=white]{$sex ->
-    [None] unsexed
+} бути [color=white]{$sex ->
+    [None] без статі
     *[other] {$sex}
 }[/color]
-character-species-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be a {$species}
+character-species-requirement = Ви повинні {$inverted ->
+    [true] не бути
+    *[other] бути
+} {$species}
 
-character-height-requirement = You must{$inverted ->
-    [true]{" "}not
+character-height-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} be {$min ->
+} бути {$min ->
     [-2147483648]{$max ->
         [2147483648]{""}
-        *[other] shorter than [color={$color}]{$max}[/color]cm
+        *[other] нижчим [color={$color}]{$max}[/color]см
     }
     *[other]{$max ->
-        [2147483648] taller than [color={$color}]{$min}[/color]cm
-        *[other] between [color={$color}]{$min}[/color] and [color={$color}]{$max}[/color]cm tall
+        [2147483648] вищим за [color={$color}]{$min}[/color]см
+        *[other] між [color={$color}]{$min}[/color] та [color={$color}]{$max}[/color]см висоти
     }
 }
 
-character-width-requirement = You must{$inverted ->
-    [true]{" "}not
+character-width-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} be {$min ->
+} бути {$min ->
     [-2147483648]{$max ->
         [2147483648]{""}
-        *[other] skinnier than [color={$color}]{$max}[/color]cm
+        *[other] худішим за [color={$color}]{$max}[/color]см
     }
     *[other]{$max ->
-        [2147483648] wider than [color={$color}]{$min}[/color]cm
-        *[other] between [color={$color}]{$min}[/color] and [color={$color}]{$max}[/color]cm wide
+        [2147483648] ширшим за [color={$color}]{$min}[/color]см
+        *[other] між [color={$color}]{$min}[/color] та [color={$color}]{$max}[/color]см широким
     }
 }
 
-character-weight-requirement = You must{$inverted ->
-    [true]{" "}not
+character-weight-requirement = Ви маєте{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} be {$min ->
+} бути {$min ->
     [-2147483648]{$max ->
         [2147483648]{""}
-        *[other] lighter than [color={$color}]{$max}[/color]kg
+        *[other] легшим за [color={$color}]{$max}[/color]кг
     }
     *[other]{$max ->
-        [2147483648] heavier than [color={$color}]{$min}[/color]kg
-        *[other] between [color={$color}]{$min}[/color] and [color={$color}]{$max}[/color]kg
+        [2147483648] важчим за [color={$color}]{$min}[/color]кг
+        *[other] між [color={$color}]{$min}[/color] та [color={$color}]{$max}[/color]кг
     }
 }
 
 
-character-trait-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} one of these traits: {$traits}
+character-trait-requirement = Ви повинні {$inverted ->
+    [true] не мати
+    *[other] мати
+} особливості: [color=lightblue]{$traits}[/color]
 
-character-loadout-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} one of these loadouts: {$loadouts}
+character-loadout-requirement = Ви повинні {$inverted ->
+    [true] не мати
+    *[other] мати
+} один з цих наборів: {$loadouts}
 
 
-character-item-group-requirement = You must {$inverted ->
-    [true] have {$max} or more
-    *[other] have {$max} or less
-} items from the group [color=white]{$group}[/color]
+character-item-group-requirement = Ви повинні {$inverted ->
+    [true] мати {$max} або більше
+    *[other] мати {$max} або менше
+} елементи з групи [color=white]{$group}[/color]
 
 
 ## Whitelist
-character-whitelist-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be whitelisted
+character-whitelist-requirement = Ви повинні {$inverted ->
+    [true] не бути
+    *[other] бути
+} у білому списку
 
 ## CVar
 
-character-cvar-requirement = 
-    The server must{$inverted ->
-    [true]{" "}not
+character-cvar-requirement =
+    Сервер повинен{$inverted ->
+    [true]{" "}не
     *[other]{""}
-} have [color={$color}]{$cvar}[/color] set to [color={$color}]{$value}[/color].
+} мати [color={$color}]{$cvar}[/color] встановленим на [color={$color}]{$value}[/color].

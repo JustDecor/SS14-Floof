@@ -1,1 +1,1 @@
-chat-manager-language-requires-hands = You need free hands to speak this language!
+chat-manager-language-requires-hands = Вам потрібні вільні руки, щоб говорити цією мовою!

@@ -1,1 +1,1 @@
-verb-categories-leash-config = Set Length
+verb-categories-leash-config = Встановити довжину

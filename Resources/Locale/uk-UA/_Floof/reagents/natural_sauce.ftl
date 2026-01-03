@@ -1,5 +1,5 @@
-reagent-name-cum = cum
-reagent-desc-cum = A sticky cloudy-white liquid.
+reagent-name-cum = сперма
+reagent-desc-cum = Липка каламутно-біла рідина.
 
-reagent-name-nat-lube = natural lubricant
-reagent-desc-nat-lube = A slippery clear liquid.
+reagent-name-nat-lube = природне мастило
+reagent-desc-nat-lube = Слизька прозора рідина.

@@ -1,4 +1,4 @@
-construction-examine-condition-entity-anchored = First, anchor it.
-construction-examine-condition-entity-unanchored = First, unanchor it.
-construction-step-condition-entity-anchored = It must be anchored.
-construction-step-condition-entity-unanchored = It must be unanchored.
+construction-examine-condition-entity-anchored = Спочатку прикріпіть це.
+construction-examine-condition-entity-unanchored = Спочатку відкріпіть це.
+construction-step-condition-entity-anchored = Має бути закріплено.
+construction-step-condition-entity-unanchored = Має бути відкріплено.

@@ -1,29 +1,29 @@
 ## Implanter Attempt Messages
 
-implanter-component-implanting-target = {$user} is trying to implant you with something!
-implanter-component-implant-failed = The {$implant} cannot be given to {$target}!
-implanter-draw-failed-permanent = The {$implant} in {$target} is fused with them and cannot be removed!
-implanter-draw-failed = You tried to remove an implant but found nothing.
-implanter-component-implant-already = {$target} already has the {$implant}!
+implanter-component-implanting-target = {$user} намагається щось імплантувати в вас!
+implanter-component-implant-failed = {$implant} не може бути імплантований в {$target}!
+implanter-draw-failed-permanent = {$implant} у {$target} злився з ним і не може бути видалений!
+implanter-draw-failed = Ви намагалися видалити імплантат, але нічого не знайшли.
+implanter-component-implant-already = {$target} вже має імплант {$implant}!
 
 ## UI
-implanter-draw-text = Draw
-implanter-inject-text = Inject
+implanter-draw-text = Витягування
+implanter-inject-text = Ін'єкція
 
-implanter-empty-text = Empty
+implanter-empty-text = Пустий
 
 implanter-label = [color=green]{$implantName}[/color]
-    Mode: [color=white]{$modeString}[/color]
+    Режим: [color=white]{$modeString}[/color]
 
 implanter-contained-implant-text = [color=green]{$desc}[/color]
 
 ## Implant Popups
 
-scramble-implant-activated-popup = Your appearance shifts and changes!
-magillitisserum-implant-activated-user = You feel your muscles swell and your hair grow as you return to monke.
-magillitisserum-implant-activated-others = {CAPITALIZE(THE($entity))} swells and their hair grows rapidly. Uh oh!.
+scramble-implant-activated-popup = Ваша зовнішність змінюється!
+magillitisserum-implant-activated-user = Ви відчуваєте, як ваші м'язи наливаються, а волосся росте, коли ви повертаєтеся до мавпи.
+magillitisserum-implant-activated-others = {CAPITALIZE(THE($entity))} наливається, а його волосся швидко росте. Ой-ой!.
 
 ## Implant Messages
 
-deathrattle-implant-dead-message = {$user} has died {$position}.
-deathrattle-implant-critical-message = {$user} life signs critical, immediate assistance required {$position}.
+deathrattle-implant-dead-message = {$user} загинув у {$position}.
+deathrattle-implant-critical-message = Життєві показники {$user} критичні, необхідна негайна допомога у {$position}.

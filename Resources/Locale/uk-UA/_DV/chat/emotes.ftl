@@ -1,2 +1,2 @@
 # Names
-delta-chat-emote-name-gnash = Gnash
+delta-chat-emote-name-gnash = Скреготіти зубами

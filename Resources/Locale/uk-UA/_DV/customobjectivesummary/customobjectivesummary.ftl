@@ -1,12 +1,12 @@
-custom-objective-button-text = Write objective summary
+custom-objective-button-text = Написати підсумок цілей
 
 # UI
-custom-objective-window-title = Custom objective summary
-custom-objective-window-submit-button-text = Submit
-custom-objective-window-submit-bind-hint = Use {$keybind} to submit
-custom-objective-window-explain = Explain how you completed your objectives here!
-custom-objective-window-explain-type-here = Type here!
-custom-objective-window-explain-edit = You can always edit this anytime before the round ends.
+custom-objective-window-title = Власний підсумок цілей
+custom-objective-window-submit-button-text = Надіслати
+custom-objective-window-submit-bind-hint = Використайте {$keybind} для надсилання
+custom-objective-window-explain = Поясніть, як ви виконали свої цілі!
+custom-objective-window-explain-type-here = Друкуйте тут!
+custom-objective-window-explain-edit = Ви завжди можете відредагувати це до кінця раунду.
 
 objectives-objective = {$objective}
 

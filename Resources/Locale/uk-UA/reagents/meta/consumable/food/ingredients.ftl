@@ -1,38 +1,38 @@
-reagent-name-flour = flour
-reagent-desc-flour = Used for baking.
+reagent-name-flour = борошно
+reagent-desc-flour = Використовується для випічки.
 
-reagent-name-cornmeal = cornmeal
-reagent-desc-cornmeal = Used for baking.
+reagent-name-cornmeal = кукурудзяне борошно
+reagent-desc-cornmeal = Використовується для випічки.
 
-reagent-name-oats = oats
-reagent-desc-oats = Used for a variety of tasty purposes.
+reagent-name-oats = вівсянка
+reagent-desc-oats = Використовується для різноманітних смачних цілей.
 
-reagent-name-enzyme = universal enzyme
-reagent-desc-enzyme = Used in cooking various dishes.
+reagent-name-enzyme = універсальний фермент
+reagent-desc-enzyme = Використовується для приготування різноманітних страв.
 
-reagent-name-egg = cooked egg
-reagent-desc-egg = Cooked chicken embryo, delicious.
+reagent-name-egg = варене яйце
+reagent-desc-egg = Приготований курячий ембріон, смакота.
 
-reagent-name-raw-egg = raw egg
-reagent-desc-raw-egg = Used for baking.
+reagent-name-raw-egg = сире яйце
+reagent-desc-raw-egg = Використовується для випічки.
 
-reagent-name-sugar = sugar
-reagent-desc-sugar = Tasty spacey sugar!
+reagent-name-sugar = цукор
+reagent-desc-sugar = Смачний космічний цукор!
 
-reagent-name-blackpepper = black pepper
-reagent-desc-blackpepper = Often used to flavor food or make people sneeze.
+reagent-name-blackpepper = чорний перець
+reagent-desc-blackpepper = Часто використовується для приправлення їжі або щоб змусити людей чхати.
 
-reagent-name-vinegar = vinegar
-reagent-desc-vinegar = Often used to flavor food.
+reagent-name-vinegar = оцет
+reagent-desc-vinegar = Часто використовується для приправлення їжі.
 
-reagent-name-rice = rice
-reagent-desc-rice = Hard, small white grains.
+reagent-name-rice = рис
+reagent-desc-rice = Тверді, маленькі білі зерна.
 
-reagent-name-oil-olive = olive oil
-reagent-desc-oil-olive = Viscous and fragrant.
+reagent-name-oil-olive = оливкова олія
+reagent-desc-oil-olive = В'язка та ароматна.
 
-reagent-name-oil = oil
-reagent-desc-oil = Used by chefs to cook.
+reagent-name-oil = олія
+reagent-desc-oil = Використовується кухарями для приготування їжі.
 
-reagent-name-capsaicin-oil = Capsaicin Oil
-reagent-desc-capsaicin-oil = Capsaicin Oil is the ingredient found in different types of hot peppers.
+reagent-name-capsaicin-oil = Капсаїцинова олія
+reagent-desc-capsaicin-oil = Капсаїцинова олія - це інгредієнт, що міститься в різних видах гострих перців.

@@ -1,30 +1,30 @@
-device-pda-slot-component-slot-name-cartridge = Cartridge
+device-pda-slot-component-slot-name-cartridge = Картридж
 
-default-program-name = Program
-notekeeper-program-name = Notekeeper
-news-read-program-name = Station news
+default-program-name = Програма
+notekeeper-program-name = Замітки
+news-read-program-name = Новини станції
 
-crew-manifest-program-name = Crew manifest
-crew-manifest-cartridge-loading = Loading ...
+crew-manifest-program-name = Маніфест екіпажу
+crew-manifest-cartridge-loading = Загрузка ...
 
-net-probe-program-name = NetProbe
-net-probe-scan = Scanned {$device}!
-net-probe-label-name = Name
-net-probe-label-address = Address
-net-probe-label-frequency = Frequency
-net-probe-label-network = Network
+net-probe-program-name = НетПроб
+net-probe-scan = Скановано {$device}!
+net-probe-label-name = Імʼя
+net-probe-label-address = Адреса
+net-probe-label-frequency = Частота
+net-probe-label-network = Мережа
 
-log-probe-program-name = LogProbe
-log-probe-scan = Downloaded logs from {$device}!
-log-probe-label-time = Time
-log-probe-label-accessor = Accessed by
+log-probe-program-name = ЛогПроб
+log-probe-scan = Викачано логи з {$device}!
+log-probe-label-time = Час
+log-probe-label-accessor = Доступ до
 log-probe-label-number = #
 
-glimmer-monitor-program-name = Glimmer Monitor
-glimmer-monitor-current-glimmer = Current Glimmer: {$glimmer}Ψ
-glimmer-monitor-interval = Interval
-glimmer-monitor-sync = Sync
+glimmer-monitor-program-name = Монітор Мерехтіння
+glimmer-monitor-current-glimmer = Мерехтіння: {$glimmer}Ψ
+glimmer-monitor-interval = Інтервал
+glimmer-monitor-sync = Синхронізувати
 
-astro-nav-program-name = AstroNav
+astro-nav-program-name = АстроНав
 
-med-tek-program-name = MedTek
+med-tek-program-name = МедТек

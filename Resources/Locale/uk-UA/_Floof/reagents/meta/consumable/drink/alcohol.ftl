@@ -1,203 +1,203 @@
-reagent-name-7deadlysins = 7 deadly sins
-reagent-desc-7deadlysins = A vile concoction of liqour and various other ingredients, all coming together into something that has the stench of death.
+reagent-name-7deadlysins = 7 смертних гріхів
+reagent-desc-7deadlysins = Огидна суміш лікеру та різних інших інгредієнтів, що всі разом створюють щось із запахом смерті.
 
-reagent-name-ablustine = a.b. lustine
-reagent-desc-ablustine = Fruity and flavorful, an easy to make drink, and a very nice one at that.
+reagent-name-ablustine = А.Б. Люстін
+reagent-desc-ablustine = Фруктовий і смачний, легкий у приготуванні напій, і дуже приємний.
 
-reagent-name-anisette = anisette
-reagent-desc-anisette = Liquor made of anise and sugar, typically used as a sweeter form of absinthe.
+reagent-name-anisette = анізет
+reagent-desc-anisette = Лікер з анісу та цукру, зазвичай використовується як солодша форма абсенту.
 
-reagent-name-appleberryfizz = appleberry fizz
-reagent-desc-appleberryfizz = A sweet, delightful little drink.
+reagent-name-appleberryfizz = яблучно-ягідна газіровка
+reagent-desc-appleberryfizz = Солодкий, чудовий маленький напій.
 
-reagent-name-bande = b&e
-reagent-desc-bande = A mischevious, dark drink, with a splash of bodily fluids.
+reagent-name-bande = Б&П
+reagent-desc-bande = Пустотливий, темний напій із додаванням тілесних рідин.
 
-reagent-name-bethanyscumlust = bethany's cum-lust
-reagent-desc-bethanyscumlust = Named after a very particularly fiesty member of the crew within the Floof sector.
+reagent-name-bethanyscumlust = хтивість Бетані
+reagent-desc-bethanyscumlust = Названий на честь особливо пристрасного члена екіпажу у секторі Флуф.
 
-reagent-name-bethanyssluttycumlust = bethany's slutty cum-lust
-reagent-desc-bethanyssluttycumlust = For those looking for an even more intense version.
+reagent-name-bethanyssluttycumlust = розпусна хтивість Бетані
+reagent-desc-bethanyssluttycumlust = Для тих, хто шукає ще більш інтенсивну версію.
 
-reagent-name-blueballer = blue baller
-reagent-desc-blueballer = For those love-shy workers.
+reagent-name-blueballer = синій балер
+reagent-desc-blueballer = Для тих соромливих працівників.
 
-reagent-name-cafedecacao = cafe de cacao
-reagent-desc-cafedecacao = Almost like a mocha, except with alcohol.
+reagent-name-cafedecacao = кафе де какао
+reagent-desc-cafedecacao = Майже як мока, але з алкоголем.
 
-reagent-name-calicosunrise = calico sunrise
-reagent-desc-calicosunrise = A sweet, fruity beverage that feels like watching the sun rise up over the horizon.
+reagent-name-calicosunrise = схід сонця калі́ко
+reagent-desc-calicosunrise = Солодкий, фруктовий напій, який викликає відчуття спостереження за сходом сонця над горизонтом.
 
-reagent-name-cremedecacao = crème de cacao
-reagent-desc-cremedecacao = A spiked hot chocolate, satisfying to anyone caught out in the snow.
+reagent-name-cremedecacao = крем де какао
+reagent-desc-cremedecacao = Гарячий шоколад з алкоголем, задовольняє будь-кого, хто потрапив у сніг.
 
-reagent-name-darkoasis = dark oasis
-reagent-desc-darkoasis = The darker it looks the sweeter it tastes.
+reagent-name-darkoasis = темний оазис
+reagent-desc-darkoasis = Чим темніше виглядає, тим солодше смакує.
 
-reagent-name-deadmansdraught = dead man's draught
-reagent-desc-deadmansdraught = One of those everything-at-the-bar blends, something that will make some of the strongest stomachs turn.
+reagent-name-deadmansdraught = напій мертвеця
+reagent-desc-deadmansdraught = Одна з тих сумішей "все-з-бару", щось, що змусить деякі найміцніші шлунки обертатися.
 
-reagent-name-demonseed = demon seed
-reagent-desc-demonseed = Tastes like an actual demon's nethers.
+reagent-name-demonseed = демонічне насіння
+reagent-desc-demonseed = Смакує як справжні нижні частини демона.
 
-reagent-name-dirtywastelander = dirty wastelander
-reagent-desc-dirtywastelander = The last option for some tired people trapped out on the wasteland planets.
+reagent-name-dirtywastelander = брудний пустельник
+reagent-desc-dirtywastelander = Останній варіант для втомлених людей, що застрягли на планетах-пустищах.
 
-reagent-name-doublecreamblaster = double cream blaster
-reagent-desc-doublecreamblaster = For twice the creaminess and twice the fun.
+reagent-name-doublecreamblaster = подвійний вершковий вибух
+reagent-desc-doublecreamblaster = Для подвійної вершковості та подвійного задоволення.
 
-reagent-name-dragonsblood = dragon's blood
-reagent-desc-dragonsblood = Legend says this is what gives the space dragons their firey mouth.
+reagent-name-dragonsblood = кров дракона
+reagent-desc-dragonsblood = Легенда каже, що це те, що дає космічним драконам їх вогняний рот.
 
-reagent-name-dragonsbreath = dragon's breath
-reagent-desc-dragonsbreath = A picante drink, burning all the way down like taking a breath of pure plasma fire.
+reagent-name-dragonsbreath = дихання дракона
+reagent-desc-dragonsbreath = Пекучий напій, що пече весь шлях вниз, як ковток чистого плазмового вогню.
 
-reagent-name-dragonsseed = dragon's seed
-reagent-desc-dragonsseed = Tastes like an actual dragon's nethers.
+reagent-name-dragonsseed = насіння дракона
+reagent-desc-dragonsseed = Смакує як справжні нижні частини дракона.
 
-reagent-name-emeraldswinger = emerald swinger
-reagent-desc-emeraldswinger = A colorful cocktail, perfect for the platter at a sex party.
+reagent-name-emeraldswinger = смарагдовий свінгер
+reagent-desc-emeraldswinger = Барвистий коктейль, ідеальний для блюда на секс-вечірці.
 
-reagent-name-eminence = eminence
-reagent-desc-eminence = Said to be the god's own recipe; Ratvar npprcg nyy pensg, Znl Ratvar Fnir Ibhe Fbhy.
+reagent-name-eminence = височність
+reagent-desc-eminence = Кажуть, що це рецепт самих богів; Ратвар схвалює всі ремесла, Нехай Ратвар врятує вашу душу.
 
-reagent-name-goldbloomspecial = goldbloom special
-reagent-desc-goldbloomspecial = The tried and true method coined by a pair of brothers to get through those long, dreary shifts.
+reagent-name-goldbloomspecial = спеціальний голдблум
+reagent-desc-goldbloomspecial = Перевірений і справжній метод, винайдений парою братів, щоб пережити ті довгі, похмурі зміни.
 
-reagent-name-grandnavy = grand navy
-reagent-desc-grandnavy = The inventor of this drink said they came from the place called 'The War Seas', maybe they were going crazy.
+reagent-name-grandnavy = великий флот
+reagent-desc-grandnavy = Винахідник цього напою казав, що прийшов з місця під назвою "Військові моря", можливо, він божеволів.
 
-reagent-name-heartbreakmountain = heartbreak mountain
-reagent-desc-heartbreakmountain = A mix of incredible carbonation, designed to make your mouth forget whatever was in it previously.
+reagent-name-heartbreakmountain = гора розбитого серця
+reagent-desc-heartbreakmountain = Суміш неймовірної карбонізації, призначена змусити ваш рот забути, що було в ньому раніше.
 
-reagent-name-holyvice = holy vice
-reagent-desc-holyvice = Despite seeming somewhat contrary, the ingredients of this cocktail mix nicely.
+reagent-name-holyvice = святий порок
+reagent-desc-holyvice = Незважаючи на здавалось би суперечливість, інгредієнти цього коктейлю добре змішуються.
 
-reagent-name-hornystallion = horny stallion
-reagent-desc-hornystallion = A drink with a strong effect on anyone stupid enough to take it. Either served as a shot or a full glass, for those who are more risky.
+reagent-name-hornystallion = збуджений жеребець
+reagent-desc-hornystallion = Напій із сильним впливом на будь-кого досить дурного, щоб його прийняти. Подається як шот або в повному склянці для тих, хто більш ризиковий.
 
-reagent-name-koboldkooler = kobold kooler
-reagent-desc-koboldkooler = A cool, soothing drink for the cold-blooded amongst the crew.
+reagent-name-koboldkooler = кобольдовий охолоджувач
+reagent-desc-koboldkooler = Прохолодний, заспокійливий напій для холоднокровних серед екіпажу.
 
-reagent-name-koboldkorkscrew = kobold korkscrew
-reagent-desc-koboldkorkscrew = A fizzy, sugary drink, with an added scale-like smoothness.
+reagent-name-koboldkorkscrew = кобольдовий штопор
+reagent-desc-koboldkorkscrew = Газований, цукристий напій із доданою лускоподібною гладкістю.
 
-reagent-name-lamplight = lamplight
-reagent-desc-lamplight = This drink is known to have a very particular allure to the moffic crew. Non-Moths report nothing out of the ordinary, though.
+reagent-name-lamplight = світло лампи
+reagent-desc-lamplight = Відомо, що цей напій має особливу привабливість для екіпажу-метеликів. Інші види повідомляють про нічого незвичайного.
 
-reagent-name-lemonpopsicle = lemon popsicle
-reagent-desc-lemonpopsicle = An on-the-wagon cocktail, for those who just adore sour things. It is tradition to rim the glass with citric acid.
+reagent-name-lemonpopsicle = лимонний ескімо
+reagent-desc-lemonpopsicle = Коктейль без алкоголю для тих, хто просто обожнює кисле. Традиційно край склянки вкривають лимонною кислотою.
 
-reagent-name-loverskiss = lovers kiss
-reagent-desc-loverskiss = A simple, quick spin on some wine, pleasant and fruity.
+reagent-name-loverskiss = поцілунок коханців
+reagent-desc-loverskiss = Простий, швидкий варіант вина, приємний і фруктовий.
 
-reagent-name-mariejulep = marie julep
-reagent-desc-mariejulep = A minty, sweet cocktail. For those who can't stomach their absinthe.
+reagent-name-mariejulep = мар'їн джулеп
+reagent-desc-mariejulep = М'ятний, солодкий коктейль. Для тих, хто не може витримати свій абсент.
 
-reagent-name-marsbar = mars bar
-reagent-desc-marsbar = Sourced from the bar itself, or maybe the bartender.
+reagent-name-marsbar = марс бар
+reagent-desc-marsbar = З самого бару, або можливо від бармена.
 
-reagent-name-mossbloodshot = moss' blood shot
-reagent-desc-mossbloodshot = A usual drink of a particular crewmate, well-known for its sweetness
+reagent-name-mossbloodshot = кров'яний шот Мосса
+reagent-desc-mossbloodshot = Звичайний напій певного члена екіпажу, добре відомий своєю солодкістю.
 
-reagent-name-numberone = number one
-reagent-desc-numberone = The perfect drink to help ensure that YOU stay on top of your game this shift! (And get heart disease).
+reagent-name-numberone = номер один
+reagent-desc-numberone = Ідеальний напій, щоб допомогти вам залишатися на вершині вашої гри цієї зміни! (І отримати серцеву хворобу).
 
-reagent-name-opsshine = ops' shine
-reagent-desc-opsshine = A drink made for the slime personnel on board. Not meeting the criteria may include a trip to the Medical Bay.
+reagent-name-opsshine = опсів самогон
+reagent-desc-opsshine = Напій, зроблений для слизового персоналу на борту. Якщо ви не відповідаєте критеріям, це може включати поїздку до медбею.
 
-reagent-name-orgasmonthebeach = orgasm on the beach
-reagent-desc-orgasmonthebeach = A classic drink that tickles the pudendal nerve.
+reagent-name-orgasmonthebeach = оргазм на пляжі
+reagent-desc-orgasmonthebeach = Класичний напій, який лоскоче статевий нерв.
 
-reagent-name-pomonade = pomonade
-reagent-desc-pomonade = A spin on a classic lemonade, with a sweeter side.
+reagent-name-pomonade = помонад
+reagent-desc-pomonade = Варіація на класичний лимонад із солодшою стороною.
 
-reagent-name-pompassion = pom passion
-reagent-desc-pompassion = An incredibly fruity drink, the smell so strong it could be a perfume.
+reagent-name-pompassion = гранатова пристрасть
+reagent-desc-pompassion = Неймовірно фруктовий напій, запах настільки сильний, що може бути парфумом.
 
-reagent-name-pomtwist = pom twist
-reagent-desc-pomtwist = A citrus heavy beverage, sour enough to drink as slowly as you would a real cocktail.
+reagent-name-pomtwist = гранатовий твіст
+reagent-desc-pomtwist = Цитрусовий напій, досить кислий, щоб пити так само повільно, як справжній коктейль.
 
-reagent-name-prairieoyster = prairie oyster
-reagent-desc-prairieoyster = A supposed hangover cure traditional among space cowboys. Best consumed with your nose plugged and your face towards the ceiling.
+reagent-name-prairieoyster = прерійна устриця
+reagent-desc-prairieoyster = Нібито засіб від похмілля, традиційний серед космічних ковбоїв. Краще споживати із затуленим носом і обличчям до стелі.
 
-reagent-name-prisonwine = prison wine
-reagent-desc-prisonwine = A quickly thrown together mixture of grapes and sugar in soda water. Probably wouldn't actually turn into wine, but you can put it in your loo nonetheless.
+reagent-name-prisonwine = тюремне вино
+reagent-desc-prisonwine = Швидко зроблена суміш винограду та цукру в содовій воді. Напевно, не перетвориться на вино, але ви можете помістити це у свій туалет.
 
-reagent-name-quadruplecreamchalice = quadruple cream chalice
-reagent-desc-quadruplecreamchalice = A mixture of the most creamy ingredients available at the bar.
+reagent-name-quadruplecreamchalice = чотириразовий вершковий чаша
+reagent-desc-quadruplecreamchalice = Суміш найбільш вершкових інгредієнтів, доступних у барі.
 
-reagent-name-randystallion = randy stallion
-reagent-desc-randystallion = A more playful stallion, with a unique kick.
+reagent-name-randystallion = ренді жеребець
+reagent-desc-randystallion = Більш грайливий жеребець з унікальним ударом.
 
-reagent-name-redrocket = red rocket
-reagent-desc-redrocket = A sugary drink that would be very sought after in an apocalypse. Favored by canines.
+reagent-name-redrocket = червона ракета
+reagent-desc-redrocket = Цукристий напій, який був би дуже затребуваний в апокаліпсисі. Улюблений собаками.
 
-reagent-name-salvagersdelight = salvager's delight
-reagent-desc-salvagersdelight = Said to have originated as a hazing ritual among deep-space salvagers, this vile concoction can only be stomached by true sons of Salvonia.
+reagent-name-salvagersdelight = насолода рятівника
+reagent-desc-salvagersdelight = Кажуть, що виник як ритуал дідівщини серед рятівників глибокого космосу, цю огидну суміш можуть витримати лише справжні сини Сальвонії.
 
-reagent-name-semenbomb = semen bomb
-reagent-desc-semenbomb = A drink that will make one feel like they have a full stomach, one way or another.
+reagent-name-semenbomb = сперматозоїдна бомба
+reagent-desc-semenbomb = Напій, який змусить відчути, ніби у вас повний шлунок, так чи інакше.
 
-reagent-name-semenhemorrhage = semen hemorrhage
-reagent-desc-semenhemorrhage = A succubi spin on a classic spooky shot.
+reagent-name-semenhemorrhage = спермальна кровотеча
+reagent-desc-semenhemorrhage = Сукубський варіант класичного страшного шоту.
 
-reagent-name-silverstallion = silver stallion
-reagent-desc-silverstallion = A strong drink that'll put hair on your chest.
+reagent-name-silverstallion = срібний жеребець
+reagent-desc-silverstallion = Міцний напій, який додасть волосся на вашу груди.
 
-reagent-name-slimesdelight = slime's delight
-reagent-desc-slimesdelight = A somewhat gross drink for many people to imagine consuming. Most end up ordering something else.
+reagent-name-slimesdelight = насолода слизу
+reagent-desc-slimesdelight = Дещо огидний напій для багатьох людей, щоб уявити споживання. Більшість врешті-решт замовляють щось інше.
 
-reagent-name-snowball = snowball
-reagent-desc-snowball = A sweet mix of a snowcone, with a very special kind of syrup.
+reagent-name-snowball = сніжна куля
+reagent-desc-snowball = Солодка суміш сніжного конуса з дуже особливим видом сиропу.
 
-reagent-name-specialsundae = special sundae
-reagent-desc-specialsundae = A pleasing enouhg mix of ice cream and pomegranate-- with one extra ingredient, in place of the nuts.
+reagent-name-specialsundae = спеціальний сандей
+reagent-desc-specialsundae = Приємна суміш морозива та граната - з одним додатковим інгредієнтом замість горіхів.
 
-reagent-name-syndicatesoverseer = syndicate's overseer
-reagent-desc-syndicatesoverseer = This drink is menacing, you don't even know if you should be drinking this or not.
+reagent-name-syndicatesoverseer = наглядач синдикату
+reagent-desc-syndicatesoverseer = Цей напій загрозливий, ви навіть не знаєте, чи повинні ви його пити чи ні.
 
-reagent-name-triplecitrus = triple citrus
-reagent-desc-triplecitrus = Triple the citrus, triple the fun.
+reagent-name-triplecitrus = потрійний цитрус
+reagent-desc-triplecitrus = Потрійний цитрус, потрійне задоволення.
 
-reagent-name-voltage = voltage
-reagent-desc-voltage = A strong, electric drink, overloading the senses in both sweetness and strength.
+reagent-name-voltage = вольтаж
+reagent-desc-voltage = Міцний, електричний напій, що перевантажує відчуття як солодкістю, так і міцністю.
 
-reagent-name-wakeupjuice = wake up juice
-reagent-desc-wakeupjuice = A drink that'll bring your cloudy mind right back to the thinking about the future.
+reagent-name-wakeupjuice = сік для пробудження
+reagent-desc-wakeupjuice = Напій, який поверне ваш затуманений розум прямо до роздумів про майбутнє.
 
-reagent-name-watermelonginjizz = watermelon gin jizz
-reagent-desc-watermelonginjizz = Perfect for a luncheon on a warm sunny afternoon.
+reagent-name-watermelonginjizz = кавуновий джин джиз
+reagent-desc-watermelonginjizz = Ідеально для ланчу в теплий сонячний день.
 
-reagent-name-thewaterslide = the waterslide
-reagent-desc-thewaterslide = Charcoal not included for you, o naughty one.
+reagent-name-thewaterslide = водна гірка
+reagent-desc-thewaterslide = Вугілля не включено для вас, о збочений.
 
-reagent-name-whiskeysour = whiskey sour
-reagent-desc-whiskeysour = Shelter from the Noöspheric Storm.
+reagent-name-whiskeysour = віскі сауер
+reagent-desc-whiskeysour = Притулок від ноосферного шторму.
 
-reagent-name-yeolhandy = ye ol handy
-reagent-desc-yeolhandy = The loner's choice, cold as their bed.
+reagent-name-yeolhandy = старий ручний
+reagent-desc-yeolhandy = Вибір самотника, холодний, як їхнє ліжко.
 
-reagent-name-the-cute-captain = The Cute Captain
-reagent-desc-the-cute-captain = Light blue liquid with a sweet floral scent and a hint of pomegranate
+reagent-name-the-cute-captain = Милий капітан
+reagent-desc-the-cute-captain = Світло-блакитна рідина з солодким квітковим ароматом і відтінком граната.
 
-reagent-name-axels-ale = Axel's Ale
-reagent-desc-axels-ale = Red like the color of a setting sun on a beach
+reagent-name-axels-ale = ель Акселя
+reagent-desc-axels-ale = Червоний, як колір заходу сонця на пляжі.
 
-reagent-name-jenn-tonic = Jenn in Tonic
-reagent-desc-jenn-tonic = Light golden and bubbly, what could go wrong?
+reagent-name-jenn-tonic = Дженн у тоніці
+reagent-desc-jenn-tonic = Світло-золотий і бурхливий, що може піти не так?
 
-reagent-name-hallelujah = Hallelujah
-reagent-desc-hallelujah = Exactly what you need.
+reagent-name-hallelujah = алілуя
+reagent-desc-hallelujah = Саме те, що вам потрібно.
 
-reagent-name-eggnog = Eggnog
-reagent-desc-eggnog = creamy, pale yellow and topped with a sprinkle of cinnamon.
+reagent-name-eggnog = еґноґ
+reagent-desc-eggnog = Недостатньо яєць.
 
-reagent-name-syndicate-eggnog = Syndicate Eggnog
-reagent-desc-syndicate-eggnog = creamy, pale yellow and topped with a sprinkle of cinnamon and strongly alcoholic.
+reagent-name-syndicate-eggnog = синдикатний еґноґ
+reagent-desc-syndicate-eggnog = Вершковий, блідо-жовтий і з корицею зверху, і дуже алкогольний.
 
-reagent-name-gin-and-pussy = Gin and Pussy
-reagent-desc-gin-and-pussy = A Sapphic twist on the classic Gin and Tonic, featuring locally sourced Natural Lubricant as a replacement for Tonic, A favorite of Maintenance Bars everywhere.
+reagent-name-gin-and-pussy = джин і піська
+reagent-desc-gin-and-pussy = Сапфічний варіант класичного джин-тоніку, з використанням місцевого натурального лубриканта як заміни тоніку. Улюблений у барах техобслуговування скрізь.
 
-reagent-name-pussytonic = Pussy Tonic
-reagent-desc-pussytonic = Natural Lubrican with some tonic, for pussy lovers.
+reagent-name-pussytonic = пісковий тонік
+reagent-desc-pussytonic = Натуральний лубрикант з тонік, для любителів пісок.

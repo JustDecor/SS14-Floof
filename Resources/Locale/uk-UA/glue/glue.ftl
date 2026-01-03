@@ -1,6 +1,6 @@
-glue-success = {THE($target)} has been covered in glue!
-glued-name-prefix = glued {$baseName}
-glue-failure = Can't cover {THE($target)} in glue!
-glue-verb-text = Apply Glue
-glue-verb-message = Glue an object
+glue-success = {THE($target)} було покрито клеєм!
+glued-name-prefix = склеєно {$baseName}
+glue-failure = Не можна покривати {THE($target)} клеєм!
+glue-verb-text = Нанести Клей
+glue-verb-message = Приклеїти об'єкт
 

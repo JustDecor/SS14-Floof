@@ -1,41 +1,41 @@
-warp-point-evacshuttle = Evac Shuttle
-warp-point-shuttle = Shuttle
-warp-point-debris = Space Debris
-warp-point-ruin = Space Ruin
+warp-point-evacshuttle = Евакуаційний шатл
+warp-point-shuttle = Шатл
+warp-point-debris = Космічні уламки
+warp-point-ruin = Космічні руїни
 
-warp-point-bridge = Bridge
-warp-point-vault = Vault
+warp-point-bridge = Місток
+warp-point-vault = Сховище
 
-warp-point-sec = Security
-warp-point-perma = Perma
-warp-point-detective = Detective
-warp-point-court = Courtroom
+warp-point-sec = Служба безпеки
+warp-point-perma = Пермабриг
+warp-point-detective = Детектив
+warp-point-court = Судовий зал
 
-warp-point-medical = Medical
-warp-point-morgue = Morgue
+warp-point-medical = Медичний відділ
+warp-point-morgue = Морг
 
-warp-point-epistemics = Epistemics
+warp-point-epistemics = Епістеміка
 
-warp-point-logistics = Logistics
-warp-point-salvage = Salvage
+warp-point-logistics = Логістика
+warp-point-salvage = Салведж
 
-warp-point-engineering = Engineering
-warp-point-singularity = Singularity
-warp-point-atmospherics = Atmos
+warp-point-engineering = Інженерія
+warp-point-singularity = Сингулярність
+warp-point-atmospherics = Атмос
 
-warp-point-hop = HoP
-warp-point-kitchen = Kitchen
-warp-point-bar = Bar
-warp-point-botany = Botany
-warp-point-janitor = Janitor
-warp-point-reporter = Reporter
-warp-point-lawyer = Lawyer
+warp-point-hop = Начальник персоналу
+warp-point-kitchen = Кухня
+warp-point-bar = Бар
+warp-point-botany = Ботаніка
+warp-point-janitor = Прибиральник
+warp-point-reporter = Репортер
+warp-point-lawyer = Юрист
 
-warp-point-ai = AI
-warp-point-arrivals = Arrivals
-warp-point-evac = Evac
-warp-point-cryo = Cryo
-warp-point-chapel = Chapel
-warp-point-library = Library
-warp-point-dorms = Dorms
-warp-point-disposals = Disposals
+warp-point-ai = ШІ
+warp-point-arrivals = Прибуття
+warp-point-evac = Евакуація
+warp-point-cryo = Кріогенна камера
+warp-point-chapel = Каплиця
+warp-point-library = Бібліотека
+warp-point-dorms = Гуртожитки
+warp-point-disposals = Утилізація

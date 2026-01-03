@@ -1,36 +1,36 @@
-verb-categories-vore = Vore
+verb-categories-vore = Вор
 
-vore-devour = [color=red]Devour[/color]
-vore-release = Release {CAPITALIZE($entity)}
-vore-digest = Digest {CAPITALIZE($entity)}
-vore-stop-digest = Stop digesting {CAPITALIZE($entity)}
+vore-devour = [color=red]Поглинути[/color]
+vore-release = Випустити {CAPITALIZE($entity)}
+vore-digest = Перетравити {CAPITALIZE($entity)}
+vore-stop-digest = Припинити травлення {CAPITALIZE($entity)}
 
-vore-attempt-devour = {CAPITALIZE($entity)} is trying to devour {CAPITALIZE($prey)}!
-vore-attempt-insert = {CAPITALIZE($prey)} is trying to climb in {CAPITALIZE($entity)}!
-vore-devoured = {CAPITALIZE($entity)} devoured {CAPITALIZE($prey)}
-vore-digest-start = {CAPITALIZE($entity)} belly begins to get more active...
-vore-digest-start-chat = [color=red]{CAPITALIZE($entity)} belly begins to get more active...[/color]
-vore-digest-stop = {CAPITALIZE($entity)} belly seems to calm down...
-vore-released = {CAPITALIZE($entity)} is released from {CAPITALIZE($pred)} belly.
+vore-attempt-devour = {CAPITALIZE($entity)} намагається поглинути {CAPITALIZE($prey)}!
+vore-attempt-insert = {CAPITALIZE($prey)} намагається заповзти в {CAPITALIZE($entity)}!
+vore-devoured = {CAPITALIZE($entity)} поглинув {CAPITALIZE($prey)}
+vore-digest-start = Живіт {CAPITALIZE($entity)} стає активнішим...
+vore-digest-start-chat = [color=red]Живіт {CAPITALIZE($entity)} стає активнішим...[/color]
+vore-digest-stop = Живіт {CAPITALIZE($entity)}, схоже, заспокоюється...
+vore-released = {CAPITALIZE($entity)} виходить з живота {CAPITALIZE($pred)}.
 
-vore-digested-owner-1 = [color=red]You feel {CAPITALIZE($entity)} body succumb to your digestive system, which breaks it apart into soft slurry.[/color]
-vore-digested-owner-2 = [color=red]You hear a lewd glorp as your belly muscles grind {CAPITALIZE($entity)} into a warm pulp.[/color]
-vore-digested-owner-3 = [color=red]Your belly lets out a rumble as it melts {CAPITALIZE($entity)} into sludge.[/color]
-vore-digested-owner-4 = [color=red]You feel a soft gurgle as {CAPITALIZE($entity)} body loses form in your belly. They're nothing but a soft mass of churning slop now.[/color]
-vore-digested-owner-5 = [color=red]Your belly begins gushing {CAPITALIZE($entity)} remains through your system, adding some extra weight to your belly.[/color]
-vore-digested-owner-6 = [color=red]Your belly groans as {CAPITALIZE($entity)} falls apart into a thick soup. You can feel their remains soon flowing deeper into your body to be absorbed.[/color]
-vore-digested-owner-7 = [color=red]Your belly kneads on every fiber of {CAPITALIZE($entity)}, softening them down into mush to fuel your next hunt.[/color]
-vore-digested-owner-8 = [color=red]Your belly churns {CAPITALIZE($entity)} down into a hot slush. You can feel the nutrients coursing through your digestive track with a series of long, wet glorps.[/color]
+vore-digested-owner-1 = [color=red]Ти відчуваєш, як тіло {CAPITALIZE($entity)} підкоряється твоїй травній системі, яка перетворює його на м'яку рідину.[/color]
+vore-digested-owner-2 = [color=red]Ти чуєш непристойне бурчання, коли м'язи твого живота перемелюють {CAPITALIZE($entity)} на теплу кашу.[/color]
+vore-digested-owner-3 = [color=red]Твій живіт бурчить, плавлячи {CAPITALIZE($entity)} у слиз.[/color]
+vore-digested-owner-4 = [color=red]Ти відчуваєш м'яке бурчання, коли тіло {CAPITALIZE($entity)} втрачає форму в твоєму животі. Вони тепер лише м'яка маса киплячого месива.[/color]
+vore-digested-owner-5 = [color=red]Твій живіт починає проганяти залишки {CAPITALIZE($entity)} через твою систему, додаючи вагу твоєму животу.[/color]
+vore-digested-owner-6 = [color=red]Твій живіт стогне, коли {CAPITALIZE($entity)} розпадається на густий суп. Ти відчуваєш, як їхні залишки незабаром потечуть глибше в твоє тіло, щоб поглинутися.[/color]
+vore-digested-owner-7 = [color=red]Твій живіт м'не кожне волокно {CAPITALIZE($entity)}, пом'якшуючи їх у кашу для твоєї наступної полювання.[/color]
+vore-digested-owner-8 = [color=red]Твій живіт перетирає {CAPITALIZE($entity)} на гарячу рідину. Ти відчуваєш, як поживні речовини проходять через твій травний тракт із серією довгих, вологих хлюпань.[/color]
 
-vore-digested-prey-1 = [color=red]Your body succumbs to {CAPITALIZE($entity)} digestive system, which breaks you apart into soft slurry.[/color]
-vore-digested-prey-2 = [color=red]{CAPITALIZE($entity)} belly lets out a lewd glorp as their muscles grind you into a warm pulp.[/color]
-vore-digested-prey-3 = [color=red]{CAPITALIZE($entity)} belly lets out a rumble as it melts you into sludge.[/color]
-vore-digested-prey-4 = [color=red]{CAPITALIZE($entity)} feels a soft gurgle as your body loses form in their belly. You're nothing but a soft mass of churning slop now.[/color]
-vore-digested-prey-5 = [color=red]{CAPITALIZE($entity)} belly begins gushing your remains through their system, adding some extra weight to {CAPITALIZE($entity)} belly.[/color]
-vore-digested-prey-6 = [color=red]{CAPITALIZE($entity)} belly groans as you fall apart into a thick soup. Your remains soon flow deeper into {CAPITALIZE($entity)} body to be absorbed.[/color]
-vore-digested-prey-7 = [color=red]{CAPITALIZE($entity)} belly kneads on every fiber of your body, softening you down into mush to fuel their next hunt.[/color]
-vore-digested-prey-8 = [color=red]{CAPITALIZE($entity)} belly churns you down into a hot slush. Your nutrient-rich remains course through their digestive track with a series of long, wet glorps.[/color]
+vore-digested-prey-1 = [color=red]Твоє тіло підкоряється травній системі {CAPITALIZE($entity)}, яка перетворює тебе на м'яку рідину.[/color]
+vore-digested-prey-2 = [color=red]Живіт {CAPITALIZE($entity)} видає непристойне хлюпання, коли їхні м'язи перемелюють тебе на теплу кашу.[/color]
+vore-digested-prey-3 = [color=red]Живіт {CAPITALIZE($entity)} бурчить, плавлячи тебе у слиз.[/color]
+vore-digested-prey-4 = [color=red]{CAPITALIZE($entity)} відчуває м'яке бурчання, коли твоє тіло втрачає форму в їхньому животі. Ти тепер лише м'яка маса киплячого месива.[/color]
+vore-digested-prey-5 = [color=red]Живіт {CAPITALIZE($entity)} починає проганяти твої залишки через їхню систему, додаючи вагу животу {CAPITALIZE($entity)}.[/color]
+vore-digested-prey-6 = [color=red]Живіт {CAPITALIZE($entity)} стогне, коли ти розпадаєшся на густий суп. Твої залишки незабаром потечуть глибше в тіло {CAPITALIZE($entity)}, щоб поглинутися.[/color]
+vore-digested-prey-7 = [color=red]Живіт {CAPITALIZE($entity)} м'не кожне волокно твого тіла, пом'якшуючи тебе в кашу для їхнього наступного полювання.[/color]
+vore-digested-prey-8 = [color=red]Живіт {CAPITALIZE($entity)} перетирає тебе на гарячу рідину. Твої багаті на поживні речовини залишки проходять через їхній травний тракт із серією довгих, вологих хлюпань.[/color]
 
-vore-examine = Their belly is larger, you can see {$count} shapes.
+vore-examine = Їхній живіт більший, ти бачиш {$count} форм.
 
-ui-options-vore-sounds = Vore Sounds
+ui-options-vore-sounds = Звуки Вору

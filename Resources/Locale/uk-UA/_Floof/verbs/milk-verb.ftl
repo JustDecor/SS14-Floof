@@ -1,5 +1,5 @@
-milk-verb-dry = Your breasts are empty.
-milk-verb-success = You fill {THE($target)} with {$amount}u of milk from your leaky breasts.
-milk-verb-success-ground = You squirt out some milk all over the ground!
+milk-verb-dry = Ваші груди порожні.
+milk-verb-success = Ви наповнюєте {THE($target)} {$amount}у молока зі своїх протікаючих грудей.
+milk-verb-success-ground = Ви вибризкуєте трохи молока на землю!
 
-milk-verb-get-text = Milk
+milk-verb-get-text = Здоїти

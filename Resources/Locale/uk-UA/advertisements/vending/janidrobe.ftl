@@ -1,4 +1,4 @@
-advertisement-janidrobe-1 = Come and get your janitorial clothing, now endorsed by lizard janitors everywhere!
-advertisement-janidrobe-2 = Here to keep you clean as you clean up non-clean things!
-advertisement-janidrobe-3 = Stylishly yellow!
+advertisement-janidrobe-1 = Приходьте та отримайте свій одяг прибиральника, тепер схвалений прибиральниками ящірками скрізь!
+advertisement-janidrobe-2 = Ми допоможемо вам бути чистими, коли ви будете прибирати нечисті речі!
+advertisement-janidrobe-3 = Стильно жовтий!
 

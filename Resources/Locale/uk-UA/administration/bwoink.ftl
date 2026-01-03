@@ -1,20 +1,20 @@
-bwoink-user-title = Admin Message
+bwoink-user-title = Повідомлення Адмінів
 
-bwoink-system-starmute-message-no-other-users = *System: Nobody is available to receive your message. Try pinging Game Admins on Discord.
+bwoink-system-starmute-message-no-other-users = *СИСТЕМА: Нікому отримати повідомлення. Зверніться до адміністрації у дискорді.
 
-bwoink-system-messages-being-relayed-to-discord =
-    Your messages are being relayed to the admins via Discord.
-    Issues may be handled without a response.
+bwoink-system-messages-being-relayed-to-discord = 
+    Ваші повідомлення передаються адміністраторам через Discord.
+    Проблеми можуть бути вирішені без відповіді.
 
 bwoink-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
-} typing...
+[one] друкує
+*[other] друкують
+} ...
 
-admin-bwoink-play-sound = Bwoink?
-bwoink-system-rate-limited = System: you are sending messages too quickly.
-bwoink-system-player-disconnecting = has disconnected.
-bwoink-system-player-reconnecting = has reconnected.
-bwoink-system-player-banned = has been banned for: {$banReason}
+admin-bwoink-play-sound = Бвоінк?
+bwoink-system-rate-limited = Система: ви надсилаєте повідомлення занадто швидко.
+bwoink-system-player-disconnecting = від'єднався.
+bwoink-system-player-reconnecting = відновив зв'язок.
+bwoink-system-player-banned = було забанено: {$banReason}
 
-bwoink-title-none-selected = None selected
+bwoink-title-none-selected = Не вибрано

@@ -1,16 +1,16 @@
 ### ChangelogWindow.xaml.cs
 
-changelog-window-title = Changelog
-changelog-author-changed = [color=#EEE]{ $author }[/color] changed:
-changelog-today = Today
-changelog-yesterday = Yesterday
-changelog-new-changes = new changes
-changelog-version-tag = version v{ $version }
+changelog-window-title = Оновлення
+changelog-author-changed = [color=#EEE]{ $author }[/color] змінив:
+changelog-today = Сьогодні
+changelog-yesterday = Вчора
+changelog-new-changes = нові зміни
+changelog-version-tag = версія v{ $version }
 
-changelog-button = Changelog
-changelog-button-new-entries = Changelog (new!)
+changelog-button = Оновлення
+changelog-button-new-entries = Список змін (нове!)
 
-changelog-tab-title-Changelog = Einstein Engines
-changelog-tab-title-Admin = Einstein Engines Admin
+changelog-tab-title-Changelog = Візард
+changelog-tab-title-Admin = Адмін
 
-changelog-tab-title-Floof = Floof Station
+changelog-tab-title-Floof = Станція Пухнастих

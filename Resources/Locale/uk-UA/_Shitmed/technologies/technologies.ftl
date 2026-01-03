@@ -1,3 +1,3 @@
-research-technology-advanced-treatment = Advanced Treatment
-research-technology-high-end-surgery = High End Surgical Tools
-research-technology-cybernetic-enhancements = Cybernetic Enhancements
+research-technology-advanced-treatment = Просунуте лікування
+research-technology-high-end-surgery = Висококласні хірургічні інструменти
+research-technology-cybernetic-enhancements = Кібернетичні покращення

@@ -1,9 +1,9 @@
 ﻿# Autocall
-floof-round-end-system-shuttle-autocall-announcement = Leaving has won the vote. An automatic crew shift change shuttle has been sent. ETA: {$time} {$units}.
-floof-round-end-system-autocall-stay = Staying has won the vote. The shift has been extended.
-floof-round-end-system-autocall-tie = It's a tie. Station command is expected to conduct an internal vote among themselves to break the tie. Until an outcome is reached, the automatic crew shift change shuttle has been sent. ETA: {$time} {$units}.
-floof-round-end-system-shuttle-call-vote = Stay, or leave?
-ui-vote-autocall-stay =  Stay
-ui-vote-autocall-leave = Leave
+floof-round-end-system-shuttle-autocall-announcement = Відбуття виграло голосування. Автоматичний шатл зміни екіпажу було надіслано. ОЧП: {$time} {$units}.
+floof-round-end-system-autocall-stay = Залишення виграло голосування. Зміну було продовжено.
+floof-round-end-system-autocall-tie = Нічия. Очікується, що командування станції проведе внутрішнє голосування між собою для вирішення нічиєї. Поки не буде досягнуто результату, автоматичний шатл зміни екіпажу було надіслано. ОЧП: {$time} {$units}.
+floof-round-end-system-shuttle-call-vote = Залишитися чи відбути?
+ui-vote-autocall-stay = Залишитися
+ui-vote-autocall-leave = Відбути
 # Secret Ballot
 ui-secret-ballot-vote-button = { $text }

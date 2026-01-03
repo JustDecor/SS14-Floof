@@ -1,6 +1,6 @@
-nsfw-disclaimer-title = ⚠️ ERP Server Disclaimer – Explicit Adult Content ⚠️
+nsfw-disclaimer-title = ⚠️ Застереження сервера ERP — Відвертий дорослий контент ⚠️
 nsfw-disclaimer-text = 
-    Please note that [color=yellow]every Sunday is 'Syndie Sunday', where shifts are much less likely to be calm. Admin-driven events on these days also tend to be more chaotic and impactful.[/color]
+    Зверніть увагу, що [color=yellow]кожної неділі це 'Синдикатна неділя', коли зміни мають набагато менше шансів бути спокійними. Адміністраторські події в ці дні також мають тенденцію бути більш хаотичними та впливовими.[/color]
 
     This server contains [bold]explicit adult sexual roleplay (ERP)[/bold] and mature themes that are not suitable for minors or individuals sensitive to said explicit material.
 
@@ -13,5 +13,5 @@ nsfw-disclaimer-text =
 
     If you are uncomfortable with general explicit and/or sexual themes, or you are below our minimum 18+ requirements and/or not legally permitted to view or interact with such content, [bold]please disconnect immediately.[/bold]
 
-nsfw-disclaimer-decline = Decline & exit
-nsfw-disclaimer-accept = Accept & continue
+nsfw-disclaimer-decline = Відхилити та вийти
+nsfw-disclaimer-accept = Прийняти та продовжити

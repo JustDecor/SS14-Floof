@@ -1,1 +1,1 @@
-loadout-name-LoadoutSalvageBeltUtilityFilled = utility belt (filled)
+loadout-name-LoadoutSalvageBeltUtilityFilled = утилітарний пояс (заповнений)

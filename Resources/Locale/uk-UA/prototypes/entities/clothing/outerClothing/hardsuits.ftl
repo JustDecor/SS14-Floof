@@ -1,136 +1,136 @@
-ent-ClothingOuterHardsuitBasic = basic vacsuit
-    .desc = A common, colonial-era vacsuit of indeterminate make and model. It's strictly better than nothing, but not by much.
-ent-ClothingOuterHardsuitAtmos = HpI-19t "Fotia" hardsuit
-    .desc = A standard-issue hardsuit produced by Hephaestus Industries, used by atmospheric technicians in low & high pressure environments.
-    The label indicates that its rated for high amounts of thermal exposure. It feels a bit heavy.
-ent-ClothingOuterHardsuitEngineering = HpI-19r "Lampsi" hardsuit
-    .desc = A standard-issue hardsuit produced by Hephaestus Industries, used by engineers in low & high pressure environments.
-    The label indicates that its rated for moderate amounts of radiation exposure. It feels a bit heavy.
-ent-ClothingOuterHardsuitSpatio = HpI-20s "Kriti" hardsuit
-    .desc = A standard-issue hardsuit produced by Hephaestus Industries, designed for industrial work in low pressure environments.
-    The label indicates that its rated for moderate amounts of radiation exposure, and it feels somewhat light.
-ent-ClothingOuterHardsuitSalvage = HpI-20a "Lavrion" hardsuit
-    .desc = A sturdy hardsuit produced by Hephaestus Industries, designed for industrial work in low pressure environments.
-    The labels indicate that it provides protection against most forms of damage. It feels heavy.
-ent-ClothingOuterHardsuitVoidParamed = ZhP-24m "Sukunabikona"
-    .desc = A standard-issue hardsuit manufactured by Zeng-Hu Pharmaceuticals, used by paramedics due to its lightweight frame.
-    The label mentions that it offers some protection against chemical spills.
-ent-ClothingOuterHardsuitMaxim = Mysterious tacsuit
-    .desc = An old looking tactical combat hardsuit. It has a faded red logo on it along with the words "Maxim".
-    It feels very sturdy and doesn't seem to have any weight... Though it has an ominous aura to it.
-ent-ClothingOuterHardsuitSecurity = FPA-83s - "Baghatur" tacsuit
-    .desc = A sturdy tactical combat hardsuit mass-produced by Five-Points-Armory, used by the Nanotrasen security force.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels heavy.
-ent-ClothingOuterHardsuitBrigmedic = FPA-84m - "Tsagaan" tacsuit
-    .desc = A sturdy tactical combat hardsuit mass-produced by Five-Points-Armory, used by doctors in the Nanotrasen security force.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels heavy.
-ent-ClothingOuterHardsuitCombatStandard = FPA-85 - "Baghatur Mk.II" tacsuit
-    .desc = A sturdy tactical combat hardsuit mass-produced by Five-Points-Armory.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels heavy.
-ent-ClothingOuterHardsuitCombatOfficer = FPA-85s - "Baghatur Mk.II" tacsuit
-    .desc = A sturdy tactical combat hardsuit mass-produced by Five-Points-Armory, painted with the colors of station security.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels heavy.
-ent-ClothingOuterHardsuitCombatMedical = FPA-86 - "Tsagaan Mk.II" tacsuit
-    .desc = A sturdy tactical combat hardsuit mass-produced by Five-Points-Armory.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels heavy.
-ent-ClothingOuterHardsuitCombatCorpsman = FPA-86m - "Tsagaan Mk.II" tacsuit
-    .desc = A sturdy tactical combat hardsuit mass-produced by Five-Points-Armory, painted with the colors of station security & medical staff.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels heavy.
-ent-ClothingOuterHardsuitWarden = FPA-92s - "Sulde" tacsuit
-    .desc = A specialized tactical combat hardsuit produced by Five-Points-Armory, often used by Wardens in Nanotrasen stations.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels VERY heavy.
-ent-ClothingOuterHardsuitCombatRiot = FPA-93 - "Sulde Mk.II" tacsuit
-    .desc = A specialized tactical combat hardsuit produced by Five-Points-Armory.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels VERY heavy.
-ent-ClothingOuterHardsuitCombatWarden = FPA-93s - "Sulde Mk.II" tacsuit
-    .desc = A specialized tactical combat hardsuit produced by Five-Points-Armory, painted with the colors of station security.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels VERY heavy.
-ent-ClothingOuterHardsuitCap = NT-42c - "Tengri" tacsuit
-    .desc = A formal, tactical combat hardsuit, made in collaboration by Nanotrasen's R&D department with Five-Points-Armory for station captains.
-    The labels indicate that it provides protection against most forms of damage. It feels somewhat light.
-ent-ClothingOuterHardsuitEngineeringWhite = HpI-24c "Daedalus" hardsuit
-    .desc = A specialized hardsuit produced by Hephaestus Industries, often purchased for use by Nanotrasen senior engineers.
-    The labels indicate that its rated for high amounts of radiation and pressure. It feels somewhat light.
-ent-ClothingOuterHardsuitMedical = ZhP-25m - "Okuninushi" hardsuit
-    .desc = A hardsuit produced by Zeng-hu Pharmaceuticals, often purchased for use by Nanotrasen senior medical doctors.
-    The labels claim it protects against damage from most chemical spills. It feels incredibly light.
-ent-ClothingOuterHardsuitRd = NT-45e - "Sophia" research hardsuit
-    .desc = The magnum opus of Nanotrasen's R&D division. The labels on this hardsuit claim that its near-immune to explosions, heat and radiation.
-    Somehow it also can shrink enough to fit in a bag. It feels VERY heavy.
-ent-ClothingOuterHardsuitMystagogue = NT-45e - "Sophia" research hardsuit
+ent-ClothingOuterHardsuitBasic = базове вбрання
+    .desc = звичайний, колоніальної епохи, невизначеної марки та моделі. Це, безумовно, краще, ніж нічого, але не набагато.
+ent-ClothingOuterHardsuitAtmos = Костюм HpI-19t "Fotia"
+    .desc = Стандартний захисний костюм виробництва Hephaestus Industries, що використовується технічним персоналом, який працює в умовах низького та високого тиску.
+    На етикетці вказано, що він розрахований на високий рівень теплового впливу. На дотик трохи важкуватий.
+ent-ClothingOuterHardsuitEngineering = Костюм HpI-19r "Lampsi"
+    .desc = Стандартний захисний костюм виробництва Hephaestus Industries, що використовується інженерами в умовах низького та високого тиску.
+    На етикетці зазначено, що він розрахований на помірний рівень радіаційного впливу. На дотик трохи важкуватий.
+ent-ClothingOuterHardsuitSpatio = Костюм захисний HpI-20s "Kriti"
+    .desc = Стандартний захисний костюм виробництва Hephaestus Industries, призначений для промислових робіт в умовах низького тиску.
+    На етикетці зазначено, що він розрахований на помірний рівень радіаційного опромінення, і на дотик дещо легкий.
+ent-ClothingOuterHardsuitSalvage = Костюм HpI-20a "Лавріон"
+    .desc = Міцний захисний костюм виробництва Hephaestus Industries, призначений для промислових робіт в умовах низького тиску.
+    Маркування вказує на те, що він забезпечує захист від більшості видів пошкоджень. На дотик важкий.
+ent-ClothingOuterHardsuitVoidParamed = ЖП-24м "Сукунабікона"
+    .desc = Стандартний захисний костюм виробництва Zeng-Hu Pharmaceuticals, який використовується парамедиками завдяки легкому каркасу.
+    На етикетці зазначено, що він забезпечує певний захист від розливу хімічних речовин.
+ent-ClothingOuterHardsuitMaxim = Таємничий комбінезон
+    .desc = Тактичний бойовий костюм старого зразка. На ньому є вицвілий червоний логотип та напис "Maxim".
+    На вигляд дуже міцний і, здається, не має ваги... Хоча він має зловісну ауру.
+ent-ClothingOuterHardsuitSecurity = FPA-83s - костюм "Багатур"
+    .desc = Міцний тактичний бронежилет масового виробництва компанії Five-Points-Armory, що використовується силами безпеки "Нанотрасен".
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик важкий.
+ent-ClothingOuterHardsuitBrigmedic = FPA-84m - костюм "Цагаан"
+    .desc = Міцний тактичний бойовий костюм, серійно виготовлений компанією Five-Points-Armory, який використовується лікарями в службі безпеки "Нанотрасен".
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик він важкий.
+ent-ClothingOuterHardsuitCombatStandard = FPA-85 - бронежилет "Багатур Mk.II"
+    .desc = Міцний тактичний бронежилет серійного виробництва компанії Five-Points-Armory.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик важкий.
+ent-ClothingOuterHardsuitCombatOfficer = FPA-85s - тактичний костюм "Багатур Mk.II"
+    .desc = Міцний тактичний бойовий костюм, серійно виготовлений компанією Five-Points-Armory, пофарбований у кольори служби безпеки станції.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик важкий.
+ent-ClothingOuterHardsuitCombatMedical = FPA-86 - бронежилет "Tsagaan Mk.II"
+    .desc = Міцний тактичний бойовий бронекостюм серійного виробництва компанії Five-Points-Armory.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик важкий.
+ent-ClothingOuterHardsuitCombatCorpsman = FPA-86m - бронежилет "Цагаан Mk.II"
+    .desc = Міцний тактичний бойовий костюм масового виробництва Five-Points-Armory, пофарбований у кольори служби безпеки та медичного персоналу станції.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик важкий.
+ent-ClothingOuterHardsuitWarden = FPA-92s - тактичний костюм "Сульде"
+    .desc = Спеціалізований тактичний бойовий костюм виробництва Five-Points-Armory, який часто використовується наглядачами на станціях Нанотрасен.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик він ДУЖЕ важкий.
+ent-ClothingOuterHardsuitCombatRiot = FPA-93 - бронежилет "Sulde Mk.II"
+    .desc = Спеціалізований тактичний бронежилет виробництва Five-Points-Armory.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик дуже важкий.
+ent-ClothingOuterHardsuitCombatWarden = FPA-93s - тактичний костюм "Sulde Mk.II"
+    .desc = Спеціалізований тактичний бойовий костюм виробництва Five-Points-Armory, пофарбований у кольори служби безпеки станції.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик він ДУЖЕ важкий.
+ent-ClothingOuterHardsuitCap = NT-42c - костюм "Тенгрі"
+    .desc = формальний, тактичний бойовий скафандр, виготовлений у співпраці науково-дослідним відділом Нанотрасен з компанією Five-Points-Armory для капітанів станцій.
+    Етикетки вказують на те, що він забезпечує захист від більшості видів пошкоджень. На дотик він дещо легкий.
+ent-ClothingOuterHardsuitEngineeringWhite = HpI-24c "Дедал" - захисний костюм
+    .desc = Спеціалізований захисний костюм виробництва Hephaestus Industries, який часто купують для використання старшими інженерами Nanotrasen.
+    Етикетки вказують на те, що він розрахований на високий рівень радіації та тиску. Відчувається дещо легким.
+ent-ClothingOuterHardsuitMedical = ЖП-25м - захисний костюм "Окунінуші"
+    .desc = Захисний костюм виробництва Zeng-hu Pharmaceuticals, який часто купують для використання старшими лікарями Нанотрасен.
+    На етикетках зазначено, що він захищає від пошкоджень від більшості хімічних розливів. На дотик неймовірно легкий.
+ent-ClothingOuterHardsuitRd = NT-45e - дослідницький скафандр "Софія"
+    .desc = Магнум опус науково-дослідного підрозділу Нанотрасен. Етикетки на цьому костюмі стверджують, що він майже несприйнятливий до вибухів, тепла та радіації.
+    Якимось чином він також може стискатися настільки, щоб поміститися в сумку. Він відчувається ДУЖЕ важким.
+ent-ClothingOuterHardsuitMystagogue = NT-45e - Костюм дослідницький "Софія"
     .desc = { ent-ClothingOuterHardsuitRd.desc }
-ent-ClothingOuterHardsuitSecurityRed = FPA-98s - "Dayicin" tacsuit
-    .desc = A top-of-the-line tactical combat hardsuit  produced by Five-Points-Armory, often purchased for use by Nanotrasen senior security officers.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels somewhat light.
-ent-ClothingOuterHardsuitCombatAdvanced = FPA-99 - "Dayicin Mk.II" tacsuit
-    .desc = A top-of-the-line tactical combat hardsuit produced by Five-Points-Armory.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels somewhat light.
-ent-ClothingOuterHardsuitCombatHoS = FPA-99s - "Dayicin Mk.II" tacsuit
-    .desc = A top-of-the-line tactical combat hardsuit produced by Five-Points-Armory, painted with the colors of station security.
-    The tags on the suit indicate that its rated for moderate amounts of physical and explosion damage. It feels somewhat light.
-ent-ClothingOuterHardsuitLuxury = HpI-20c - "Minos" hardsuit
-    .desc = A modified mining hardsuit from Hephaestus Industries, fashioned after the Logistics Officer's colors.
-    The labels indicate that it provides slight protection against most forms of damage. It feels incredibly light.
-ent-ClothingOuterHardsuitSyndie = CSA-51a - "Shanlin" tacsuit
-    .desc = A tactical combat hardsuit produced by the Cybersun-Armaments Corporation, the suit's tags indicate it provides moderate protection against most forms of damage.
-    This one has been painted blood red. It feels incredibly light.
+ent-ClothingOuterHardsuitSecurityRed = FPA-98s - бронежилет "Dayicin"
+    .desc = Найсучасніший тактичний бойовий костюм виробництва Five-Points-Armory, який часто купують для використання старшими офіцерами служби безпеки "Нанотрасен".
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. На дотик він дещо легкий.
+ent-ClothingOuterHardsuitCombatAdvanced = FPA-99 - бронежилет "Dayicin Mk.II"
+    .desc = Найсучасніший тактичний бронежилет виробництва Five-Points-Armory.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. Відчувається дещо легким.
+ent-ClothingOuterHardsuitCombatHoS = FPA-99s - тактичний костюм "Dayicin Mk.II"
+    .desc = Найсучасніший тактичний бойовий костюм виробництва Five-Points-Armory, пофарбований у кольори служби безпеки станції.
+    Бірки на костюмі вказують на те, що він розрахований на помірні фізичні та вибухові пошкодження. Відчувається дещо легким.
+ent-ClothingOuterHardsuitLuxury = HpI-20c - бронежилет "Мінос"
+    .desc = Модифікований шахтарський бронежилет від Hephaestus Industries, виконаний у кольорах офіцера логістики.
+    Етикетки вказують на те, що він забезпечує незначний захист від більшості видів пошкоджень. На дотик неймовірно легкий.
+ent-ClothingOuterHardsuitSyndie = CSA-51a - тактичний костюм "Shanlin"
+    .desc = Тактичний бойовий бронежилет виробництва корпорації Cybersun-Armaments Corporation, мітки на костюмі вказують на те, що він забезпечує помірний захист від більшості видів пошкоджень.
+    Цей костюм пофарбований у криваво-червоний колір. Відчувається неймовірно легким.
 ent-ClothingOuterHardsuitSyndieReverseEngineered = CSA-51a - "Shanlin" tacsuit
     .desc = A tactical combat hardsuit produced by the Cybersun-Armaments Corporation, the suit's tags indicate it provides moderate protection against most forms of damage.
         This one has been painted blue. It feels incredibly light.
-ent-ClothingOuterHardsuitSyndieMedic = CSA-51m - "Zhongyao" tacsuit
-    .desc = A tactical combat hardsuit produced by the Cybersun-Armaments Corporation, the suit's tags indicate it provides moderate protection against most forms of damage.
-    Half of the suit is painted blood red, the rest bears galactic-standard medical markings. It feels incredibly light.
-ent-ClothingOuterHardsuitSyndieElite = CSA-54UA - "Shiwei" tacsuit
-    .desc = An "Up-Armored" tactical combat hardsuit produced by the Cybersun-Armaments Corporation.
-    The suit's tags indicate its rated for high exposure to radiation, heat and explosions, along with moderate physical trauma protection.
-    It feels incredibly light.
-ent-ClothingOuterHardsuitSyndieCommander = CSA-54c - "Tianming" tacsuit
-    .desc = A "Commander" tactical combat hardsuit produced by the Cybersun-Armaments Corporation. The suit's tags indicate that it protects greatly against all forms of damage.
-    This one has been painted blood red. It doesn't seem to have any weight.
-ent-ClothingOuterHardsuitJuggernaut = CSA-80UA - "Guan Yu" tacsuit
-    .desc = The pride and joy of the Cybersun-Armaments Corporation, named after an ancient Sol' War God. Commonly known throughout the galaxy as a "Juggernaut".
-    Matching its bulky appearance, it protects against all forms of damage. It feels VERY heavy.
-end-ClothingOuterHardsuitJuggernautReverseEngineered = CSA-80UA - "Guan Yu" tacsuit
-    .desc = The pride and joy of the Cybersun-Armaments Corporation, named after an ancient Sol' War God. Commonly known throughout the galaxy as a "Juggernaut".
-        Matching its bulky appearance, it protects against all forms of damage. It feels VERY heavy.
-ent-ClothingOuterHardsuitWizard = WZD-84 - "Mana" tacsuit
-    .desc = A bizarre gem-encrusted hardsuit. Famously used by members of the Wizard Federation in their operations.
-    Contrary to it's appearance, it can protect its wearer from space and considerable amounts of physical trauma, it feels somewhat light.
-ent-ClothingOuterHardsuitLing = organic vacsuit
-    .desc = A suit made of biomass tissue that is somehow capable of resisting the hazards of low pressure and temperature in space.
-ent-ClothingOuterHardsuitPirateEVA = pirate vacsuit
-    .desc = A worn-out heavy space suit of unknown origin that provides some basic protection from the cold harsh realities of deep space.
+ent-ClothingOuterHardsuitSyndieMedic = CSA-51m - тактичний костюм "Zhongyao"
+    .desc = Тактичний бойовий скафандр виробництва корпорації Cybersun-Armaments, маркування костюма вказує на те, що він забезпечує помірний захист від більшості видів ушкоджень.
+    Половина костюма пофарбована в криваво-червоний колір, решта має медичне маркування за галактичним стандартом. Він неймовірно легкий.
+ent-ClothingOuterHardsuitSyndieElite = CSA-54UA - костюм "Shiwei"
+    .desc = Тактичний бойовий бронежилет "Up-Armored" виробництва корпорації Cybersun-Armaments.
+    Бірки на костюмі вказують на те, що він розрахований на високий вплив радіації, тепла та вибухів, а також на помірний захист від фізичних травм.
+    На дотик він неймовірно легкий.
+ent-ClothingOuterHardsuitSyndieCommander = CSA-54c - "Tianming" - тактичний костюм "Командир
+    .desc = Тактичний бойовий костюм "Командир" виробництва корпорації Cybersun-Armaments. Бірки на костюмі вказують на те, що він дуже добре захищає від усіх видів пошкоджень.
+    Цей костюм пофарбований у криваво-червоний колір. Здається, він не має ваги.
+ent-ClothingOuterHardsuitJuggernaut = CSA-80UA - Костюм "Гуань Ю"
+    .desc = Гордість і радість корпорації Cybersun-Armaments, названа на честь стародавнього бога війни Сол'. Широко відомий по всій галактиці як "Джаггернаут".
+    Відповідаючи своєму громіздкому зовнішньому вигляду, він захищає від усіх форм пошкоджень. Відчувається ДУЖЕ важким.
+end-ClothingOuterHardsuitJuggernautReverseEngineered = CSA-80UA - Костюм "Гуань Ю"
+    .desc = Гордість і радість корпорації Cybersun-Armaments, названа на честь стародавнього бога війни Сол'. Широко відомий по всій галактиці як "Джаггернаут".
+        Відповідаючи своєму громіздкому зовнішньому вигляду, він захищає від усіх форм пошкоджень. Відчувається ДУЖЕ важким.
+ent-ClothingOuterHardsuitWizard = WZD-84 - Костюм "Мана"
+    .desc = Химерний, інкрустований дорогоцінними каменями бронекостюм. Широко використовується членами Федерації Чарівників у своїх операціях.
+    Всупереч своєму зовнішньому вигляду, він може захистити свого власника від космосу і значних фізичних травм, відчувається дещо легким.
+ent-ClothingOuterHardsuitLing = органічний скафандр
+    .desc = Костюм, виготовлений з тканини біомаси, яка якимось чином здатна протистояти небезпекам низького тиску і температури в космосі.
+ent-ClothingOuterHardsuitPirateEVA = піратський скафандр
+    .desc = Поношений важкий скафандр невідомого походження, що забезпечує базовий захист від холодних суворих реалій далекого космосу.
     .suffix = Pirate
-ent-ClothingOuterHardsuitPirateCap = pirate captain's tacsuit
-    .desc = An ancient armored tactical combat hardsuit of unknown origin, provides basic protections from the cold harsh realities of deep space and physical trauma.
-    It doesn't seem to have any weight either. Perfect for defending against space scurvy and toolbox-wielding scallywags.
-ent-ClothingOuterHardsuitERTCentcomm = NT-444c - "Ophanim" tacsuit
-    .desc = A highly advanced, tactical combat hardsuit used by Central Command Officers, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a very sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitERTLeader = NT-444l - "Michael" tacsuit
-    .desc = A highly advanced, tactical combat hardsuit used by Leaders of the Emergency Response Team, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a very sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitERTEngineer = NT-444e - "Uriel" hardsuit
-    .desc = A highly advanced hardsuit used by Engineers of the Emergency Response Team, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a very sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitERTMedical = NT-444m - "Raphael" hardsuit
-    .desc = A highly advanced hardsuit used by Doctors of the Emergency Response Team, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a very sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitERTSecurity = NT-444s - "Gabriel" tacsuit
-    .desc = A highly advanced, tactical combat hardsuit used by Security Officers of the Emergency Response Team, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a very sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitERTJanitor = NT-444j - "Sandalphon" hardsuit
-    .desc = A highly advanced hardsuit used by Janitors of the Emergency Response Team, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a very sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitDeathsquad = NT-662ua "Samael" tacsuit
-    .desc = A highly advanced, top of the line tactical combat hardsuit, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    You can barely make out the letters "NTIA-DAP" written on it. The armor appears to be lined with a very sturdy alloy, and doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitCBURN = NT-444-CBRN -"Jophiel" tacsuit
-    .desc = A tactical combat hardsuit used by the CBURN subdivision of the Emergency Response Team, it seems to be branded with the Nanotrasen logo and a strange looking series number.
-    The armor appears to be lined with a rather plain, but sturdy alloy, it doesn't seem to have any weight either.
-ent-ClothingOuterHardsuitClown = clown vacsuit
-    .desc = A custom-made clown vacsuit. On closer inspection, it appears to be a normal vacsuit with paint applied on top.
-ent-ClothingOuterHardsuitMime = mime vacsuit
-    .desc = A custom-made mime vacsuit. On closer inspection, it appears to be a normal vacsuit with suspenders and paint applied on top.
-ent-ClothingOuterHardsuitSanta = DNK-31 "Jolly" hardsuit
-    .desc = A festive hardsuit produced by Donk Co. for their time-limited celebratory events, provides protection for its jolly gift-giver to sleighride safely in space without worrying about asteroid strikes.
+ent-ClothingOuterHardsuitPirateCap = костюм піратського капітана
+    .desc = Старовинний броньований тактичний бойовий костюм невідомого походження, що забезпечує базовий захист від холодних суворих реалій далекого космосу та фізичних травм.
+    Здається, він також не має ваги. Ідеально підходить для захисту від космічної цинги та озброєних інструментами відморозків.
+ent-ClothingOuterHardsuitERTCentcomm = NT-444c - костюм "Офанім"
+    .desc = Високотехнологічний тактичний бронежилет, що використовується офіцерами Центрального командування, має логотип Nanotrasen і дивний на вигляд номер серії.
+    Броня, схоже, виготовлена з дуже міцного сплаву, і, здається, не має жодної ваги.
+ent-ClothingOuterHardsuitERTLeader = NT-444l - Костюм "Майкл"
+    .desc = Високотехнологічний тактичний бойовий костюм, що використовується лідерами Команди швидкого реагування, на ньому є логотип Nanotrasen і дивний на вигляд номер серії.
+    Броня, схоже, виготовлена з дуже міцного сплаву, і, здається, не має жодної ваги.
+ent-ClothingOuterHardsuitERTEngineer = NT-444e - бронежилет "Уріель"
+    .desc = Надсучасний бронежилет, що використовується інженерами Команди швидкого реагування, на ньому, схоже, є логотип Nanotrasen і дивний на вигляд серійний номер.
+    Броня виготовлена з дуже міцного сплаву і, схоже, не має жодної ваги.
+ent-ClothingOuterHardsuitERTMedical = NT-444m - бронежилет "Рафаель"
+    .desc = Високотехнологічний бронежилет, який використовують лікарі бригади швидкого реагування, на ньому, схоже, є логотип Nanotrasen і дивний на вигляд номер серії.
+    Броня, схоже, виготовлена з дуже міцного сплаву, і, здається, не має жодної ваги.
+ent-ClothingOuterHardsuitERTSecurity = NT-444s - костюм "Габріель"
+    .desc = Високотехнологічний тактичний бойовий костюм, що використовується офіцерами служби безпеки Команди швидкого реагування, на ньому є логотип Nanotrasen і дивний на вигляд номер серії.
+    Броня, схоже, виготовлена з дуже міцного сплаву, і, здається, не має жодної ваги.
+ent-ClothingOuterHardsuitERTJanitor = NT-444j - бронежилет "Сандалфон"
+    .desc = Високотехнологічний бронежилет, який використовують прибиральники з команди швидкого реагування, на ньому, схоже, є логотип Nanotrasen і дивний на вигляд номер серії.
+    Броня, схоже, виготовлена з дуже міцного сплаву, і, здається, не має жодної ваги.
+ent-ClothingOuterHardsuitDeathsquad = Костюм NT-662ua "Samael"
+    .desc = Високотехнологічний, топовий тактичний бойовий костюм, на якому, схоже, є логотип Nanotrasen і дивний на вигляд номер серії.
+    На ньому ледве можна розгледіти літери "NTIA-DAP". Бронежилет, схоже, виготовлений з дуже міцного сплаву, і, схоже, не має жодної ваги.
+ent-ClothingOuterHardsuitCBURN = NT-444-CBRN - костюм "Джофіл"
+    .desc = Тактичний бойовий бронежилет, що використовується підрозділом CBURN Команди реагування на надзвичайні ситуації, на ньому, здається, є логотип Nanotrasen і дивний на вигляд номер серії.
+    Броня виготовлена з досить простого, але міцного сплаву, і, схоже, не має жодної ваги.
+ent-ClothingOuterHardsuitClown = костюм клоуна
+    .desc = Клоунський костюм, зроблений на замовлення. При ближчому розгляді виявляється, що це звичайний костюм, на який зверху нанесли фарбу.
+ent-ClothingOuterHardsuitMime = мімічний костюм
+    .desc = Костюм міма, виготовлений на замовлення. При ближчому розгляді виявляється, що це звичайний костюм з підтяжками і фарбою, нанесеною зверху.
+ent-ClothingOuterHardsuitSanta = Костюм "Веселий" DNK-31
+    .desc = Святковий скафандр, виготовлений компанією Donk Co. для обмежених у часі святкових заходів, забезпечує захист для свого веселого дарувальника, щоб він міг безпечно кататися на санчатах у космосі, не боячись ударів астероїдів.

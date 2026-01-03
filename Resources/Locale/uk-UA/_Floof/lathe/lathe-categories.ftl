@@ -1,22 +1,22 @@
-lathe-category-clothing-command = Command
-lathe-category-clothing-engineering = Engineering
-lathe-category-clothing-epistemics = Epistemics
-lathe-category-clothing-logistics = Logistics
-lathe-category-clothing-medical = Medical
-lathe-category-clothing-security = Security
-lathe-category-clothing-service = Service
-lathe-category-clothing-other = Other
-lathe-category-carpet = Carpet
+lathe-category-clothing-command = Командування
+lathe-category-clothing-engineering = Інженерія
+lathe-category-clothing-epistemics = Епістеміка
+lathe-category-clothing-logistics = Логістика
+lathe-category-clothing-medical = Медицина
+lathe-category-clothing-security = Охорона
+lathe-category-clothing-service = Обслуговування
+lathe-category-clothing-other = Інше
+lathe-category-carpet = Килим
 
 # Document Printer
 
-lathe-category-paper-template-command = Command
-lathe-category-paper-template-common = Common
-lathe-category-paper-template-engineering = Engineering
-lathe-category-paper-template-epistemics = Epistemics
-lathe-category-paper-template-hop = Head of Personnel
-lathe-category-paper-template-justice = Justice
-lathe-category-paper-template-logistics = Logistics
-lathe-category-paper-template-medical = Medical
-lathe-category-paper-template-security = Security
-lathe-category-paper-template-service = Service
+lathe-category-paper-template-command = Командування
+lathe-category-paper-template-common = Загальні
+lathe-category-paper-template-engineering = Інженерія
+lathe-category-paper-template-epistemics = Епістеміка
+lathe-category-paper-template-hop = Глава персоналу
+lathe-category-paper-template-justice = Правосуддя
+lathe-category-paper-template-logistics = Логістика
+lathe-category-paper-template-medical = Медицина
+lathe-category-paper-template-security = Охорона
+lathe-category-paper-template-service = Обслуговування

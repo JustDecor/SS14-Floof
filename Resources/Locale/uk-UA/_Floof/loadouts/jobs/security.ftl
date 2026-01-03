@@ -1,1 +1,1 @@
-loadout-name-LoadoutClothingBeltCorpsmanWebbing = corpsman webbing (filled)
+loadout-name-LoadoutClothingBeltCorpsmanWebbing = санітарне спорядження (заповнене)

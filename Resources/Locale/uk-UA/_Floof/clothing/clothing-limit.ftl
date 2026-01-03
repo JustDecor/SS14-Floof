@@ -1,1 +1,1 @@
-clothing-limit-exceeded = You cannot wear more items of this type!
+clothing-limit-exceeded = Ви не можете одягнути більше предметів цього типу!

@@ -1,22 +1,22 @@
-health-examinable-selfaware-none = You feel healthy and well.
+health-examinable-selfaware-none = Ви відчуваєте себе здоровим і добре.
 
-health-examinable-selfaware-type-text = You have {$damageType}, around [bold]{$amount}[/bold].
+health-examinable-selfaware-type-text = У вас є {$damageType}, близько [bold]{$amount}[/bold].
 
-health-examinable-selfaware-type-Blunt = [color=red]Blunt[/color] trauma
-health-examinable-selfaware-type-Slash = [color=red]Slash[/color] wounds
-health-examinable-selfaware-type-Piercing = [color=red]Piercing[/color] wounds
+health-examinable-selfaware-type-Blunt = [color=red]Тупа[/color] травма
+health-examinable-selfaware-type-Slash = [color=red]Різані[/color] рани
+health-examinable-selfaware-type-Piercing = [color=red]Колючі[/color] поранення
 
-health-examinable-selfaware-type-Heat = [color=orange]Heat[/color] burns
-health-examinable-selfaware-type-Shock = [color=lightgoldenrodyellow]Shock[/color] burns
-health-examinable-selfaware-type-Cold = [color=lightblue]Cold[/color] burns
-health-examinable-selfaware-type-Caustic = [color=yellowgreen]Caustic[/color] burns
+health-examinable-selfaware-type-Heat = [color=orange]Теплові[/color] опіки
+health-examinable-selfaware-type-Shock = [color=lightgoldenrodyellow]Шокові[/color] опіки
+health-examinable-selfaware-type-Cold = [color=lightblue]Холодні[/color] опіки
+health-examinable-selfaware-type-Caustic = [color=yellowgreen]Каустичні[/color] опіки
 
-health-examinable-selfaware-group-Toxin-10 = [color=green]You feel sick.[/color]
-health-examinable-selfaware-group-Toxin-25 = [color=green]You feel nauseated.[/color]
-health-examinable-selfaware-group-Toxin-40 = [color=green]You feel very unwell![/color]
-health-examinable-selfaware-group-Toxin-60 = [color=green]You feel gravely ill![/color]
+health-examinable-selfaware-group-Toxin-10 = [color=green]Тобі погано[/color]
+health-examinable-selfaware-group-Toxin-25 = [color=green]Тебе нудить[/color]
+health-examinable-selfaware-group-Toxin-40 = [color=green]Вам дуже погано![/color]
+health-examinable-selfaware-group-Toxin-60 = [color=green]Ви серйозно захворіли![/color]
 
-health-examinable-selfaware-group-Airloss-10 = [color=lightblue]You feel lightheaded.[/color]
-health-examinable-selfaware-group-Airloss-25 = [color=lightblue]You feel faint and woozy.[/color]
-health-examinable-selfaware-group-Airloss-40 = [color=lightblue]You're struggling to breathe![/color]
-health-examinable-selfaware-group-Airloss-60 = [color=lightblue]You're suffocating badly![/color]
+health-examinable-selfaware-group-Airloss-10 = [color=lightblue]Ти відчуваєш запаморочення.[/color]
+health-examinable-selfaware-group-Airloss-25 = [color=lightblue]Ви відчуваєте слабкість і запаморочення.[/color]
+health-examinable-selfaware-group-Airloss-40 = [color=lightblue]Вам важко дихати![/color]
+health-examinable-selfaware-group-Airloss-60 = [color=lightblue]Ти задихаєшся![/color]

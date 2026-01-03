@@ -1,31 +1,31 @@
-marking-ReptilianHornsBaran = Ram Horns
-marking-ReptilianHornsBullhorns = Bull Horns
-marking-ReptilianHornsCrown = Crown
-marking-ReptilianHornsFive = Five Horns
-marking-ReptilianHornsHighback = High Back
-marking-ReptilianHornsJacksonchameleon = Chameleon Horns
-marking-ReptilianHornsLong = Long Horns
-marking-ReptilianHornsStagbeetle = Stag Beetle Horns
-marking-ReptilianHornsSuperlong = Very Long Horns
-marking-ReptilianHornsTwoago = Two Horns
+marking-ReptilianHornsBaran = Роги Барана
+marking-ReptilianHornsBullhorns = Роги Бика
+marking-ReptilianHornsCrown = Корона
+marking-ReptilianHornsFive = П'ять Рогів
+marking-ReptilianHornsHighback = Висока Спина
+marking-ReptilianHornsJacksonchameleon = Роги Хамелеона Джексона
+marking-ReptilianHornsLong = Довгі Роги
+marking-ReptilianHornsStagbeetle = Роги Жука-Оленя
+marking-ReptilianHornsSuperlong = Дуже Довгі Роги
+marking-ReptilianHornsTwoago = Два Роги
 
-marking-ReptilianTattoSkeletArmL = Skeleton Tattoo Left Arm
-marking-ReptilianTattoSkeletArmR = Skeleton Tattoo Right Arm
-marking-ReptilianTattoSkeletLegL = Skeleton Tattoo Left Leg
-marking-ReptilianTattoSkeletLegR = Skeleton Tattoo Right Leg
+marking-ReptilianTattoSkeletArmL = Татуювання Скелета Лівої Руки
+marking-ReptilianTattoSkeletArmR = Татуювання Скелета Правої Руки
+marking-ReptilianTattoSkeletLegL = Татуювання Скелета Лівої Ноги
+marking-ReptilianTattoSkeletLegR = Татуювання Скелета Правої Ноги
 
-marking-ReptilianDrawingKhar = "Khar" Drawing
-marking-ReptilianDrawingSkeletBody = Skeleton Body Drawing
-marking-ReptilianDrawingSkeleton = Skeleton Drawing
-marking-ReptilianDrawingSun = Sun Drawing
-marking-ReptilianDrawingWarpaint = Warpaint Drawing
-marking-ReptilianLineEyes = Stripe Eyes
+marking-ReptilianDrawingKhar = Малюнок "Хар
+marking-ReptilianDrawingSkeletBody = Малюнок Скелета Тіла
+marking-ReptilianDrawingSkeleton = Малюнок Скелета
+marking-ReptilianDrawingSun = Малюнок Сонця
+marking-ReptilianDrawingWarpaint = Малюнок Бойової Розкраски
+marking-ReptilianLineEyes = Смугасті Очі
 
 # marking-TailDatashark = Data Shark Tail
 # Floof - M3739 - #1084 - Lovelox
-marking-EarsLovelox = Lovelox Ears
-marking-EarsResomi = Resomi Ears
-marking-EarsChemlight = ChemLight Ears
-marking-EarsDragonLong = Dragon Long Ears
+marking-EarsLovelox = Вуха Лавлокс
+marking-EarsResomi = Вуха Резомі
+marking-EarsChemlight = Вуха Хімлайт
+marking-EarsDragonLong = Довгі Вуха Дракона
 # marking-EarsEasternD = Ears 1
-marking-EarsMagus = Magus Ears
+marking-EarsMagus = Вуха Магуса

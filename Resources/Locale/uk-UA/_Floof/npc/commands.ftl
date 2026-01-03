@@ -1,3 +1,3 @@
-command-description-faction-add = Adds a new faction to the piped entity. Recalculates friendly/enemy factions afterwards.
-command-description-faction-rm = Removes an existing faction from the piped entity. Recalculates friendly/enemy factions afterwards.
-command-description-faction-clear = Removes all existing faction from the piped entity. Recalculates friendly/enemy factions afterwards.
+command-description-faction-add = Додає нову фракцію до переданої сутності. Перераховує дружні/ворожі фракції після цього.
+command-description-faction-rm = Видаляє існуючу фракцію з переданої сутності. Перераховує дружні/ворожі фракції після цього.
+command-description-faction-clear = Видаляє всі існуючі фракції з переданої сутності. Перераховує дружні/ворожі фракції після цього.

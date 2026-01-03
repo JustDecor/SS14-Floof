@@ -1,3 +1,3 @@
-wires-board-name-autodoc = Autodoc Mk.XIV
+wires-board-name-autodoc = АвтоДок Mk.XIV
 
-wire-name-autodoc-safety = SAFE
+wire-name-autodoc-safety = БЕЗПЕКА

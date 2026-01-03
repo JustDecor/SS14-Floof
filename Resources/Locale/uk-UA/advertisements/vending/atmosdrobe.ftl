@@ -1,3 +1,3 @@
-advertisement-atmosdrobe-1 = Get your inflammable clothing right here!!!
-advertisement-atmosdrobe-2 = Protects you against plasma fires!
-advertisement-atmosdrobe-3 = Enjoy your off-brand engineering clothing!
+advertisement-atmosdrobe-1 = Легкозаймистий одяг збирайте тут!!!
+advertisement-atmosdrobe-2 = Захищає вас від плазмових пожеж!
+advertisement-atmosdrobe-3 = Насолоджуйтесь інженерним одягом інших брендів!

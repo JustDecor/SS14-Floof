@@ -1,22 +1,22 @@
-loadout-name-LoadoutEngineeringChickenSuit = eggmospheric technician suit
-loadout-description-LoadoutEngineeringChickenSuit = For the Eggmos tech who always knows where home is...
-loadout-description-LoadoutEngineeringUniformJumpskirtSenior = A skirt fit for the best of the best.
-loadout-description-LoadoutEngineeringUniformJumpsuitSenior = A suit fit for the best of the best.
-loadout-description-LoadoutEngineeringItemInflatable = A box containing inflatable walls and doors, for quickly patching up breaches.
+loadout-name-LoadoutEngineeringChickenSuit = технічний костюм яйцетехніка
+loadout-description-LoadoutEngineeringChickenSuit = Для атмосника-яйцетехніка, який завжди знає, де його дім...
+loadout-description-LoadoutEngineeringUniformJumpskirtSenior = Спідниця, гідна найкращих із найкращих.
+loadout-description-LoadoutEngineeringUniformJumpsuitSenior = Костюм, гідний найкращих із найкращих.
+loadout-description-LoadoutEngineeringItemInflatable = Коробка, що містить надувні стіни та двері для швидкого закриття пробоїн.
 
-loadout-name-LoadoutAtmosphericTechnicianBeltUtility = utility belt (empty)
-loadout-name-LoadoutAtmosphericTechnicianBeltUtilityAtmos = utility belt (filled, Atmospheric Tools)
+loadout-name-LoadoutAtmosphericTechnicianBeltUtility = універсальний пояс (порожній)
+loadout-name-LoadoutAtmosphericTechnicianBeltUtilityAtmos = універсальний пояс (заповнений, інструменти для атмосфери)
 loadout-description-LoadoutAtmosphericTechnicianBeltUtilityAtmos =
-    This standard engineering belt includes a holofan emitter, as well as a gas analyzer instead of a multitool.
+    Цей стандартний інженерний пояс включає випромінювач головентилятора, а також газоаналізатор замість мультитула.
 
-loadout-name-LoadoutChiefEngineerBelt = advanced utility belt (empty)
-loadout-name-LoadoutChiefEngineerBeltFilled = advanced utility belt (filled)
+loadout-name-LoadoutChiefEngineerBelt = вдосконалений універсальний пояс (порожній)
+loadout-name-LoadoutChiefEngineerBeltFilled = вдосконалений універсальний пояс (заповнений)
 
-loadout-name-LoadoutSeniorEngineerBeltUtility = utility belt (empty)
-loadout-name-LoadoutSeniorEngineerBeltUtilityEngineering = utility belt (filled)
-loadout-name-LoadoutSeniorEngineerBeltUtilityAtmos = utility belt (filled, Atmospheric Tools)
+loadout-name-LoadoutSeniorEngineerBeltUtility = універсальний пояс (порожній)
+loadout-name-LoadoutSeniorEngineerBeltUtilityEngineering = універсальний пояс (заповнений)
+loadout-name-LoadoutSeniorEngineerBeltUtilityAtmos = універсальний пояс (заповнений, інструменти для атмосфери)
 loadout-description-LoadoutSeniorEngineerBeltUtilityAtmos =
-    This standard engineering belt includes a holofan emitter, as well as a gas analyzer instead of a multitool.
+    Цей стандартний інженерний пояс включає випромінювач головентилятора, а також газоаналізатор замість мультитула.
 
-loadout-name-LoadoutEngineeringBeltUtilityAtmos = utility belt (filled, Atmospheric Tools)
+loadout-name-LoadoutEngineeringBeltUtilityAtmos = універсальний пояс (заповнений, інструменти для атмосфери)
 

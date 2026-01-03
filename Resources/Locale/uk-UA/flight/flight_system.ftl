@@ -1,3 +1,3 @@
-no-flight-while-restrained = You can't fly right now.
-no-flight-while-zombified = You can't use your wings right now.
-no-flight-while-lying = You can't fly right now.
+no-flight-while-restrained = Ви не можете літати зараз.
+no-flight-while-zombified = Ви не можете використовувати свої крила зараз.
+no-flight-while-lying = Ви не можете літати зараз.

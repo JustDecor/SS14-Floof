@@ -1,19 +1,19 @@
-interaction-ToggleUndershirt-name = Toggle undershirt
-interaction-ToggleUndershirt-description = Toggle the undershirt of this person!
+interaction-ToggleUndershirt-name = Перемкнути майку
+interaction-ToggleUndershirt-description = Перемкнути майку цієї особи!
 
-interaction-ToggleUndershirt-success-self-popup = You toggle {THE($target)}'s undershirt.
-interaction-ToggleUndershirt-success-target-popup = {THE($user)} toggles your undershirt!
-interaction-ToggleUndershirt-fail-self-popup = You fail to toggle the undershirt.
+interaction-ToggleUndershirt-success-self-popup = Ви перемикаєте майку {THE($target)}.
+interaction-ToggleUndershirt-success-target-popup = {THE($user)} перемикає вашу майку!
+interaction-ToggleUndershirt-fail-self-popup = Вам не вдається перемкнути майку.
 
-interaction-ToggleUndershirt-delayed-self-popup = You try to toggle {THE($target)}'s undershirt.
-interaction-ToggleUndershirt-delayed-target-popup = {THE($user)} is trying to toggle your undershirt!
+interaction-ToggleUndershirt-delayed-self-popup = Ви намагаєтесь перемкнути майку {THE($target)}.
+interaction-ToggleUndershirt-delayed-target-popup = {THE($user)} намагається перемкнути вашу майку!
 
-interaction-ToggleUnderwear-name = Toggle underwear
-interaction-ToggleUnderwear-description = Toggle the underwear of this person!
+interaction-ToggleUnderwear-name = Перемкнути білизну
+interaction-ToggleUnderwear-description = Перемкнути білизну цієї особи!
 
-interaction-ToggleUnderwear-success-self-popup = You toggle {THE($target)}'s underwear.
-interaction-ToggleUnderwear-success-target-popup = {THE($user)} toggles your underwear!
-interaction-ToggleUnderwear-fail-self-popup = You fail to toggle the underwear.
+interaction-ToggleUnderwear-success-self-popup = Ви перемикаєте білизну {THE($target)}.
+interaction-ToggleUnderwear-success-target-popup = {THE($user)} перемикає вашу білизну!
+interaction-ToggleUnderwear-fail-self-popup = Вам не вдається перемкнути білизну.
 
-interaction-ToggleUnderwear-delayed-self-popup = You try to toggle {THE($target)}'s underwear.
-interaction-ToggleUnderwear-delayed-target-popup = {THE($user)} is trying to toggle your underwear!
+interaction-ToggleUnderwear-delayed-self-popup = Ви намагаєтесь перемкнути білизну {THE($target)}.
+interaction-ToggleUnderwear-delayed-target-popup = {THE($user)} намагається перемкнути вашу білизну!

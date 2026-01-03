@@ -1,11 +1,11 @@
-interaction-Kiss-name = Kiss
-interaction-Kiss-description = A kiss to melt the pain away. Requires your mouth to be free.
-interaction-Kiss-success-self-popup = You kiss {THE($target)}.
-interaction-Kiss-success-target-popup = {THE($user)} kisses you.
-interaction-Kiss-success-others-popup = {THE($user)} kisses {THE($target)}.
+interaction-Kiss-name = Цілувати
+interaction-Kiss-description = Поцілунок, щоб розтопити біль. Потрібно, щоб ваш рот був вільним.
+interaction-Kiss-success-self-popup = Ви цілуєте {THE($target)}.
+interaction-Kiss-success-target-popup = {THE($user)} цілує вас.
+interaction-Kiss-success-others-popup = {THE($user)} цілує {THE($target)}.
 
-interaction-Lick-name = Lick
-interaction-Lick-description = Lick your co-worker. Requires your mouth to be free.
-interaction-Lick-success-self-popup = You lick {THE($target)}.
-interaction-Lick-success-target-popup = {THE($user)} licks you.
-interaction-Lick-success-others-popup = {THE($user)} licks {THE($target)}.
+interaction-Lick-name = Лизати
+interaction-Lick-description = Лизніть свого колегу. Потрібно, щоб ваш рот був вільним.
+interaction-Lick-success-self-popup = Ви лижете {THE($target)}.
+interaction-Lick-success-target-popup = {THE($user)} лиже вас.
+interaction-Lick-success-others-popup = {THE($user)} лиже {THE($target)}.

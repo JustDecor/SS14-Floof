@@ -1,5 +1,5 @@
-squirt-verb-dry = Your slit is dry.
-squirt-verb-success = You fill {THE($target)} with {$amount}u of natural lubricant from your pussy.
-squirt-verb-success-ground = You squirt out all over the ground!
+squirt-verb-dry = Ваша щілина суха.
+squirt-verb-success = Ви наповнюєте {THE($target)} {$amount}у природного мастила зі своєї кицьки.
+squirt-verb-success-ground = Ви бризкаєте на землю!
 
-squirt-verb-get-text = Squirt
+squirt-verb-get-text = Бризнути

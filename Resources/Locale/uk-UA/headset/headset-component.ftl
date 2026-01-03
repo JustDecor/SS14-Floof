@@ -1,21 +1,21 @@
 # Chat window radio wrap (prefix and postfix)
-chat-radio-message-wrap = [color={$color}]{$channel} [font size=11][color={$languageColor}][bold]{$language}[/bold][/color][/font][bold]{$name}[/bold] {$verb}, [font="{$fontType}" size={$fontSize}][color={$messageColor}]"{$message}"[/color][/font][/color]
-chat-radio-message-wrap-bold = [color={$color}]{$channel} [font size=11][color={$languageColor}][bold]{$language}[/bold][/color][/font][bold]{$name}[/bold] {$verb}, [font="{$fontType}" size={$fontSize}][color={$messageColor}][bold]"{$message}"[/bold][/color][/font][/color]
+chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][font="{$fontType}" size={$fontSize}][color={$languageColor}]{$message}[/color][/font][color={$color}]"[/color]
+chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][color={$languageColor}][font="{$fontType}" size={$fontSize}][bold]{$message}[/bold][/font][/color][color={$color}]"[/color]
 
-examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Використовуйте {$prefix} для загального каналу ([color={$color}]{$channel}[/color]).
 
-chat-radio-common = Common
-chat-radio-centcom = CentCom
-chat-radio-command = Command
-chat-radio-engineering = Engineering
-chat-radio-medical = Medical
-chat-radio-science = Epistemics
-chat-radio-security = Security
-chat-radio-service = Service
-chat-radio-supply = Logistics
-chat-radio-syndicate = Syndicate
-chat-radio-freelance = Freelance
+chat-radio-common = Загальний
+chat-radio-centcom = ЦентКом
+chat-radio-command = Керівництво
+chat-radio-engineering = Інженерний
+chat-radio-medical = Медичний
+chat-radio-science = Науковий
+chat-radio-security = Служба безпеки
+chat-radio-service = Сервісний
+chat-radio-supply = Карго
+chat-radio-syndicate = Синдикат
+chat-radio-freelance = Позаштатний
 
 # not headset but whatever
-chat-radio-handheld = Handheld
-chat-radio-binary = Binary
+chat-radio-handheld = Портативний
+chat-radio-binary = Двійковий

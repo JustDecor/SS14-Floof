@@ -1,4 +1,4 @@
-job-description-anomaly = What are you?
-job-description-invspec = Oversee requests and deliveries, lead and train Cargo Technicians, and make sure your cash goes to the right place. Gambling and donk-pockets await!
-job-description-medical-quadborg = Follow your laws, serve the crew, and assist the medical department.
-job-description-service-quadborg = Follow your laws, serve the crew, and assist the service department.
+job-description-anomaly = Що ти є?
+job-description-invspec = Контролюйте запити та доставки, керуйте та навчайте Техніків карго, та переконайтеся, що ваші гроші йдуть у правильне місце. Азартні ігри та донк-покети чекають!
+job-description-medical-quadborg = Дотримуйтеся своїх законів, служіть екіпажу та допомагайте медичному відділу.
+job-description-service-quadborg = Дотримуйтеся своїх законів, служіть екіпажу та допомагайте відділу обслуговування.

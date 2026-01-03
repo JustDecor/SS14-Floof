@@ -1,2 +1,2 @@
-ent-CrateNPCSecDog = security dog shipment
-    .desc = Contains a single mixed-breed dog, trained for security applications.
+ent-CrateNPCSecDog = Партія службового собаки
+    .desc = Містить одного собаку змішаної породи, натренованого для службових цілей.

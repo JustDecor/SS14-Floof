@@ -1,75 +1,75 @@
 # HEAD
 # Begin Floof - M3739 - #1084
-marking-LizardHeadVirtuasaur= Virtuasaur Head
-marking-LizardHeadVirtuasaur-virtuasaur = Main
+marking-LizardHeadVirtuasaur = Голова Віртуазавра
+marking-LizardHeadVirtuasaur-virtuasaur = Основний
 # End Floof - M3739 - #1084
-marking-LizardShoutEasternDragon= Lizard, eastern dragon
-marking-LizardShoutEasternDragon-eastern_dragon = Outer
-marking-LizardShoutEasternDragon-eastern_dragon_overlay = Inner
+marking-LizardShoutEasternDragon = Ящір, східний дракон
+marking-LizardShoutEasternDragon-eastern_dragon = Зовнішній
+marking-LizardShoutEasternDragon-eastern_dragon_overlay = Внутрішній
 
-marking-LizardShoutEasternDragonUsiki= Lizard, eastern dragon (Mustache)
-marking-LizardShoutEasternDragonUsiki-eastern_dragon = Outer
-marking-LizardShoutEasternDragonUsiki-eastern_dragon_overlay = Inner
-marking-LizardShoutEasternDragonUsiki-eastern_dragon_usiki = Mustache
+marking-LizardShoutEasternDragonUsiki = Ящір, східний дракон (вуса)
+marking-LizardShoutEasternDragonUsiki-eastern_dragon = Зовнішній
+marking-LizardShoutEasternDragonUsiki-eastern_dragon_overlay = Внутрішній
+marking-LizardShoutEasternDragonUsiki-eastern_dragon_usiki = Вуса
 
-marking-LizardHeadCobraHood = Lizard, hood with ears (Cobra)
-marking-LizardHeadCobraHood-cobra_hood_with_ears = Outer
-marking-LizardHeadCobraHood-cobra_hood_with_ears_overlay = Inner
+marking-LizardHeadCobraHood = Ящір, капюшон з вухами (Кобра)
+marking-LizardHeadCobraHood-cobra_hood_with_ears = Зовнішній
+marking-LizardHeadCobraHood-cobra_hood_with_ears_overlay = Внутрішній
 
-marking-LizardHornsCurled-horns_curled_l = Left horn
-marking-LizardHornsCurled-horns_curled_r = Right horn
+marking-LizardHornsCurled-horns_curled_l = Лівий ріг
+marking-LizardHornsCurled-horns_curled_r = Правий ріг
 
-marking-LizardHornsRam-horns_ram_l = Left horn
-marking-LizardHornsRam-horns_ram_r = Right horn
+marking-LizardHornsRam-horns_ram_l = Лівий ріг
+marking-LizardHornsRam-horns_ram_r = Правий ріг
 
-marking-LizardHornsShort-horns_short_l = Left horn
-marking-LizardHornsShort-horns_short_r = Right horn
+marking-LizardHornsShort-horns_short_l = Лівий ріг
+marking-LizardHornsShort-horns_short_r = Правий ріг
 
-marking-LizardHornsSimple-horns_simple_l = Left horn
-marking-LizardHornsSimple-horns_simple_r = Right horn
+marking-LizardHornsSimple-horns_simple_l = Лівий ріг
+marking-LizardHornsSimple-horns_simple_r = Правий ріг
 
-marking-LizardHornsDouble-horns_double_l = Left horns
-marking-LizardHornsDouble-horns_double_r = Right horns
+marking-LizardHornsDouble-horns_double_l = Ліві роги
+marking-LizardHornsDouble-horns_double_r = Праві роги
 
-marking-LizardHornsArgali-horns_argali_l = Left horn
-marking-LizardHornsArgali-horns_argali_r = Right horn
+marking-LizardHornsArgali-horns_argali_l = Лівий ріг
+marking-LizardHornsArgali-horns_argali_r = Правий ріг
 
-marking-LizardHornsAyrshire-horns_ayrshire_l = Left Horn
-marking-LizardHornsAyrshire-horns_ayrshire_r = Right Horn
+marking-LizardHornsAyrshire-horns_ayrshire_l = Лівий ріг
+marking-LizardHornsAyrshire-horns_ayrshire_r = Правий ріг
 
-marking-LizardHornsMyrsore-horns_myrsore_l = Left horn
-marking-LizardHornsMyrsore-horns_myrsore_r = Right horn
+marking-LizardHornsMyrsore-horns_myrsore_l = Лівий ріг
+marking-LizardHornsMyrsore-horns_myrsore_r = Правий ріг
 
-marking-LizardHornsBighorn-horns_bighorn_l = Left horn
-marking-LizardHornsBighorn-horns_bighorn_r = Right horn
+marking-LizardHornsBighorn-horns_bighorn_l = Лівий ріг
+marking-LizardHornsBighorn-horns_bighorn_r = Правий ріг
 
 # TAILS
-marking-SnakeLargeTail = Lizard, large snake tail
-marking-SnakeLargeTail-tail_snakelarge = Inner
-marking-SnakeLargeTail-tail_snakelarge_overlay = Outer
+marking-SnakeLargeTail = Ящір, великий зміїний хвіст
+marking-SnakeLargeTail-tail_snakelarge = Внутрішній
+marking-SnakeLargeTail-tail_snakelarge_overlay = Зовнішній
 
 # SPINES
-marking-LizardChestSpinesAquatic = Lizard, chest, spines (Aquatic)
-marking-LizardChestSpinesAquatic-spines_aquatic = Spikes
-marking-LizardChestSpinesAquaticWithoutTail = Lizard, chest, spines (Aquatic, without tail)
-marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Spikes
+marking-LizardChestSpinesAquatic = Ящір, груди, шипи (водяні)
+marking-LizardChestSpinesAquatic-spines_aquatic = Шипи
+marking-LizardChestSpinesAquaticWithoutTail = Ящір, груди, шипи (водяні, без хвоста)
+marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Шипи
 
-marking-LizardChestSpinesLong = Lizard, chest, spines (Long)
-marking-LizardChestSpinesLong-spines_long = Spikes
-marking-LizardChestSpinesLongWithoutTail = Lizard, chest, spines (Long, without tail)
-marking-LizardChestSpinesLongWithoutTail-spines_long = Spikes
+marking-LizardChestSpinesLong = Ящір, груди, шипи (довгі)
+marking-LizardChestSpinesLong-spines_long = Шипи
+marking-LizardChestSpinesLongWithoutTail = Ящір, груди, шипи (довгі, без хвоста)
+marking-LizardChestSpinesLongWithoutTail-spines_long = Шипи
 
-marking-LizardChestSpinesLongMembrane = Lizard, chest, spines (Long, Membrane)
-marking-LizardChestSpinesLongMembrane-spines_longmembrane = spines
-marking-LizardChestSpinesLongMembraneWithoutTail = Lizard, chest, spines (Long, Membrane, without tail)
-marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = spines
+marking-LizardChestSpinesLongMembrane = Ящір, груди, шипи (довгі, перетинка)
+marking-LizardChestSpinesLongMembrane-spines_longmembrane = шипи
+marking-LizardChestSpinesLongMembraneWithoutTail = Ящір, груди, шипи (довгі, перетинка, без хвоста)
+marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = шипи
 
-marking-LizardChestSpinesShort = Lizard, chest, spines (Short)
-marking-LizardChestSpinesShort-spines_short = Spikes
-marking-LizardChestSpinesShortWithoutTail = Lizard, chest, spines (Short, without tail)
-marking-LizardChestSpinesShortWithoutTail-spines_short = Spikes
+marking-LizardChestSpinesShort = Ящір, груди, шипи (короткі)
+marking-LizardChestSpinesShort-spines_short = Шипи
+marking-LizardChestSpinesShortWithoutTail = Ящір, груди, шипи (короткі, без хвоста)
+marking-LizardChestSpinesShortWithoutTail-spines_short = Шипи
 
-marking-LizardChestSpinesShortMembrane = Lizard, chest, spines (Short, Membrane)
-marking-LizardChestSpinesShortMembrane-spines_short = Spikes
-marking-LizardChestSpinesShortMembraneWithoutTail = Lizard, chest, spines (Short, Membrane, without tail)
-marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Spikes
+marking-LizardChestSpinesShortMembrane = Ящір, груди, шипи (короткі, перетинка)
+marking-LizardChestSpinesShortMembrane-spines_short = Шипи
+marking-LizardChestSpinesShortMembraneWithoutTail = Ящір, груди, шипи (короткі, перетинка, без хвоста)
+marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Шипи

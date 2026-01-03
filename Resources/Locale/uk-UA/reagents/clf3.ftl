@@ -1,3 +1,3 @@
 ﻿clf3-it-burns = It burns like hell!!
-clf3-get-away = You need to get away now!
-clf3-explosion = The mixture fireballs outwards!
+clf3-get-away = Вам потрібно негайно тікати!
+clf3-explosion = Суміш вибухає вогняною кулею!

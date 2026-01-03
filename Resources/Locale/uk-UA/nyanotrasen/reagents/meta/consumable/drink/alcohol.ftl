@@ -1,26 +1,26 @@
-reagent-name-sake = sake
-reagent-desc-sake = Alcoholic beverage made by fermenting rice that has been polished.
+reagent-name-sake = саке
+reagent-desc-sake = Алкогольний напій, виготовлений шляхом ферментації шліфованого рису.
 
-reagent-name-soju = soju
-reagent-desc-soju = Alcoholic beverage made by distilling rice that has been polished.
+reagent-name-soju = соджу
+reagent-desc-soju = Алкогольний напій, виготовлений шляхом дистиляції полірованого рису.
 
-reagent-name-orange-creamcicle = orange creamcicle
-reagent-desc-orange-creamcicle = Orangy, creamy goodness.
+reagent-name-orange-creamcicle = апельсинове морозиво-крем
+reagent-desc-orange-creamcicle = Апельсинова, вершкова благодать.
 
-reagent-name-silverjack = silverjack
-reagent-desc-silverjack = Reminds you of family.
+reagent-name-silverjack = срібний джек
+reagent-desc-silverjack = Нагадує про сім'ю.
 
-reagent-name-brainbomb = brainbomb
-reagent-desc-brainbomb = Toxic to about anything alive, especially your liver.
+reagent-name-brainbomb = мозкова бомба
+reagent-desc-brainbomb = Токсично для майже всього живого, особливо для вашої печінки.
 
-reagent-name-clownblood = clown blood
-reagent-desc-clownblood = Security Officers favorite drink after a long day.
+reagent-name-clownblood = кров клоуна
+reagent-desc-clownblood = Улюблений напій офіцерів безпеки після довгого дня.
 
-reagent-name-circusjuice = circus juice
-reagent-desc-circusjuice = Honkmother would be proud.
+reagent-name-circusjuice = цирковий сік
+reagent-desc-circusjuice = Хонкмати була б горда.
 
-reagent-name-sapopicante = sapo picante
-reagent-desc-sapopicante = Tastes nothing like a toad.
+reagent-name-sapopicante = сапо піканте
+reagent-desc-sapopicante = На смак зовсім не схоже на жабу.
 
-reagent-name-graveyard = graveyard
-reagent-desc-graveyard = For those shifts that never seem to end.
+reagent-name-graveyard = кладовище
+reagent-desc-graveyard = Для тих змін, які ніколи не закінчуються.

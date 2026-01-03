@@ -1,8 +1,8 @@
-character-setup-gui-character-setup-label = Character setup
-character-setup-gui-character-setup-stats-button = Stats
-character-setup-gui-character-setup-rules-button = Rules
-character-setup-gui-character-setup-close-button = Close
-character-setup-gui-create-new-character-button = Create new slot...
-character-setup-gui-create-new-character-button-tooltip = A maximum of {$maxCharacters} characters are allowed.
-character-setup-gui-character-picker-button-delete-button = Delete
-character-setup-gui-character-picker-button-confirm-delete-button = Confirm
+character-setup-gui-character-setup-label = Налаштування символів
+character-setup-gui-character-setup-stats-button = Стати
+character-setup-gui-character-setup-rules-button = Правила
+character-setup-gui-character-setup-close-button = Закрити
+character-setup-gui-create-new-character-button = Створити ще один слот...
+character-setup-gui-create-new-character-button-tooltip = Дозволено максимум {$maxCharacters} персонажів.
+character-setup-gui-character-picker-button-delete-button = Видалити
+character-setup-gui-character-picker-button-confirm-delete-button = Підтвердити

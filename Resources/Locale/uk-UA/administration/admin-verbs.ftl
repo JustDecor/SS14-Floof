@@ -1,16 +1,16 @@
-delete-verb-get-data-text = Delete
-edit-solutions-verb-get-data-text = Edit Solutions
-explode-verb-get-data-text = Explode
-ahelp-verb-get-data-text = Message
-admin-verbs-admin-logs-entity = Entity Logs
-admin-verbs-teleport-to = Teleport To
-admin-verbs-teleport-here = Teleport Here
-admin-verbs-freeze = Freeze
-admin-verbs-freeze-and-mute = Freeze And Mute
-admin-verbs-unfreeze = Unfreeze
-admin-verbs-erase = Erase
-admin-verbs-erase-description = Removes the player from the round and crew manifest and deletes their chat messages.
-    Their items are dropped on the ground.
-    Players are shown a popup indicating them to play as if they never existed.
-toolshed-verb-mark = Mark
-toolshed-verb-mark-description = Places this entity into the $marked variable, a list of entities, replacing it's prior value.
+delete-verb-get-data-text = Видалити
+edit-solutions-verb-get-data-text = Редагувати рідини
+explode-verb-get-data-text = Підірвати
+ahelp-verb-get-data-text = Повідомлення
+admin-verbs-admin-logs-entity = Логи Сутності
+admin-verbs-teleport-to = Телепортуватись До
+admin-verbs-teleport-here = Телепортувати Сюди
+admin-verbs-freeze = Заморозити
+admin-verbs-freeze-and-mute = Заморозити і замутити
+admin-verbs-unfreeze = Розморозити
+admin-verbs-erase = Видалити
+admin-verbs-erase-description = Видаляє гравця з раунду, маніфесту та видаляє їх повідомлення у чаті.
+    Їх речі падають на землю.
+    Гравці отримують повідомлення грати якби цього персонажу ніколи не існувало.
+toolshed-verb-mark = Маркувати
+toolshed-verb-mark-description = Поміщає цей об'єкт у змінну $marked, список об'єктів, замінюючи її попереднє значення.

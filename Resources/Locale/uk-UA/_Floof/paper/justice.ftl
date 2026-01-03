@@ -1,23 +1,23 @@
-paperwork-header-justice = {"["}color=#6b2833] ◥[bold]N[/bold]◣ [head=3][bold]JUSTICE[/bold][/head][/color]
+paperwork-header-justice = {"["}color=#6b2833] ◥[bold]N[/bold]◣ [head=3][bold]ПРАВОСУДДЯ[/bold][/head][/color]
 paperwork-separator-justice = {"["}color=#6b2833]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
 
-paperwork-justice-pardon-request =
+paperwork-justice-pardon-request = 
     { paperwork-header-justice }
     { paperwork-separator-justice }
-        {"["}head=2]PARDON REQUEST[/head]
+        {"["}head=2]ЗАПИТ НА ПОМИЛУВАННЯ[/head]
     { paperwork-separator-justice }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]CAPTAIN:[/bold]
-        {"["}bold]WARDEN:[/bold]
-        {"["}bold]TARGET OF PARDON:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]КАПІТАН:[/bold]
+        {"["}bold]НАГЛЯДАЧ:[/bold]
+        {"["}bold]ЦІЛЬ ПОМИЛУВАННЯ:[/bold]
     { paperwork-separator-justice }
-    This document if approved, allows the release of a inmate sentenced to Permanent Confinement (Perma), under the stipulations agreed upon by authorized personnel.
-    {"["}color=red][italic]Inmates may be issued for parole by the Warden, the Head of Security, or may apply for parole at the discretion and availability of the Chief Justice or the Clerk of Court. This document must be approved and stamped by an authorized personnel member to be valid: the Warden, the Head of Security, or the Commanding Officer.[/italic][/color]
+    Цей документ, якщо схвалений, дозволяє звільнення ув'язненого, засудженого до постійного ув'язнення (перма), за умов, узгоджених уповноваженим персоналом.
+    {"["}color=red][italic]Ув'язнені можуть бути випущені умовно-достроково наглядачем, главою служби безпеки, або можуть подати заяву на умовне звільнення на розсуд і доступність головного судді або секретаря суду. Цей документ повинен бути затверджений і проштампований уповноваженим членом персоналу, щоб бути дійсним: наглядачем, главою служби безпеки або командуючим офіцером.[/italic][/color]
     { paperwork-separator-justice }
-    {"["}bold]Inmate's Reasoning for Parole[/bold]
+    {"["}bold]Обґрунтування ув'язненого для умовного звільнення[/bold]
 
 
     { paperwork-separator-justice }
@@ -32,38 +32,38 @@ paperwork-justice-pardon-request =
     {"["}bold]Approver's Signature:[/bold]
 
 
-paperwork-justice-restraining-order =
+paperwork-justice-restraining-order = 
     { paperwork-header-justice }
     { paperwork-separator-justice }
-    {"["}head=2]RESTRAINING ORDER[/head]
+    {"["}head=2]ЗАБОРОННИЙ ОРДЕР[/head]
     { paperwork-separator-justice }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]DOCUMENT COMPLIER:[/bold]
-        {"["}bold]JOB:[/bold]
-        {"["}bold]TARGET OF RESTRAINING ORDER:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]УКЛАДАЧ ДОКУМЕНТА:[/bold]
+        {"["}bold]РОБОТА:[/bold]
+        {"["}bold]ЦІЛЬ ЗАБОРОННОГО ОРДЕРА:[/bold]
     { paperwork-separator-justice }
-    Reason for Restraining Order:
-    Applicant Filing:
-    Applicant's Job:
-    Departmental Ban:( )
-    {"["}color=gray][italic]Please specify if Target is Banned from entering Applicants department of work.[/color][/italic]
+    Причина заборонного ордера:
+    Заявник:
+    Робота заявника:
+    Заборона відділу:( )
+    {"["}color=gray][italic]Будь ласка, вкажіть, чи заборонено цілі входити до відділу роботи заявника.[/color][/italic]
     { paperwork-separator-justice }
-    {"["}color=red]This document is not valid unless stamped by at least one of the authorized approvers: the Chief Justice or the Clerk of Court, or in their absence, the Head of Personnel.[/color]
-    {"["}color=red]This document is not valid unless stamped by either the Warden or the Head of Security.[/color]
+    {"["}color=red]Цей документ не є дійсним, якщо не проштампований принаймні одним з уповноважених затверджувачів: головним суддею або секретарем суду, або за їх відсутності главою персоналу.[/color]
+    {"["}color=red]Цей документ не є дійсним, якщо не проштампований наглядачем або главою служби безпеки.[/color]
     { paperwork-separator-justice }
-     {"["}bold] Authorized Approver:[/bold]
-     {"["}bold] Head of Security/Warden Signature:[/bold]
+     {"["}bold] Уповноважений затверджувач:[/bold]
+     {"["}bold] Підпис глави служби безпеки/наглядача:[/bold]
 
-paperwork-justice-trial-docket-civil =
+paperwork-justice-trial-docket-civil = 
     { paperwork-header-justice }
     { paperwork-separator-justice }
-    {"["}head=2]TRIAL DOCKET - CIVIL[/head]
+    {"["}head=2]СУДОВИЙ РЕЄСТР - ЦИВІЛЬНИЙ[/head]
     { paperwork-separator-justice }
-    {"["}bold]SECTOR:[/bold] Floof Station
-    {"["}bold]STATION:[/bold] {$stationName}
-    {"["}bold]CASE:[/bold] (PLAINTIFF) v. (DEFENDANT)
+    {"["}bold]СЕКТОР:[/bold] Станція Флуф
+    {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+    {"["}bold]СПРАВА:[/bold] (ПОЗИВАЧ) проти (ВІДПОВІДАЧА)
 
     { paperwork-separator-justice }
     PLAINTIFF'S ATTORNEY:
@@ -88,20 +88,20 @@ paperwork-justice-trial-docket-civil =
     {"["}bold]Presiding Judge's Signature:[/bold]
 
 
-paperwork-justice-trial-docket-criminal =
+paperwork-justice-trial-docket-criminal = 
     { paperwork-header-justice }
     { paperwork-separator-justice }
-        {"["}head=2]TRIAL DOCKET - CRIMINAL[/head]
+        {"["}head=2]СУДОВИЙ РЕЄСТР - КРИМІНАЛЬНИЙ[/head]
     { paperwork-separator-justice }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]CASE:[/bold] STATION SECURITY v. (DEFENDANT)
-        {"["}bold]CAPTAIN:[/bold]
-        {"["}bold]HEAD OF SECURITY:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]СПРАВА:[/bold] ОХОРОНА СТАНЦІЇ проти (ВІДПОВІДАЧА)
+        {"["}bold]КАПІТАН:[/bold]
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ:[/bold]
     { paperwork-separator-justice }
-    PROSECUTION:
-    ATTORNEY:
-    CLASSIFICATION: Criminal
+    ОБВИНУВАЧЕННЯ:
+    АДВОКАТ:
+    КЛАСИФІКАЦІЯ: Кримінальна
 
     {"["}color=gray]This form serves as official notification from the filer to the Legal Department that a Criminal Trial has been requested.[/color]
     { paperwork-separator-justice }
@@ -176,16 +176,16 @@ paperwork-justice-trial-docket-criminal =
     {"["}bold]Prosecution/Head of Security's Signature:[/bold]
     {"["}bold]Presiding Judge's Signature:[/bold]
 
-paperwork-justice-written-testimony =
+paperwork-justice-written-testimony = 
     { paperwork-header-justice }
     { paperwork-separator-justice }
-        {"["}head=2]WRITTEN TESTIMONY[/head]
+        {"["}head=2]ПИСЬМОВІ СВІДЧЕННЯ[/head]
     { paperwork-separator-justice }
-        {"["}bold]CASE:[/bold] (PLANTIFF) v. (DEFENDANT)
-        {"["}bold]PROSECUTOR:[/bold]
-        {"["}bold]ATTORNEY:[/bold]
+        {"["}bold]СПРАВА:[/bold] (ПОЗИВАЧ) проти (ВІДПОВІДАЧА)
+        {"["}bold]ПРОКУРОР:[/bold]
+        {"["}bold]АДВОКАТ:[/bold]
     { paperwork-separator-justice }
-    Testimony of xxx:
+    Свідчення xxx:
 
     { paperwork-separator-justice }
     {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]

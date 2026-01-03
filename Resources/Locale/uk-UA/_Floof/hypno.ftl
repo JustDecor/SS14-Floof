@@ -1,44 +1,44 @@
-action-name-hypno = Psionic Hypnosis
-action-description-hypno = You are capable to mentally interfere with people's thoughts, and make them do your bidding.
+action-name-hypno = Психічний гіпноз
+action-description-hypno = Ви здатні ментально втручатися в думки людей і змушувати їх виконувати ваші накази.
 
-hypnosis-power-initialization-feedback = I am able to place other in a trance and have them do my bidding, cementing my will in the deepest parts of their mind.
-hypnosis-power-feedback = The air around {CAPITALIZE($entity)} shimmers hypnotically from the force of their personality.
+hypnosis-power-initialization-feedback = Я можу вводити інших у транс і змушувати їх виконувати мої бажання, закріплюючи мою волю в найглибших частинах їхнього розуму.
+hypnosis-power-feedback = Повітря навколо {CAPITALIZE($entity)} гіпнотично мерехтить від сили {POSS-ADJ($entity)} особистості.
 
-hypno-already-under = {CAPITALIZE($target)} is already under hypnosis.
-examined-hypno = {CAPITALIZE(POSS-ADJ($entity))} eyes seem dull and unfocused, gazing off into the distance. {CAPITALIZE(SUBJECT($entity))} seems completely content with everything.
-lost-subject = I feel my powers dissipate. My subject is once again free...
-hypno-free = I have awoken from my trance...
-hypno-release = Release Subject
-hypno-break = Break Hypnosis
+hypno-already-under = {CAPITALIZE($target)} вже під гіпнозом.
+examined-hypno = {CAPITALIZE(POSS-ADJ($entity))} очі здаються тьмяними та невиразними, дивляться кудись далеко. {CAPITALIZE(SUBJECT($entity))} здається повністю задоволеним усім.
+lost-subject = Я відчуваю, як мої сили розсіюються. Мій суб'єкт знову вільний...
+hypno-free = Я прокинувся від свого трансу...
+hypno-release = Звільнити суб'єкта
+hypno-break = Розірвати гіпноз
 
-hypno-start = You stare into {POSS-ADJ($target)} eyes...
-hypno-phase-1 = {CAPITALIZE($target)} eyes are shining with a powerful but calming aura...
-hypno-phase-2 = The deeper you look into {POSS-ADJ($target)} eyes... the more difficult it is to think... easier to listen...
-hypno-phase-3 = It's so hard to think. Maybe... I don't need to anymore? Just sink... only {POSS-ADJ($target)}.
-hypno-success = {CAPITALIZE($target)} stares into your eyes, lost in them, lost in you.
+hypno-start = Ти дивишся в очі {POSS-ADJ($target)}...
+hypno-phase-1 = Очі {CAPITALIZE($target)} сяють потужною, але заспокійливою аурою...
+hypno-phase-2 = Чим глибше ти дивишся в очі {POSS-ADJ($target)}... тим важче думати... простіше слухати...
+hypno-phase-3 = Так важко думати. Може... мені більше не треба? Просто занурюйся... тільки {POSS-ADJ($target)}.
+hypno-success = {CAPITALIZE($target)} дивиться в твої очі, загублений у них, загублений у тобі.
 
-mood-effect-BeingHypnotized = It's so wonderful to not have to think... to be mindless... Obedience is pleasure...
-mood-effect-LostHypnosis = I miss being under trance like that... it was so much easier...
+mood-effect-BeingHypnotized = Так чудово не мусити думати... бути бездумним... Слухняність — це задоволення...
+mood-effect-LostHypnosis = Я сумую за тим трансом... це було так набагато простіше...
 
-hypnotized = [bold][color=red]You have been HYPNOTISED by {CAPITALIZE($entity)}!
-    Warning: You are not an antag, and still cannot help antags. THIS IS NOT AN ANTAGONIST ROLE.
-    Standard server rules apply, this is just for ROLEPLAY intents
-    If this was done against your preferences, AHELP "Adminhelp", otherwise, enjoy![/color][/bold]
+hypnotized = [bold][color=red]Ви були ЗАГІПНОТИЗОВАНІ {CAPITALIZE($entity)}!
+    Попередження: Ви не антагоніст і все ще не можете допомагати антагоністам. ЦЕ НЕ РОЛЬ АНТАГОНІСТА.
+    Діють стандартні правила сервера, це лише для РОЛЬОВОЇ ГРИ
+    Якщо це було зроблено всупереч вашим уподобанням, зверніться до адміністрації "Adminhelp", інакше насолоджуйтесь![/color][/bold]
 
-hypnotist = [bold][color=red]You have enthralled {CAPITALIZE($entity)}!
-    Have then serve your will, and do what you desire!
-    "in accordinace to server rules, of course."[/color][/bold]
+hypnotist = [bold][color=red]Ви зачарували {CAPITALIZE($entity)}!
+    Нехай вони служать вашій волі та роблять те, що ви бажаєте!
+    "відповідно до правил сервера, звичайно."[/color][/bold]
 
-stophypno = [bold][color=red]You are no longer hypnotized!
-    You are no longer under the mental control of {CAPITALIZE($entity)}.[/color][/bold]
+stophypno = [bold][color=red]Ви більше не під гіпнозом!
+    Ви більше не перебуваєте під ментальним контролем {CAPITALIZE($entity)}.[/color][/bold]
 
-has-no-consent = I cannot enter their mind.
+has-no-consent = Я не можу увійти в їхній розум.
 
-trait-name-HypnoticGaze = Hypnotic Gaze
-trait-description-HypnoticGaze =
-    Within your eyes lies the ability to place others under your control. You are capable of placing others in a trance, regardless of
-    whether or not you possess any other notable psychic powers.
+trait-name-HypnoticGaze = Гіпнотичний погляд
+trait-description-HypnoticGaze = 
+    У ваших очах криється здатність підкоряти інших вашому контролю. Ви здатні вводити інших у транс, незалежно від
+    того, чи володієте ви іншими помітними психічними здібностями.
 
 # Hypno Visor
-hypno-link = Set Mind Link
-hypno-link-master = Master: {CAPITALIZE($entity)}
+hypno-link = Встановити ментальний зв'язок
+hypno-link-master = Господар: {CAPITALIZE($entity)}

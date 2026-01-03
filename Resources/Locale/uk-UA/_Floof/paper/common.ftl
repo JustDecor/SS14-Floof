@@ -1,1 +1,1 @@
-paperwork-fallback-station-name = NT14-NAME-XXX
+paperwork-fallback-station-name = НТ14-НАЗВА-XXX

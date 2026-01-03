@@ -1,3 +1,3 @@
-loadout-name-LoadoutBackpack = grey backpack (colorable)
-loadout-name-LoadoutBackpackDuffel = grey duffelbag (colorable)
-loadout-name-LoadoutBackpackSatchel = grey satchel (colorable)
+loadout-name-LoadoutBackpack = сірий рюкзак (можна розфарбувати)
+loadout-name-LoadoutBackpackDuffel = сіра сумка (можна розфарбувати)
+loadout-name-LoadoutBackpackSatchel = сірий рюкзак (можна розфарбувати)

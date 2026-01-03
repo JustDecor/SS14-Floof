@@ -1,6 +1,6 @@
 ﻿
 ### Announcement
 
-earlyleave-cryo-job-unknown = Unknown
-earlyleave-cryo-announcement = {$character} ({$job}) has entered cryogenic storage!
-earlyleave-cryo-sender = Station
+earlyleave-cryo-job-unknown = Невідомо
+earlyleave-cryo-announcement = {$character} ({$job}) надійшов у кріогенне сховище!
+earlyleave-cryo-sender = Станція

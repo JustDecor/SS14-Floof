@@ -1,8 +1,8 @@
-uplink-kanabou-name = Kanabou
-uplink-kanabou-desc = A weapon for those who wish to forgo subtlety. Particularly suited to oni.
+uplink-kanabou-name = Канабо
+uplink-kanabou-desc = Зброя для тих, хто бажає відмовитися від тонкощів. Особливо підходить для оні.
 
-uplink-rickenbacker4001-name = Rickenbacker 4001
-uplink-rickenbacker4001-desc = When it comes down to it, there are very few people who will swing the bat.
+uplink-rickenbacker4001-name = Рікенбекер 4001
+uplink-rickenbacker4001-desc = Коли справа доходить до сутички, дуже мало людей розмахують битою.
 
-uplink-samurai-crate-name = Syndicate samurai crate
-uplink-samurai-crate-desc = A crate containing a modern replica of a full Tousei-Gusoku set.
+uplink-samurai-crate-name = Ящик синдикату самурая
+uplink-samurai-crate-desc = Ящик, що містить сучасну репліку повного комплекту Тоусей-Гусоку.

@@ -1,4 +1,4 @@
-marking-LamiaBottom = Lamia Tail
-marking-LamiaBottom-bottom3tone1 = Lamia Tail Bottom
-marking-LamiaBottom-bottom3tone2 = Lamia Tail Middle
-marking-LamiaBottom-bottom3tone3 = Lamia Tail Top
+marking-LamiaBottom = Хвіст ламії
+marking-LamiaBottom-bottom3tone1 = Низ хвоста ламії
+marking-LamiaBottom-bottom3tone2 = Середина хвоста ламії
+marking-LamiaBottom-bottom3tone3 = Верх хвоста ламії

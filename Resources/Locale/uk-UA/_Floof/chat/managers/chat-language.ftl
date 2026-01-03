@@ -1,5 +1,4 @@
-chat-language-Ratvarian-name = Ratvarian
-chat-language-Schechi-name = Schechi
+chat-language-Ratvarian-name = Ратваріанська
+chat-language-Schechi-name = Шечі
 
-chat-language-NewKinPidgin-name = Ka'rakk
-chat-language-OldKinPidgin-name = Zhra'kht
+chat-language-NewKinPidgin-name = Ка'раккchat-language-OldKinPidgin-name = Zhra'kht

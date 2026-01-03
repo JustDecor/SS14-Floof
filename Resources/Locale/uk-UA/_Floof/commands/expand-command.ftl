@@ -1,6 +1,6 @@
-cmd-expand-desc = Executes a command while expanding variables inline.
-cmd-expand-help =
-    Usage: {$command} <command> args...
-    Supported variables:
-        $HOVERED - NetEntityID of currently hovered entity
-cmd-expand-error-no-value = Failed to expand command: no value for {$variable}.
+cmd-expand-desc = Виконує команду, розгортаючи змінні в рядку.
+cmd-expand-help = 
+    Використання: {$command} <команда> аргументи...
+    Підтримувані змінні:
+        $HOVERED - NetEntityID об'єкта під курсором
+cmd-expand-error-no-value = Не вдалося розгорнути команду: немає значення для {$variable}.

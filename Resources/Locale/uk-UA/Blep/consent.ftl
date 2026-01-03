@@ -1,37 +1,37 @@
 # UI
-game-hud-open-consent-window-button-tooltip = Open consent window.
-ui-options-function-open-consent-window = Open consent window
-consent-window-title = OOC Consent & Preferences
-consent-window-text = This information is shown to other players to help with RP and used to opt-in or out of certain gameplay systems.
-consent-window-freetext-label = Freetext
-consent-window-freetext-placeholder = Put your ERP info here, such as:
-    Sub/Dom/Switch
-    If you are okay with IC noncon
-    Which gender(s) you want your partners to be
-    Likes and dislikes
-consent-window-toggles-label = Mechanics toggles
-consent-window-unsaved-changes = You have unsaved changes
-consent-window-char-limit-warning = Character limit exceeded ({$length} / {$maxLength})
+game-hud-open-consent-window-button-tooltip = Відкрити вікно згоди.
+ui-options-function-open-consent-window = Відкрити вікно згоди
+consent-window-title = OOC Згода та Налаштування
+consent-window-text = Ця інформація показується іншим гравцям для допомоги в РП та використовується для прийняття або відмови від певних ігрових систем.
+consent-window-freetext-label = Вільний текст
+consent-window-freetext-placeholder = Введіть вашу ERP інформацію тут, наприклад:
+    Суб/Дом/Свіч
+    Чи ви згодні на IC нонкон
+    Якої статі ви хочете, щоб були ваші партнери
+    Подобається та не подобається
+consent-window-toggles-label = Перемикачі механік
+consent-window-unsaved-changes = У вас є незбережені зміни
+consent-window-char-limit-warning = Перевищено ліміт символів ({$length} / {$maxLength})
 
 # Verb
-consent-examine-verb = Consent Info
-consent-examine-not-set = This player has no consent preferences set. Ask for consent first before engaging in any erotic roleplay.
+consent-examine-verb = Інформація про згоду
+consent-examine-not-set = Цей гравець не встановив налаштувань згоди. Запитайте згоду спочатку, перш ніж вступати в будь-яку еротичну рольову гру.
 
 # Consent toggles
-consent-Vore-name = Vore Prey
-consent-Vore-desc = Allow yourself to be prey or insert yourself into a pred.
+consent-Vore-name = Вор-жертва
+consent-Vore-desc = Дозволити себе бути жертвою або вставляти себе в хижака.
 
-consent-VorePred-name = Vore Pred
-consent-VorePred-desc = Allow yourself to be pred or have prey insert themselves into you.
+consent-VorePred-name = Вор-хижак
+consent-VorePred-desc = Дозволити себе бути хижаком або дозволити жертвам вставляти себе в вас.
 
-consent-Digestion-name = Digestion
-consent-Digestion-desc = Allow yourself to be digested. WARNING: BEING DIGESTED WILL ROUND-REMOVE YOU.
+consent-Digestion-name = Травлення
+consent-Digestion-desc = Дозволити себе перетравлювати. УВАГА: ПЕРЕТРАВЛЕННЯ ПРИЗВЕДЕ ДО ВИДАЛЕННЯ ВАС З РАУНДУ.
 
-consent-Hypno-name = Hypnosis
-consent-Hypno-desc = Allow yourself to be hypnotized.
+consent-Hypno-name = Гіпноз
+consent-Hypno-desc = Дозволити себе загіпнотизувати.
 
-consent-NoClone-name = Disallow Paradox Anomaly
-consent-NoClone-desc = Turn this on to disallow Paradox clones of yourself.
+consent-NoClone-name = Заборонити Аномалію Парадоксу
+consent-NoClone-desc = Увімкніть це, щоб заборонити Клонів Парадоксу себе.
 
-consent-NSFWDescriptions-name = Show NSFW Descriptions
-consent-NSFWDescriptions-desc = Toggle this on to see dynamic player descriptions that may contain NSFW/ERP content.
+consent-NSFWDescriptions-name = Показувати NSFW-опис
+consent-NSFWDescriptions-desc = Увімкніть це, щоб бачити динамічні описи гравців, які можуть містити NSFW/ERP контент.

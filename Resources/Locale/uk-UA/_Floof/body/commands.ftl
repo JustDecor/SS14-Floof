@@ -1,4 +1,4 @@
-command-description-body-default = Add the default body to the piped entity. Example usage: `self body:default`
-command-description-body-prototype = Add a body to the piped entity. Example usage: `self body:prototype Human`
-command-description-body-set_required_legs = Set how many legs the piped entity needs to be able to stand/walk. Example usage: `self body:set-required-legs 2`
-command-description-body-remove = Remove a body from the piped entity. Example usage: `self body:remove`
+command-description-body-default = Додати стандартне тіло до переданої сутності. Приклад використання: `self body:default`
+command-description-body-prototype = Додати тіло до переданої сутності. Приклад використання: `self body:prototype Human`
+command-description-body-set_required_legs = Встановити, скільки ніг потрібно переданій сутності для стояння/ходьби. Приклад використання: `self body:set-required-legs 2`
+command-description-body-remove = Видалити тіло з переданої сутності. Приклад використання: `self body:remove`

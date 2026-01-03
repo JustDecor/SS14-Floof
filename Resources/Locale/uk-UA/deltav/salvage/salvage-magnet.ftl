@@ -1,4 +1,4 @@
 ﻿salvage-map-size-unknown = Unidentified Space Debris
-salvage-map-size-small = Small Space Debris
-salvage-map-size-medium = Medium Space Debris
-salvage-map-size-large = Large Space Debris
+salvage-map-size-small = Дрібні космічні уламки
+salvage-map-size-medium = Середні космічні уламки
+salvage-map-size-large = Великі космічні уламки

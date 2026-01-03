@@ -1,20 +1,23 @@
 # Mailto
-command-mailto-description = Queue a parcel to be delivered to an entity. Example usage: `mailto 1234 5678 false false`. The target container's contents will be transferred to an actual mail parcel.
-command-mailto-help = Usage: {$command} <recipient entityUid> <container entityUid> [is-fragile: true or false] [is-priority: true or false] [is-large: true or false, optional]
-command-mailto-no-mailreceiver = Target recipient entity does not have a {$requiredComponent}.
-command-mailto-no-blankmail = The {$blankMail} prototype doesn't exist. Something is very wrong. Contact a programmer.
-command-mailto-bogus-mail = {$blankMail} did not have {$requiredMailComponent}. Something is very wrong. Contact a programmer.
-command-mailto-invalid-container = Target container entity does not have a {$requiredContainer} container.
-command-mailto-unable-to-receive = Target recipient entity was unable to be setup for receiving mail. ID may be missing.
-command-mailto-no-teleporter-found = Target recipient entity was unable to be matched to any station's mail teleporter. Recipient may be off-station.
-command-mailto-success = Success! Mail parcel has been queued for next teleport in {$timeToTeleport} seconds.
+command-mailto-description = Поставити посилку в чергу на доставку до об'єкта. Приклад використання: `mailto 1234 5678 false false`. Вміст цільового контейнера буде переміщено до справжньої поштової посилки.
+command-mailto-help = Використання: {$command} <ID_сутності_отримувача> <ID_сутності_контейнера> [крихке: true або false] [пріоритетне: true або false] [велике: true або false, необов'язково]
+command-mailto-no-mailreceiver = Цільовий об'єкт-одержувач не має {$requiredComponent}.
+command-mailto-no-blankmail = Прототип {$blankMail} не існує. Щось дуже негаразд. Зв'яжіться з програмістом.
+command-mailto-bogus-mail = {$blankMail} не мав {$requiredMailComponent}. Щось дуже негаразд. Зв'яжіться з програмістом.
+command-mailto-invalid-container = Цільовий об'єкт-контейнер не має контейнера {$requiredContainer}.
+command-mailto-unable-to-receive = Не вдалося налаштувати цільовий об'єкт-одержувач для отримання пошти. Можливо, відсутній ID.
+command-mailto-no-teleporter-found = Не вдалося знайти відповідний поштовий телепорт на станції для цільового об'єкта-одержувача. Одержувач може бути поза станцією.
+command-mailto-success = Успіх! Поштова посилка додана в чергу на наступну телепортацію через {$timeToTeleport} секунд.
 
 # Mailnow
-command-mailnow = Force all mail teleporters to deliver another round of mail as soon as possible. This will not bypass the undelivered mail limit.
-command-mailnow-help = Usage: {$command}
-command-mailnow-success = Success! All mail teleporters will be delivering another round of mail soon.
+command-mailnow = Примусово змусити всі поштові телепорти доставити наступну партію пошти якомога швидше. Це не обійде ліміт недоставленої пошти.
+command-mailnow-help = Використання: {$command}
+command-mailnow-success = Успіх! Усі поштові телепорти незабаром доставлять наступну партію пошти.
 
-# Mailtestbulk
-command-mailtestbulk = Sends one of each type of parcel to a given mail teleporter.  Implicitly calls mailnow.
-command-mailtestbulk-help = Usage: {$command} <teleporter_id>
-command-mailtestbulk-success = Success! All mail teleporters will be delivering another round of mail soon.
+command-mailtestbulk-help = Використання: {$command} <id_телепортера>
+
+
+command-mailtestbulk-success = Успіх! Усі поштові телепорти незабаром доставлять ще одну партію пошти.
+
+
+command-mailtestbulk = Надсилає по одному пакунку кожного типу на вказаний поштовий телепорт. Неявно викликає mailnow.

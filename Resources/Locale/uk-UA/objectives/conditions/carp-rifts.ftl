@@ -1,2 +1,2 @@
-objective-carp-rifts-title = Open {$count} carp rifts
-objective-carp-rifts-description = Use the rift action to open {$count} rifts and ensure they do not get destroyed. Rifts are NOT necessary for your survival.
+objective-carp-rifts-title = Відкрийте {$count} коропових розломів
+objective-carp-rifts-description = Використовуйте дію розлом, щоб відкрити {$count} розломів і переконатися, що вони не будуть знищені. Якщо ви не відкриєте розлом протягом 5 хвилин, вас буде вбито.

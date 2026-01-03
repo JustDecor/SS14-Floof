@@ -1,3 +1,3 @@
-shared-interaction-system-in-range-unobstructed-cannot-reach = You can't reach there!
-interaction-system-user-interaction-cannot-reach = You can't reach there!
-interaction-rate-limit-admin-announcement = Player { $player } breached interaction rate limits. They may be using macros, auto-clickers, or a modified client. Though they may just be spamming buttons or having network issues.
+shared-interaction-system-in-range-unobstructed-cannot-reach = Туди не дотягнешся!
+interaction-system-user-interaction-cannot-reach = Туди не дотягнешся!
+interaction-rate-limit-admin-announcement = Гравець { $player } порушив обмеження швидкості взаємодії. Він може використовувати макроси, автокліки або модифікований клієнт. Хоча, можливо, вони просто розсилають спам на кнопки або мають проблеми з мережею.

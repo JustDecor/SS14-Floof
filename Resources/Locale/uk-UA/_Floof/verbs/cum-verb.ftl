@@ -1,5 +1,5 @@
-cum-verb-dry = Your cum tank is empty.
-cum-verb-success = You fill {THE($target)} with {$amount}u of cum from your cock.
-cum-verb-success-ground = You pump out some cum all over the ground!
+cum-verb-dry = Ваш бак сперми порожній.
+cum-verb-success = Ви наповнюєте {THE($target)} {$amount}у сперми зі свого члена.
+cum-verb-success-ground = Ви викачуєте трохи сперми на землю!
 
-cum-verb-get-text = Cum
+cum-verb-get-text = Кінчити

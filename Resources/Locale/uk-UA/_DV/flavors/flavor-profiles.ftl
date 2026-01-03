@@ -1,1 +1,1 @@
-flavor-complex-unholy-water = like something cold and wrong
+flavor-complex-unholy-water = як щось холодне і неправильне

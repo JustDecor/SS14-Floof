@@ -1,4 +1,4 @@
-book-text-escalation = When it comes to getting robusted, it's all about strategy. Do it right and you'll be the envy of the station. Do it wrong and the gods themselves may turn against you. Personally, I always aim for the former...
+book-text-escalation = Коли справа доходить до робасту, все залежить від стратегії. Зробите все правильно - і вам буде заздрити вся станція. Зробиш неправильно - і самі боги можуть відвернутися від тебе. Особисто я завжди прагну до першого...
 
         First things first: let the insults fly! This is your chance to really let your opponent know what you think of their ridiculously large shoes and that annoying bike horn.
 
@@ -14,7 +14,7 @@ book-text-escalation = When it comes to getting robusted, it's all about strateg
 
         Remember, it's all about conserving energy. Let your opponent do some of the escalation for you - it's a win-win!
 
-book-text-escalation-security = Get it right and you'll have the whole station calling you shitsec. Get it wrong and you'll face harmbatoning from the gods. Personally, I always aim for the former...
+book-text-escalation-security = Зробиш це правильно, і вся станція буде називати тебе гівнюком. Неправильно - отримаєш удар гармошки від богів. Особисто я завжди прагну до першого...
 
         They say the pen is mightier than the sword, but you don't have a sword, you have a stun baton, and as soon as you start writing, any suspect is going to leave.
 

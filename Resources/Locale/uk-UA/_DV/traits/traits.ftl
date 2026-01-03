@@ -1,5 +1,5 @@
 
-trait-name-Unborgable = Machine Incompatible
+trait-name-Unborgable = Несумісний з машинами
 trait-description-Unborgable = 
-    Due to abnormal brain activity, or some cerebral augmentation, 
-    your brain is unable to be put into a man-machine interface.
+    Через аномальну активність мозку або певне церебральне покращення,
+    ваш мозок не може бути поміщений в інтерфейс людина-машина.

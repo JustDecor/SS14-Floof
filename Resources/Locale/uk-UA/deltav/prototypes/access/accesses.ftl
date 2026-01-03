@@ -1,6 +1,6 @@
-id-card-access-level-orders = Orders
-id-card-access-level-mantis = Mantis
-id-card-access-level-cj = Chief Justice
-id-card-access-level-prosecutor = Prosecutor
-id-card-access-level-justice = Justice
-id-card-access-level-corpsman = Corpsman
+id-card-access-level-orders = Накази
+id-card-access-level-mantis = Псіо-екстрасенс
+id-card-access-level-cj = Головний Суддя
+id-card-access-level-prosecutor = Прокурор
+id-card-access-level-justice = Правосуддя
+id-card-access-level-corpsman = Санітар

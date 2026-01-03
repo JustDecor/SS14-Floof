@@ -1,20 +1,20 @@
-marking-ScarsVoxRoadrashLeftHead-roadrash_l_head = Road Rash (Left)
-marking-ScarsVoxRoadrashLeftHead = Road Rash (Left)
+marking-ScarsVoxRoadrashLeftHead-roadrash_l_head = Дорожня садна (лівий)
+marking-ScarsVoxRoadrashLeftHead = Дорожня висипка (ліворуч)
 
-marking-ScarsVoxRoadrashRightHead-roadrash_r_head = Road Rash (Right)
-marking-ScarsVoxRoadrashRightHead = Road Rash (Right)
+marking-ScarsVoxRoadrashRightHead-roadrash_r_head = Дорожня садна (правий)
+marking-ScarsVoxRoadrashRightHead = Дорожня висипка (праворуч)
 
-marking-ScarsVoxBigslashLeftHead-bigslash_l_head = Big Slash (Left)
-marking-ScarsVoxBigslashLeftHead = Big Slash (Left)
+marking-ScarsVoxBigslashLeftHead-bigslash_l_head = Великий порізи (лівий)
+marking-ScarsVoxBigslashLeftHead = Великий поріз (ліворуч)
 
-marking-ScarsVoxBigslashRightHead-roadrash_r_head = Big Slash (Right)
-marking-ScarsVoxBigslashRightHead = Big Slash (Right)
+marking-ScarsVoxBigslashRightHead-roadrash_r_head = Великий порізи (правий)
+marking-ScarsVoxBigslashRightHead = Великий поріз (праворуч)
 
-marking-ScarsVoxSlashLeftHead-slash_l_head = Slash (Left)
-marking-ScarsVoxSlashLeftHead = Slash (Left)
+marking-ScarsVoxSlashLeftHead-slash_l_head = Порізи (лівий)
+marking-ScarsVoxSlashLeftHead = Поріз (ліворуч)
 
-marking-ScarsVoxSlashRightHead-slash_r_head = Slash (Right)
-marking-ScarsVoxSlashRightHead = Slash (Right)
+marking-ScarsVoxSlashRightHead-slash_r_head = Порізи (правий)
+marking-ScarsVoxSlashRightHead = Поріз (праворуч)
 
-marking-ScarsVoxClawTorso-claw_torso = Claw Scar
-marking-ScarsVoxClawTorso = Claw Scar
+marking-ScarsVoxClawTorso-claw_torso = Шрам від кігтів
+marking-ScarsVoxClawTorso = Шрам від кігтів

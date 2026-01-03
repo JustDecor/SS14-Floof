@@ -1,33 +1,33 @@
-marking-BunnyTail = Bunny Tail
-marking-BunnyTail-bunnytail = Tail
+marking-BunnyTail = Зайчика Хвостик
+marking-BunnyTail-bunnytail = Хвіст
 
-marking-BunnyTailAlt = Bunny Tail, Alternative
-marking-BunnyTailAlt-bunnytailalt = Bunny Tail, Alternative
+marking-BunnyTailAlt = Bunny Tail, Альтернатива
+marking-BunnyTailAlt-bunnytailalt = Bunny Tail, Альтернатива
 
-marking-DobleFur = Doble Tail
-marking-DobleFur-doblefurtailtone1 = Outer
-marking-DobleFur-doblefurtailtone2 = Inner
+marking-DobleFur = Добрий Хвіст
+marking-DobleFur-doblefurtailtone1 = Зовнішній
+marking-DobleFur-doblefurtailtone2 = Внутрішній
 
-marking-FluffyTail = Fluffy Tail
-marking-FluffyTail-fluffytail = Tail
+marking-FluffyTail = Пухнастий хвіст
+marking-FluffyTail-fluffytail = Хвіст
 
-marking-FoxNineTails = Nine Tails
-marking-FoxNineTails-foxninetailstone1 = Inner
-marking-FoxNineTails-foxninetailstone2 = Outer
+marking-FoxNineTails = Дев'ять хвостів
+marking-FoxNineTails-foxninetailstone1 = Внутрішній
+marking-FoxNineTails-foxninetailstone2 = Зовнішній
 
-marking-FoxThreeTails = Three Tails
-marking-FoxThreeTails-foxthreetailstone1 = Inner
-marking-FoxThreeTails-foxthreetailstone2 = Outer
+marking-FoxThreeTails = Три хвости
+marking-FoxThreeTails-foxthreetailstone1 = Внутрішній
+marking-FoxThreeTails-foxthreetailstone2 = Зовнішній
 
-marking-HorseTailCulty = Culty Horse Tail
-marking-HorseTailCulty-horsetailculty = Tail
+marking-HorseTailCulty = Кінський хвіст
+marking-HorseTailCulty-horsetailculty = Хвіст
 
-marking-HorseTailLong = Long Horse Tail
-marking-HorseTailLong-horsetaillong = Tail
+marking-HorseTailLong = Довгий кінський хвіст
+marking-HorseTailLong-horsetaillong = Хвіст
 
-marking-SharkTail = Shark Tail
-marking-SharkTail-sharktail = Tail
+marking-SharkTail = Акулячий хвіст
+marking-SharkTail-sharktail = Хвіст
 
-marking-TasselTail = Tassel Tail
-marking-TasselTail-tasseltailtone1 = Inner
-marking-TasselTail-tasseltailtone2 = Outer
+marking-TasselTail = Хвіст з китицею
+marking-TasselTail-tasseltailtone1 = Внутрішній
+marking-TasselTail-tasseltailtone2 = Зовнішній

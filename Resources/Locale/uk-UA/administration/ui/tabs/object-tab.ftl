@@ -1,10 +1,10 @@
 ﻿object-tab-entity-id = Entity ID
-object-tab-object-name = Object name
+object-tab-object-name = Назва об'єкта
 
-object-tab-object-type = Object type:
-object-tab-object-search = Search...
+object-tab-object-type = Тип об'єкта:
+object-tab-object-search = Обшук...
 
-object-tab-object-type-grids = Grids
-object-tab-object-type-maps = Maps
-object-tab-object-type-stations = Stations
-object-tab-refresh-button = Refresh
+object-tab-object-type-grids = Сітки
+object-tab-object-type-maps = Карти
+object-tab-object-type-stations = Станції
+object-tab-refresh-button = Оновити

@@ -1,43 +1,43 @@
-paperwork-header-hop = {"["}color=#1b67a5] ◥[bold]N[/bold]◣ [head=3][bold]HEAD OF PERSONNEL[/bold][/head][/color]
+paperwork-header-hop = {"["}color=#1b67a5] ◥[bold]N[/bold]◣ [head=3][bold]ГЛАВА ПЕРСОНАЛУ[/bold][/head][/color]
 paperwork-separator-hop = {"["}color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
-paperwork-hop-access-permit =
+paperwork-hop-access-permit = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]Access Permit [/head]
+        {"["}head=2]Дозвіл на доступ [/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]PERSONS:[/bold]
-        {"["}bold]ACCESS GRANTED:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ОСОБИ:[/bold]
+        {"["}bold]НАДАНИЙ ДОСТУП:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-hop }
-    {"•"} Reason For Extended Access:
-    {"•"} Other Notes:
-    {"["}color=red]This document gives {"{"}insert name{"}"} the ability to Access stated areas unhindered.
+    {"•"} Причина розширеного доступу:
+    {"•"} Інші примітки:
+    {"["}color=red]Цей документ дає {"{"}вставте ім'я{"}"} можливість безперешкодного доступу до зазначених зон.
 
     This document must be signed, and stamped by the Head of Personnel to be considered valid.[/color]
 
     {"["}bold]Applicant's Signature:[/bold]
     {"["}bold]Head of Personnel's Signature:[/bold]
 
-paperwork-hop-job-transfer-request =
+paperwork-hop-job-transfer-request = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]Job Transfer Request[/head]
+        {"["}head=2]Запит на переведення на посаду[/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]APPLICANT:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ЗАЯВНИК:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-hop }
-    {"•"} Desired position:
-    {"•"} Reasons for transfer to the desired position:
-    {"•"} Your skills:
+    {"•"} Бажана посада:
+    {"•"} Причини переведення на бажану посаду:
+    {"•"} Ваші навички:
     { paperwork-separator-hop }
-    {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
+    {"["}color=red]Цей документ не є дійсним, якщо не проштампований принаймні одним із необхідних співробітників.[/color]
 
     {"["}italic]NOTE: The document is valid if a seal of the Head of the department where the accountable person is employed, unless explicitly stated otherwise. The accountable person confirms that they have all the necessary skills to work in a new workplace.[/italic]
 
@@ -45,52 +45,52 @@ paperwork-hop-job-transfer-request =
     {"["}bold]Head Of Personnel's Signature:[/bold]
 
 
-paperwork-hop-crewmate-identification =
+paperwork-hop-crewmate-identification = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]CREWMATE IDENTIFICATION[/head]
+        {"["}head=2]ІДЕНТИФІКАЦІЯ ЧЛЕНА ЕКІПАЖУ[/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]NAME:[/bold]
-        {"["}bold]PLACE OF ORIGIN:[/bold]
-        {"["}bold]DATE OF BIRTH:[/bold]
-        {"["}bold]PRONOUNS:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]ІМ'Я:[/bold]
+        {"["}bold]МІСЦЕ НАРОДЖЕННЯ:[/bold]
+        {"["}bold]ДАТА НАРОДЖЕННЯ:[/bold]
+        {"["}bold]ЗАЙМЕННИКИ:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-hop }
-    {"•"} Physical Description:
-    {"•"} Relevant Medical Information:
-    {"•"} Your interests:
-    {"•"} Your skills:
-    {"•"} Your past work experience:
-    {"•"} In case of death:
+    {"•"} Фізичний опис:
+    {"•"} Відповідна медична інформація:
+    {"•"} Ваші інтереси:
+    {"•"} Ваші навички:
+    {"•"} Ваш попередній досвід роботи:
+    {"•"} У разі смерті:
     { paperwork-separator-hop }
-    {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
+    {"["}color=red]Цей документ не є дійсним, якщо не проштампований принаймні одним із необхідних співробітників.[/color]
 
     {"["}italic][color=gray]NOTE: The document is valid only if reliable information about the person is provided. The document is valid only if there is a stamp of the Head of the department. The accountable person confirms that this is a true documentation of the person's Identity. The accountable person confirms the transfer of the right to dispose of the life, health, inventory, soul, and assets of the accountable person to NanoTrasen Corporation. NanoTrasen Corporation is not responsible for loss of life/injury/loss of property/otherwise within the framework of Standard Operating Procedures, Space Law or other acts.[/color][/italic]
 
     {"["}bold] Head of Personnel Signature:[/bold]
     {"["}bold] Head of Personnel Stamp:[/bold]
 
-paperwork-hop-formal-complaint =
+paperwork-hop-formal-complaint = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]Formal Complaint [/head]
+        {"["}head=2]Офіційна скарга [/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]HEAD OF PERSONNEL:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ГЛАВА ПЕРСОНАЛУ:[/bold]
     { paperwork-separator-hop }
-    {"["}head=3]Section A[/head]
-    Complaintant's Name:               [color=#002AAF]Sample Person[/color]
+    {"["}head=3]Розділ А[/head]
+    Ім'я скаржника:               [color=#002AAF]Зразок Особа[/color]
                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    Complaintant's Role:                  [color=#002AAF]Sample Role[/color]
+    Роль скаржника:                  [color=#002AAF]Зразок Роль[/color]
                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     { paperwork-separator-hop }
-    {"["}head=3]Section B[/head]
-    {"["}bold]Subject of Complaint:[/bold]
-    \[  ] A Individual    \[  ] A Department    \[  ] Other
-    {"["}italic]If other, please skip to Section C[/italic]
+    {"["}head=3]Розділ Б[/head]
+    {"["}bold]Предмет скарги:[/bold]
+    \[  ] Особа    \[  ] Відділ    \[  ] Інше
+    {"["}italic]Якщо інше, будь ласка, перейдіть до Розділу В[/italic]
 
     Department of the Subject of Complaint:
     \[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        \[  ] Grey
@@ -120,20 +120,20 @@ paperwork-hop-formal-complaint =
 
     {"["}bold]Signature of Complaintant:[/bold]
 
-paperwork-hop-order-of-dismissal =
+paperwork-hop-order-of-dismissal = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]ORDER OF DISMISSAL [/head]
+        {"["}head=2]НАКАЗ ПРО ЗВІЛЬНЕННЯ [/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]ACCOUNTABLE PERSON:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ВІДПОВІДАЛЬНА ОСОБА:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-hop }
-    {"•"} Dismissed employee:
-    {"•"} The position of the dismissed employee:
-    {"•"} The reason for the dismissal:
+    {"•"} Звільнений працівник:
+    {"•"} Посада звільненого працівника:
+    {"•"} Причина звільнення:
     { paperwork-separator-hop }
 
     {"["}italic]NOTE: This form of document is valid only for employees who do not have the status of Head of Department. The document must be sealed with the stamp of the department in which the dismissed employee worked, unless explicitly stated otherwise. After dismissal, the employee is obliged to receive the passenger's uniform, the passenger's headset and the passenger's PDA, having handed over all the professional inventory of the previous position.[/italic]
@@ -142,22 +142,22 @@ paperwork-hop-order-of-dismissal =
 
     {"["}bold]HEAD OF PERSONNELS STAMP:[/BOLD]
 
-paperwork-hop-dismissal-of-department-head =
+paperwork-hop-dismissal-of-department-head = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}bold]DISMISSAL OF DEPARTMENT HEAD [/bold]
+        {"["}bold]ЗВІЛЬНЕННЯ ГЛАВИ ВІДДІЛУ [/bold]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]COMMANDING OFFICER:[/bold]
-        {"["}bold]ACCOUNTABLE PERSON:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]КОМАНДУЮЧИЙ ОФІЦЕР:[/bold]
+        {"["}bold]ВІДПОВІДАЛЬНА ОСОБА:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-hop }
-    {"•"} Name of the person being dismissed:
-    {"•"} The position of the person being dismissed:
-    {"•"} Reason for dismissal:
-    {"•"} Additional comments [italic](issued by other heads of departments)[/italic]:
+    {"•"} Ім'я особи, яку звільняють:
+    {"•"} Посада особи, яку звільняють:
+    {"•"} Причина звільнення:
+    {"•"} Додаткові коментарі [italic](надані іншими главами відділів)[/italic]:
     { paperwork-separator-hop }
 
     {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
@@ -170,22 +170,22 @@ paperwork-hop-dismissal-of-department-head =
     Signature of the dismissed:
 
 
-paperwork-hop-employment-application =
+paperwork-hop-employment-application = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]EMPLOYMENT APPLICATION[/head]
+        {"["}head=2]ЗАЯВКА НА ПРАЦЕВЛАШТУВАННЯ[/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]ACCOUNTABLE PERSON:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ВІДПОВІДАЛЬНА ОСОБА:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-hop }
-    {"•"} Desired employment:
-    {"•"} Reasons why you should get this position:
-    {"•"} Your interests:
-    {"•"} Your skills:
-    {"•"} Your past work experience:
+    {"•"} Бажане працевлаштування:
+    {"•"} Причини, чому ви повинні отримати цю посаду:
+    {"•"} Ваші інтереси:
+    {"•"} Ваші навички:
+    {"•"} Ваш попередній досвід роботи:
 
     { paperwork-separator-hop }
 
@@ -197,22 +197,22 @@ paperwork-hop-employment-application =
 
 
 
-paperwork-hop-restricted-equipment-permit =
+paperwork-hop-restricted-equipment-permit = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]Restricted Equipment Permit [/head]
+        {"["}head=2]Дозвіл на обмежене обладнання [/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]EQUIPMENT USER: [/bold]
-        {"["}bold]EQUIPMENT TYPE: [/bold]
-        {"["}bold]JOB: [/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]КОРИСТУВАЧ ОБЛАДНАННЯ: [/bold]
+        {"["}bold]ТИП ОБЛАДНАННЯ: [/bold]
+        {"["}bold]РОБОТА: [/bold]
     { paperwork-separator-hop }
-    {"•"}  Reasons for desired Equipment:
-    {"•"}  Other Notes:
+    {"•"}  Причини для бажаного обладнання:
+    {"•"}  Інші примітки:
     { paperwork-separator-hop }
-    {"["}color=red]This document gives [insert name] the ability to carry {"{stated gear}"} unhindered.[/color]
+    {"["}color=red]Цей документ дає [вставте ім'я] можливість безперешкодно носити {"{зазначене обладнання}"}.[/color]
 
     {"["}color=gray]This Permit can be revoked as at a moment's notice if the applicable party violates Space Law in the use of said Equipment.[/color]
 
@@ -222,20 +222,20 @@ paperwork-hop-restricted-equipment-permit =
     {"["}bold]Head of Security Stamp & Signature:[/bold]
 
 
-paperwork-hop-restricted-weapons-permit =
+paperwork-hop-restricted-weapons-permit = 
     { paperwork-header-hop }
     { paperwork-separator-hop }
-        {"["}head=2]Restricted Weapons Permit [/head]
+        {"["}head=2]Дозвіл на обмежену зброю [/head]
     { paperwork-separator-hop }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]WEAPON USER: [/bold]
-        {"["}bold]WEAPON TYPE: [/bold]
-        {"["}bold]JOB: [/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]КОРИСТУВАЧ ЗБРОЇ: [/bold]
+        {"["}bold]ТИП ЗБРОЇ: [/bold]
+        {"["}bold]РОБОТА: [/bold]
     { paperwork-separator-hop }
-    {"•"} Reasons for desired Equipment:
-    {"•"} Other Notes:
+    {"•"} Причини для бажаного обладнання:
+    {"•"} Інші примітки:
     { paperwork-separator-hop }
 
     {"["}color=red]This document gives [insert name] the ability to carry L3 class armaments.[/color]

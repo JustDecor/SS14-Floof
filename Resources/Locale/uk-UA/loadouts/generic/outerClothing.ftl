@@ -1,11 +1,11 @@
-loadout-description-LoadoutOuterGhostSheet = Spooky...
-loadout-description-LoadoutOuterCoatBomberjacket = A sleek bomber jacket.
-loadout-description-LoadoutOuterCoatHoodieBlack = A warm hoodie.
-loadout-description-LoadoutOuterCoatHoodieGrey = A warm hoodie.
-loadout-description-LoadoutOuterCoatWinterCoat = For keeping nice and snug.
+loadout-description-LoadoutOuterGhostSheet = Моторошно...
+loadout-description-LoadoutOuterCoatBomberjacket = Гладка куртка-бомбер.
+loadout-description-LoadoutOuterCoatHoodieBlack = Теплий балахон.
+loadout-description-LoadoutOuterCoatHoodieGrey = Теплий балахон.
+loadout-description-LoadoutOuterCoatWinterCoat = Для того, щоб було приємно і затишно.
 
-loadout-name-LoadoutOuterCoatHoodieGrey = grey hoodie (colorable)
-loadout-name-LoadoutOuterCoatWinterCoat = winter coat (colorable)
-loadout-name-LoadoutOuterCoatHyenhSweater = sweater (colorable)
-loadout-name-LoadoutOuterWinterCoatLong = long winter coat (colorable)
-loadout-name-LoadoutOuterCoatMNKWhiteHoodie = MNK hoodie (colorable)
+loadout-name-LoadoutOuterCoatHoodieGrey = худі сірого кольору (можна розфарбувати)
+loadout-name-LoadoutOuterCoatWinterCoat = зимове пальто (кольорове)
+loadout-name-LoadoutOuterCoatHyenhSweater = светр (кольоровий)
+loadout-name-LoadoutOuterWinterCoatLong = довге зимове пальто (кольорове)
+loadout-name-LoadoutOuterCoatMNKWhiteHoodie = Худі MNK (кольорове)

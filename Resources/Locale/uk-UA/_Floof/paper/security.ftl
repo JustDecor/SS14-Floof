@@ -1,78 +1,78 @@
-paperwork-header-security = {"["}color=#cb0000] ◥[bold]N[/bold]◣ [head=3][bold]SECURITY[/bold][/head][/color]
+paperwork-header-security = {"["}color=#cb0000] ◥[bold]N[/bold]◣ [head=3][bold]СЛУЖБА БЕЗПЕКИ[/bold][/head][/color]
 paperwork-separator-security = {"["}color=#cb0000]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
-paperwork-security-arrest-report =
+paperwork-security-arrest-report = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]ARREST REPORT[/head]
+        {"["}head=2]ЗВІТ ПРО АРЕШТ[/head]
     { paperwork-separator-security }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]HEAD OF SECURITY:[/bold]
-        {"["}bold]ARRESTING OFFICER:[/bold]
-        {"["}bold]ARRESTED PERSON:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ:[/bold]
+        {"["}bold]ОФІЦЕР, ЩО ПРОВОДИВ АРЕШТ:[/bold]
+        {"["}bold]ЗААРЕШТОВАНА ОСОБА:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-security }
-    • Reason for arrest:
+    • Причина арешту:
     { paperwork-separator-security }
-    {"["}head=3]Charges:[/head]
-    1XX Misdemeanor Crimes:
-    \[  ] Code:SL1-01 (Fearmongering) - 5mins Max
-    \[  ] Code:SL1-03 (Animal Cruelty) - 3mins
-    \[  ] Code:SL1-04 (Theft) - 2mins
-    \[  ] Code:SL1-06 (Vandalism) - 2mins
-    \[  ] Code:SL1-09 (Brandishing) - 2mins
-    \[  ] Code:SL1-11 (Possession) - 5mins Max
-    \[  ] Code:SL1-12 (Trespass) - 2mins
-    \[  ] Code:SL1-15 (Hooliganism) - 'As Determined'
-    \[  ] Code:SL1-17 (Failure To Comply) - 2mins
-    {"["}color=gray]Warnings may be issued for a first misdemeanor offense.[/color]
+    {"["}head=3]Звинувачення:[/head]
+    1XX Проступки:
+    \[  ] Код:СЗ1-01 (Залякування) - 5хв Макс
+    \[  ] Код:СЗ1-03 (Жорстоке поводження з тваринами) - 3хв
+    \[  ] Код:СЗ1-04 (Крадіжка) - 2хв
+    \[  ] Код:СЗ1-06 (Вандалізм) - 2хв
+    \[  ] Код:СЗ1-09 (Погроза зброєю) - 2хв
+    \[  ] Код:СЗ1-11 (Володіння) - 5хв Макс
+    \[  ] Код:СЗ1-12 (Проникнення) - 2хв
+    \[  ] Код:СЗ1-15 (Хуліганство) - 'За рішенням'
+    \[  ] Код:СЗ1-17 (Невиконання вимог) - 2хв
+    {"["}color=gray]За перший проступок можна винести попередження.[/color]
     { paperwork-separator-security }
-    2XX Felony Crimes:
-    \[  ] Code:SL2-01 (Perjury or False Report) - 3 mins
-    \[  ] Code:SL2-03 (Manslaughter) - 8mins
-    \[  ] Code:SL2-04 (Grand Theft) - 8mins
-    \[  ] Code:SL2-05 (Black Marketeering) - 6mins
-    \[  ] Code:SL2-06 (Sabotage) - 6mins
-    \[  ] Code:SL2-07 (Mindbreaking) - 5mins
-    \[  ] Code:SL2-08 (Kidnapping) - 8mins
-    \[  ] Code:SL2-09 (Assault)- 5mins
-    \[  ] Code:SL2-10 (Abuse of Power) - 5mins
-    \[  ] Code:SL2-11 (Felony Possession) - 10mins Max
-    \[  ] Code:SL2-12 (Secure Trespass) - 4mins
-    \[  ] Code:SL2-13 (Endangerment) - 4mins
-    \[  ] Code:SL2-14 (Harassment) - 4mins
-    \[  ] Code:SL2-15 (Rioting) - 4mins
-    \[  ] Code:SL2-16 (Contempt of Court) - 4mins
-    \[  ] Code:SL2-17 (Obstruction of Justice) - 2mins
+    2XX Тяжкі злочини:
+    \[  ] Код:СЗ2-01 (Лжесвідчення або неправдиве повідомлення) - 3 хв
+    \[  ] Код:СЗ2-03 (Вбивство з необережності) - 8хв
+    \[  ] Код:СЗ2-04 (Велика крадіжка) - 8хв
+    \[  ] Код:СЗ2-05 (Чорний ринок) - 6хв
+    \[  ] Код:СЗ2-06 (Саботаж) - 6хв
+    \[  ] Код:СЗ2-07 (Ламання розуму) - 5хв
+    \[  ] Код:СЗ2-08 (Викрадення) - 8хв
+    \[  ] Код:СЗ2-09 (Напад)- 5хв
+    \[  ] Код:СЗ2-10 (Зловживання владою) - 5хв
+    \[  ] Код:СЗ2-11 (Володіння тяжке) - 10хв Макс
+    \[  ] Код:СЗ2-12 (Проникнення до захищеної зони) - 4хв
+    \[  ] Код:СЗ2-13 (Створення небезпеки) - 4хв
+    \[  ] Код:СЗ2-14 (Домагання) - 4хв
+    \[  ] Код:СЗ2-15 (Заворушення) - 4хв
+    \[  ] Код:СЗ2-16 (Неповага до суду) - 4хв
+    \[  ] Код:СЗ2-17 (Перешкоджання правосуддю) - 2хв
     { paperwork-separator-security }
-    3XX Capital Crimes:
-    \[  ] Code:SL3-01 (Terrorism)
-    \[  ] Code:SL3-03 (Murder)
-    \[  ] Code:SL3-06 (Grand Sabotage)
-    \[  ] Code:SL3-07 (Decorporealization)
-    \[  ] Code:SL3-08 (Hostage Taking)
-    \[  ] Code:SL3-13 (Grand Endangerment)
-    \[  ] Code:SL3-15 (Sedition)
-    {"["}color=gray]All Capital crimes necessitate a mandatory trial.[/color]
+    3XX Особливо тяжкі злочини:
+    \[  ] Код:СЗ3-01 (Тероризм)
+    \[  ] Код:СЗ3-03 (Умисне вбивство)
+    \[  ] Код:СЗ3-06 (Великий саботаж)
+    \[  ] Код:СЗ3-07 (Декорпореалізація)
+    \[  ] Код:СЗ3-08 (Захоплення заручників)
+    \[  ] Код:СЗ3-13 (Велика небезпека)
+    \[  ] Код:СЗ3-15 (Заколот)
+    {"["}color=gray]Всі особливо тяжкі злочини потребують обов'язкового суду.[/color]
     { paperwork-separator-security }
-    Crime Modifiers:
-    {"["}color=gray]Time matches crimes commited or attempted.[/color]
-    \[  ] Solicitation
-    \[  ] Accessory
-    \[  ] Attempt
-    \[  ] Conspiracy
-    {"["}color=gray]150% max additional modifier of original sentence.[/color]
-    \[  ] Deadly Weapon
-    \[  ] Aggravation
-    \[  ] Discriminatory Intent
-    {"["}color=gray]200% max additional modifier of original sentence.[/color]
-    \[  ] Recidivism
-    {"["}color=gray]Sentence reduction or pardon.[/color]
-    \[  ] Cooperation - 50% reduction of original sentence.
-    \[  ] Dire Emergency - Sentence reduction or full pardon.
-    \[  ] Self-Defence - Sentence reduction or full pardon.
+    Модифікатори злочину:
+    {"["}color=gray]Час відповідає скоєним або замахнутим злочинам.[/color]
+    \[  ] Підбурювання
+    \[  ] Пособництво
+    \[  ] Замах
+    \[  ] Змова
+    {"["}color=gray]150% макс додатковий модифікатор оригінального терміну.[/color]
+    \[  ] Смертельна зброя
+    \[  ] Обтяження
+    \[  ] Дискримінаційний намір
+    {"["}color=gray]200% макс додатковий модифікатор оригінального терміну.[/color]
+    \[  ] Рецидивізм
+    {"["}color=gray]Зменшення терміну або помилування.[/color]
+    \[  ] Співпраця - 50% зменшення оригінального терміну.
+    \[  ] Надзвичайна ситуація - Зменшення терміну або повне помилування.
+    \[  ] Самооборона - Зменшення терміну або повне помилування.
 
     {"["}color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
     {"["}color=gray]This form follows NT space law.[/color]
@@ -83,24 +83,24 @@ paperwork-security-arrest-report =
 
 
 
-paperwork-security-arrest-warrant =
+paperwork-security-arrest-warrant = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]ARREST WARRANT [/head]
+        {"["}head=2]ОРДЕР НА АРЕШТ [/head]
     { paperwork-separator-security }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]ARRESTING OFFICER: [/bold]
-        {"["}bold]HEAD OF SECURITY: [/bold]
-        {"["}bold]PROSECUTOR: [/bold]
-        {"["}bold]WARRANT TARGET: [/bold]
-        {"["}bold]JOB: [/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ОФІЦЕР, ЩО ПРОВОДИТЬ АРЕШТ: [/bold]
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ: [/bold]
+        {"["}bold]ПРОКУРОР: [/bold]
+        {"["}bold]ЦІЛЬ ОРДЕРА: [/bold]
+        {"["}bold]РОБОТА: [/bold]
     { paperwork-separator-security }
-    • Reason for arrest:
+    • Причина арешту:
     { paperwork-separator-security }
-    {"["}color=gray]Warrants are only valid when issued by either the Chief Justice or the Clerk of Court, or in their absence, the Commanding Officer, the Head of Security, or the Warden.[/color]
-    {"["}color=#cb0000]This document is not valid unless stamped by at least one of the required personnel.[/color]
+    {"["}color=gray]Ордери дійсні лише тоді, коли видані головним суддею або секретарем суду, або за їх відсутності командуючим офіцером, главою служби безпеки або наглядачем.[/color]
+    {"["}color=#cb0000]Цей документ не є дійсним, якщо не проштампований принаймні одним із необхідних співробітників.[/color]
 
     {"["}color=gray]This form follows NT space law.[/color]
     {"["}color=gray]Those who abuse granted permission can be fined up to 5000 Spesos.[/color]
@@ -108,19 +108,19 @@ paperwork-security-arrest-warrant =
     { paperwork-separator-security }
     {"["}bold]Issuer's Signature:[/bold]
 
-paperwork-security-department-search-warrant =
+paperwork-security-department-search-warrant = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]DEPARTMENT SEARCH WARRANT [/head]
+        {"["}head=2]ОРДЕР НА ОБШУК ВІДДІЛУ [/head]
     { paperwork-separator-security }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]PROSECUTOR:[/bold]
-        {"["}bold]HEAD OF SECURITY:[/bold]
-        {"["}bold]TARGET OF WARRANT: [/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ПРОКУРОР:[/bold]
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ:[/bold]
+        {"["}bold]ЦІЛЬ ОРДЕРА: [/bold]
     { paperwork-separator-security }
-    • Requesting Officer:
+    • Офіцер, що робить запит:
 
     • Reason for the search:
     { paperwork-separator-security }
@@ -135,15 +135,15 @@ paperwork-security-department-search-warrant =
     { paperwork-separator-security }
     {"["}bold]Issuer's Signature:[/bold]
 
-paperwork-security-detective-report =
+paperwork-security-detective-report = 
     { paperwork-header-security }
     { paperwork-separator-security }
-    {"["}head=2]DETECTIVE'S REPORT [/head]
+    {"["}head=2]ЗВІТ ДЕТЕКТИВА [/head]
     { paperwork-separator-security }
-    {"["}bold]CASE:[/bold] STATION SECURITY v. (DEFENDANT)
-    {"["}bold]PROSECUTOR:[/bold]
+    {"["}bold]СПРАВА:[/bold] ОХОРОНА СТАНЦІЇ проти (ВІДПОВІДАЧА)
+    {"["}bold]ПРОКУРОР:[/bold]
     { paperwork-separator-security }
-    Details of the Case:
+    Деталі справи:
 
     Evidence Collected:
 
@@ -158,13 +158,13 @@ paperwork-security-detective-report =
     {"["}bold]Prosecutor's Signature:[/bold]
     {"["}bold]Detective's Signature:[/bold]
 
-paperwork-security-furlough-request =
+paperwork-security-furlough-request = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]FURLOUGH REQUEST[/head]
+        {"["}head=2]ЗАПИТ НА ВІДПУСТКУ[/head]
     { paperwork-separator-security }
-    This document if approved, allows an inmate to leave his cell under direct supervision of security personnel for no more than 20 minutes. Inmate agrees to a strip search after furlough has concluded to ensure there is no contraband.
-    {"["}color=red][bold]This document must be approved and stamped by the Warden or Head of Security, and signed by the inmate to be valid![/bold][/color]
+    Цей документ, якщо схвалений, дозволяє ув'язненому покинути свою камеру під прямим наглядом охоронного персоналу не більше ніж на 20 хвилин. Ув'язнений погоджується на повний обшук після закінчення відпустки, щоб переконатися, що немає контрабанди.
+    {"["}color=red][bold]Цей документ повинен бути затверджений і проштампований наглядачем або главою служби безпеки, і підписаний ув'язненим, щоб бути дійсним![/bold][/color]
 
     Inmate:  [color=#002AAF]Name Here[/color]
                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -195,20 +195,20 @@ paperwork-security-furlough-request =
     {"["}bold]Inmate's Signature:[/bold]
 
 
-paperwork-security-individual-search-warrant =
+paperwork-security-individual-search-warrant = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]INDIVIDUAL SEARCH WARRANT [/head]
+        {"["}head=2]ОРДЕР НА ОСОБИСТИЙ ОБШУК [/head]
     { paperwork-separator-security }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]PROSECUTOR:[/bold]
-        {"["}bold]HEAD OF SECURITY:[/bold]
-        {"["}bold]TARGET OF WARRANT:[/bold]
-        {"["}bold]JOB:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ПРОКУРОР:[/bold]
+        {"["}bold]ГЛАВА СЛУЖБИ БЕЗПЕКИ:[/bold]
+        {"["}bold]ЦІЛЬ ОРДЕРА:[/bold]
+        {"["}bold]РОБОТА:[/bold]
     { paperwork-separator-security }
-    • Requesting Officer:
+    • Офіцер, що робить запит:
 
     • Reason for the search:
     { paperwork-separator-security }
@@ -224,18 +224,18 @@ paperwork-security-individual-search-warrant =
     {"["}bold]Issuer's Signature:[/bold]
 
 
-paperwork-security-inmate-request =
+paperwork-security-inmate-request = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]Inmate Request form [/head]
+        {"["}head=2]Форма запиту ув'язненого [/head]
     { paperwork-separator-security }
-        {"["}bold]  SECTOR:[/bold] Floof Station
-        {"["}bold]  STATION:[/bold] {$stationName}
-        {"["}bold]  SHIFT TIME:[/bold] XX:XX
-        {"["}bold]  WARDEN:[/bold]
-        {"["}bold]  INMATE:[/bold]
+        {"["}bold]  СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]  СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]  ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]  НАГЛЯДАЧ:[/bold]
+        {"["}bold]  УВ'ЯЗНЕНИЙ:[/bold]
     { paperwork-separator-security }
-    • Items Requested:
+    • Запитані предмети:
 
 
 
@@ -248,13 +248,13 @@ paperwork-security-inmate-request =
     {"["}bold]Inmate's Signature:[/bold]
     {"["}bold]Approver's Signature:[/bold]
 
-paperwork-security-visitation-request =
+paperwork-security-visitation-request = 
     { paperwork-header-security }
     { paperwork-separator-security }
-        {"["}head=2]VISITATION REQUEST[/head]
+        {"["}head=2]ЗАПИТ НА ВІДВІДУВАННЯ[/head]
     { paperwork-separator-security }
-    This document, if approved, allows the one time visitation between an inmate and an employee of NanoTressen stations. Visitor agrees to be searched before entering the vistation area. The inmate also agrees to be strip searched after the visitation has concluded.
-    {"["}color=red][bold]This document must be approved and stamped by the Warden, and signed by both the visitor and inmate to be valid![/bold][/color]
+    Цей документ, якщо схвалений, дозволяє одноразове відвідування між ув'язненим і працівником станцій НаноТрасен. Відвідувач погоджується на обшук перед входом до зони відвідувань. Ув'язнений також погоджується на повний обшук після закінчення відвідування.
+    {"["}color=red][bold]Цей документ повинен бути затверджений і проштампований наглядачем, і підписаний як відвідувачем, так і ув'язненим, щоб бути дійсним![/bold][/color]
 
     Inmate: [color=#002AAF]Name Here[/color]
                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

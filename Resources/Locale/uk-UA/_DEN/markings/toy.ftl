@@ -1,78 +1,78 @@
 # Seams
 
-marking-OverlayPlushSeamsHuman = Plush Seams (Humanoid)
-marking-OverlayPlushSeamsHuman-human = Seam
+marking-OverlayPlushSeamsHuman = Шви плюшевої іграшки (гуманоїд)
+marking-OverlayPlushSeamsHuman-human = Шов
 
-marking-OverlayPlushSeamsHeadHuman = Plush Seams (Humanoid)
-marking-OverlayPlushSeamsHeadHuman-head_human = Seam
-marking-OverlayPlushSeamsHeadSmallSnout = Plush Seams (Small Snout)
-marking-OverlayPlushSeamsHeadSmallSnout-head_shortsnout = Seam
-marking-OverlayPlushSeamsHeadLongSnout = Plush Seams (Long Snout)
-marking-OverlayPlushSeamsHeadLongSnout-head_longsnout = Seam
+marking-OverlayPlushSeamsHeadHuman = Шви плюшевої іграшки (гуманоїд)
+marking-OverlayPlushSeamsHeadHuman-head_human = Шов
+marking-OverlayPlushSeamsHeadSmallSnout = Шви плюшевої іграшки (маленька морда)
+marking-OverlayPlushSeamsHeadSmallSnout-head_shortsnout = Шов
+marking-OverlayPlushSeamsHeadLongSnout = Шви плюшевої іграшки (довга морда)
+marking-OverlayPlushSeamsHeadLongSnout-head_longsnout = Шов
 
-marking-OverlayPlushSeamsHandsFeet = Plush Seams (Hands/Feet)
-marking-OverlayPlushSeamsHandsFeet-handsfeet = Seam
-marking-OverlayPlushSeamsHands = Plush Seams (Hands)
-marking-OverlayPlushSeamsHands-hands = Seam
-marking-OverlayPlushSeamsFeet = Plush Seams (Feet)
-marking-OverlayPlushSeamsFeet-feet = Seam
+marking-OverlayPlushSeamsHandsFeet = Шви плюшевої іграшки (руки/ноги)
+marking-OverlayPlushSeamsHandsFeet-handsfeet = Шов
+marking-OverlayPlushSeamsHands = Шви плюшевої іграшки (руки)
+marking-OverlayPlushSeamsHands-hands = Шов
+marking-OverlayPlushSeamsFeet = Шви плюшевої іграшки (ноги)
+marking-OverlayPlushSeamsFeet-feet = Шов
 
-marking-OverlayPlushSeamsOvinia = Plush Seams (Ovinia)
-marking-OverlayPlushSeamsOvinia-ovinia = Seam
-marking-OverlayPlushSeamsOviniaFeet = Plush Seams (Ovinia Feet)
-marking-OverlayPlushSeamsOviniaFeet-ovinia_feet = Seam
+marking-OverlayPlushSeamsOvinia = Шви плюшевої іграшки (Ovinia)
+marking-OverlayPlushSeamsOvinia-ovinia = Шов
+marking-OverlayPlushSeamsOviniaFeet = Шви плюшевої іграшки (ноги Ovinia)
+marking-OverlayPlushSeamsOviniaFeet-ovinia_feet = Шов
 
-marking-OverlayPlushSeamsShadowkin = Plush Seams (Shadowkin)
-marking-OverlayPlushSeamsShadowkin-shadowkin = Seam
-marking-OverlayPlushSeamsShadowkinFeet = Plush Seams (Shadowkin Feet)
-marking-OverlayPlushSeamsShadowkinFeet-shadowkin_feet = Seam
+marking-OverlayPlushSeamsShadowkin = Шви плюшевої іграшки (Shadowkin)
+marking-OverlayPlushSeamsShadowkin-shadowkin = Шов
+marking-OverlayPlushSeamsShadowkinFeet = Шви плюшевої іграшки (ноги Shadowkin)
+marking-OverlayPlushSeamsShadowkinFeet-shadowkin_feet = Шов
 
-marking-OverlayPlushSeamsBuggy = Plush Seams (Bug)
-marking-OverlayPlushSeamsBuggy-buggy = Seam
-marking-OverlayPlushSeamsBuggyFeet = Plush Seams (Bug Feet)
-marking-OverlayPlushSeamsBuggyFeet-buggy_feet = Seam
+marking-OverlayPlushSeamsBuggy = Шви плюшевої іграшки (комаха)
+marking-OverlayPlushSeamsBuggy-buggy = Шов
+marking-OverlayPlushSeamsBuggyFeet = Шви плюшевої іграшки (ноги комахи)
+marking-OverlayPlushSeamsBuggyFeet-buggy_feet = Шов
 
-marking-OverlayPlushSeamsArachne = Plush Seams (Upper Body)
-marking-OverlayPlushSeamsArachne-arachne = Seam
+marking-OverlayPlushSeamsArachne = Шви плюшевої іграшки (верхня частина тіла)
+marking-OverlayPlushSeamsArachne-arachne = Шов
 
-marking-OverlayPlushSeamsHarpy = Plush Seams (Harpy)
-marking-OverlayPlushSeamsHarpy-harpy = Seam
-marking-OverlayPlushSeamsHarpyFeet = Plush Seams (Harpy Feet)
-marking-OverlayPlushSeamsHarpyFeet-harpy_feet = Seam
+marking-OverlayPlushSeamsHarpy = Шви плюшевої іграшки (гарпія)
+marking-OverlayPlushSeamsHarpy-harpy = Шов
+marking-OverlayPlushSeamsHarpyFeet = Шви плюшевої іграшки (ноги гарпії)
+marking-OverlayPlushSeamsHarpyFeet-harpy_feet = Шов
 
-marking-OverlayPlushSeamsVox = Plush Seams (Vox)
-marking-OverlayPlushSeamsVox-vox = Seam
-marking-OverlayPlushSeamsVoxFeet = Plush Seams (Vox Feet)
-marking-OverlayPlushSeamsVoxFeet-vox_feet = Seam
+marking-OverlayPlushSeamsVox = Шви плюшевої іграшки (Vox)
+marking-OverlayPlushSeamsVox-vox = Шов
+marking-OverlayPlushSeamsVoxFeet = Шви плюшевої іграшки (ноги Vox)
+marking-OverlayPlushSeamsVoxFeet-vox_feet = Шов
 
 # Accessories
 
-marking-ChestZipper = Zipper
-marking-ChestZipper-zipper = Zipper
+marking-ChestZipper = Блискавка
+marking-ChestZipper-zipper = Блискавка
 
-marking-ChestWindupKeyGold = Wind-up Key (Gold)
-marking-ChestWindupKeyGold-windup_gold = Key
-marking-ChestWindupKeyGoldAnimated = Wind-up Key (Gold, Animated)
-marking-ChestWindupKeyGoldAnimated-windup_gold_animated = Key
+marking-ChestWindupKeyGold = Заводний ключ (золотий)
+marking-ChestWindupKeyGold-windup_gold = Ключ
+marking-ChestWindupKeyGoldAnimated = Заводний ключ (золотий, анімований)
+marking-ChestWindupKeyGoldAnimated-windup_gold_animated = Ключ
 
-marking-ChestWindupKeySilver = Wind-up Key (Silver)
-marking-ChestWindupKeySilver-windup_silver = Key
-marking-ChestWindupKeySilverAnimated = Wind-up Key (Silver, Animated)
-marking-ChestWindupKeySilverAnimated-windup_silver_animated = Key
+marking-ChestWindupKeySilver = Заводний ключ (срібний)
+marking-ChestWindupKeySilver-windup_silver = Ключ
+marking-ChestWindupKeySilverAnimated = Заводний ключ (срібний, анімований)
+marking-ChestWindupKeySilverAnimated-windup_silver_animated = Ключ
 
 # Overlays
 
-marking-OverlayPlushTorsoHumanM = Plush Torso (Male)
-marking-OverlayPlushTorsoHumanM-torso_plush_human_m = Torso
-marking-OverlayPlushTorsoHumanF = Plush Torso (Female)
-marking-OverlayPlushTorsoHumanF-torso_plush_human_f = Torso
+marking-OverlayPlushTorsoHumanM = Плюшевий торс (чоловік)
+marking-OverlayPlushTorsoHumanM-torso_plush_human_m = Торс
+marking-OverlayPlushTorsoHumanF = Плюшевий торс (жінка)
+marking-OverlayPlushTorsoHumanF-torso_plush_human_f = Торс
 
-marking-OverlayPlushFootLeft = Plush Foot Sole, Left
-marking-OverlayPlushFootLeft-l_foot_plush = Foot
-marking-OverlayPlushFootRight = Plush Foot Sole, Right
-marking-OverlayPlushFootRight-r_foot_plush = Foot
+marking-OverlayPlushFootLeft = Плюшева підошва, ліва
+marking-OverlayPlushFootLeft-l_foot_plush = Стопа
+marking-OverlayPlushFootRight = Плюшева підошва, права
+marking-OverlayPlushFootRight-r_foot_plush = Стопа
 
-marking-OverlayPlushBellyM = Plush Belly (Male)
-marking-OverlayPlushBellyM-belly_plush_m = Belly
-marking-OverlayPlushBellyF = Plush Belly (Female)
-marking-OverlayPlushBellyF-belly_plush_f = Belly
+marking-OverlayPlushBellyM = Плюшевий живіт (чоловік)
+marking-OverlayPlushBellyM-belly_plush_m = Живіт
+marking-OverlayPlushBellyF = Плюшевий живіт (жінка)
+marking-OverlayPlushBellyF-belly_plush_f = Живіт

@@ -1,89 +1,89 @@
 ### Messages to be used with RP-based medication.
 
-reagent-effect-antidepressant-mild1 = You feel like things aren't so bad. 
-reagent-effect-antidepressant-mild2 = The world seems a bit brighter. 
-reagent-effect-antidepressant-mild3 = You feel a bit better about yourself.
-reagent-effect-antidepressant-mild4 = You feel slightly motivated.
+reagent-effect-antidepressant-mild1 = Здається, що все не так погано.
+reagent-effect-antidepressant-mild2 = Світ здається трохи яскравішим.
+reagent-effect-antidepressant-mild3 = Ти відчуваєш себе трохи краще.
+reagent-effect-antidepressant-mild4 = Відчуваєш легку мотивацію.
 
-reagent-effect-antidepressant-normal1 = You feel pretty alright. 
-reagent-effect-antidepressant-normal2 = You find it hard to focus. 
-reagent-effect-antidepressant-normal3 = You feel purposeful.
-reagent-effect-antidepressant-normal4 = You feel motivated.
+reagent-effect-antidepressant-normal1 = Ти почуваєшся досить добре.
+reagent-effect-antidepressant-normal2 = Важко зосередитися.
+reagent-effect-antidepressant-normal3 = Відчуваєш себе цілеспрямовано.
+reagent-effect-antidepressant-normal4 = Ти відчуваєш мотивацію.
 
-reagent-effect-antidepressant-normaloverdose1 = You feel irrationally angry. 
-reagent-effect-antidepressant-normaloverdose2 = Everyone is out to get you!
+reagent-effect-antidepressant-normaloverdose1 = Відчуваєш ірраціональний гнів.
+reagent-effect-antidepressant-normaloverdose2 = Всі проти тебе!
 
-reagent-effect-antidepressant-strong1 = You feel a sense of great joy deep down. 
-reagent-effect-antidepressant-strong2 = You space out for a moment.
-reagent-effect-antidepressant-strong3 = You feel good about yourself.
-reagent-effect-antidepressant-strong4 = You feel a sense of great purpose.
+reagent-effect-antidepressant-strong1 = Відчуваєш глибоку радість всередині.
+reagent-effect-antidepressant-strong2 = Втрачаєш думку на мить.
+reagent-effect-antidepressant-strong3 = Відчуваєш себе добре.
+reagent-effect-antidepressant-strong4 = Відчуваєш велику мету.
 
-reagent-effect-antidepressant-strongoverdose1 = You're gonna die! YOU'RE GONNA DIE! 
-reagent-effect-antidepressant-strongoverdose2 = Run! RUN! HIDE! 
-reagent-effect-antidepressant-strongoverdose3 = They're after you. THEY'LL KILL YOU.
-reagent-effect-antidepressant-strongoverdose4 = They're all plotting against you.
-reagent-effect-antidepressant-strongoverdose5 = Watch your back, BEHIND YOU! 
-reagent-effect-antidepressant-strongoverdose6 = You won't last the shift.
-reagent-effect-antidepressant-strongoverdose7 = Shut up. SHUT UP. SHUT UP!
-reagent-effect-antidepressant-strongoverdose8 = Get away. GET AWAY! IT'S GONNA EXPLODE!
-reagent-effect-antidepressant-strongoverdose9 = They're all liars. LIARS!
+reagent-effect-antidepressant-strongoverdose1 = Ти помреш! ТИ ПОМРЕШ!
+reagent-effect-antidepressant-strongoverdose2 = Біжи! БІЖИ! ХОВАЙСЯ!
+reagent-effect-antidepressant-strongoverdose3 = Вони за тобою. ВОНИ ВБЮТЬ ТЕБЕ.
+reagent-effect-antidepressant-strongoverdose4 = Вони всі змовляються проти тебе.
+reagent-effect-antidepressant-strongoverdose5 = Дивись за спину, ПОЗАДУ ТЕБЕ!
+reagent-effect-antidepressant-strongoverdose6 = Ти не протримаєшся до кінця зміни.
+reagent-effect-antidepressant-strongoverdose7 = Замовкни. ЗАМОВКНИ. ЗАМОВКНИ!
+reagent-effect-antidepressant-strongoverdose8 = Відійди. ВІДІЙДИ! ВОНО ВИБУХНЕ!
+reagent-effect-antidepressant-strongoverdose9 = Всі брехуни. БРЕХУНИ!
 
-reagent-effect-antidepressant-fade = The antidepressant effects start to fade...
+reagent-effect-antidepressant-fade = Ефект антидепресанту починає слабшати...
 
-reagent-effect-anxietymed-mild1 = You feel a bit calmer.
-reagent-effect-anxietymed-mild2 = You feel a little tired.
-reagent-effect-anxietymed-mild3 = You feel slightly relaxed.
-reagent-effect-anxietymed-mild4 = You feel like it might just be okay.
-reagent-effect-anxietymed-mild5 = The road ahead doesn't seem so bad.
+reagent-effect-anxietymed-mild1 = Відчуваєш себе трохи спокійніше.
+reagent-effect-anxietymed-mild2 = Відчуваєш легку втому.
+reagent-effect-anxietymed-mild3 = Відчуваєш легке розслаблення.
+reagent-effect-anxietymed-mild4 = Здається, що все може бути нормально.
+reagent-effect-anxietymed-mild5 = Шлях попереду не здається таким поганим.
 
-reagent-effect-anxietymed-normal1 = You feel somewhat relaxed
-reagent-effect-anxietymed-normal2 = You feel drowsy for a moment.
-reagent-effect-anxietymed-normal3 = You feel calm.
-reagent-effect-anxietymed-normal4 = You feel more confident.
-reagent-effect-anxietymed-normal5 = Your worries seem to drift away.
+reagent-effect-anxietymed-normal1 = Відчуваєш певне розслаблення.
+reagent-effect-anxietymed-normal2 = На мить відчуваєш сонливість.
+reagent-effect-anxietymed-normal3 = Відчуваєш спокій.
+reagent-effect-anxietymed-normal4 = Відчуваєш більше впевненості.
+reagent-effect-anxietymed-normal5 = Твої турботи здаються віддаленими.
 
-reagent-effect-anxietymed-normaloverdose1 = You feel very sleepy.
-reagent-effect-anxietymed-normaloverdose2 = You feel like resting your eyes for just a moment.
-reagent-effect-anxietymed-normaloverdose3 = You feel like lying down and napping.
-reagent-effect-anxietymed-normaloverdose4 = Your eyes feel heavy.
-reagent-effect-anxietymed-normaloverdose5 = You lose your train of thought.
-reagent-effect-anxietymed-normaloverdose6 = You forget what you were doing.
+reagent-effect-anxietymed-normaloverdose1 = Відчуваєш сильну сонливість.
+reagent-effect-anxietymed-normaloverdose2 = Хочеться заплющити очі на мить.
+reagent-effect-anxietymed-normaloverdose3 = Хочеться прилягти і подрімати.
+reagent-effect-anxietymed-normaloverdose4 = Очі важкі.
+reagent-effect-anxietymed-normaloverdose5 = Втрачаєш хід думок.
+reagent-effect-anxietymed-normaloverdose6 = Забуваєш, що робив.
 
-reagent-effect-anxietymed-strong1 = You feel free of worry.
-reagent-effect-anxietymed-strong2 = Your mind goes numb for a moment.
-reagent-effect-anxietymed-strong3 = It seems like everything is just fine.
-reagent-effect-anxietymed-strong4 = You feel like it will certainly be okay.
-reagent-effect-anxietymed-strong5 = You feel very relaxed.
-reagent-effect-anxietymed-strong6 = You feel quite calm.
-reagent-effect-anxietymed-strong7 = You feel like you can take on the world!
+reagent-effect-anxietymed-strong1 = Відчуваєш себе вільним від тривог.
+reagent-effect-anxietymed-strong2 = Розум німіє на мить.
+reagent-effect-anxietymed-strong3 = Здається, що все просто чудово.
+reagent-effect-anxietymed-strong4 = Здається, що все точно буде добре.
+reagent-effect-anxietymed-strong5 = Відчуваєш себе дуже розслаблено.
+reagent-effect-anxietymed-strong6 = Відчуваєш спокій.
+reagent-effect-anxietymed-strong7 = Відчуваєш, що можеш покорити світ!
 
-reagent-effect-anxietymed-fade = The calming effects start to fade...
+reagent-effect-anxietymed-fade = Заспокійливий ефект починає слабшати...
 
-reagent-effect-medaddiction-1 = You're yearning for another high.
-reagent-effect-medaddiction-2 = You really need some more drugs.
-reagent-effect-medaddiction-3 = You feel empty. Find another fix.
-reagent-effect-medaddiction-4 = Go get some drugs, you can quit later.
-reagent-effect-medaddiction-5 = You feel desperate for your next high.
-reagent-effect-medaddiction-6 = You can feel your hands shaking.
-reagent-effect-medaddiction-7 = You could use another hit right now
-reagent-effect-medaddiction-8 = One more fix couldn't hurt, right?
+reagent-effect-medaddiction-1 = Прагнеш нової дози.
+reagent-effect-medaddiction-2 = Справді потрібно ще наркотиків.
+reagent-effect-medaddiction-3 = Відчуваєш порожнечу. Знайди ще дозу.
+reagent-effect-medaddiction-4 = Візьми наркотики, кинути можна пізніше.
+reagent-effect-medaddiction-5 = Відчуваєш відчай від наступної дози.
+reagent-effect-medaddiction-6 = Відчуваєш, як руки тремтять.
+reagent-effect-medaddiction-7 = Не завадила б ще одна доза прямо зараз.
+reagent-effect-medaddiction-8 = Ще одна доза не зашкодить, правда?
 
-reagent-effect-painkiller-mild1 = Your body hurts a bit less.
-reagent-effect-painkiller-mild2 = You feel a little bit dizzy.
-reagent-effect-painkiller-mild3 = You feel a tiny bit numb.
-reagent-effect-painkiller-mild4 = Any pain you had has faded slightly.
+reagent-effect-painkiller-mild1 = Тіло болить трохи менше.
+reagent-effect-painkiller-mild2 = Відчуваєш легке запаморочення.
+reagent-effect-painkiller-mild3 = Відчуваєш легке заціпеніння.
+reagent-effect-painkiller-mild4 = Біль злегка зник.
 
 
-reagent-effect-painkiller-normal1 = Any pain you had has faded significantly.
-reagent-effect-painkiller-normal2 = You feel dizzy.
-reagent-effect-painkiller-normal3 = Your entire body goes numb briefly.
-reagent-effect-painkiller-normal4 = You feel your pain fade somewhat.
+reagent-effect-painkiller-normal1 = Біль значно зменшився.
+reagent-effect-painkiller-normal2 = Відчуваєш запаморочення.
+reagent-effect-painkiller-normal3 = Все тіло на мить заціпеніло.
+reagent-effect-painkiller-normal4 = Відчуваєш, як біль відступає.
 
-reagent-effect-painkiller-strong1 = You forgot what pain feels like.
-reagent-effect-painkiller-strong2 = You can't see straight.
-reagent-effect-painkiller-strong3 = You feel a sense of deep nostalgia.
-reagent-effect-painkiller-strong4 = Your entire body feels numb.
-reagent-effect-painkiller-strong5 = You hardly feel anything at all.
-reagent-effect-painkiller-strong6 = Any pain you were feeling is gone.
+reagent-effect-painkiller-strong1 = Забув, що таке біль.
+reagent-effect-painkiller-strong2 = Не можеш бачити чітко.
+reagent-effect-painkiller-strong3 = Відчуваєш глибоку ностальгію.
+reagent-effect-painkiller-strong4 = Все тіло заціпеніло.
+reagent-effect-painkiller-strong5 = Майже нічого не відчуваєш.
+reagent-effect-painkiller-strong6 = Біль, який відчував, зник.
 
-reagent-effect-painkiller-fade = The painkiller's effects start to fade...
+reagent-effect-painkiller-fade = Ефект знеболювального починає слабшати...

@@ -5958,7 +5958,7 @@ ent-MedicalPDA = КПК медика
     .desc = Блискучий і стерильний.
 ent-MimeIDCard = Посвідчення
 ent-MimePDA = КПК міма
-    .desc На диво, не на безшумному режимі.
+    .desc = На диво, не на безшумному режимі.
 ent-MusicianPDA = КПК музиканта
     .desc = Наповнює вас натхненням.
 ent-ParamedicPDA = КПК парамедика
@@ -15074,11 +15074,6 @@ ent-MechRipley2 = Ripley APLU MK-II
     .desc = "MK-II" має герметичну кабіну для космічних операцій, але додана вага сповільнила його.
 ent-MechSeraph = Seraph
     .desc = Це останнє, що ти побачиш.
-
-# combat.yml
-ent-WeaponMechCombatPulseRifle = eZ-14 mk2 Важка імпульсна гвинтівка
-    .desc = Стріляє важким імпульсним лазером.
-    .suffix = Зброя меха, Пістолет, Бойова, Імпульсна
 
 # debug.yml
 ent-WeaponMechDebugBallistic = debug bang

@@ -1,14 +1,14 @@
-objective-condition-steal-title-no-owner = Steal the {$itemName}.
-objective-condition-steal-title-alive-no-owner = Steal {$itemName}.
-objective-condition-steal-title = Steal the {$owner}'s {$itemName}.
-objective-condition-steal-description = We need you to steal {$itemName}. Don't get caught.
+objective-condition-steal-title-no-owner = Вкрадіть {$itemName}.
+objective-condition-steal-title-alive-no-owner = Вкрадіть {$itemName}.
+objective-condition-steal-title = Вкрадіть {$itemName} у {$owner}.
+objective-condition-steal-description = Нам потрібно, щоб ви вкрали {$itemName}. Не попадіться.
 
-objective-condition-steal-station = station
-objective-condition-steal-Ian = head of personnel's corgi
+objective-condition-steal-station = станція
+objective-condition-steal-Ian = коргі голови персоналу
 
-objective-condition-thief-description = The {$itemName} would be a great addition to my collection!
-objective-condition-thief-animal-description = The {$itemName} would be a great addition to my collection! Most importantly, alive.
-objective-condition-thief-multiply-description = I need to get {$count} {MAKEPLURAL($itemName)} and take them with me.
+objective-condition-thief-description = {$itemName} було б чудовим доповненням до моєї колекції!
+objective-condition-thief-animal-description = {$itemName} було б чудовим доповненням до моєї колекції! Найголовніше, живим.
+objective-condition-thief-multiply-description = Мені потрібно отримати {$count} {$itemName}ів(-и) і взяти їх із собою.
 
-objective-condition-steal-smsliver-title = Cut off a sliver from the supermatter crystal.
-objective-condition-steal-smsliver-description = Use any cutting tool that comes in handy. A scalpel is more recommended. Also, don't die of radiation poisoning.
+objective-condition-steal-smsliver-title = Відріжте уламок від кристала суперматерії.
+objective-condition-steal-smsliver-description = Використовуйте будь-який ріжучий інструмент, що є під рукою. Рекомендується скальпель. Також не помріть від радіаційного отруєння.

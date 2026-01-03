@@ -1,5 +1,5 @@
-job-name-anomaly = Anomaly
-job-title-surgeon-general = General Surgeon
-job-name-invspec = Inventory Specialist
-job-name-medical-quadborg = Medical Quadborg
-job-name-service-quadborg = Service Quadborg
+job-name-anomaly = Аномалія
+job-title-surgeon-general = Генеральний хірург
+job-name-invspec = Спеціаліст з інвентаризації
+job-name-medical-quadborg = Медичний квадроборг
+job-name-service-quadborg = Сервісний квадроборг

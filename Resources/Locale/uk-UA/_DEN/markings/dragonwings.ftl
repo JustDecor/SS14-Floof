@@ -1,7 +1,7 @@
 ﻿marking-WingsDragon = Dragon Wings
-marking-WingsDragon-dragon = Wings
-marking-WingsDragonTwotone = Dragon Wings (Two-tone)
-marking-WingsDragonTwotone-dragon = Wings
-marking-WingsDragonTwotone-dragon-inner = Inner
-marking-WingsBigArmWings = Feathery Wings (Harpy Style)
-marking-WingsBigArmWings-harpy = Wings
+marking-WingsDragon-dragon = Крила
+marking-WingsDragonTwotone = Крила дракона (двоколірні)
+marking-WingsDragonTwotone-dragon = Крила
+marking-WingsDragonTwotone-dragon-inner = Внутрішня частина
+marking-WingsBigArmWings = Пір'їсті крила (стиль гарпії)
+marking-WingsBigArmWings-harpy = Крила

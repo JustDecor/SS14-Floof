@@ -1,29 +1,29 @@
-command-glimmershow-description = Show the current glimmer level.
-command-glimmershow-help = No arguments.
+command-glimmershow-description = Показати поточний рівень Мерехтіння.
+command-glimmershow-help = Немає аргументів.
 
-command-glimmerset-description = Set glimmer to a number.
-command-glimmerset-help = glimmerset (integer)
+command-glimmerset-description = Встановити показник Мерехтіння.
+command-glimmerset-help = glimmerset (ціле число)
 
-command-lspsionic-description = List psionics.
-command-lspsionic-help = No arguments.
+command-lspsionic-description = Список псіоніків.
+command-lspsionic-help = Немає аргументів.
 
-command-addpsionicpower-description = Initialize an entity as Psionic with a given PowerPrototype
-command-addpsionicpower-help = Argument 1 must be an EntityUid, and argument 2 must be a string matching the PrototypeId of a PsionicPower.
-addpsionicpower-args-one-error = Argument 1 must be an EntityUid
-addpsionicpower-args-two-error = Argument 2 must match the PrototypeId of a PsionicPower
+command-addpsionicpower-description = Ініціалізувати сутність як Psionic із заданим PowerPrototype
+command-addpsionicpower-help = Аргумент 1 має бути EntityUid, а аргумент 2 має бути рядком, що відповідає PrototypeId PsionicPower.
+addpsionicpower-args-one-error = Аргумент 1 має бути EntityUid
+addpsionicpower-args-two-error = Аргумент 2 повинен збігатися з PrototypeId PsionicPower
 
-command-addrandompsionicpower-description = Initialize an entity as Psionic with a random PowerPrototype that is available for that entity to roll.
-command-addrandompsionicpower-help = Argument 1 must be an EntityUid.
-addrandompsionicpower-args-one-error = Argument 1 must be an EntityUid
+command-addrandompsionicpower-description = Ініціалізуйте сутність як Psionic з випадковим прототипом PowerPrototype, який доступний для кидка для цієї сутності.
+command-addrandompsionicpower-help = Аргумент 1 повинен бути EntityUid.
+addrandompsionicpower-args-one-error = Аргумент 1 має бути EntityUid
 
-command-removepsionicpower-description = Remove a Psionic power from an entity.
-command-removepsionicpower-help = Argument 1 must be an EntityUid, and argument 2 must be a string matching the PrototypeId of a PsionicPower.
-removepsionicpower-args-one-error = Argument 1 must be an EntityUid
-removepsionicpower-args-two-error = Argument 2 must match the PrototypeId of a PsionicPower.
-removepsionicpower-not-psionic-error = The target entity is not Psionic.
-removepsionicpower-not-contains-error = The target entity does not have this PsionicPower.
+command-removepsionicpower-description = Видалити псионічну силу з сутності.
+command-removepsionicpower-help = Аргумент 1 має бути EntityUid, а аргумент 2 має бути рядком, що відповідає PrototypeId PsionicPower.
+removepsionicpower-args-one-error = Аргумент 1 має бути EntityUid
+removepsionicpower-args-two-error = Аргумент 2 повинен збігатися з PrototypeId PsionicPower.
+removepsionicpower-not-psionic-error = Цільова організація не є Psionic.
+removepsionicpower-not-contains-error = Цільова організація не має цієї PsionicPower.
 
-command-removeallpsionicpowers-description = Remove all Psionic powers from an entity.
-command-removeallpsionicpowers-help = Argument 1 must be an EntityUid.
-removeallpsionicpowers-args-one-error = Argument 1 must be an EntityUid.
-removeallpsionicpowers-not-psionic-error = The target entity is not Psionic.
+command-removeallpsionicpowers-description = Видалити всі псионічні здібності з сутності.
+command-removeallpsionicpowers-help = Аргумент 1 повинен бути EntityUid.
+removeallpsionicpowers-args-one-error = Аргумент 1 повинен бути EntityUid.
+removeallpsionicpowers-not-psionic-error = Цільова організація не є Psionic.

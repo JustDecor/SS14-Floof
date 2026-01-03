@@ -1,1 +1,1 @@
-objective-condition-teach-person-title = Teach {$targetName}, {CAPITALIZE($job)} a lesson. You need to be within 30 meters of the target, otherwise the syndicate can't take credit for the job.
+objective-condition-teach-person-title = Дати урок {$targetName}, {CAPITALIZE($job)}. Вам потрібно бути в межах 30 метрів від цілі, інакше синдикат не зможе зарахувати роботу.

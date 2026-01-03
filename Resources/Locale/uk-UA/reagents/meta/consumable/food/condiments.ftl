@@ -1,44 +1,44 @@
-reagent-name-astrotame = Astrotame
-reagent-desc-astrotame = The sweetness of a thousand sugars but none of the calories.
+reagent-name-astrotame = Астротам
+reagent-desc-astrotame = Солодкість тисячі цукрів, але без калорій.
 
-reagent-name-bbq-sauce = BBQ sauce
-reagent-desc-bbq-sauce = Hand wipes not included.
+reagent-name-bbq-sauce = Соус барбекю
+reagent-desc-bbq-sauce = Серветки для рук не входять у комплект.
 
-reagent-name-cornoil = corn oil
-reagent-desc-cornoil = Corn oil, A delicious oil used in cooking. Made from corn.
+reagent-name-cornoil = кукурудзяна олія
+reagent-desc-cornoil = Кукурудзяна олія, смачна олія, що використовується в кулінарії. Виготовлена з кукурудзи.
 
-reagent-name-frostoil = frostoil
-reagent-desc-frostoil = Leaves the tongue numb in its passage.
+reagent-name-frostoil = крижана олія
+reagent-desc-frostoil = Залишає язик онімілим на своєму шляху.
 
-reagent-name-horseradish-sauce = horseradish sauce
-reagent-desc-horseradish-sauce = Smelly horseradish sauce.
+reagent-name-horseradish-sauce = соус з хрону
+reagent-desc-horseradish-sauce = Пахучий соус з хрону.
 
-reagent-name-hotsauce = hotsauce
-reagent-desc-hotsauce = Burns so good.
+reagent-name-hotsauce = гострий соус
+reagent-desc-hotsauce = Пече так приємно.
 
-reagent-name-ketchup = ketchup
-reagent-desc-ketchup = Made from pureed tomatoes and flavored with spices.
+reagent-name-ketchup = кетчуп
+reagent-desc-ketchup = Виготовлений з томатного пюре та приправлений спеціями.
 
-reagent-name-ketchunaise = ketchunaise
-reagent-desc-ketchunaise = So-called Russian dressing, popular among Space Americans.
+reagent-name-ketchunaise = кетчунез
+reagent-desc-ketchunaise = Так званий російський соус, популярний серед космічних американців.
 
-reagent-name-laughin-syrup = laughin' syrup
-reagent-desc-laughin-syrup = The product of juicing Laughin' Peas. Fizzy, and seems to change flavour based on what it's used with!
+reagent-name-laughin-syrup = сміховинний сироп
+reagent-desc-laughin-syrup = Продукт, отриманий з соку Сміхотливого Гороху. Газований, і, здається, змінює смак залежно від того, з чим його використовують!
 
-reagent-name-mayo = mayonnaise
-reagent-desc-mayo = Creamy sauce, made from oil, egg, and some (edible) acid.
+reagent-name-mayo = майонез
+reagent-desc-mayo = Кремовий соус, виготовлений з олії, яєць та певної (їстівної) кислоти.
 
-reagent-name-mustard = mustard
-reagent-desc-mustard = Basic yellow mustard, made from the seeds of the mustard plant.
+reagent-name-mustard = гірчиця
+reagent-desc-mustard = Звичайна жовта гірчиця, виготовлена з насіння гірчичної рослини.
 
-reagent-name-vinaigrette = vinaigrette
-reagent-desc-vinaigrette = A basic salad dressing made with oil, vinegar and seasoning.
+reagent-name-vinaigrette = вінегрет
+reagent-desc-vinaigrette = Проста заправка для салату, виготовлена з олії, оцту та приправ.
 
-reagent-name-soysauce = soy sauce
-reagent-desc-soysauce = A salty soy-based flavoring.
+reagent-name-soysauce = соєвий соус
+reagent-desc-soysauce = Солона приправа на основі сої.
 
-reagent-name-table-salt = table salt
-reagent-desc-table-salt = Commonly known as salt, Sodium Chloride is often used to season food or kill borers instantly.
+reagent-name-table-salt = кухонна сіль
+reagent-desc-table-salt = Широко відома як сіль, хлорид натрію часто використовується для приправлення їжі або миттєвого знищення бурильників.
 
-reagent-name-syrup = syrup
-reagent-desc-syrup = Delicious syrup made from tree sap, somehow stickier than glue.
+reagent-name-syrup = сироп
+reagent-desc-syrup = Смачний сироп з деревного соку, чомусь липкіший за клей.

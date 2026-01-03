@@ -1,11 +1,11 @@
 # Alphabetically ordered, except for Uncategorized since it is always first
 
-trait-category-Uncategorized = Uncategorized
-trait-category-Auditory = Auditory
-trait-category-Mental = Mental
-trait-category-Physical = Physical
-trait-category-Speech = Speech
-trait-category-TraitsSpeechUncategorized = Uncategorized
-trait-category-TraitsSpeechAccents = Accents
-trait-category-TraitsSpeechLanguages = Languages
-trait-category-Visual = Visual
+trait-category-Uncategorized = Без категорії
+trait-category-Auditory = Слуховий
+trait-category-Mental = Психічний
+trait-category-Physical = Фізичний
+trait-category-Speech = Промова
+trait-category-TraitsSpeechUncategorized = Без категорії
+trait-category-TraitsSpeechAccents = Акценти
+trait-category-TraitsSpeechLanguages = Мови
+trait-category-Visual = Візуальний

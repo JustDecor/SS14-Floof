@@ -1,40 +1,40 @@
-action-name-phase = Phase Shift
-action-description-phase = Shift yourself out of alignment with realspace to travel quickly to different areas.
+action-name-phase = Фазове зміщення
+action-description-phase = Змістіть себе з вирівнювання з реальним простором для швидкого подорожування до різних областей.
 
-action-name-shadekin-rest = Rest
-action-description-shadekin-rest = Rama
+action-name-shadekin-rest = Відпочинок
+action-description-shadekin-rest = Рама
 
-action-name-shadekin-darkvision = Darkvision
-action-description-shadekin-darkvision = Switches dark vision.
+action-name-shadekin-darkvision = Темнобачення
+action-description-shadekin-darkvision = Перемикає темне бачення.
 
-action-name-shadekin-rejuvenate = Rejuvenate
-action-description-shadekin-rejuvenate = rejuvenate yourself... hopefully.
+action-name-shadekin-rejuvenate = Омолодження
+action-description-shadekin-rejuvenate = омолодіть себе... сподіваємось.
 
-phase-fail-generic = I can't phase!
+phase-fail-generic = Я не можу здійснити фазове зміщення!
 
-hubportal-rejuvenate = You can't use this so soon after an emergency warp!
-shadekin-rejuvenate-compleated = You feel like you can leave the Dark again
+hubportal-rejuvenate = Ви не можете використовувати це так скоро після екстреного телепорту!
+shadekin-rejuvenate-compleated = Ви відчуваєте, що можете знову залишити Темряву
 
-ethereal-pickup-fail = My hand sizzles as it passes through...
+ethereal-pickup-fail = Моя рука обпікається, коли вона проходить крізь нього
 
-shadekin-no-energy = Not enough energy for that ability!
-shadekin-lightextreme-energy = Theres too much light to use that ability!
+shadekin-no-energy = Недостатньо енергії для цієї здібності!
+shadekin-lightextreme-energy = Занадто багато світла, щоб використати цю здібність!
 
-identity-eye-shadekin = {$color}-eye
+identity-eye-shadekin = {$color}-очий
 
-alerts-shadekin-name = Energy / Light Exposure
-alerts-shadekin-desc = How much energy you have left and how much light is around you.
+alerts-shadekin-name = Енергія / Вплив світла
+alerts-shadekin-desc = Скільки енергії у вас залишилося та скільки світла навколо вас.
 
-shadekinenergy-alert-0 = [font size=12][color=green]Light Exposure: Darkness...[/color][/font]
-shadekinenergy-alert-1 = [font size=12][color=green]Light Exposure: Low[/color][/font]
-shadekinenergy-alert-2 = [font size=12][color=green]Light Exposure: Annoying[/color][/font]
-shadekinenergy-alert-3 = [font size=12][color=green]Light Exposure: High[/color][/font]
-shadekinenergy-alert-4 = [font size=12][color=green]Light Exposure:[/color] [color=red]EXTREME[/color][/font]
+shadekinenergy-alert-0 = [font size=12][color=green]Вплив світла: Темрява...[/color][/font]
+shadekinenergy-alert-1 = [font size=12][color=green]Вплив світла: Низький[/color][/font]
+shadekinenergy-alert-2 = [font size=12][color=green]Вплив світла: Дратівний[/color][/font]
+shadekinenergy-alert-3 = [font size=12][color=green]Вплив світла: Високий[/color][/font]
+shadekinenergy-alert-4 = [font size=12][color=green]Вплив світла:[/color] [color=red]ЕКСТРЕМАЛЬНИЙ[/color][/font]
 
-shadekinenergy-alert-blackeye = [font size=12][color=green]Energy:[/color] [color=red]BURNED[/color][/font]
-shadekinenergy-alert-energy = [font size=12][color=green]Energy: {$energy}/{$energyMax}[/color][/font]
+shadekinenergy-alert-blackeye = [font size=12][color=green]Енергія:[/color] [color=red]СПАЛЕНО[/color][/font]
+shadekinenergy-alert-energy = [font size=12][color=green]Енергія: {$energy}/{$energyMax}[/color][/font]
 
-mood-effect-ShadekinDarkness = The darkness is nice... its like home...
-mood-effect-ShadekinLightAnnoyed = The light is annoying in this place...
-mood-effect-ShadekinLightHigh = too many lights... too many!
-mood-effect-ShadekinLightExtreme = LIGHTS... I NEED DARKNESS!
+mood-effect-ShadekinDarkness = Темрява приємна... це як дома...
+mood-effect-ShadekinLightAnnoyed = Світло дратує в цьому місці...
+mood-effect-ShadekinLightHigh = занадто багато світла... занадто багато!
+mood-effect-ShadekinLightExtreme = СВІТЛО... МЕН�� ПОТРІБНА ТЕМРЯВА!

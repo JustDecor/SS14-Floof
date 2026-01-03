@@ -1,9 +1,9 @@
-loadout-category-ItemsLewd = Lewd
+loadout-category-ItemsLewd = Розпусне
 
 # Floof - Justice
-loadout-category-JobsJustice = Justice
-loadout-category-JobsJusticeAAUncategorized = Uncategorized
-loadout-category-JobsJusticeClerk = Clerk
-loadout-category-JobsJusticeChiefJustice = Chief Justice
-loadout-category-JobsJusticeProsecutor = Prosecutor
+loadout-category-JobsJustice = Правосуддя
+loadout-category-JobsJusticeAAUncategorized = Без категорії
+loadout-category-JobsJusticeClerk = Клерк
+loadout-category-JobsJusticeChiefJustice = Головний суддя
+loadout-category-JobsJusticeProsecutor = Прокурор
 

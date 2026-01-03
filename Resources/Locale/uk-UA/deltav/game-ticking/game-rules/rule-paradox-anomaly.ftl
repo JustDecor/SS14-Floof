@@ -1,5 +1,5 @@
-paradox-anomaly-round-end-agent-name = Paradox Anomaly
+paradox-anomaly-round-end-agent-name = Аномалія Парадоксу
 
-objective-issuer-self = [color=#1708EC]Self[/color]
+objective-issuer-self = [color=#7851A9]У власних інтересах[/color]
 
 # briefing is in terminator ftl

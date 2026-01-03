@@ -1,8 +1,8 @@
-interaction-Bite-name = Bite
-interaction-Bite-description = Show them your appreciation for their work. Requires your mouth to be free.
-interaction-Bite-success-self-popup = You bite {THE($target)}.
-interaction-Bite-success-target-popup = {THE($user)} bites you. Ow-w!
-interaction-Bite-success-others-popup = {THE($user)} bites {THE($target)}.
-interaction-Bite-fail-self-popup = You cannot bite {THE($target)}!
-interaction-Bite-fail-target-popup = {THE($user)} tries to bite you, and fails
+interaction-Bite-name = Кусати
+interaction-Bite-description = Покажіть їм свою вдячність за їхню роботу. Потрібно, щоб ваш рот був вільним.
+interaction-Bite-success-self-popup = Ви кусаєте {THE($target)}.
+interaction-Bite-success-target-popup = {THE($user)} кусає вас. Ой-й!
+interaction-Bite-success-others-popup = {THE($user)} кусає {THE($target)}.
+interaction-Bite-fail-self-popup = Ви не можете вкусити {THE($target)}!
+interaction-Bite-fail-target-popup = {THE($user)} намагається вкусити вас і не вдається
 # No "fail-others" popup

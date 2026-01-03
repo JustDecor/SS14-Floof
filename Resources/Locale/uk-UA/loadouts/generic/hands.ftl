@@ -1,2 +1,2 @@
-loadout-name-LoadoutHandsColorWhite = gloves (colorable)
-loadout-name-LoadoutHandsGlovesFingerlessWhite = fingerless gloves (colorable)
+loadout-name-LoadoutHandsColorWhite = рукавички (кольорові)
+loadout-name-LoadoutHandsGlovesFingerlessWhite = рукавички без пальців (кольорові)

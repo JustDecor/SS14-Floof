@@ -1,21 +1,21 @@
-paperwork-header-engineering = {"["}color=#f39f27] ◥[bold]N[/bold]◣ [head=3][bold]ENGINEERING [/bold][/color][/head]
+paperwork-header-engineering = {"["}color=#f39f27] ◥[bold]N[/bold]◣ [head=3][bold]ІНЖЕНЕРІЯ [/bold][/color][/head]
 paperwork-separator-engineering = {"["}color=#f39f27]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 
-paperwork-separator-engineering-building-permit =
+paperwork-separator-engineering-building-permit = 
     { paperwork-header-engineering }
     { paperwork-separator-engineering }
-        {"["}head=2]BUILDING PERMIT [/head]
+        {"["}head=2]ДОЗВІЛ НА БУДІВНИЦТВО [/head]
     { paperwork-separator-engineering }
-        {"["}bold]SECTOR:[/bold] Floof Station
-        {"["}bold]STATION:[/bold] {$stationName}
-        {"["}bold]SHIFT TIME:[/bold] XX:XX
-        {"["}bold]HEAD OF PERSONNEL:[/bold]
-        {"["}bold]CHIEF ENGINEER:[/bold]
-        {"["}bold]APPLICANT:[/bold]
-        {"["}bold]DEPARTMENT:[/bold]
+        {"["}bold]СЕКТОР:[/bold] Станція Флуф
+        {"["}bold]СТАНЦІЯ:[/bold] {$stationName}
+        {"["}bold]ЧАС ЗМІНИ:[/bold] XX:XX
+        {"["}bold]ГЛАВА ПЕРСОНАЛУ:[/bold]
+        {"["}bold]ГОЛОВНИЙ ІНЖЕНЕР:[/bold]
+        {"["}bold]ЗАЯВНИК:[/bold]
+        {"["}bold]ВІДДІЛ:[/bold]
     { paperwork-separator-engineering }
-    Reason for remodeling?:
-    Any Addtional Resources needed?:
+    Причина перепланування?:
+    Потрібні додаткові ресурси?:
 
     { paperwork-separator-engineering }
 

@@ -1,18 +1,18 @@
-marking-LizardFloofNeckfull = Neck Floof (Full)
-marking-LizardFloofNeckfull-floof_neckfull = Neck Floof
+marking-LizardFloofNeckfull = Пухнаста шия (повна)
+marking-LizardFloofNeckfull-floof_neckfull = Пухнаста шия
 
-marking-LizardFinTop = Aquatic Fin
-marking-LizardFinTop-primary = Aquatic Fin primary
-marking-LizardFinTop-secondary = Aquatic Fin secondary
+marking-LizardFinTop = Водний плавник
+marking-LizardFinTop-primary = Водний плавник основний
+marking-LizardFinTop-secondary = Водний плавник вторинний
 
-marking-LizardCrestLargeTop = Crest (Large)
-marking-LizardCrestLargeTop-primary = Crest (Large) primary
-marking-LizardCrestLargeTop-secondary = Crest (Large) secondary
+marking-LizardCrestLargeTop = Гребінь (великий)
+marking-LizardCrestLargeTop-primary = Гребінь (великий) основний
+marking-LizardCrestLargeTop-secondary = Гребінь (великий) вторинний
 
-marking-LizardChestUnderbellyFeminine-body_underbelly = Lizard Chest (Underbelly, Feminine)
-marking-LizardChestUnderbellyFeminine = Lizard Chest (Underbelly, Feminine)
+marking-LizardChestUnderbellyFeminine-body_underbelly = Груди ящірки (черевце, жіночі)
+marking-LizardChestUnderbellyFeminine = Груди ящірки (черевце, жіночі)
 
-marking-LizardChestFemaleAlternate = Female Lizard Chest (Alternate)
-marking-LizardChestFemaleAlternate-chest = Chest
-marking-LizardChestFemaleAlternate-chest_secondary = Underbelly
-marking-LizardChestFemaleAlternate-nipples = Nipples
+marking-LizardChestFemaleAlternate = Жіночі груди ящірки (альтернатива)
+marking-LizardChestFemaleAlternate-chest = Груди
+marking-LizardChestFemaleAlternate-chest_secondary = Черевце
+marking-LizardChestFemaleAlternate-nipples = Соски

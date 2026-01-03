@@ -1,5 +1,5 @@
 ﻿blood-rites-stored-blood = It has [color=darkred]{$amount}u. of blood[/color] stored.
-blood-rites-not-enough-blood = You don't have enough blood stored.
-blood-rites-heal-dead = Only a revive rune can bring back the dead.
-blood-rites-no-blood-left = You use the last of drop of blood stored in your blood rites.
-blood-rites-heal-no-bloodstream = You can't heal this bloodless creature.
+blood-rites-not-enough-blood = У вас недостатньо збереженої крові.  
+blood-rites-heal-dead = Лише руна відродження може повернути мертвих.  
+blood-rites-no-blood-left = Ви використовуєте останню краплю крові, збережену у ваших кровавих обрядах.  
+blood-rites-heal-no-bloodstream = Ви не можете зцілити цю істоту без кровотоку.  

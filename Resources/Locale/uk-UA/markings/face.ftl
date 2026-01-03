@@ -1,95 +1,95 @@
-marking-FaceBindi = Bindi
-marking-FaceBindi-bindi = Bindi
+marking-FaceBindi = Бінді
+marking-FaceBindi-bindi = Бінді
 
-marking-FaceFullblush = Full Blush
-marking-FaceFullblush-fullblush = Full Blush
+marking-FaceFullblush = Повний рум'янець
+marking-FaceFullblush-fullblush = Повний рум'янець
 
-marking-FaceCheekspotRight = Cheek Spot (Right)
-marking-FaceCheekspotRight-cheekspot_r = Cheek Spot (Right)
+marking-FaceCheekspotRight = Щічна пляма (праворуч)
+marking-FaceCheekspotRight-cheekspot_r = Щічна пляма (праворуч)
 
-marking-FaceCheekspotLeft = Cheek Spot (Left)
-marking-FaceCheekspotLeft-cheekspot_l = Cheek Spot (Left)
+marking-FaceCheekspotLeft = Щічна пляма (ліворуч)
+marking-FaceCheekspotLeft-cheekspot_l = Щічна пляма (ліворуч)
 
-marking-FaceChesireRight = Chesire Grin (Right)
-marking-FaceChesireRight-chesire_r = Chesire Grin (Right)
+marking-FaceChesireRight = Шезір Грін (праворуч)
+marking-FaceChesireRight-chesire_r = Шезір Грін (праворуч)
 
-marking-FaceChesireLeft = Chesire Grin (Left)
-marking-FaceChesireLeft-chesire_l = Chesire Grin (Left)
+marking-FaceChesireLeft = Шезір Грін (ліворуч)
+marking-FaceChesireLeft-chesire_l = Шезір Грін (ліворуч)
 
-marking-FaceCrowRight = Crow's Feet (Right)
-marking-FaceCrowRight-crow_r = Crow's Feet (Right)
+marking-FaceCrowRight = Воронячі лапки (праворуч)
+marking-FaceCrowRight-crow_r = Воронячі лапки (праворуч)
 
-marking-FaceCrowLeft = Crow's Feet (Left)
-marking-FaceCrowLeft-crow_l = Crow's Feet (Left)
+marking-FaceCrowLeft = Воронячі лапки (ліворуч)
+marking-FaceCrowLeft-crow_l = Воронячі лапки (ліворуч)
 
-marking-FaceEarRight = Ear Cover (Right)
-marking-FaceEarRight-ear_r = Ear Cover (Right)
+marking-FaceEarRight = Вкладиш для вух (правий)
+marking-FaceEarRight-ear_r = Вкладиш для вух (правий)
 
-marking-FaceEarLeft = Ear Cover (Left)
-marking-FaceEarLeft-ear_l = Ear Cover (Left)
+marking-FaceEarLeft = Накладка для вух (ліва)
+marking-FaceEarLeft-ear_l = Накладка для вух (ліва)
 
-marking-FaceEyebrowRight = Eyebrow (Right)
-marking-FaceEyebrowRight-eyebrow_r = Eyebrow (Right)
+marking-FaceEyebrowRight = Брова (праворуч)
+marking-FaceEyebrowRight-eyebrow_r = Брова (праворуч)
 
-marking-FaceEyebrowLeft = Eyebrow (Left)
-marking-FaceEyebrowLeft-eyebrow_l = Eyebrow (Left)
+marking-FaceEyebrowLeft = Брова (ліворуч)
+marking-FaceEyebrowLeft-eyebrow_l = Брова (ліворуч)
 
-marking-FaceEyebrows = Eyebrows
-marking-FaceEyebrows-eyebrows = Eyebrows
+marking-FaceEyebrows = Брови
+marking-FaceEyebrows-eyebrows = Брови
 
-marking-FaceEyecornerRight = Eye Corner (Right)
-marking-FaceEyecornerRight-eyecorner_r = Eye Corner (Right)
+marking-FaceEyecornerRight = Куточок ока (праворуч)
+marking-FaceEyecornerRight-eyecorner_r = Куточок ока (праворуч)
 
-marking-FaceEyecornerLeft = Eye Corner (Left)
-marking-FaceEyecornerLeft-eyecorner_l = Eye Corner (Left)
+marking-FaceEyecornerLeft = Куточок ока (ліворуч)
+marking-FaceEyecornerLeft-eyecorner_l = Куточок ока (ліворуч)
 
-marking-FaceEyelashRight = Eyelash (Right)
-marking-FaceEyelashRight-eyelash_r = Eyelash (Right)
+marking-FaceEyelashRight = Вія (праворуч)
+marking-FaceEyelashRight-eyelash_r = Вія (праворуч)
 
-marking-FaceEyelashLeft = Eyelash (Left)
-marking-FaceEyelashLeft-eyelash_l = Eyelash (Left)
+marking-FaceEyelashLeft = Вія (ліворуч)
+marking-FaceEyelashLeft-eyelash_l = Вія (ліворуч)
 
-marking-FaceEyestripe = Eye Stripe
-marking-FaceEyestripe-eyestripe = Eye Stripe
+marking-FaceEyestripe = Смуга на оці
+marking-FaceEyestripe-eyestripe = Смуга на оці
 
-marking-FaceLipcornerRight = Lip Corner (Right)
-marking-FaceLipcornerRight-lipcorner_r = Lip Corner (Right)
+marking-FaceLipcornerRight = Куточок губ (праворуч)
+marking-FaceLipcornerRight-lipcorner_r = Куточок губ (праворуч)
 
-marking-FaceLipcornerLeft = Lip Corner (Left)
-marking-FaceLipcornerLeft-lipcorner_l = Lip Corner (Left)
+marking-FaceLipcornerLeft = Куточок губи (ліворуч)
+marking-FaceLipcornerLeft-lipcorner_l = Куточок губи (ліворуч)
 
-marking-FaceGlabella = Glabella
-marking-FaceGlabella-blabella = Glabella
+marking-FaceGlabella = Глабелла
+marking-FaceGlabella-blabella = Глабелла
 
-marking-FaceLowercheekRight = Lower Cheek (Right)
-marking-FaceLowercheekRight-lowercheek_r = Lower Cheek (Right)
+marking-FaceLowercheekRight = Нижня щока (права)
+marking-FaceLowercheekRight-lowercheek_r = Нижня щока (права)
 
-marking-FaceLowercheekLeft = Lower Cheek (Left)
-marking-FaceLowercheekLeft-lowercheek_l = Lower Cheek (Left)
+marking-FaceLowercheekLeft = Нижня щока (ліворуч)
+marking-FaceLowercheekLeft-lowercheek_l = Нижня щока (ліворуч)
 
-marking-FaceNosetape = Nose Tape
-marking-FaceNosetape-nosetape = Nose Tape
+marking-FaceNosetape = Стрічка для носа
+marking-FaceNosetape-nosetape = Стрічка для носа
 
-marking-FaceNosetip = Nose Tip
-marking-FaceNosetip-nosetip = Nose Tip
+marking-FaceNosetip = Кінчик носа
+marking-FaceNosetip-nosetip = Кінчик носа
 
-marking-FaceNosestripe = Nose Stripe
-marking-FaceNosestripe-nosestripe = Nose Stripe
+marking-FaceNosestripe = Носова смужка
+marking-FaceNosestripe-nosestripe = Носова смужка
 
-marking-FaceUnibrow = Unibrow
-marking-FaceUnibrow-unibrow = Unibrow
+marking-FaceUnibrow = Єдина брова
+marking-FaceUnibrow-unibrow = Єдина брова
 
-marking-FaceNeckSlim = Neck Cover (Slim)
-marking-FaceNeckSlim-neck_f = Neck Cover (Slim)
+marking-FaceNeckSlim = Чохол на шию (тонкий)
+marking-FaceNeckSlim-neck_f = Чохол на шию (тонкий)
 
-marking-FaceNeckWide = Neck Cover (Wide)
-marking-FaceNeckWide-neck_m = Neck Cover (Wide)
+marking-FaceNeckWide = Чохол для шиї (широкий)
+marking-FaceNeckWide-neck_m = Чохол для шиї (широкий)
 
-marking-FaceNeckSlimThick = Neck Cover (Slim Thick)
-marking-FaceNeckSlimThick-neck_thick_f = Neck Cover (Slim Thick)
+marking-FaceNeckSlimThick = Чохол для шиї (тонкий товстий)
+marking-FaceNeckSlimThick-neck_thick_f = Чохол для шиї (тонкий товстий)
 
-marking-FaceNeckWideThick = Neck Cover (Wide Thick)
-marking-FaceNeckWideThick-neck_thick_m = Neck Cover (Wide Thick)
+marking-FaceNeckWideThick = Чохол для шиї (широкий товстий)
+marking-FaceNeckWideThick-neck_thick_m = Чохол для шиї (широкий товстий)
 
-marking-IronJaw = Iron Jaw
-marking-IronJaw-iron_jaw = Iron Jaw
+marking-IronJaw = Залізна щелепа
+marking-IronJaw-iron_jaw = Залізна щелепа

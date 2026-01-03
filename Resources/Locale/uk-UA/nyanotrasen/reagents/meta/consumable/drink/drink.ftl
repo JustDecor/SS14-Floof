@@ -1,11 +1,11 @@
-reagent-name-atomicpunch = atomic punch
-reagent-desc-atomicpunch = Will NOT make you immune to bullets; Isotopes included!
+reagent-name-atomicpunch = атомний пунш
+reagent-desc-atomicpunch = НЕ зробить вас невразливим до куль; ізотопи включено!
 
-reagent-name-pinkdrink = pink drink
-reagent-desc-pinkdrink = Entire civilizations have crumbled trying to decide if this drink really tastes like pink...
+reagent-name-pinkdrink = рожевий напій
+reagent-desc-pinkdrink = Цілі цивілізації загинули, намагаючись вирішити, чи справді цей напій має смак рожевого...
 
-reagent-name-bubbletea = bubble tea
-reagent-desc-bubbletea = Big straw not included.
+reagent-name-bubbletea = бульбашковий чай
+reagent-desc-bubbletea = Велика соломинка не включена.
 
-reagent-name-lean = lean
-reagent-desc-lean = A disgusting mixture of soda, booze, and cough syrup.
+reagent-name-lean = лійна
+reagent-desc-lean = Огидна суміш газованої води, алкоголю та сиропу від кашлю.

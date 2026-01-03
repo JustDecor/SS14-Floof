@@ -1,11 +1,11 @@
-salvage-system-announcement-losing = The magnet is no longer able to hold the salvagable debris. Estimated time until loss: {$timeLeft} seconds.
-salvage-system-announcement-spawn-debris-disintegrated = Debris disintegrated during orbital transfer.
-salvage-system-announcement-spawn-no-debris-available = No debris could be recovered by the salvage magnet.
-salvage-system-announcement-arrived = A piece of salvagable debris has been pulled in. Estimated hold time: {$timeLeft} seconds.
-salvage-asteroid-name = Asteroid
+salvage-system-announcement-losing = Магніт більше не в змозі утримувати уламок, який можна зачистити. Приблизний час до втрати: {$timeLeft} секунд.
+salvage-system-announcement-spawn-debris-disintegrated = Уламок розвалився при орбітальному переміщенні.
+salvage-system-announcement-spawn-no-debris-available = Немає уламків, які можна притягнути магнітом.
+salvage-system-announcement-arrived = Частину уламку, який можна зачистити, притягнуто. Приблизний час утримання: {$timeLeft} секунд.
+salvage-asteroid-name = Астероїд
 
-salvage-magnet-window-title = Salvage magnet
-salvage-expedition-window-progression = Progression
+salvage-magnet-window-title = Утилізаційний магніт
+salvage-expedition-window-progression = Прогресія
 
 salvage-magnet-resources = {$resource ->
     [OreIron] Iron
@@ -24,54 +24,54 @@ salvage-magnet-resources = {$resource ->
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Poor)
-    [2] (Moderate)
-    [3] (Moderate)
-    [4] (Rich)
-    [5] (Rich)
-    *[other] (Extraordinary)
+    [1] (Мало)
+    [2] (Помірно)
+    [3] (Середньо)
+    [4] (Багато)
+    [5] (Багато)
+    *[other] (Надзвичайно Багато)
 }
 
 # Asteroids
-dungeon-config-proto-BlobAsteroid = Asteroid clump
-dungeon-config-proto-ClusterAsteroid = Asteroid cluster
-dungeon-config-proto-SpindlyAsteroid = Asteroid spiral
-dungeon-config-proto-SwissCheeseAsteroid = Asteroid fragments
+dungeon-config-proto-BlobAsteroid = Скупчення астероїдів
+dungeon-config-proto-ClusterAsteroid = Скупчення астероїдів
+dungeon-config-proto-SpindlyAsteroid = Спіраль астероїда
+dungeon-config-proto-SwissCheeseAsteroid = Уламки астероїда
 
 # Wrecks
-salvage-map-proto-Small1 = Engineering Storage
-salvage-map-proto-Small2 = Gaming Nook
-salvage-map-proto-Small3 = Laundromat
-salvage-map-proto-Small4 = Bar Salvage
-salvage-map-proto-SmallShip1 = Pill
-salvage-map-proto-SmallAISurveyDrone = AI Survey Drone
-salvage-map-proto-SmallCargo = Mining Pod
-salvage-map-proto-SmallChapel = Chapel
-salvage-map-proto-SmallChef = Restaurant
-salvage-map-proto-SmallParty = Birthday Party
-salvage-map-proto-SmallSyndicate = Ruined Syndicate Ship
-salvage-map-proto-SmallTesla = Tesla Containment
+salvage-map-proto-Small1 = Інженерне Сховище
+salvage-map-proto-Small2 = Ігровий Куток
+salvage-map-proto-Small3 = Пральня
+salvage-map-proto-Small4 = Шахтарський Бар
+salvage-map-proto-SmallShip1 = Таблетка
+salvage-map-proto-SmallAISurveyDrone = Безпілотник ШІ
+salvage-map-proto-SmallCargo = Шахтарська Капсула
+salvage-map-proto-SmallChapel = Каплиця
+salvage-map-proto-SmallChef = Ресторан
+salvage-map-proto-SmallParty = Вечірка на день народження
+salvage-map-proto-SmallSyndicate = Зруйнований Корабель Синдикату
+salvage-map-proto-SmallTesla = Стримувач Тесли
 
-salvage-map-proto-SmallA1 = Asteroid Plasmafire
-salvage-map-proto-Medium1 = Plasma-Trapped Cache
-salvage-map-proto-MediumVault1 = Vault
-salvage-map-proto-MediumOrchestra = Silent Orchestra
-salvage-map-proto-MediumLibraryWreck = Abandoned Library
-salvage-map-proto-MediumCargoWreck = Cargo Department Wreck
-salvage-map-proto-MediumPirateWreck = Pirate Barge Fragment
-salvage-map-proto-MediumHaulingShuttleWreck = Ruined Hauling Ship
-salvage-map-proto-TickColony = Space Tick colony
-salvage-map-proto-CargoDock = Asteroid Cargo Dock
-salvage-map-proto-SpaceWaffleHome = Waffle Home
-salvage-map-proto-MediumShuttleWreck = Ruined Emergency Shuttle
-salvage-map-proto-MediumPetHospital = Pet and Bear Hospital
-salvage-map-proto-MediumCrashedShuttle = Crashed Shuttle
-salvage-map-proto-Meatball = Meatball
-salvage-map-proto-VeganMeatball = Vegan Meatball
+salvage-map-proto-SmallA1 = Астероїд Плазмафайр
+salvage-map-proto-Medium1 = Кеш із Плазмовою Пасткою
+salvage-map-proto-MediumVault1 = Сховище
+salvage-map-proto-MediumOrchestra = Тихий Оркестр
+salvage-map-proto-MediumLibraryWreck = Покинута Бібліотека
+salvage-map-proto-MediumCargoWreck = Уламки Вантажного Відділу
+salvage-map-proto-MediumPirateWreck = Фрагмент Піратської Баржі
+salvage-map-proto-MediumHaulingShuttleWreck = Зруйноване Буксирне Судно
+salvage-map-proto-TickColony = Колонія Космічних Кліщів
+salvage-map-proto-CargoDock = Вантажний Док для Астероїдів
+salvage-map-proto-SpaceWaffleHome = Вафельний Дім
+salvage-map-proto-MediumShuttleWreck = Зруйнований Аварійний Шатл
+salvage-map-proto-MediumPetHospital = Лікарня для Улюбленців і Ведмедів
+salvage-map-proto-MediumCrashedShuttle = Розбитий Шатл
+salvage-map-proto-Meatball = Фрикаделька
+salvage-map-proto-VeganMeatball = Веганська фрикаделька
 
-salvage-map-proto-StationStation = Station station
-salvage-map-proto-AsteroidBase = Asteroid Base
-salvage-map-proto-RuinCargoBase = Ruined Cargo Storage
-salvage-map-proto-SecurityChunk = Security Department Chunk
-salvage-map-proto-EngineeringChunk = Engineering Department Chunk
-salvage-map-proto-OutpostArm = Overrun Outpost Arm
+salvage-map-proto-StationStation = Станція станція
+salvage-map-proto-AsteroidBase = База Астероїдів
+salvage-map-proto-RuinCargoBase = Зруйноване Вантажне Сховище
+salvage-map-proto-SecurityChunk = Руїни Відділу Служби Безпеки
+salvage-map-proto-EngineeringChunk = Руїни Відділу Інженерів
+salvage-map-proto-OutpostArm = Руїни Захопленого Аванпосту

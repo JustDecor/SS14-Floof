@@ -1,10 +1,15 @@
-seeds-teaplant-name = tea plant
-seeds-teaplant-display-name = tea plants
-seeds-anomaly-berry-name = anomaly berry
-seeds-anomaly-berry-display-name = anomaly berries
-seeds-blue-pumpkin-name = blue pumpkin
-seeds-blue-pumpkin-display-name = blue pumpkins
+seeds-teaplant-name = чайна рослина
+seeds-teaplant-display-name = чайні рослини
+seeds-anomaly-berry-name = аномальна ягода
+seeds-anomaly-berry-display-name = аномальні ягодиseeds-blue-pumpkin-name = синій гарбуз
+seeds-blue-pumpkin-display-name = сині гарбузи
 seeds-humpshroom-name = humpshroom
+
+
 seeds-humpshroom-display-name = humpshroom
-seeds-breedshroom-name = breedshroom
-seeds-breedshroom-display-name = breedshroom
+
+
+seeds-breedshroom-name = гриб тварин
+
+
+seeds-breedshroom-display-name = бріджриб

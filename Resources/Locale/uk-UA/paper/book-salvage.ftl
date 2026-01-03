@@ -1,16 +1,16 @@
-book-text-demonomicon1 = How To Summon a Demon
-          - by J.G. Wizgerald
+book-text-demonomicon1 = Як викликати демона
+          - автор Дж. Г. Візґеральд
 
           1. todo finish writing demon summoning guide
 
-book-text-demonomicon2 = How To Summon a Lemon
-          - by J.G. Wizgerald
+book-text-demonomicon2 = Як викликати лимон
+          - автор Дж. Г. Візджеральд
 
           1. todo finish writing lemon summoning guide
           2. WAit. Typo. Oh shit. Sorry guys
 
-book-text-demonomicon3 = Cool Demon Names I Found
-      - by Ms. Mossrock
+book-text-demonomicon3 = Круті імена демонів, які я знайшла
+      - пані Моссрок.
 
       Abraxas
       Nephilim
@@ -21,7 +21,7 @@ book-text-demonomicon3 = Cool Demon Names I Found
       Scylla
       Phenex
 
-book-text-chemistry-insane = IGOR CHEMISTRY GUIDE TO CHEMISTRY
+book-text-chemistry-insane = ХІМІЯ ІГОРА ДОВІДНИК З ХІМІЇ
 
       TITLE: GUIDE TO CHEMISTRY
 
@@ -40,7 +40,7 @@ book-text-chemistry-insane = IGOR CHEMISTRY GUIDE TO CHEMISTRY
 
       CONCLUSION: IGOR CHEMISTRY
 
-book-text-botanics = ** Applications of Botanical Specimens Found In Nanotrasen Territories **
+book-text-botanics = ** Застосування ботанічних зразків, знайдених на територіях нанотехнологій
 
       Many plants, when ground, yield useful chemicals. S. (spessmens) papaver and S. aloe vera
       are known for their basic healing properties.
@@ -57,7 +57,7 @@ book-text-botanics = ** Applications of Botanical Specimens Found In Nanotrasen 
 
       - penned by James Alacaster and Golzuk Amaranth
 
-book-text-gnome = All Hail Our Gnome King
+book-text-gnome = Хай живе наш король гномів
 
       He who is the grand cartographer who placed our kind into the world of the Island!
 
@@ -67,7 +67,7 @@ book-text-gnome = All Hail Our Gnome King
 
       Our revenge will be dealt in full! He will Rise once more! hee Hoo!
 
-book-text-fishing = When I grow up, I want to be one of the harvesters of the space sea!
+book-text-fishing = Коли я виросту, я хочу стати одним з комбайнів космічного моря!
 
       I think before my days are done I want to catch the fabled space fish!
 
@@ -77,7 +77,7 @@ book-text-fishing = When I grow up, I want to be one of the harvesters of the sp
 
       - Sgt. John Baker Aclopoly
 
-book-text-fishops = FISHOPS ADVANCED USER MANUAL FIRST EDITION
+book-text-fishops = КАРПЛЕННЯ РОЗШИРЕНИЙ ПОСІБНИК КОРИСТУВАЧА ПЕРШЕ ВИДАННЯ
 
      -----------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ book-text-fishops = FISHOPS ADVANCED USER MANUAL FIRST EDITION
      In the event of fish war there will be double the fish, more than could possibly be carried. A reinforcement or two will be required to carry the surplus fish. A fish war has never happened in recorded history, so it is currently purely theoretical. Its destructive power would rival several neutronium bombs.
 
 
-book-text-detective = CHAPTER 1: SMALL ADVENTURES IN A BIG STATION
+book-text-detective = РОЗДІЛ 1: МАЛЕНЬКІ ПРИГОДИ НА ВЕЛИКІЙ СТАНЦІЇ
 
       This station is filled with crime and grime...
 

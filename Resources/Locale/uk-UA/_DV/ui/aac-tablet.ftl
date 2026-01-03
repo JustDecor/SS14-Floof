@@ -1,4 +1,4 @@
-aac-tablet-title = AAC Tablet
-aac-tablet-combine = Combine
-aac-tablet-backspace = Backspace
-aac-tablet-send = Send
+aac-tablet-title = ААК Планшет
+aac-tablet-combine = Об'єднати
+aac-tablet-backspace = Назад
+aac-tablet-send = Надіслати

@@ -1,26 +1,26 @@
-station-event-vent-critters-generic-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
-station-event-cockroach-migration-announcement = {station-event-vent-critters-generic-announcement}
-station-event-snail-migration-announcement = {station-event-vent-critters-generic-announcement}
-station-event-snail-migration-low-pop-announcement = {station-event-vent-critters-generic-announcement}
-station-event-slimes-spawn-announcement = {station-event-vent-critters-generic-announcement}
-station-event-vent-critters-announcement = {station-event-vent-critters-generic-announcement}
-station-event-spider-spawn-announcement = {station-event-vent-critters-generic-announcement}
-station-event-spider-clown-spawn-announcement = {station-event-vent-critters-generic-announcement}
-station-event-reagentslime-vents-announcement = {station-event-vent-critters-generic-announcement}
-station-event-meat-vents-announcement = {station-event-vent-critters-generic-announcement}
-station-event-xeno-generic-announcement = Confirmed sightings of alien wildlife on the station. Personnel are advised to arm themselves, barricade doors, and defend themselves if necessary. Security is advised to investigate the threat as soon as possible.
-station-event-neutral-xeno-vents-announcement = {station-event-xeno-generic-announcement}
-station-event-tick-vents-announcement = {station-event-xeno-generic-announcement}
-station-event-argocyte-vents-announcement = {station-event-xeno-generic-announcement}
-station-event-light-vents-announcement = {station-event-xeno-generic-announcement}
-station-event-carp-vents-announcement = {station-event-xeno-generic-announcement}
-station-event-space-vents-announcement = {station-event-xeno-generic-announcement}
+station-event-vent-critters-generic-announcement = Увага. Виявлено великий приплив невідомих форм життя, що мешкають у вентиляційних системах станції. Будь ласка, позбавтеся цих істот, перш ніж це почне впливати на продуктивність.
+station-event-cockroach-migration-announcement = Увага. Було виявлено великий приплив невідомих форм життя, які проживають у вентиляційних системах станції. Будь ласка, позбудьтеся цих створінь, перш ніж це почне впливати на продуктивність.
+station-event-snail-migration-announcement = Увага. У вентиляційних системах станції виявлено велике скупчення невідомих форм життя. Будь ласка, позбудьтеся цих істот до того, як вони почнуть впливати на продуктивність.
+station-event-snail-migration-low-pop-announcement = Увага. У вентиляційних системах станції виявлено велике скупчення невідомих форм життя. Будь ласка, позбудьтеся цих істот до того, як вони почнуть впливати на продуктивність.
+station-event-slimes-spawn-announcement = Увага. Було виявлено великий приплив невідомих форм життя, які проживають у вентиляційних системах станції. Будь ласка, позбудьтеся цих створінь, перш ніж це почне впливати на продуктивність.
+station-event-vent-critters-announcement = Увага. Було виявлено великий приплив невідомих форм життя, які проживають у вентиляційних системах станції. Будь ласка, позбудьтеся цих створінь, перш ніж це почне впливати на продуктивність.
+station-event-spider-spawn-announcement = Увага. Було виявлено великий приплив невідомих форм життя, які проживають у вентиляційних системах станції. Будь ласка, позбудьтеся цих створінь, перш ніж це почне впливати на продуктивність
+station-event-spider-clown-spawn-announcement = Увага. Було виявлено великий приплив невідомих форм життя, які проживають у вентиляційних системах станції. Будь ласка, позбудьтеся цих створінь, перш ніж це почне впливати на продуктивність.
+station-event-reagentslime-vents-announcement = Увага. У вентиляційних системах станції виявлено великий наплив невідомих форм життя. Будь ласка, позбудьтеся цих істот до того, як вони почнуть впливати на продуктивність.
+station-event-meat-vents-announcement = Увага. У вентиляційних системах станції виявлено великий наплив невідомих форм життя. Будь ласка, позбудьтеся цих істот до того, як вони почнуть впливати на продуктивність.
+station-event-xeno-generic-announcement = Підтверджені свідчення про інопланетну дику природу на станції. Персоналу рекомендується озброїтися, забаррикадувати двері та захищатися за потреби. Службі безпеки рекомендується розслідувати загрозу якнайшвидше.
+station-event-neutral-xeno-vents-announcement = Підтверджені випадки появи інопланетних істот на станції. Персоналу рекомендується озброїтися, забарикадувати двері та за необхідності захищатися. Службі безпеки рекомендується якнайшвидше розслідувати загрозу.
+station-event-tick-vents-announcement = Підтверджені випадки появи на станції вороже налаштованих інопланетних істот. Персоналу рекомендується озброїтися, забарикадувати двері та за необхідності захищатися. Службі безпеки рекомендується якнайшвидше ліквідувати загрозу.
+station-event-argocyte-vents-announcement = Підтверджені випадки появи на станції вороже налаштованих інопланетних істот. Персоналу рекомендується озброїтися, забарикадувати двері та за необхідності захищатися. Службі безпеки рекомендується якнайшвидше ліквідувати загрозу.
+station-event-light-vents-announcement = Підтверджені випадки появи на станції вороже налаштованих інопланетних істот. Персоналу рекомендується озброїтися, забарикадувати двері та за необхідності захищатися. Службі безпеки рекомендується якнайшвидше ліквідувати загрозу.
+station-event-carp-vents-announcement = Підтверджені випадки появи на станції вороже налаштованих інопланетних істот. Персоналу рекомендується озброїтися, забарикадувати двері та за необхідності захищатися. Службі безпеки рекомендується якнайшвидше ліквідувати загрозу.
+station-event-space-vents-announcement = Підтверджені випадки появи вороже налаштованих диких тварин на території станції. Персоналу рекомендується озброїтися, забарикадувати двері та за необхідності захищатися. Охороні рекомендується якнайшвидше ліквідувати загрозу.
 
 # Weak
-station-event-slimes-spawn-weak-announcement = Attention. A moderate influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
-station-event-spider-spawn-weak-announcement = Attention. A moderate influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
+station-event-slimes-spawn-weak-announcement = Увага! Виявлено помірний приплив невідомих форм життя, що мешкають у вентиляційних системах станції. Будь ласка, позбудьтеся цих істот до того, як вони почнуть впливати на продуктивність.
+station-event-spider-spawn-weak-announcement = Увага! Виявлено помірний приплив невідомих форм життя, що мешкають у вентиляційних системах станції. Будь ласка, позбудьтеся цих істот до того, як вони почнуть впливати на продуктивність.
 
 # Floof - popups
-station-event-generic-vents-popup = Something is squeezing through the ducts...
-station-event-xeno-vents-popup = Something huge is squeezing through the ducts!
-station-event-clown-spiders-popup = Your hear ominous honking coming from down below...
+station-event-generic-vents-popup = Щось проштовхується крізь вентиляцію...
+station-event-xeno-vents-popup = Щось величезне проштовхується крізь вентиляцію!
+station-event-clown-spiders-popup = Ви чуєте зловісний гудок знизу...

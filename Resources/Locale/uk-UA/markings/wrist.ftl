@@ -1,49 +1,49 @@
-marking-WristBraceletRight = Right Bracelet
-marking-WristBraceletRight-bracelet_r = Right Bracelet
+marking-WristBraceletRight = Правий браслет
+marking-WristBraceletRight-bracelet_r = Правий браслет
 
-marking-WristBraceletLeft = Left Bracelet
-marking-WristBraceletLeft-bracelet_l = Left Bracelet
+marking-WristBraceletLeft = Лівий браслет
+marking-WristBraceletLeft-bracelet_l = Лівий браслет
 
-marking-WristBraceletArmRight = Right Arm Bracelet
-marking-WristBraceletArmRight-bracelet_arm_r = Right Arm Bracelet
+marking-WristBraceletArmRight = Браслет на праву руку
+marking-WristBraceletArmRight-bracelet_arm_r = Браслет на праву руку
 
-marking-WristBraceletArmLeft = Left Arm Bracelet
-marking-WristBraceletArmLeft-bracelet_arm_l = Left Arm Bracelet
+marking-WristBraceletArmLeft = Браслет на ліву руку
+marking-WristBraceletArmLeft-bracelet_arm_l = Браслет на ліву руку
 
-marking-WristWatchRight = Right Watch
-marking-WristWatchRight-watch_r = Right Watch
+marking-WristWatchRight = Правий Дозор
+marking-WristWatchRight-watch_r = Правий Дозор
 
-marking-WristWatchLeft = Left Watch
-marking-WristWatchLeft-watch_l = Left Watch
+marking-WristWatchLeft = Лівий Дозор
+marking-WristWatchLeft-watch_l = Лівий Дозор
 
-marking-WristWatchSilverRight = Right Silver Watch
-marking-WristWatchSilverRight-watch_silver_r = Right Silver Watch
+marking-WristWatchSilverRight = Правий срібний годинник
+marking-WristWatchSilverRight-watch_silver_r = Правий срібний годинник
 
-marking-WristWatchSilverLeft = Left Silver Watch
-marking-WristWatchSilverLeft-watch_silver_l = Left Silver Watch
+marking-WristWatchSilverLeft = Лівий срібний годинник
+marking-WristWatchSilverLeft-watch_silver_l = Лівий срібний годинник
 
-marking-WristWatchGoldRight = Right Gold Watch
-marking-WristWatchGoldRight-watch_gold_r = Right Gold Watch
+marking-WristWatchGoldRight = Правий золотий годинник
+marking-WristWatchGoldRight-watch_gold_r = Правий золотий годинник
 
-marking-WristWatchGoldLeft = Left Gold Watch
-marking-WristWatchGoldLeft-watch_gold_l = Left Gold Watch
+marking-WristWatchGoldLeft = Лівий золотий годинник
+marking-WristWatchGoldLeft-watch_gold_l = Лівий золотий годинник
 
-marking-WristWatchHoloRight = Right Holographic Watch
-marking-WristWatchHoloRight-watch_holo_r = Right Holographic Watch
+marking-WristWatchHoloRight = Правий голографічний годинник
+marking-WristWatchHoloRight-watch_holo_r = Правий голографічний годинник
 
-marking-WristWatchHoloLeft = Left Holographic Watch
-marking-WristWatchHoloLeft-watch_holo_l = Left Holographic Watch
+marking-WristWatchHoloLeft = Лівий голографічний годинник
+marking-WristWatchHoloLeft-watch_holo_l = Лівий голографічний годинник
 
-marking-WristWatchLeatherRight = Right Leather Watch
-marking-WristWatchLeatherRight-watch_leather_r = Right Leather Watch
+marking-WristWatchLeatherRight = Правий шкіряний годинник
+marking-WristWatchLeatherRight-watch_leather_r = Правий шкіряний годинник
 
-marking-WristWatchLeatherLeft = Left Leather Watch
-marking-WristWatchLeatherLeft-watch_leather_l = Left Leather Watch
+marking-WristWatchLeatherLeft = Лівий шкіряний годинник
+marking-WristWatchLeatherLeft-watch_leather_l = Лівий шкіряний годинник
 
-marking-WristWatchColorableRight = Right Watch (Colorable)
-marking-WristWatchColorableRight-watch_colorable_r_tone_1 = Strap
-marking-WristWatchColorableRight-watch_colorable_r_tone_2 = Watch Face
+marking-WristWatchColorableRight = Правий годинник (кольоровий)
+marking-WristWatchColorableRight-watch_colorable_r_tone_1 = Ремінь
+marking-WristWatchColorableRight-watch_colorable_r_tone_2 = Циферблат годинника
 
-marking-WristWatchColorableLeft = Left Watch (Colorable)
-marking-WristWatchColorableLeft-watch_colorable_l_tone_1 = Strap
-marking-WristWatchColorableLeft-watch_colorable_l_tone_2 = Watch Face
+marking-WristWatchColorableLeft = Лівий годинник (кольоровий)
+marking-WristWatchColorableLeft-watch_colorable_l_tone_1 = Ремінь
+marking-WristWatchColorableLeft-watch_colorable_l_tone_2 = Циферблат годинника

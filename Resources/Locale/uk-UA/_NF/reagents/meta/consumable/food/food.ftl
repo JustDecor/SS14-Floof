@@ -1,5 +1,5 @@
-reagent-name-flavorol = flavorol
-reagent-desc-flavorol = All the vitamins, minerals, and carbohydrates the body needs in pure form.
+reagent-name-flavorol = флаворол
+reagent-desc-flavorol = Всі вітаміни, мінерали і вуглевод
 
-reagent-name-raisins = raisins
-reagent-desc-raisins = Are they the best or worst part of the cookie? They're a bunch of desiccated grapes is what they are.
+reagent-name-raisins = родзинки
+reagent-desc-raisins = Вони найкраща чи найгірша частина печива? Насправді це просто купка висушеного винограду.

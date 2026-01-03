@@ -5,23 +5,23 @@
 # - Each bark should be one, or at most two sentences long.
 # - Keep in mind that those will usually not be understood by players.
 # - Do not add punctuation at the end of the message, except for question marks, so that the random bark system will add random punctuation.
-bark-default-1 = Bark
-bark-default-2 = Boof
-bark-default-3 = Woofums
-bark-default-4 = Rawrl
-bark-default-5 = Eeeeeee
-bark-default-6 = Barkums
-bark-default-7 = Awooooooooooooooooooo awooo awoooo
-bark-default-8 = Grrrrrrrrrrrrrrrrrr
-bark-default-9 = Rarrwrarrwr
-bark-default-10 = Goddamn I love gold fish crackers
-bark-default-11 = Bork bork boof boof bork bork boof boof bork
-bark-default-12 = Bark
-bark-default-13 = Boof
-bark-default-14 = Woofums
-bark-default-15 = Rawrl
-bark-default-16 = Eeeeeee
-bark-default-17 = Barkum
+bark-default-1 = Гавк!
+bark-default-2 = Буф
+bark-default-3 = Вуфуми
+bark-default-4 = Раврл
+bark-default-5 = ..
+bark-default-6 = Баркуми
+bark-default-7 = Ааааавуууу авууу вууу
+bark-default-8 = Гррррррррррррррррррррррррррррррррррррррррррррррр
+bark-default-9 = Ррррррррррррррррррррррррррррррррррр
+bark-default-10 = Чорт забирай, я люблю крекери із золотими рибками
+bark-default-11 = Гавк говк гувк гавк говк
+bark-default-12 = Гавк!
+bark-default-13 = Буф
+bark-default-14 = Вуууу
+bark-default-15 = Раврл
+bark-default-16 = ..
+bark-default-17 = Баррк
 
 # This should always come last so that it's easy to keep track of.
 # Bark counts are locale-specific so they are typically defined in FTL files instead of YML, to make localization easier.

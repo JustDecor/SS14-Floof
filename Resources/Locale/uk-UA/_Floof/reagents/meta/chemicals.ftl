@@ -1,5 +1,5 @@
-reagent-name-salicylicacid = salicylic acid
-reagent-desc-salicylicacid = A powdery substance used for dermatological treatments.
+reagent-name-salicylicacid = саліцилова кислота
+reagent-desc-salicylicacid = Порошкоподібна речовина, що використовується для дерматологічного лікування.
 
-reagent-name-formaldehyde = formaldehyde
-reagent-desc-formaldehyde = A yellowish substance used for peservation of tissue.
+reagent-name-formaldehyde = формальдегід
+reagent-desc-formaldehyde = Введіть у труп, щоб запобігти розкладанню.     Висока ймовірність розпаду на гістамін робить це дійсно підлою отрутою, якщо ви хочете використати це таким чином.     Також запобігає здатності примари до поглинання, коли труп містить щонайменше 25 одиниць всередині.

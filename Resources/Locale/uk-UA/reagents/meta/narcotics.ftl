@@ -1,41 +1,41 @@
-reagent-name-desoxyephedrine = desoxyephedrine
-reagent-desc-desoxyephedrine = A more effective ephedrine, with more active downsides. Requires less doses to cure narcolepsy.
+reagent-name-desoxyephedrine = дезоксиефедрин
+reagent-desc-desoxyephedrine = Більш ефективний ефедрин, з більш активними недоліками. Потребує менших доз для лікування нарколепсії. Вибухає при нагріванні до 420K!
 
-reagent-name-ephedrine = ephedrine
-reagent-desc-ephedrine = A caffeinated adrenaline stimulator chemical that makes you faster and harder to knock down. Also helps combat narcolepsy at dosages over thirty, at the cost of severe nerval stress.
+reagent-name-ephedrine = ефедрин
+reagent-desc-ephedrine = Хімічний стимулятор адреналіну з кофеїном, який робить вас швидшим і стійкішим до падінь. Також допомагає боротися з нарколепсією при дозах понад тридцять одиниць, ціною сильного нервового напруження.
 
-reagent-name-stimulants = stimulants
-reagent-desc-stimulants = A chemical cocktail developed by Donk Co. that allows agents to recover from stuns faster, move more quickly, and grants a small heal while close to critical condition. Due to the complex nature of the chemical, it is much harder for the body to purge naturally.
+reagent-name-stimulants = гіперзин
+reagent-desc-stimulants = Хімічний коктейль, розроблений Donk Co., що дозволяє агентам швидше відновлюватися після оглушення, швидше рухатися і надає невелике зцілення, коли ви більше мертві, ніж живі.
 
-reagent-name-experimental-stimulants = experimental stimulants
-reagent-desc-experimental-stimulants = A prototype version of the stimulant chemical mixture. Usage grants virtual immunity to stun weaponry, rapid tissue regeneration, extreme running speed by reducing lactic acid buildup, and a general feeling of euphoria. Side effects may include extreme levels of anticoagulation, tunnel vision, extreme toxin buildup in the bloodstream, and rapid liver death. Do not give to animals.
+reagent-name-experimental-stimulants = експериментальні стимулятори
+reagent-desc-experimental-stimulants = Прототип гіперзину. Використання надає практично повний імунітет до оглушливої зброї, швидку регенерацію тканин, екстремальну швидкість бігу за рахунок зменшення накопичення молочної кислоти та загальне відчуття ейфорії. Побічні ефекти можуть включати екстремальні рівні антикоагуляції, тунельний зір, екстремальне накопичення токсинів у крові та швидку смерть печінки. Не давати тваринам.
 
-reagent-name-thc = THC
-reagent-desc-thc = The main psychoactive compound in cannabis.
+reagent-name-thc = тгк
+reagent-desc-thc = Основна психоактивна сполука в канабісі.
 
-reagent-name-bananadine = bananadine
-reagent-desc-bananadine = A mild psychedelic that is found in small traces in banana peels.
+reagent-name-bananadine = бананадин
+reagent-desc-bananadine = М'який психоделік, який у невеликих кількостях міститься в банановій шкірці.
 
-reagent-name-nicotine = nicotine
-reagent-desc-nicotine = Dangerous and highly addictive, but that's what the propaganda says.
+reagent-name-nicotine = нікотин
+reagent-desc-nicotine = Небезпечний і викликає сильну залежність, але так каже пропаганда.
 
-reagent-name-impedrezene = impedrezene
-reagent-desc-impedrezene = A narcotic that impedes one's ability by slowing down the higher brain cell functions.
+reagent-name-impedrezene = імпедрезен
+reagent-desc-impedrezene = Наркотик, що уповільнює вищі функції клітин мозку, погіршуючи здібності.
 
-reagent-name-space-drugs = space drugs
-reagent-desc-space-drugs = An illegal compound which induces a number of effects such as loss of balance and visual artefacts.
+reagent-name-space-drugs = космічний міраж
+reagent-desc-space-drugs = Нелегальна сполука, що викликає низку ефектів, таких як втрата рівноваги та візуальні артефакти.
 
-reagent-name-nocturine = nocturine
-reagent-desc-nocturine = A highly effective sedative and hypnotic, developed by the Syndicate for stealth operations. One-way ticket to honk-shoo town.
+reagent-name-nocturine = ноктурин
+reagent-desc-nocturine = Високоефективний седативний та снодійний засіб, розроблений Синдикатом для таємних операцій. Квиток в один кінець до міста "хроп-хроп".
 
-reagent-name-mute-toxin = mute toxin
-reagent-desc-mute-toxin = A thick chemical that coats the vocal cords, making the user unable to speak during metabolization.
+reagent-name-mute-toxin = токсин німоти
+reagent-desc-mute-toxin = Густа хімічна речовина, яка покриває голосові зв'язки, роблячи користувача нездатним говорити під час метаболізму.
 
-reagent-name-norepinephric-acid = norepinephric acid
-reagent-desc-norepinephric-acid = A smooth chemical that blocks the optical receptors, rendering the user blind during metabolization.
+reagent-name-norepinephric-acid = норепінефринова кислота
+reagent-desc-norepinephric-acid = М'яка хімічна речовина, що блокує оптичні рецептори, роблячи користувача сліпим під час метаболізму.
 
-reagent-name-tear-gas = tear gas
-reagent-desc-tear-gas = A chemical that causes severe irritation and crying, commonly used in riot control.
+reagent-name-tear-gas = сльозогінний газ
+reagent-desc-tear-gas = Хімічна речовина, що викликає сильне подразнення та сльозотечу, зазвичай використовується для придушення заворушень.
 
-reagent-name-happiness = happiness
-reagent-desc-happiness = Fills you with ecstatic numbness and causes minor brain damage. Highly addictive. If overdosed causes sudden mood swings.
+reagent-name-happiness = щастя
+reagent-desc-happiness = Наповнює вас екстатичним заціпенінням і викликає незначні пошкодження мозку. Викликає сильне звикання. При передозуванні викликає раптові зміни настрою.

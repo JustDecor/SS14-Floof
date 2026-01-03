@@ -1,1 +1,1 @@
-loadout-name-LoadoutNeckNeckerchiefColorable = neckerchief (colorable)
+loadout-name-LoadoutNeckNeckerchiefColorable = хустка (кольорова)

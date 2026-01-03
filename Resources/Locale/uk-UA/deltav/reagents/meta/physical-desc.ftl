@@ -1,2 +1,2 @@
-reagent-physical-desc-dark = dark
-reagent-physical-desc-menacing = menacing
+reagent-physical-desc-dark = темний
+reagent-physical-desc-menacing = грізний

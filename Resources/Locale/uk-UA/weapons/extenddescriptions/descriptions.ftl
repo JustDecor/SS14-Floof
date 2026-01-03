@@ -1,1 +1,1 @@
-gun-legality-salvage = This weapon is licensed for use in planetary expeditions. It is unlawful to brandish this weapon aboard NanoTrasen stations, and may be confiscated by Security if removed from the station's Salvage Department.
+gun-legality-salvage = Ця зброя ліцензована для використання в планетарних експедиціях. Виставляти цю зброю напоказ на борту станцій НаноТрасен є незаконним і може бути конфіскована службою безпеки, якщо її буде вилучено з аварійно-рятувального підрозділу станції

@@ -1,2 +1,2 @@
-loadout-name-LoadoutParamedicBeltEMT = EMT belt (empty)
-loadout-name-LoadoutParamedicBeltEMTFilled = EMT belt (filled)
+loadout-name-LoadoutParamedicBeltEMT = пояс EMT (порожній)
+loadout-name-LoadoutParamedicBeltEMTFilled = пояс EMT (заповнений)

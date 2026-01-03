@@ -1,14 +1,14 @@
-reagent-name-bleach = bleach
-reagent-desc-bleach = Heavy duty cleaner that can clean tiles the same as Space Cleaner and also decontaminate clothes. Extremely toxic when ingested.
+reagent-name-bleach = відбілювач
+reagent-desc-bleach = Надпотужний засіб для чищення, який може очищати плитку так само, як і космічний очищувач, а також дезінфікувати одяг. Надзвичайно токсичний при вживанні всередину.
 
-reagent-name-space-cleaner = space cleaner
-reagent-desc-space-cleaner = This is able to clean almost all surfaces of almost anything that may dirty them. The janitor is likely to appreciate refills.
+reagent-name-space-cleaner = космічний очищувач
+reagent-desc-space-cleaner = Це засіб здатний очистити майже будь-яку поверхню від майже будь-якого бруду. Прибиральник, швидше за все, оцінить поповнення запасів.
 
-reagent-name-soap = soap
-reagent-desc-soap = I wouldn't clean my mouth out with this if I were you.
+reagent-name-soap = мило
+reagent-desc-soap = На вашому місці, я б не став мити цим рот.
 
-reagent-name-space-lube = space lube
-reagent-desc-space-lube = Space Lube is a high performance lubricant intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people slip).
+reagent-name-space-lube = космічна змазка
+reagent-desc-space-lube = Космічна змазка — це високоефективний лубрикант, призначений для обслуговування надзвичайно складного механічного обладнання (і, звичайно, не для того, щоб люди ковзали).
 
-reagent-name-space-glue = space glue
-reagent-desc-space-glue = Space Glue is a high performance glue intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people stick to the floor).
+reagent-name-space-glue = космічний клей
+reagent-desc-space-glue = Космічний клей — це високоефективний клей, призначений для обслуговування надзвичайно складного механічного обладнання (і, звичайно, не для того, щоб люди прилипали до підлоги).

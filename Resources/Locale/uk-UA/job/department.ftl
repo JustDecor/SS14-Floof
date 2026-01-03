@@ -1,11 +1,11 @@
-department-Cargo = Cargo
+department-Cargo = Карго
 ## Floof - Create dedicated service department  
-department-Civilian = Service
-department-Command = Command
-department-Engineering = Engineering
-department-Medical = Medical
-department-Security = Security
-department-Science = Science
-department-Silicon = Silicons
-department-Specific = Station specific
-department-Dignitary = Dignitary
+department-Civilian = Цивільний
+department-Command = Командування
+department-Engineering = Інженерний
+department-Medical = Медичний
+department-Security = Безпека
+department-Science = Науковий
+department-Silicon = Кремнієві
+department-Specific = Специфічний для станції
+department-Dignitary = Посадовець

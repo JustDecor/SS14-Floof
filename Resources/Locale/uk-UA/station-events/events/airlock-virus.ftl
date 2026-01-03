@@ -1,1 +1,1 @@
-airlock-virus-event-announcement = We have detected a GR4YT1D3 virus in the station's systems. Engineering staff are to inspect all station equipment for malfunctions and affect repairs if necessary.
+airlock-virus-event-announcement = Ми виявили вірус GR4YT1D3 в системах станції. Інженерний персонал повинен перевірити все обладнання станції на наявність несправностей і за необхідності провести ремонтні роботи.

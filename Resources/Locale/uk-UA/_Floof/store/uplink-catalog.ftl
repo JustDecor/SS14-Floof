@@ -1,39 +1,39 @@
 # Pointless
-uplink-coder-socks-valid-name = Blood-red Coder Socks
-uplink-coder-socks-valid-desc = These socks add onto your robustness by making you look breedable. Make trojans, not war.
+uplink-coder-socks-valid-name = Кроваво-червоні шкарпетки кодера
+uplink-coder-socks-valid-desc = Ці шкарпетки додають до вашої міцності, роблячи вас схильним до розмноження. Робіть троянів, а не війну.
 
 # Floof station
 # Medical
-uplink-Cryptobiolininjector-name = Cryptobiolin injector
-uplink-Cryptobiolininjector-desc = Made by SESWC. This item is prefilled with 20u of Cryptobiolin to help you get rid of those pesky psionic weirdo's.
+uplink-Cryptobiolininjector-name = Криптобіолін ін'єктор
+uplink-Cryptobiolininjector-desc = Створено SESWC. Цей предмет попередньо заповнений 20у криптобіоліну, щоб допомогти вам позбутися цих проклятих психічних дивакув.
 
 # Weapons
-uplink-EnergySabre-name = Energy Sabre MK. 9
-uplink-EnergySabre-desc = Crafted by Fae, the CyberSun Weapons Designer, a brilliant display of plasma weaponry crafted into a beautiful sabre.
+uplink-EnergySabre-name = Енергетична шабля МК. 9
+uplink-EnergySabre-desc = Створено Фей, дизайнером зброї CyberSun, блискуче відображення плазмової зброї, виготовлене у вигляді прекрасної шаблі.
 
-uplink-energy-halberd-name = Energy halberd
-uplink-energy-halberd-desc = A polarm handle with an energy-based axe head attached to it to strike down all that is in your way. Produced by SESWC!
+uplink-energy-halberd-name = Енергетична алебарда
+uplink-energy-halberd-desc = Держак для полівання з енергетичною сокироподібною головкою, прикріпленою до нього, щоб збивати всіх на вашому шляху. Виробництво SESWC!
 
-uplink-typewriter-bundle-name = Typewriter Bundle
-uplink-typewriter-bundle-desc = An inconspicuous briefcase that contains a Typewriter SMG, three magazines and an outfit fit for any aspiring mafiosos.
+uplink-typewriter-bundle-name = Набір друкарської машинки
+uplink-typewriter-bundle-desc = Непомітний кейс, що містить друкарську машинку SMG, три магазини та вбрання для будь-яких починаючих мафіозі.
 
-uplink-PlushieSharkPinkBonk-name = Inconspicuous Shark Mace
-uplink-PlushieSharkPinkBonk-desc = An inconspicuous shark shaped mace, they will never realise what hit them.
+uplink-PlushieSharkPinkBonk-name = Непомітна акул'яча булава
+uplink-PlushieSharkPinkBonk-desc = Непомітна булава у формі акули, вони ніколи не зрозуміють, що їх вдарило.
 
 # Toys
 
-uplink-toysabre-name = Toy Sabre MK. 9
-uplink-toysabre-desc = Imitation of the Energy Sabre created by Fae, created for promotion purposes, not for combat!
+uplink-toysabre-name = Іграшкова шабля МК. 9
+uplink-toysabre-desc = Імітація Енергетичної шаблі, створеної Фей, створена для рекламних цілей, не для бою!
 
-uplink-toysword-name = Toy Sword
-uplink-toysword-desc = Imitation of an Energy Sword, a brilliant deception to put the enemy on edge.
+uplink-toysword-name = Іграшковий меч
+uplink-toysword-desc = Імітація Енергетичного меча, блискучий обман, щоб насторожити ворога.
 
-uplink-dbtoysword-name = Toy Double-Bladed Sword
-uplink-dbtoysword-desc = Imitation of the infamous Double-Bladed Energy Sword, stress the enemy with this excellent deception!
+uplink-dbtoysword-name = Іграшковий двосічний меч
+uplink-dbtoysword-desc = Імітація сумнозвісного Двосічного Енергетичного меча, стресуйте ворога цим чудовим обманом!
 
-uplink-dehydrated-clown-rat-name = Dehydrated Crazed Clown Rat Box
-uplink-dehydrated-clown-rat-desc = A box containing a modified clown rat, that after hydration, seeks chaos and enemies of the syndicate. Upon expiration due to physical trauma, it will split into 3-4 more and those will split further, eventually reaching the final generation of rats. 
-    DISCLAIMER: remember to pet the rats head for the first generation to be friendly, as further generations are too rabid to discern between you and foe.
+uplink-dehydrated-clown-rat-name = Коробка зневодненого божевільного клоунського щура
+uplink-dehydrated-clown-rat-desc = Коробка, що містить модифікованого клоунського щура, який після гідратації шукає хаос та ворогів синдикату. Після закінчення через фізичну травму, він розділиться на 3-4 більше, і вони будуть ділитися далі, зрештою досягаючи фінального покоління щурів.
+    ЗАСТЕРЕЖЕННЯ: пам'ятайте погладити голову щура, щоб перше покоління було дружнім, оскільки подальші покоління занадто божевільні, щоб розрізняти вас та ворога.
 
-Uplink-Clothing-Head-Hat-Magician-Syndie-name = Magician's tophat
-Uplink-Clothing-Head-Hat-Magician-Syndie-desc = A magician never reveals their secrets.
+Uplink-Clothing-Head-Hat-Magician-Syndie-name = Капелюх фокусника
+Uplink-Clothing-Head-Hat-Magician-Syndie-desc = Фокусник ніколи не розкриває своїх секретів.

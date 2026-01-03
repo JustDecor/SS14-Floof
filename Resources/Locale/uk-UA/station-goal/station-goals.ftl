@@ -1,4 +1,4 @@
-station-goal-fax-paper-name = Station Goal
+station-goal-fax-paper-name = Цілі на зміну
 
 station-goal-fax-paper-header =
     ███╗░░██╗████████╗

@@ -1,22 +1,22 @@
-encryption-key-successfully-installed = You put the encryption key inside.
-encryption-key-slots-already-full = There is no place for another encryption key.
+encryption-key-successfully-installed = Ви вставляєте ключ шифрування всередину.
+encryption-key-slots-already-full = Немає місця для ключа шифрування.
 # Floof: locale strings for unremovable keys, pluralization handling
 encryption-keys-all-extracted = { $count ->
     [one] You pop out the encryption key!
     *[other] You pop out the encryption keys!
 }
 encryption-keys-some-extracted = { $count ->
-    [one] You pop out one of the encryption keys!
-    *[other] You pop out some of the encryption keys!
+    [one] Ви виймаєте один із ключів шифрування!
+    *[other] Ви виймаєте кілька ключів шифрування!
 }
 encryption-keys-none-extracted = { $remaining ->
-    [one] The encryption key is unremovable!
-    *[other] The encryption keys are unremovable!
+    [one] Ключ шифрування не знімається!
+    *[other] Ключі шифрування не знімаються!
 }
-encryption-keys-no-keys = This device has no encryption keys!
-encryption-keys-are-locked = Encryption key slots are locked!
-encryption-keys-panel-locked = Open maintenance panel first!
+encryption-keys-no-keys = Цей пристрій не має ключів шифрування!
+encryption-keys-are-locked = Слоти для ключів шифрування заблоковані!
+encryption-keys-panel-locked = Спочатку відкрийте технічну панель!
 
-examine-encryption-channels-prefix = Available frequencies:
-examine-encryption-channel = [color={$color}]{$key} for {$id} ({$freq})[/color]
-examine-encryption-default-channel = The default channel is [color={$color}]{$channel}[/color].
+examine-encryption-channels-prefix = Доступні частоти:
+examine-encryption-channel = [color={$color}]{$key} для {$id} ({$freq})[/color]
+examine-encryption-default-channel = Стандартним каналом є [color={$color}]{$channel}[/color].

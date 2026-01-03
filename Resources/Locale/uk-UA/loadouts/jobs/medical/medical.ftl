@@ -1,19 +1,19 @@
-loadout-description-LoadoutMedicalUniformJumpskirtSenior = A skirt fit for the best of the best.
-loadout-description-LoadoutMedicalUniformJumpsuitSenior = A suit fit for the best of the best.
-loadout-description-LoadoutMedicalHeadBeretSeniorPhysician = A beret fit for the best of the best.
+loadout-description-LoadoutMedicalUniformJumpskirtSenior = Спідниця, гідна найкращих із найкращих.
+loadout-description-LoadoutMedicalUniformJumpsuitSenior = Костюм, гідний найкращих із найкращих.
+loadout-description-LoadoutMedicalHeadBeretSeniorPhysician = Берет, гідний найкращих із найкращих.
 
-loadout-name-LoadoutMedicalDoctorBeltMedical = medical belt (empty)
-loadout-name-LoadoutMedicalDoctorBeltMedicalFilled = medical belt (filled)
-loadout-name-LoadoutMedicalDoctorBeltMedicalAdvancedFilled = medical belt (filled, advanced)
+loadout-name-LoadoutMedicalDoctorBeltMedical = медичний пояс (порожній)
+loadout-name-LoadoutMedicalDoctorBeltMedicalFilled = медичний пояс (заповнений)
+loadout-name-LoadoutMedicalDoctorBeltMedicalAdvancedFilled = медичний пояс (заповнений, вдосконалений)
 loadout-description-LoadoutMedicalDoctorBeltMedicalAdvancedFilled =
-    The standard alotment of topical medicines in this pouch have been replaced with their advanced varieties, such as medicated sutures and regenerative mesh.
+    Стандартний набір місцевих ліків у цій сумці було замінено на їхні розширені варіанти, такі як лікарські шви та регенеративна сітка.
 
-loadout-name-LoadoutChiefMedicalOfficerBeltMedical = medical belt (empty)
-loadout-name-LoadoutChiefMedicalOfficerBeltMedicalAdvancedFilled = medical belt (filled, advanced)
+loadout-name-LoadoutChiefMedicalOfficerBeltMedical = медичний пояс (порожній)
+loadout-name-LoadoutChiefMedicalOfficerBeltMedicalAdvancedFilled = медичний пояс (заповнений, вдосконалений)
 loadout-description-LoadoutChiefMedicalOfficerBeltMedicalAdvancedFilled =
-    The standard alotment of topical medicines in this pouch have been replaced with their advanced varieties, such as medicated sutures and regenerative mesh.
+    Стандартний набір місцевих ліків у цій сумці було замінено на їхні розширені варіанти, такі як лікарські шви та регенеративна сітка.
 
-loadout-name-LoadoutSeniorPhysicianBeltMedical = medical belt (empty)
-loadout-name-LoadoutSeniorPhysicianBeltMedicalAdvancedFilled = medical belt (filled, advanced)
+loadout-name-LoadoutSeniorPhysicianBeltMedical = медичний пояс (порожній)
+loadout-name-LoadoutSeniorPhysicianBeltMedicalAdvancedFilled = медичний пояс (заповнений, вдосконалений)
 loadout-description-LoadoutSeniorPhysicianBeltMedicalAdvancedFilled =
-    The standard alotment of topical medicines in this pouch have been replaced with their advanced varieties, such as medicated sutures and regenerative mesh.
+    Стандартний набір місцевих ліків у цій сумці було замінено на їхні розширені варіанти, такі як лікарські шви та регенеративна сітка.

@@ -1,1 +1,1 @@
-character-item-group-TraitsLanguagesNatural = Natural Languages
+character-item-group-TraitsLanguagesNatural = Природні мови

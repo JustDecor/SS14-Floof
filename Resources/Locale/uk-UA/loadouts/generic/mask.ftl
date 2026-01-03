@@ -1,3 +1,3 @@
-loadout-name-LoadoutMaskBandWhite = cloth mask (colorable)
-loadout-name-LoadoutMaskNeckGaiterWhite = neck gaiter (colorable)
-loadout-name-LoadoutMaskSterile = sterile mask (colorable)
+loadout-name-LoadoutMaskBandWhite = тканинна маска (кольорова)
+loadout-name-LoadoutMaskNeckGaiterWhite = гетри на шию (кольорові)
+loadout-name-LoadoutMaskSterile = стерильна маска (кольорова)

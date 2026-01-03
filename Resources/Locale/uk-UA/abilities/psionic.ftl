@@ -1,80 +1,80 @@
-cage-resist-second-person = You start removing your {$cage}.
-cage-resist-third-person = {CAPITALIZE(THE($user))} starts removing {POSS-ADJ($user)} {$cage}.
+cage-resist-second-person = Ви починаєте знімати свій {$cage}.
+cage-resist-third-person = {CAPITALIZE($user)} починає знімати {$cage} {$user}.
 
-cage-uncage-verb = Uncage
+cage-uncage-verb = Зняти
 
-action-name-metapsionic = Metapsionic Pulse
-action-description-metapsionic = Send a mental pulse through the area to see if there are any psychics nearby.
+action-name-metapsionic = Метасіонічний імпульс
+action-description-metapsionic = Надіслати ментальний імпульс по області, щоб перевірити, чи є поблизу сихівці.
 
-metapsionic-pulse-success = You detect psychic presence nearby.
-metapsionic-pulse-failure = You don't detect any psychic presence nearby.
-metapsionic-pulse-power = You detect that {$power} was used nearby.
+metapsionic-pulse-success = Ви виявляєте психічну присутність поруч.
+metapsionic-pulse-failure = Ви не помічаєте жодної психічної присутності поблизу.
+metapsionic-pulse-power = Ви помічаєте що {$power} було використано десь поруч.
 
-action-name-dispel = Dispel
-action-description-dispel = Dispel summoned entities such as familiars or forcewalls.
+action-name-dispel = Розвіяти
+action-description-dispel = Розвіює викликані сутності, такі як фамильяри або силові стіни.
 
-action-name-mass-sleep = Mass Sleep
-action-description-mass-sleep = Put targets in a small area to sleep.
+action-name-mass-sleep = Масовий сон
+action-description-mass-sleep = Приспати цілі в невеликій області.
 
-accept-psionics-window-title = Psionic!
-accept-psionics-window-prompt-text-part = You rolled a psionic power!
-                                         It's possible that certain anti-psychic forces may hunt you,
-                                         so you should consider keeping it secret.
-                                         Do you still wish to be psionic?
+accept-psionics-window-title = Псіонік!
+accept-psionics-window-prompt-text-part = Ви отримали псіонічну силу!
+                                         Цілком можливо, що на вас можуть полювати певні антипсихічні сили,
+                                         тому вам слід зберегти це в таємниці.
+                                         Ви все ще хочете бути псіоніком?
 
-action-name-psionic-invisibility = Psionic Invisibility
-action-description-psionic-invisibility = Render yourself invisible to any entity that could potentially be psychic. Borgs, animals, and so on are not affected.
+action-name-psionic-invisibility = Псіонічна невидимість
+action-description-psionic-invisibility = Зробити себе невидимим для будь-якої сутності, яка потенційно може бути сихівцем. Борги, тварини та інші не піддаються впливу.
 
-action-name-psionic-invisibility-off = Turn Off Psionic Invisibility
-action-description-psionic-invisibility-off = Return to visibility, and receive a stun.
+action-name-psionic-invisibility-off = Вимкнути псіонічну невидимість
+action-description-psionic-invisibility-off = Повернути видимість та отримати оглушення.
 
-action-name-mind-swap = Mind Swap
-action-description-mind-swap = Swap minds with the target. Either can change back after 20 seconds.
+action-name-mind-swap = Обмін розумами
+action-description-mind-swap = Обмінятися розумами з ціллю. Будь-хто з них може повернутися через 20 секунд.
 
-action-name-mind-swap-return = Reverse Mind Swap
-action-description-mind-swap-return = Return to your original body.
+action-name-mind-swap-return = Зворотний обмін розумами
+action-description-mind-swap-return = Повернутися до свого оригінального тіла.
 
-action-name-telegnosis = Telegnosis
-action-description-telegnosis = Create a telegnostic projection to remotely observe things.
+action-name-telegnosis = Телегнозія
+action-description-telegnosis = Створити телегностичну проекцію для віддаленого спостереження за об'єктами.
 
-action-name-psionic-regeneration = Psionic Regeneration
-action-description-psionic-regeneration = Push your natural metabolism to the limit to power your body's regenerative capability.
+action-name-psionic-regeneration = Псіонічна регенерація
+action-description-psionic-regeneration = Змусити свій природний метаболізм працювати на межі можливостей, щоб забезпечити регенеративну здатність свого тіла.
 
-glimmer-report = Current Glimmer Level: {$level}Ψ.
-glimmer-event-report-generic = Noöspheric discharge detected. Glimmer level has decreased by {$decrease} to {$level}Ψ.
-glimmer-event-report-signatures = New psionic signatures manifested. Glimmer level has decreased by {$decrease} to {$level}Ψ.
-glimmer-event-awakened-prefix = awakened {$entity}
+glimmer-report = Поточний рівень Мерехтіння: {$level}Ψ.
+glimmer-event-report-generic = Виявлено ноосферний розряд. Рівень Мерехтіння зменшився на {$decrease} до {$level}Ψ.
+glimmer-event-report-signatures = Виявлено нові псіонічні сигнатури. Рівень Мерехтіння зменшився на {$decrease} до {$level}Ψ.
+glimmer-event-awakened-prefix = пробуджено {$entity}
 
-noospheric-zap-seize = You seize up!
-noospheric-zap-seize-potential-regained = You seize up! Some mental block seems to have cleared, too.
+noospheric-zap-seize = У тебе судоми!
+noospheric-zap-seize-potential-regained = Ану схопися! Здається, якийсь ментальний блок теж розвіявся.
 
-mindswap-trapped = Seems you're trapped in this vessel.
+mindswap-trapped = Здається, ви застрягли в цій посудині.
 
-telegnostic-trapped-entity-name = severed telegnostic projection
-telegnostic-trapped-entity-desc = Its many eyes betray sadness.
+telegnostic-trapped-entity-name = розірвана телегностична проекція
+telegnostic-trapped-entity-desc = Його численні очі видають смуток.
 
-psionic-burns-up = {CAPITALIZE(THE($item))} burns up with arcs of strange energy!
-psionic-burn-resist = Strange arcs dance across {THE($item)}!
+psionic-burns-up = {CAPITALIZE($item)} палає дугами дивної енергії!
+psionic-burn-resist = Дивні дуги танцюють по {$item}!
 
-action-name-noospheric-zap = Noospheric Zap
-action-description-noospheric-zap = Shocks the conciousness of the target and leaves them stunned and stuttering.
+action-name-noospheric-zap = Ноосферний удар
+action-description-noospheric-zap = Шокує свідомість цілі, залишаючи її оглушеною та заїкаючоюся.
 
-action-name-pyrokinesis = Pyrokinesis
-action-description-pyrokinesis = Light a flammable target on fire.
-pyrokinesis-power-used = A wisp of flame engulfs {THE($target)}, igniting {OBJECT($target)}!
+action-name-pyrokinesis = Пірокінез
+action-description-pyrokinesis = Підпалити займисту ціль.
+pyrokinesis-power-used = Струмок полум'я охоплює {THE($target)}, і запалює {OBJECT($target)}!
 
 # FloofStation Start
-pyrokinesis-power-used-smokable = A small wisp of flame lights {THE($target)}!
-pyrokinesis-power-used-smokable-performance = {CAPITALIZE(THE($performer))} raises {POSS-ADJ($performer)} hand and with a snap of {POSS-ADJ($performer)} fingers lights {THE($targetEntity)} with a small wisp of flame.
-pyrokinesis-power-used-smokable-performance-no-hands = A small wisp of flame appears in front of {THE($target)} and lights {POSS-ADJ($target)} {$targetEntity}.
-pyrokinesis-power-used-smokable-not-performed-self = A small wisp of flame appears in front of you and lights your {$targetEntity}!
+pyrokinesis-power-used-smokable = Невеликий язичок полум'я запалює {THE($target)}!
+pyrokinesis-power-used-smokable-performance = {CAPITALIZE(THE($performer))} піднімає {POSS-ADJ($performer)} руку і клацанням {POSS-ADJ($performer)} пальців запалює {THE($targetEntity)} невеликим язичком полум'я.
+pyrokinesis-power-used-smokable-performance-no-hands = Невеликий язичок полум'я з'являється перед {THE($target)} і запалює {POSS-ADJ($target)} {$targetEntity}.
+pyrokinesis-power-used-smokable-not-performed-self = Невеликий язичок полум'я з'являється перед вами і запалює ваш {$targetEntity}!
 # FloofStation End
 
-action-name-psychokinesis = Psychokinesis
-action-description-psychokinesis = Bend the fabric of space to instantly move across it.
+action-name-psychokinesis = Психокінез
+action-description-psychokinesis = Зігнути тканину простору, щоби миттєво переміститися крізь нього.
 
-action-name-rf-sensitivity = Toggle RF Sensitivity
-action-desc-rf-sensitivity = Toggle your ability to interpret radio waves on and off.
+action-name-rf-sensitivity = Перемкнути чутливість до РФ
+action-desc-rf-sensitivity = Увімкнути або вимкнути вашу здатність інтерпретувати радіохвилі.
 
-action-name-assay = Assay
-action-description-assay = Probe an entity at close range to glean metaphorical information about any powers they may have
+action-name-assay = Аналіз
+action-description-assay = Дослідити сутність на близькій відстані, щоб отримати метафоричну інформацію про будь-які здібності, які вона може мати

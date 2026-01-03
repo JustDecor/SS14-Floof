@@ -1,13 +1,13 @@
-translator-component-shutoff = The {$translator} shuts off.
-translator-component-turnon = The {$translator} turns on.
-translator-implanter-refuse = The {$implanter} has no effect on {$target}.
-translator-implanter-success = The {$implanter} successfully injected {$target}.
-translator-implanter-ready = This implanter appears to be ready to use.
-translator-implanter-used = This implanter seems empty.
+translator-component-shutoff = {$translator} вимикається.
+translator-component-turnon = {$translator} вмикається.
+translator-implanter-refuse = {$implanter} не діє на {$target}.
+translator-implanter-success = {$implanter} успішно введений {$target}.
+translator-implanter-ready = Цей імплантер, схоже, готовий до використання.
+translator-implanter-used = Цей імплантер, здається, порожній.
 
-translator-examined-langs-understood = It can translate from: [color=green]{$languages}[/color].
-translator-examined-langs-spoken = It can translate to: [color=green]{$languages}[/color].
-translator-examined-requires-any = It requires you to know at least one of these languages: [color=yellow]{$languages}[/color].
-translator-examined-requires-all = It requires you to know all of these languages: [color=yellow]{$languages}[/color].
-translator-examined-enabled = It appears to be [color=green]active[/color].
-translator-examined-disabled = It appears to be [color=red]turned off[/color].
+translator-examined-langs-understood = Він може перекладати з: [color=green]{$languages}[/color].
+translator-examined-langs-spoken = Він може перекладати на: [color=green]{$languages}[/color].
+translator-examined-requires-any = Він вимагає знання хоча б однієї з цих мов: [color=yellow]{$languages}[/color].
+translator-examined-requires-all = Він вимагає знання всіх цих мов: [color=yellow]{$languages}[/color].
+translator-examined-enabled = Здається, він [color=green]активний[/color].
+translator-examined-disabled = Здається, він [color=red]вимкнений[/color].

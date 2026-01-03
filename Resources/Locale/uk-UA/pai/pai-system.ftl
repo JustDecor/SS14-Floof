@@ -1,25 +1,25 @@
-pai-system-pai-installed = A pAI is installed.
-pai-system-off = No pAI is installed.
-pai-system-still-searching = Still searching for a pAI.
-pai-system-searching = Now searching for a pAI...
+pai-system-pai-installed = пШІ встановлено.
+pai-system-off = пШІ не встановлено.
+pai-system-still-searching = Встановлення бібліотеки пШІ досі триває.
+pai-system-searching = Триває встановлення бібліотеки пШІ...
 
-pai-system-role-name = personal ai
-pai-system-role-description = Be someone's electronic pal!
-                              (Memories *not* included.)
-pai-system-role-name-syndicate = Syndicate personal ai
-pai-system-role-description-syndicate = Be someone's Syndicate pal!
-                                        (Memories *not* included.)
-pai-system-role-name-potato = potato artificial intelligence
-pai-system-role-description-potato = It's a toy for children. And now you live in it.
+pai-system-role-name = персональний ШІ
+pai-system-role-description = Стань чиєюсь електронною бляшнакою!
+                              (Спогади у комплект *не входять*.)
+pai-system-role-name-syndicate = персональний ШІ Синдикату
+pai-system-role-description-syndicate = Стань електронним компаньйоном агента Синдикату!
+                                        (Спогади у комплект *не входять*.)
+pai-system-role-name-potato = картопляний ШІ
+pai-system-role-description-potato = Це дитяча іграшка. А тепер ти в ній живеш.
 
-pai-system-wipe-device-verb-text = Remove pAI
-pai-system-wiped-device = The pAI was wiped from the device.
+pai-system-wipe-device-verb-text = Видалити пШІ
+pai-system-wiped-device = Бібліотеку пШІ було видалено з цього пристрою.
 
-pai-system-stop-searching-verb-text = Stop searching
-pai-system-stopped-searching = The device stopped searching for a pAI.
+pai-system-stop-searching-verb-text = Припинити встановлення
+pai-system-stopped-searching = Пристрій припинив встановлення бібліотеки пШІ.
 
-pai-system-pai-name = { CAPITALIZE(THE($owner)) }'s pAI
-pai-system-pai-name-raw = {$name}'s pAI
+pai-system-pai-name = пШІ { CAPITALIZE($owner) }
+pai-system-pai-name-raw = {$name} пШІ
 
-pai-system-brick-popup = The pAI's circuits loudly pop and fizzle out!
-pai-system-scramble-popup = The pAI's circuits are overloaded with electricity!
+pai-system-brick-popup = Схеми pAI голосно тріщать і шиплять!
+pai-system-scramble-popup = Ланцюги pAI перевантажені електроенергією!

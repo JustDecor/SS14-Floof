@@ -1,2 +1,2 @@
-metabolizer-type-feroxi = Feroxi
-metabolizer-type-feroxi-dehydrated = Dehydrated Feroxi
+metabolizer-type-feroxi = Фероксі
+metabolizer-type-feroxi-dehydrated = Зневоднений Фероксі

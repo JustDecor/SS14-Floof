@@ -1,9 +1,9 @@
 ﻿advertisement-nutrimax-1 = We like plants!
-advertisement-nutrimax-2 = Don't you want some?
-advertisement-nutrimax-3 = The greenest thumbs ever.
-advertisement-nutrimax-4 = We like big plants.
-advertisement-nutrimax-5 = Soft soil...
-advertisement-nutrimax-6 = Buckets now included!
-advertisement-nutrimax-7 = The bigger the plant, the better!
-thankyou-nutrimax-1 = Get planting!
-thankyou-nutrimax-2 = Mess with some soil!
+advertisement-nutrimax-2 = Ви не хочете?
+advertisement-nutrimax-3 = Для найкращих ботаніків.
+advertisement-nutrimax-4 = Ми любимо великі рослини.
+advertisement-nutrimax-5 = М'який ґрунт...
+advertisement-nutrimax-6 = Відра тепер включені!
+advertisement-nutrimax-7 = Чим більше рослина, тим краще!
+thankyou-nutrimax-1 = Саджайте!
+thankyou-nutrimax-2 = Помішай трохи ґрунту!

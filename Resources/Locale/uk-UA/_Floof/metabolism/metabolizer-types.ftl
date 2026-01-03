@@ -1,3 +1,3 @@
-metabolizer-type-theobromine-intolerant = Theobromine Intolerant
-metabolizer-type-allicin-intolerant = Allicin Intolerant
-metabolizer-type-succubus = Succubus
+metabolizer-type-theobromine-intolerant = Непереносимість теоброміну
+metabolizer-type-allicin-intolerant = Непереносимість аліцину
+metabolizer-type-succubus = Сукубус

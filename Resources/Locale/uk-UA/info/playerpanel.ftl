@@ -1,7 +1,7 @@
-cmd-playerpanel-desc = Displays general information and actions for a player
-cmd-playerpanel-help = Usage: playerpanel <name or user ID>
+cmd-playerpanel-desc = Відображає загальну інформацію та дії для гравця
+cmd-playerpanel-help = Використання: playerpanel <ім'я або ідентифікатор користувача>
 
-cmd-playerpanel-server = This command cannot be run from the server
-cmd-playerpanel-invalid-arguments = Invalid amount of arguments
-cmd-playerpanel-invalid-player = Player not found
-cmd-playerpanel-completion = <PlayerIndex>
+cmd-playerpanel-server = Цю команду не можна запустити з сервера
+cmd-playerpanel-invalid-arguments = Неправильна кількість аргументів
+cmd-playerpanel-invalid-player = Плеєр не знайдено
+cmd-playerpanel-completion = <Індекс гравця

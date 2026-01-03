@@ -1,2 +1,2 @@
-objective-condition-doorjack-title = Doorjack {$count} doors on the station.
-objective-condition-doorjack-description = Your gloves can emag airlocks. Do this to {$count} doors on the station.
+objective-condition-doorjack-title = Примусово відкрийте {$count} дверей на станції.
+objective-condition-doorjack-description = Ваші рукавички можуть взламати шлюзи. Зробіть це на {$count} дверях станції.

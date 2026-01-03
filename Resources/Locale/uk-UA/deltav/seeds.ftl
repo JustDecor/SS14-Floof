@@ -1,7 +1,7 @@
 # Seeds
-seeds-CrystalThistle-name = CrystalThistle
-seeds-CrystalThistle-display-name = CrystalThistle
-seeds-GhostPepper-name = Ghost Pepper
-seeds-GhostPepper-display-name = Ghost Pepper
-seeds-CosmicRevenant-name = Cosmic Revenant
-seeds-CosmicRevenant-display-name = Cosmic Revenant Pepper
+seeds-CrystalThistle-name = Кришталевий Чортополох
+seeds-CrystalThistle-display-name = Кришталевий Чортополох
+seeds-GhostPepper-name = Перець-примара
+seeds-GhostPepper-display-name = Перець-примара
+seeds-CosmicRevenant-name = Космічний Реванент
+seeds-CosmicRevenant-display-name = Космічний Реванентний Перець

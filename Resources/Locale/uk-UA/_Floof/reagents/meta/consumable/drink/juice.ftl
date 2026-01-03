@@ -1,2 +1,2 @@
-reagent-name-juice-blue-pumpkin = blue pumpkin juice
-reagent-desc-juice-blue-pumpkin = The juice of a blue pumpkin. Smells like pool water.
+reagent-name-juice-blue-pumpkin = сік синього гарбуза
+reagent-desc-juice-blue-pumpkin = Сік синього гарбуза. Пахне водою з басейну.
