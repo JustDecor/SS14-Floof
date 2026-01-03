@@ -57,7 +57,6 @@
           Scientist: [ 3, 4 ]
           Roboticist: [ 1, 1 ]
           ResearchAssistant: [ 2, 3 ]
-          Borg: [ 1, 2 ]
           Librarian: [ 1, 1 ]
           SeniorResearcher: [ 1, 1 ]
         #security
@@ -77,8 +76,12 @@
           CargoTechnician: [ 2, 4 ]
         #civilian
           Passenger: [ -1, -1 ]
-          # Silicon
+        # Silicon
           #StationAi: [ 1, 1 ]
+          Borg: [ 1, 2 ]
+          ServiceQuadBorg: [ 1, 2 ] #Floofstation
+          MedicalQuadBorg: [ 1, 2 ] #Floofstation
+          MedicalBorg: [ 1, 2 ]
         # Justice added by FloofStation
           ChiefJustice: [ 1, 1 ] #FloofStation
           Clerk: [ 1, 1 ] #FloofStation

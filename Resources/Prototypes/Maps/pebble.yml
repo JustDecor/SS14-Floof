@@ -53,7 +53,6 @@
             ForensicMantis: [ 1, 1 ]
             Scientist: [ 2, 3 ]
             ResearchAssistant: [ 2, 2 ]
-            Borg: [ 1, 1 ]
             SeniorResearcher: [ 1, 1 ]
           #security
             HeadOfSecurity: [ 1, 1 ]
@@ -75,3 +74,9 @@
             Clerk: [ 1, 1 ] #FloofStation
             Lawyer: [ 2, 2 ] #FloofStation
             Prosecutor: [ 1, 1 ] #FloofStation
+          # Silicon
+            # StationAi: [ 1, 1 ] #Floofstation - uncomment when we want enabled
+            Borg: [ 1, 1 ]
+            MedicalBorg: [ 1, 1 ]
+            ServiceQuadBorg: [ 1, 1 ] #Floofstation
+            MedicalQuadBorg: [ 1, 1 ] #Floofstation

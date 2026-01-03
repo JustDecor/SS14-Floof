@@ -1,0 +1,1157 @@
+# Missing prototypes from Goob-Station for JustDecor
+
+# ========== BASE PROTOTYPES REQUIRED ==========
+
+# DoorElectronicsAllService - required for AirlockAllService doors
+- type: entity
+  parent: DoorElectronics
+  id: DoorElectronicsAllService
+  suffix: All Service, Locked
+  components:
+  - type: AccessReader
+    access: [["Service"], ["Bar"], ["Kitchen"], ["Hydroponics"], ["Chapel"], ["Theatre"], ["Janitor"], ["HeadOfPersonnel"]]
+
+# Wristwatch - parent for WristwatchGold
+- type: entity
+  id: Wristwatch
+  parent: BaseItem
+  name: wristwatch
+  description: A cheap watch for telling time. How much did you waste playing Space Station 14?
+  components:
+  - type: Sprite
+    sprite: Objects/Devices/wristwatch.rsi
+    layers:
+    - state: wristwatch
+    #- map: [ "enum.ClockVisualLayers.MinuteHand"]
+    #- map: [ "enum.ClockVisualLayers.HourHand"]
+  #- type: Clock
+  - type: Item
+    sprite: Objects/Devices/wristwatch.rsi
+    size: Small
+  - type: Clothing
+    sprite: Objects/Devices/wristwatch.rsi
+    slots:
+    - gloves
+  - type: Appearance
+  - type: Damageable
+    damageContainer: Inorganic
+  - type: StaticPrice
+    price: 50
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 100
+      behaviors:
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+    - trigger:
+        !type:DamageGroupTrigger
+        damageGroup: Brute
+        damage: 25
+      behaviors:
+      - !type:DoActsBehavior
+        acts: [ "Breakage" ]
+  - type: PhysicalComposition
+    materialComposition:
+      Steel: 300
+
+# BaseTowel - parent for all towel colors
+- type: entity
+  id: BaseTowel
+  name: base towel
+  abstract: true
+  description: If you want to survive out here, you gotta know where your towel is.
+  parent: [ UnsensoredClothingUniformBase, ClothingHeadBase, ClothingBeltBase ]
+  components:
+  - type: Sprite
+    sprite: Clothing/Multiple/towel.rsi
+  - type: Clothing
+    sprite: Clothing/Multiple/towel.rsi
+    slots: 
+    - BELT
+    - INNERCLOTHING
+    - HEAD
+    femaleMask: UniformTop
+    equipSound: 
+    unequipSound: 
+  - type: Spillable
+    solution: absorbed
+    spillWhenThrown: false
+  - type: DrainableSolution
+    solution: absorbed
+  - type: Absorbent
+    pickupAmount: 15
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 30
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 30
+      absorbed:
+        maxVol: 30
+  - type: UseDelay
+    delay: 1
+  - type: Fiber
+    fiberColor: fibers-white
+  #- type: DnaSubstanceTrace
+  - type: Item
+    size: Small
+
+# ClothingHandsGlovesEnviroglovesBase - parent for envirogloves
+- type: entity
+  abstract: true
+  parent: ClothingHandsButcherable
+  id: ClothingHandsGlovesEnviroglovesBase
+  components:
+  - type: Armor
+    modifiers:
+      coefficients:
+        Caustic: 0.95
+  #- type: IgniteFromGasImmunity
+   # parts:
+    # - LeftHand
+    # - RightHand
+  - type: Tag
+    tags:
+    - ClothMade
+    - Recyclable
+    - WhitelistChameleon
+    #- PlasmamanSafe
+
+# ========== AIRLOCKS ==========
+
+
+- type: entity
+  parent: AirlockServiceLocked
+  id: AirlockAllServiceLocked
+  suffix: All Service, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsAllService ]
+  - type: Wires
+    layoutId: AirlockService
+
+- type: entity
+  parent: AirlockServiceGlassLocked
+  id: AirlockAllServiceGlassLocked
+  suffix: All Service, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsAllService ]
+  - type: Wires
+    layoutId: AirlockService
+
+# ========== VASE PLANTS ==========
+# Requires DrinkGlassBase parent which should exist in base game
+
+- type: entity
+  id: VaseBase
+  parent: DrinkGlassBase
+  name: vase
+  description: It's a vase. It holds flowers.
+  abstract: true
+  components:
+  - type: Anchorable
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: Water
+          Quantity: 30
+  - type: Sprite
+    sprite: _JustDecor/Structures/Decoration/vase.rsi
+    state: vase-0
+
+- type: entity
+  id: VasePlant0 
+  parent: VaseBase
+  name: empty vase
+  description: It's a vase. It holds flowers. This one is empty.
+  components:
+  - type: Sprite
+    state: vase-0
+
+- type: entity
+  id: VasePlant1 
+  parent: VaseBase
+  components:
+  - type: Sprite
+    state: vase-1
+
+- type: entity
+  id: VasePlant2 
+  parent: VaseBase
+  components:
+  - type: Sprite
+    state: vase-2
+
+- type: entity
+  id: VasePlant3 
+  parent: VaseBase
+  components:
+  - type: Sprite
+    state: vase-3
+
+- type: entity
+  id: VasePlant4 
+  parent: VaseBase
+  components:
+  - type: Sprite
+    state: vase-4
+
+- type: entity
+  id: VasePlant5 
+  parent: VaseBase
+  components:
+  - type: Sprite
+    state: vase-5
+
+- type: entity
+  id: VasePlant6 
+  parent: VaseBase
+  components:
+  - type: Sprite
+    state: vase-6
+
+# ========== WALL DIRECTIONAL ==========
+
+- type: entity
+  id: WallDirectional
+  parent: BaseStructure
+  name: directional wall
+  description: Cheap and cheerful metal plating.
+  placement:
+    mode: SnapgridCenter
+    snap:
+    - Wall
+  components:
+  - type: RangedDamageSound
+    soundGroups:
+      Brute:
+        collection:
+          MetalBulletImpact
+    soundTypes:
+      Heat:
+        collection:
+          MetalLaserImpact
+  - type: Tag
+    tags:
+      - Wall
+  - type: MeleeSound
+    soundGroups:
+      Brute:
+        collection: MetalThud
+  - type: Sprite
+    drawdepth: Mobs
+    sprite: _JustDecor/Structures/Walls/directional.rsi
+    state: directionalwall
+  - type: Icon
+    sprite: _JustDecor/Structures/Walls/directional.rsi
+    state: directionalwall
+  - type: Physics
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.5,-0.5,0.5,-0.28125"
+        density: 500
+        mask:
+        - FullTileMask
+        layer:
+        - WallLayer
+  - type: Repairable
+  - type: Damageable
+    damageContainer: StructuralInorganic
+    damageModifierSet: StructuralMetallic
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 150
+      behaviors:
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          SheetSteel:
+            min: 1
+            max: 2
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: RCDDeconstructable
+    cost: 4
+    delay: 2
+    fx: EffectRCDDeconstruct2
+  - type: Airtight
+    noAirWhenFullyAirBlocked: false
+    airBlockedDirection:
+    - South
+  - type: Occluder
+    boundingBox: "-0.5,-0.5,0.5,-0.28125"
+  - type: StaticPrice
+    price: 37
+  - type: BlockWeather
+
+# ========== CAMPFIRE ==========
+
+- type: entity
+  id: RMCCampfire
+  parent: Bonfire
+  name: campfire
+  description: A useful tool to turn fellow marines into lifelong friends. Pull up a chair!
+  components:
+  - type: Sprite
+    noRot: true
+    sprite: _JustDecor/Structures/campfire.rsi
+    layers:
+      - state: campfire
+      - state: burning
+
+# ========== CONTRACTOR BATON ==========
+
+- type: entity
+  id: ContractorBaton
+  parent: TelescopicBaton
+  name: contractor baton
+  description: A compact, specialised baton assigned to Syndicate contractors. Applies light electrical shocks to targets.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Objects/Weapons/Melee/contractor_baton.rsi
+    layers:
+    - state: icon
+      map: [ "enum.TelescopicBatonVisuals.Layer" ]
+  - type: Item
+    sprite: _JustDecor/Objects/Weapons/Melee/contractor_baton.rsi
+  - type: Clothing
+    sprite: _JustDecor/Objects/Weapons/Melee/contractor_baton.rsi
+    slots: [ Belt ]
+  - type: UseDelay
+
+# ========== STASIS BATON ==========
+
+- type: entity
+  name: futuristic stunbaton
+  parent: Stunbaton
+  id: StasisBaton
+  description: An advanced security baton for shutting down interfering tiders
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Objects/Weapons/Melee/stasisbaton.rsi
+    layers:
+    - state: stunbaton_off
+      map: [ "enum.ToggleVisuals.Layer" ]
+  - type: Stunbaton
+    energyPerUse: 10
+  - type: ItemToggle
+    predictable: false
+    soundActivate:
+      path: /Audio/Weapons/eblademiss.ogg
+      params:
+        variation: 0.250
+    soundDeactivate:
+      path: /Audio/Weapons/eblademiss.ogg
+      params:
+        variation: 0.250
+    soundFailToActivate:
+      path: /Audio/Weapons/eblademiss.ogg
+      params:
+        variation: 0.250
+  - type: StaminaDamageOnHit
+    damage: 75
+    sound: /Audio/Weapons/egloves.ogg
+  - type: UseDelay
+  - type: Item
+    size: Small
+  - type: BatterySelfRecharger
+    autoRecharge: true
+    autoRechargeRate: 5
+
+# ========== PINK HANDCUFFS ==========
+
+- type: entity
+  name: рожеві наручники
+  description: Використовується для затримання та покарання поганих хлопчиків, дівчаток та інших покидьків.
+  id: PinkHandcuffs
+  parent: BaseItem
+  components:
+  - type: Item
+    size: Small
+    storedRotation: 90
+  - type: Handcuff
+    cuffedRSI: _JustDecor/Objects/Misc/pink_handcuffs.rsi
+    bodyIconState: body-overlay
+    breakoutTime: 3
+  - type: Sprite
+    sprite: _JustDecor/Objects/Misc/pink_handcuffs.rsi
+    state: handcuff
+  - type: Tag
+    tags:
+    - Handcuffs
+  - type: MeleeWeapon
+    wideAnimationRotation: 90
+    resetOnHandSelected: false
+    damage:
+      types:
+        Blunt: 0
+  - type: UseDelay
+    delay: 3
+
+# ========== HOLO CIGAR ==========
+
+- type: entity
+  parent: BaseItem
+  id: HoloCigar
+  name: holo-cigar
+  description: A sleek electronic cigar imported straight from Sol. You feel badass merely glimpsing it...
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Objects/Devices/holocigar.rsi
+    state: icon
+    scale: 0.8, 0.8
+  - type: Clothing
+    sprite: Objects/Consumable/Smokeables/Cigars/cigar.rsi
+    slots: [ mask ]
+    equippedPrefix: unlit
+  - type: Item
+    size: Tiny
+    sprite: Objects/Consumable/Smokeables/Cigars/cigar.rsi
+    heldPrefix: unlit
+  - type: Appearance
+  - type: BurnStateVisuals
+
+# ========== CLOTHING - CADET JUMPSUIT ==========
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitCadet
+  name: футболка кадета
+  description: Футболка зроблена з міцної тканини, використовується кадетами Служби Безпеки
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Clothing/Uniforms/Jumpsuit/security_cadet.rsi
+  - type: Clothing
+    sprite: _JustDecor/Clothing/Uniforms/Jumpsuit/security_cadet.rsi
+
+# ========== CLOTHING - HEAD MAID JUMPSKIRT ==========
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtHeadMaid
+  name: Вбрання старшої покоївки
+  description: Було випущене обмеженим тиражем під спеціальне замовлення компанії, яка надавала послуги з прибирання станцій після різноманітних катастроф.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Clothing/Uniforms/Jumpskirt/headmaid.rsi
+  - type: Clothing
+    sprite: _JustDecor/Clothing/Uniforms/Jumpskirt/headmaid.rsi
+
+# ========== RMC OVERHEAD SIGN NEON BAR ==========
+
+- type: entity
+  id: RMCOverheadSign
+  abstract: true
+  name: sign
+  placement:
+    mode: SnapgridCenter
+    snap:
+    - Wall
+  components:
+  - type: SpriteFade
+  - type: Transform
+    anchored: true
+  - type: Sprite
+    noRot: true
+    sprite: _JustDecor/Structures/overhead_neon_signs.rsi
+    offset: 0.25,0.5
+    drawdepth: Overdoors
+  - type: Anchorable
+  - type: Clickable
+
+- type: entity
+  parent: RMCOverheadSign
+  id: RMCOverheadSignNeon
+  abstract: true
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Structures/overhead_neon_signs.rsi
+    layers:
+      - state: barsign_on
+      - state: barsign_off
+        visible: false
+        map: [ "light" ]
+  - type: PointLight
+    enabled: true
+    radius: 4
+    netsync: true
+    energy: 5
+    offset: "0,0"
+    color: "#ECFFFF"
+
+- type: entity
+  parent: RMCOverheadSignNeon
+  id: RMCOverheadSignNeonBar
+  components:
+  - type: Sprite
+    layers:
+      - state: barsign_on
+      - state: barsign_off
+        visible: false
+        map: [ "light" ]
+  - type: PointLight
+    color: "#00AAFF"
+
+# ========== SPAWNERS ==========
+
+- type: entity
+  name: light office chair spawner
+  id: SpawnVehicleChairOfficeLight
+  parent: MarkerBase
+  components:
+  - type: Sprite
+    layers:
+      - state: green
+      - sprite: Structures/Furniture/chairs.rsi
+        state: office-white
+  - type: ConditionalSpawner
+    prototypes:
+      - ChairOfficeLight
+
+- type: entity
+  name: dark office chair spawner
+  id: SpawnVehicleChairOfficeDark
+  parent: MarkerBase
+  components:
+  - type: Sprite
+    layers:
+      - state: green
+      - sprite: Structures/Furniture/chairs.rsi
+        state: office-dark
+  - type: ConditionalSpawner
+    prototypes:
+      - ChairOfficeDark
+
+# ========== TASK BOTTLE ==========
+
+- type: entity
+  id: TaskBottle
+  parent: DrinkGlass
+  components:
+  - type: Tag
+    tags:
+    - Vial
+  description: A normal bottle, that could be inserted inside a NTRs task console.
+
+# ========== GOLDEN PLUNGER ==========
+# Uses vanilla texture
+
+- type: entity
+  parent: Plunger
+  id: GoldenPlunger
+  name: golden plunger
+  description: For the janitor with discriminating tastes, a golden plunger. As good as gold at blocking pipes and clearing clogs.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Objects/Specific/Janitorial/golden_plunger.rsi
+    state: plunger
+  - type: Tag
+    tags:
+    - GoldenPlunger
+    - PlungerBlock
+
+# ========== MANNEQUIN ==========
+
+- type: entity
+  id: Mannequin
+  parent: BaseStructureDynamic
+  name: mannequin
+  description: It can wear any clothing with style.
+  components:
+  - type: Appearance
+  - type: Sprite
+    sprite: _JustDecor/Structures/Decoration/mannequin.rsi
+    state: mannequin
+    noRot: true
+    layers:
+    - map: [ "mannequin" ]
+      sprite: _JustDecor/Structures/Decoration/mannequin.rsi
+      state: mannequin
+    - map: [ "jumpsuit" ]
+    - map: [ "outerClothing" ]
+    - map: [ "eyes" ]
+    - map: [ "neck" ]
+    - map: [ "back" ]
+    - map: [ "mask" ]
+    - map: [ "head" ]
+  - type: Rotatable
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.2
+        density: 200
+        mask:
+        - MachineMask
+        layer:
+        - MidImpassable
+        - BulletImpassable
+  - type: InteractionOutline
+  - type: Damageable
+    damageContainer: StructuralInorganic
+    damageModifierSet: Wood
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 200
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          collection: WoodDestroy
+      - !type:EmptyAllContainersBehaviour
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+
+# ========== WRISTWATCH GOLD ==========
+
+- type: entity
+  parent: Wristwatch
+  id: WristwatchGold
+  name: gold watch
+  description: A fancy watch worth more than your kidney. It was owned by the notorious Syndicate mobster Vunibaldo "200 Pound Horse Meat Grinder" Frediani.
+  components:
+  - type: Sprite
+    sprite: Objects/Devices/goldwatch.rsi
+    layers:
+    - state: goldwatch
+    #- map: [ "enum.ClockVisualLayers.MinuteHand"]
+    #- map: [ "enum.ClockVisualLayers.HourHand"]
+  - type: Item
+    sprite: Objects/Devices/goldwatch.rsi
+  - type: Clothing
+    sprite: Objects/Devices/goldwatch.rsi
+  - type: StaticPrice
+    price: 500
+  - type: PhysicalComposition
+    materialComposition:
+      Gold: 500
+
+
+# ========== SIGN DETECTIVE ==========
+
+- type: entity
+  parent: BaseSign
+  id: SignDetective
+  name: Detective sign
+  description: A sign depicting the detective's office.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Structures/Wallmounts/signs.rsi
+    state: detective
+
+# ========== MYSTERY LIGHTER BOX ==========
+
+- type: entity
+  parent: MysteryFigureBox
+  id: MysteryLighterBox
+  name: mystery lighter box
+  description: Contains a random collectible lighter, varying in rarity!
+  components:
+  - type: SpawnItemsOnUse
+    items:
+      - id: Lighter
+        orGroup: LighterFig
+      - id: FlippoLighter
+        prob: 0.40
+        orGroup: LighterFig
+      - id: FlippoLighterDisco
+        prob: 0.20
+        orGroup: LighterFig
+      - id: FlippoEngravedZippoBuck
+        prob: 0.12
+        orGroup: LighterFig
+
+# ========== CLOSET WALL WARDROBE PRISON FILLED ==========
+
+- type: entity
+  id: ClosetWallWardrobePrisonFilled
+  suffix: Filled
+  parent: ClosetWallOrange
+  components:
+  - type: StorageFill
+    contents:
+    - id: ClothingUniformJumpsuitPrisoner
+    - id: ClothingUniformJumpskirtPrisoner
+    - id: ClothingShoesColorBlack
+
+# ========== LIZARD SLIPPERS ==========
+
+- type: entity
+  parent: ClothingShoesBaseButcherable
+  id: ClothingShoeSlippersLizard
+  name: lizard plushie slippers
+  description: An adorable pair of slippers that resemble a lizardperson. Combine this with some other green clothing and you'll be the coolest crewmember on the station!
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Clothing/Shoes/Misc/lizard-slippers.rsi
+  - type: Clothing
+    sprite: _JustDecor/Clothing/Shoes/Misc/lizard-slippers.rsi
+
+# ========== ENVIROGLOVES DETECTIVE ==========
+
+- type: entity
+  parent: ClothingHandsGlovesEnviroglovesBase
+  id: ClothingHandsGlovesEnviroglovesDetective
+  name: forensic envirogloves
+  description: Covers up those scandalous boney fingerprints.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Clothing/Hands/Gloves/color.rsi
+    layers:
+      - state: icon
+        color: "#606060"
+  - type: Clothing
+    sprite: _JustDecor/Clothing/Hands/Gloves/color.rsi
+    clothingVisuals:
+      gloves:
+        - state: equipped-GLOVES
+          color: "#606060"
+  - type: FingerprintMask
+
+# ========== GUN SAFE BASE SECURE ==========
+
+- type: entity
+  id: GunSafeBaseSecure
+  parent: GunSafe
+  suffix: Armory, Locked
+  components:
+  - type: AccessReader
+    access: [["Armory"]]
+
+# ========== MAINTENANCE INSULS SPAWNER ==========
+
+- type: entity
+  name: insulated gloves spawner
+  id: MaintenanceInsulsSpawner
+  parent: MarkerBase
+  components:
+  - type: Sprite
+    layers:
+      - state: green
+      - sprite: _JustDecor/Clothing/Hands/Gloves/color.rsi
+        state: icon
+        color: "#FFD800"
+  - type: RandomSpawner
+    prototypes:
+    - ClothingHandsGlovesColorYellow
+
+# ========== RANDOM FOOD BREAKFAST ==========
+
+- type: entity
+  id: RandomFoodBreakfast
+  name: breakfast food spawner
+  parent: MarkerBase
+  components:
+  - type: Sprite
+    layers:
+      - state: plate-small
+      - sprite: _JustDecor/Objects/Consumable/Food/Baked/pie.rsi
+        state: whippedcream
+  - type: RandomSpawner
+    prototypes:
+    - FoodBreadButteredToast
+    - FoodBreadButteredToast
+    - FoodEggFried
+    - FoodMealEggBacon
+    - FoodMeatAnomalyCooked
+
+# ========== POWERED LIGHT BLACK ==========
+
+- type: entity
+  id: PoweredlightBlack
+  parent: Poweredlight
+  suffix: Black
+  components:
+  - type: PoweredLight
+    bulb: Tube
+    hasLampOnSpawn: BlacklightTube
+
+# ========== FLORA TREE ==========
+
+- type: entity
+  parent: BaseTree
+  id: FloraTree
+  name: tree
+  components:
+  - type: Sprite
+    layers:
+    - state: tree01
+      map: ["random"]
+  - type: RandomSprite
+    available:
+    - random:
+        tree01: ""
+        tree02: ""
+        tree03: ""
+        tree04: ""
+        tree05: ""
+        tree06: ""
+
+# ========== FLORA TREE LARGE ==========
+
+- type: entity
+  parent: BaseTreeLarge
+  id: FloraTreeLarge
+  name: large tree
+  components:
+  - type: Sprite
+    layers:
+    - state: treelarge01
+      map: ["random"]
+  - type: RandomSprite
+    available:
+    - random:
+        treelarge01: ""
+        treelarge02: ""
+        treelarge03: ""
+        treelarge04: ""
+        treelarge05: ""
+        treelarge06: ""
+
+# ========== CHEMISTRY BOTTLE EPINEPHRINE ==========
+
+- type: entity
+  id: ChemistryBottleEpinephrine
+  suffix: epinephrine
+  parent: BaseChemistryBottleFilled
+  components:
+  - type: Label
+    currentLabel: reagent-name-epinephrine
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: Epinephrine
+          Quantity: 30
+
+# ========== FOOD MEAT ANOMALY COOKED ==========
+
+- type: entity
+  parent: FoodMeatCooked
+  id: FoodMeatAnomalyCooked
+  name: cooked anomaly meat
+  description: A portion of cooked meat from an anomaly.
+  components:
+  - type: Sprite
+    state: anomaly-cooked
+
+# ========== FOOD RED CAVIAR ==========
+
+- type: entity
+  parent: DrinkCanBaseFull
+  id: FoodRedCaviar
+  name: red caviar
+  description: A tin of red caviar. Very expensive.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Objects/Consumable/Food/red_caviar.rsi
+    state: icon
+  - type: Drink
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: Nutriment
+          Quantity: 20
+
+# ========== MILITARY TURTLENECK MERCENARY ==========
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitMilitaryTurtleneckMercenary
+  name: mercenary jumpsuit
+  suffix: Military
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Clothing/Uniforms/Jumpsuit/military.rsi
+    layers:
+    - state: icon-base-bottom
+      color: "#3e3e48"
+    - state: icon-base-top-turtleneck
+      color: "#b5b56e"
+    - state: icon-belt
+      color: "#3e3e48"
+    - state: icon-belt-buckle
+  - type: Clothing
+    sprite: _JustDecor/Clothing/Uniforms/Jumpsuit/military.rsi
+    clothingVisuals:
+      jumpsuit:
+      - state: equipped-base-bottom
+        color: "#3e3e48"
+      - state: equipped-base-top-turtleneck-alt
+        color: "#b5b56e"
+      - state: equipped-belt
+        color: "#3e3e48"
+      - state: equipped-belt-buckle
+
+# ========== MILITARY TURTLENECK BLUE MERCENARY ==========
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary
+  name: mercenary jumpsuit
+  suffix: Military, Blue
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Clothing/Uniforms/Jumpsuit/military.rsi
+    layers:
+    - state: icon-base-bottom
+      color: "#412f24"
+    - state: icon-base-top-turtleneck
+      color: "#496ea0"
+    - state: icon-belt
+      color: "#3e3e48"
+    - state: icon-belt-buckle
+  - type: Clothing
+    sprite: _JustDecor/Clothing/Uniforms/Jumpsuit/military.rsi
+    clothingVisuals:
+      jumpsuit:
+      - state: equipped-base-bottom
+        color: "#412f24"
+      - state: equipped-base-top-turtleneck-alt
+        color: "#496ea0"
+      - state: equipped-belt
+        color: "#3e3e48"
+      - state: equipped-belt-buckle
+
+# ========== CONTRABAND DETECTOR ==========
+
+- type: entity
+  id: ContrabandDetectorFrame
+  parent: BaseStructure
+  name: contraband detector frame
+  description: An unfinished contraband detector frame.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Structures/Machines/contraband_detector.rsi
+    state: frame
+  - type: Icon
+    sprite: _JustDecor/Structures/Machines/contraband_detector.rsi
+    state: frame
+
+- type: entity
+  id: ContrabandDetectorSecure
+  parent: BaseStructure
+  name: contraband detector
+  description: A security scanner that detects contraband items on people walking through.
+  components:
+  - type: Sprite
+    sprite: _JustDecor/Structures/Machines/contraband_detector.rsi
+    state: scan
+
+# ========== TOWELS ==========
+# These use vanilla towel.rsi which should already exist
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorBlack
+  name: black towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#535353"
+  - type: Clothing
+    clothingVisuals:
+      head:
+      - state: equipped-HELMET
+        color: "#535353"
+      jumpsuit:
+      - state: equipped-INNERCLOTHING
+        color: "#535353"
+      belt:
+      - state: equipped-BELT
+        color: "#535353"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorBlue
+  name: blue towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#0089EF"
+  - type: Clothing
+    clothingVisuals:
+      head:
+      - state: equipped-HELMET
+        color: "#0089EF"
+      jumpsuit:
+      - state: equipped-INNERCLOTHING
+        color: "#0089EF"
+      belt:
+      - state: equipped-BELT
+        color: "#0089EF"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorBrown
+  name: brown towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#723A02"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorDarkBlue
+  name: dark blue towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#3285ba"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorGold
+  name: gold towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#F7C430"
+    - state: iconstripe
+      color: "#535353"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorGray
+  name: gray towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#999999"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorGreen
+  name: green towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#5ABF2F"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorLightBlue
+  name: light blue towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#58abcc"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorLightBrown
+  name: light brown towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#c59431"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorMaroon
+  name: maroon towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#cc295f"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorMime
+  name: silent towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#EAE8E8"
+    - state: iconstripe
+      color: "#535353"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorOrange
+  name: orange towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#EF8100"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorPink
+  name: pink towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#ffa69b"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorRed
+  name: red towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#940000"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorSyndicate
+  name: syndicate towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#535353"
+    - state: iconstripe
+      color: "#940000"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorWhite
+  name: white towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#EAE8E8"
+
+- type: entity
+  parent: BaseTowel
+  id: TowelColorYellow
+  name: yellow towel
+  components:
+  - type: Sprite
+    layers:
+    - state: icon
+      color: "#ffe14d"

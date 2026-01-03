@@ -473,9 +473,7 @@
     - Dermaline
     - Arithrazine
     - Bicaridine
-    - Inaprovaline
-    - Kelotane
-    - Dexalin
+    - DexalinPlus
     - Omnizine
 
 - type: artifactEffect
@@ -491,9 +489,7 @@
     - Dermaline
     - Arithrazine
     - Bicaridine
-    - Inaprovaline
-    - Kelotane
-    - Dexalin
+    - DexalinPlus
     - Omnizine
     - Napalm
     - Toxin
@@ -502,9 +498,11 @@
     - Ultravasculine
     - Desoxyephedrine
     - Pax
-    - Siderlac
     - Libidozenithizine # Floof - Artifact tweaks
     - Philterex # Floof - Artifact tweaks
+    - Vestine # Floof - Artifact tweaks
+    - Nocturine # Floof - Artifact tweaks
+    - Ventanyl # Floof - Artifact tweaks
 
 - type: artifactEffect
   id: EffectEmp
@@ -624,6 +622,7 @@
     - ChloralHydrate
     - Mold
     - Amatoxin
+    - Libidozenithizine # Floof - Foam Dangerous yeah this kills you
 
 - type: artifactEffect
   id: EffectIgnite

@@ -1045,17 +1045,17 @@
   requirements:
   - !type:CharacterItemGroupRequirement
     group: LoadoutSecurityWeapons
-  - !type:CharacterDepartmentTimeRequirement
-    department: Security
-    min: 259200 # 3 days
-  - !type:CharacterLogicOrRequirement
-    requirements:
-    - !type:CharacterDepartmentRequirement
-      departments:
-      - Security
-    - !type:CharacterJobRequirement
-      jobs:
-      - BlueshieldOfficer
+  # - !type:CharacterDepartmentTimeRequirement # Floofstation - Remove Energy Revolver from Security's Loadouts
+  #   department: Security
+  #   min: 259200 # 3 days
+  # - !type:CharacterLogicOrRequirement
+  #   requirements:
+  #   - !type:CharacterDepartmentRequirement
+  #     departments:
+  #     - Security
+  - !type:CharacterJobRequirement
+    jobs:
+    - BlueshieldOfficer
   items:
   - WeaponEnergyRevolverSecurity
 

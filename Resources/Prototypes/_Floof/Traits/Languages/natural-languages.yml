@@ -1,7 +1,7 @@
 # Note: these languages REPLACE your species' natural language, hence they take no slots.
 - type: trait
   id: NaturalRatvarian
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -20,7 +20,7 @@
 
 - type: trait
   id: NaturalChittin
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -40,7 +40,7 @@
 
 - type: trait
   id: NaturalNehina
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -60,7 +60,7 @@
 
 - type: trait
   id: NaturalMouse
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -80,7 +80,7 @@
 
 - type: trait
   id: NaturalCanilunzt
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -100,7 +100,7 @@
 
 - type: trait
   id: NaturalRobotTalk
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -120,7 +120,7 @@
 
 - type: trait
   id: NaturalArachnic
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -141,7 +141,7 @@
 
 - type: trait
   id: NaturalRootSpeak
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -161,7 +161,7 @@
 
 - type: trait
   id: NaturalSolCommon
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -173,6 +173,7 @@
       species:
         - Human
         - Shadowkin
+        - Felinid
   functions:
     - !type:TraitAddComponent
       components:
@@ -181,7 +182,7 @@
 
 - type: trait
   id: NaturalValyrianStandard
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -201,7 +202,7 @@
 
 - type: trait
   id: NaturalMoffic
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -221,7 +222,7 @@
 
 - type: trait
   id: NaturalDraconic
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -241,7 +242,7 @@
 
 - type: trait
   id: NaturalBubblish
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -261,7 +262,7 @@
 
 - type: trait
   id: NaturalSchechi
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -281,7 +282,7 @@
 
 - type: trait
   id: NaturalNekomimetic
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -292,7 +293,6 @@
       inverted: true
       species:
         - Felinid
-        - Oni
         - Shadowkin
   functions:
     - !type:TraitAddComponent
@@ -302,7 +302,7 @@
 
 - type: trait
   id: NaturalKagebun
-  category: TraitsSpeechLanguages
+  category: TraitsSpeechNatural
   points: -1
   slots: 0
   priority: -1
@@ -313,6 +313,7 @@
       inverted: true
       species:
         - Kitsune
+        - Oni
         - Shadowkin
   functions:
     - !type:TraitAddComponent
