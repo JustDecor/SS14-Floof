@@ -1,0 +1,17 @@
+guide-entry-standard-operating-procedures = Стандартні операційні процедури
+guide-entry-companypolicy = Корпоративна політика NanoTrasen
+guide-entry-policy-codeofconduct = Кодекс поведінки
+guide-entry-policy-self-defence = Самооборона
+guide-entry-policy-conductunbecoming = Неприйнятна поведінка
+guide-entry-policy-appearancestandards = Стандарти зовнішнього вигляду
+guide-entry-policy-dangersfromcompetitors = Небезпеки від наших конкурентів
+guide-entry-mutinyguidelines = Інструкції з бунту
+guide-entry-permits = Дозволи
+guide-entry-generalregulations = Загальні правила
+guide-entry-commandhierarchy = Командна ієрархія
+guide-entry-alertprocedure = Процедура тривоги
+guide-entry-policy-spacelaw = Космічний закон
+guide-entry-epistemicsSOP = СОП Епістеміки
+guide-entry-engineeringSOP = СОП Інженерії
+guide-entry-securitySOP = СОП Охорони
+guide-entry-briggingSOP = СОП Затримання

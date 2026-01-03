@@ -10,7 +10,7 @@ namespace Content.Shared.Localizations
         [Dependency] private readonly ILocalizationManager _loc = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "uk-UA";
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -43,7 +43,7 @@ namespace Content.Shared.Localizations
              * localization you should NOT modify these, instead add new functions specific to your language/culture.
              * This ensures the english translations continue to work as expected when fallbacks are needed.
              */
-            var cultureEn = new CultureInfo("en-US");
+            var cultureEn = new CultureInfo("uk-UA");
 
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
@@ -67,8 +67,8 @@ namespace Content.Shared.Localizations
         private ILocValue FormatNaturalPercent(LocArgs args)
         {
             var number = ((LocValueNumber) args.Args[0]).Value * 100;
-            var maxDecimals = (int)Math.Floor(((LocValueNumber) args.Args[1]).Value);
-            var formatter = (NumberFormatInfo)NumberFormatInfo.GetInstance(CultureInfo.GetCultureInfo(Culture)).Clone();
+            var maxDecimals = (int) Math.Floor(((LocValueNumber) args.Args[1]).Value);
+            var formatter = (NumberFormatInfo) NumberFormatInfo.GetInstance(CultureInfo.GetCultureInfo(Culture)).Clone();
             formatter.NumberDecimalDigits = maxDecimals;
             return new LocValueString(string.Format(formatter, "{0:N}", number).TrimEnd('0').TrimEnd(char.Parse(formatter.NumberDecimalSeparator)) + "%");
         }
@@ -76,8 +76,8 @@ namespace Content.Shared.Localizations
         private ILocValue FormatNaturalFixed(LocArgs args)
         {
             var number = ((LocValueNumber) args.Args[0]).Value;
-            var maxDecimals = (int)Math.Floor(((LocValueNumber) args.Args[1]).Value);
-            var formatter = (NumberFormatInfo)NumberFormatInfo.GetInstance(CultureInfo.GetCultureInfo(Culture)).Clone();
+            var maxDecimals = (int) Math.Floor(((LocValueNumber) args.Args[1]).Value);
+            var formatter = (NumberFormatInfo) NumberFormatInfo.GetInstance(CultureInfo.GetCultureInfo(Culture)).Clone();
             formatter.NumberDecimalDigits = maxDecimals;
             return new LocValueString(string.Format(formatter, "{0:N}", number).TrimEnd('0').TrimEnd(char.Parse(formatter.NumberDecimalSeparator)));
         }
@@ -274,19 +274,19 @@ namespace Content.Shared.Localizations
         {
             n = n.TrimStart('0');
             string result;
-            if(isFirst && n == "")
+            if (isFirst && n == "")
                 result = "zero";
-            else if(n.StartsWith("-"))
+            else if (n.StartsWith("-"))
                 result = "negative " + IntToEnglishText(n[1..]);
-            else if(n == "")
+            else if (n == "")
                 result = "";
-            else if(n.Length == 1)
+            else if (n.Length == 1)
                 result = ZeroToNineteen[int.Parse(n)] + " ";
-            else if(n.Length == 2 && n.StartsWith('1'))
+            else if (n.Length == 2 && n.StartsWith('1'))
                 result = ZeroToNineteen[int.Parse(n)] + (isFirst ? null : " ");
-            else if(n.Length == 2)
+            else if (n.Length == 2)
                 result = TwentyToNinety[int.Parse(n) / 10 - 2] + (n[1] != '0' ? "-" + IntToEnglishText(n[1].ToString()) : null);
-            else if(n.Length == 3)
+            else if (n.Length == 3)
                 result = IntToEnglishText(n[0].ToString()) + "hundred " + (n[1..3] != "00" ? "and " + IntToEnglishText(n[1..3]) : null);
             else if (n.Length <= 6 + 3 * LargeNumberNames.Length)
             {
@@ -301,7 +301,7 @@ namespace Content.Shared.Localizations
             }
             else
                 result = n; // if it's bigger than 999 vigintillion, just fucking bail
-            if(isFirst)
+            if (isFirst)
                 result = result.Trim();
             return result;
         }
