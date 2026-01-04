@@ -1,0 +1,86 @@
+- type: gameMap
+  id: ERPIsland
+  mapName: 'ERP Island'
+  mapPath: /Maps/_ERP/Island.yml
+  minPlayers: 0 #
+  maxPlayers: 20 #
+  stations:
+    ERPIsland:
+      stationProto: StandardNanotrasenStation
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: '{0} ERP Island {1}'
+        nameGenerator:
+          !type:NanotrasenNameGenerator
+          prefixCreator: 'TG'
+      - type: StationEmergencyShuttle
+        emergencyShuttlePath: /Maps/Shuttles/emergency_meta.yml
+      - type: StationJobs
+        availableJobs:
+          #service
+          Captain: [ 1, 1 ]
+          #BlueshieldOfficer: [ 1, 1] Floof - uncomment once implemented on Floof maps
+          #NanotrasenRepresentative: [ 1, 1 ] Floof - uncomment once implemented on Floof maps
+          AdministrativeAssistant: [ 1, 1 ]
+          HeadOfPersonnel: [ 0, 0 ]
+          Bartender: [ 0, 0 ]
+          Botanist: [ 0, 0 ]
+          Chef: [ 0, 0 ]
+          Janitor: [ 0, 0 ]
+          Librarian: [ 0, 0 ]
+          ServiceWorker: [ 2, 3 ]
+          Reporter: [ 0, 0 ]
+          #engineering
+          ChiefEngineer: [ 0, 0 ]
+          AtmosphericTechnician: [ 0, 0 ]
+          StationEngineer: [ 1, 2 ]
+          TechnicalAssistant: [ 0, 0 ]
+          SeniorEngineer: [ 0, 0 ]
+          #medical
+          ChiefMedicalOfficer: [ 0, 0 ]
+          Chemist: [ 0, 0 ]
+          MedicalDoctor: [ 1, 2 ]
+          MedicalIntern: [ 0, 0 ]
+          Paramedic: [ 0, 0 ]
+          SeniorPhysician: [ 0, 0 ]
+          #science
+          ResearchDirector: [ 0, 0 ]
+          Scientist: [ 0, 0 ]
+          ResearchAssistant: [ 0, 0 ]
+          Chaplain: [ 0, 0 ]
+          Roboticist: [ 0, 0 ]
+          ForensicMantis: [ 0, 0 ]
+          SeniorResearcher: [ 0, 0 ]
+          #security
+          HeadOfSecurity: [ 0, 0 ]
+          Warden: [ 0, 0 ]
+          SecurityOfficer: [ 2, 2 ]
+          Detective: [ 0, 1 ]
+          SecurityCadet: [ 0, 0 ]
+          Brigmedic: [ 0, 0 ]
+          Prisoner: [ 1, 1 ]
+          PrisonGuard: [ 0, 0 ]
+          SeniorOfficer: [ 0, 0 ]
+          #supply
+          Quartermaster: [ 0, 0 ]
+          SalvageSpecialist: [ 0, 0 ]
+          CargoTechnician: [ 0, 0 ]
+          MailCarrier: [ 0, 0 ]
+          InventorySpecialist: [ 0, 0 ] #FloofStation
+          #civilian
+          Passenger: [ -1, -1 ]
+          Clown: [ 0, 0 ]
+          Mime: [ 0, 0 ]
+          Musician: [ 0, 0 ]
+          Anomaly: [ 0, 0 ] # Floofstation
+          # Silicon
+          # StationAi: [ 1, 1 ] #Floofstation - uncomment when we want enabled
+          Borg: [ 0, 0 ]
+          MedicalBorg: [ 0, 0 ]
+          ServiceQuadBorg: [ 0, 0 ] #Floofstation
+          MedicalQuadBorg: [ 0, 0 ] #Floofstation
+          #justice added by FloofStation
+          ChiefJustice: [ 0, 0 ] #FloofStation
+          Clerk: [ 0, 0 ] #FloofStation
+          Lawyer: [ 0, 0 ] #FloofStation
+          Prosecutor: [ 0, 0 ] #FloofStation
