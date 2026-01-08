@@ -1,4 +1,4 @@
-player-panel-job-whitelists = Вайтліст вакансій
+player-panel-job-whitelists = Вайтліст ролей
 player-panel-title = інформація про {$player}
 player-panel-username = Ім'я користувача: {$player}
 player-panel-whitelisted = У білому списку:

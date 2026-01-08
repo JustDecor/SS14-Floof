@@ -1,7 +1,7 @@
-custom-objective-button-text = Написати підсумок цілей
+custom-objective-button-text = Написати звіт по цілі
 
 # UI
-custom-objective-window-title = Власний підсумок цілей
+custom-objective-window-title = Власний звіт по цілі
 custom-objective-window-submit-button-text = Надіслати
 custom-objective-window-submit-bind-hint = Використайте {$keybind} для надсилання
 custom-objective-window-explain = Поясніть, як ви виконали свої цілі!

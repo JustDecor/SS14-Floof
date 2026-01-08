@@ -13,4 +13,4 @@ admin-explosion-eui-label-directional = Спрямований
 admin-explosion-eui-label-angle = Кут
 admin-explosion-eui-label-spread = Розширення
 admin-explosion-eui-label-distance = Відстань
-admin-explosion-eui-label-spawn = Каблум!
+admin-explosion-eui-label-spawn = Кабум!

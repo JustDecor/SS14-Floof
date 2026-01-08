@@ -1,5 +1,5 @@
 death-match-title = ДезМатч
-death-match-description = Вбивайте все, що рухається! Звичайна рольова гра не обов'язкова. Перемагає перший, хто набере 31 очко!
+death-match-description = Вбивайте все, що рухається! Звичайна рольова гра не обов'язкова. Перемагає перший, хто набере 31 бал!
 
 death-match-name-player = [bold]{$name}[/bold] ([italic]{$username}[/italic])
 death-match-name-npc = [bold]{$name}[/bold]

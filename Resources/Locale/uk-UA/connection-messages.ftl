@@ -1,11 +1,11 @@
-﻿cmd-whitelistadd-desc = Adds the player with the given username to the server whitelist.
+﻿cmd-whitelistadd-desc = Додає гравця у вайтліст.
 cmd-whitelistadd-help = whitelistadd <нік>
-cmd-whitelistadd-existing = {$username} вже у вайтлісті!
+cmd-whitelistadd-existing = {$username} вже є у вайтлісті!
 cmd-whitelistadd-added = {$username} додано у вайтліст
 cmd-whitelistadd-not-found = Не вийшло знайти '{$username}'
 cmd-whitelistadd-arg-player = [гравець]
 
-cmd-whitelistremove-desc = Видаляє гравця з вказаним іменем користувача з білого списку сервера.
+cmd-whitelistremove-desc = Видаляє гравця з вайтлісту.
 cmd-whitelistremove-help = whitelistremove <нік>
 cmd-whitelistremove-existing = {$username} не у вайтлісті!
 cmd-whitelistremove-removed = {$username} видалено з вайтліста
@@ -23,8 +23,8 @@ ban-banned-2 = Адміністратор: "{$adminName}"
 ban-banned-3 = Причина бану: "{$reason}"
 
 soft-player-cap-full = Сервер повний!
-panic-bunker-account-denied = Сервер у режимі панічного бункера. Нові підключення не будуть прийняті. Спробуйте пізніше
-panic-bunker-account-denied-reason = Сервер у режимі панічного бункера, вас не підключило. Причина: "{$reason}"
+panic-bunker-account-denied = Сервер у режимі бункер. Нові підключення не будуть прийняті. Спробуйте пізніше
+panic-bunker-account-denied-reason = Сервер у режимі бункер, вас не підключило. Причина: "{$reason}"
 panic-bunker-account-reason-account = Акаунт SS14 має бути старшим за {$minutes} хвилин
 panic-bunker-account-reason-overall = Кількість награних годин має бути {$hours} годин
 
