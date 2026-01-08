@@ -11,7 +11,7 @@ bwoink-system-typing-indicator = {$players} {$count ->
 *[other] друкують
 } ...
 
-admin-bwoink-play-sound = Бвоньк?
+admin-bwoink-play-sound = Бвоіньк?
 bwoink-system-rate-limited = Система: ви надсилаєте повідомлення занадто швидко.
 bwoink-system-player-disconnecting = від'єднався.
 bwoink-system-player-reconnecting = відновив зв'язок.

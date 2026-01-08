@@ -1,6 +1,6 @@
 - type: gameMap
   id: ERPIsland
-  mapName: 'ERP Island'
+  mapName: 'Острів'
   mapPath: /Maps/_ERP/Island.yml
   minPlayers: 0 #
   maxPlayers: 20 #
