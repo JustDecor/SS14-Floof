@@ -1,13 +1,13 @@
 ﻿# UI
-admin-notes-title = Примітки для {$player}
-admin-notes-new-note = Нова записка
+admin-notes-title = Нотатки для {$player}
+admin-notes-new-note = Нова нотатка
 admin-notes-show-more = Показати більше
-admin-notes-for = Примітка для: {$player}
+admin-notes-for = Нотатка для: {$player}
 admin-notes-id = Ідентифікатор: {$id}
 admin-notes-type = Тип: {$type}
 admin-notes-severity = Серйозність: {$severity}
-admin-notes-secret = Секрет
-admin-notes-notsecret = Не секрет
+admin-notes-secret = Секретно
+admin-notes-notsecret = Не секретно
 admin-notes-expires = Закінчується: {$expires}
 admin-notes-expires-never = Не закінчується
 admin-notes-edited-never = Ніколи
@@ -40,10 +40,10 @@ admin-notes-hours = {$hours} годин
 admin-notes-minutes = {$minutes} хвилин
 
 # Note editor UI
-admin-note-editor-title-new = Створення нової примітки для {$player}
-admin-note-editor-title-existing = Редагування примітки {$id} гравця {$player} від {$author}
+admin-note-editor-title-new = Створення нової нотатки для {$player}
+admin-note-editor-title-existing = Редагування нотатки {$id} гравця {$player} від {$author}
 admin-note-editor-pop-out = Виходь
-admin-note-editor-secret = Таємниця?
+admin-note-editor-secret = Секретно?
 admin-note-editor-secret-tooltip = Якщо позначити цю опцію, нотатка буде невидимою для гравця
 admin-note-editor-type-note = Примітка
 admin-note-editor-type-message = Повідомлення
@@ -65,7 +65,7 @@ admin-note-editor-submit = Надіслати
 admin-note-editor-submit-confirm = Ви впевнені?
 
 # Verb
-admin-notes-verb-text = Відкрити Примітки Адміністратора
+admin-notes-verb-text = Відкрити Нотатки Адміністратора
 
 # Watchlist and message login
 admin-notes-watchlist = Список спостереження для {$player}: {$message}
@@ -73,8 +73,8 @@ admin-notes-new-message = Ви отримали повідомлення адм�
 admin-notes-fallback-admin-name = [Система]
 
 # Admin remarks
-admin-remarks-command-description = Відкриває сторінку коментарів адміністратора
-admin-remarks-command-error = Коментарі адміністратора вимкнено
+admin-remarks-command-description = Відкриває сторінку нотаток адміністратора
+admin-remarks-command-error = Нотатки адміністратора вимкнено
 admin-remarks-title = Зауваження адміністратора
 
 # Misc

@@ -1,4 +1,4 @@
-﻿marking-ReptilianSharpCobraHood = Sharp Cobra Hood
+﻿marking-ReptilianSharpCobraHood = Гострий капюшон кобри
 marking-ReptilianSharpCobraHood-sharp_cobra_hood = База
 marking-ReptilianSharpCobraHood-sharp_cobra_hood_overlay = Внутрішня частина
 

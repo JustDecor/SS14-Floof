@@ -1,9 +1,9 @@
 accent-german-words-1 = так
 accent-german-words-1-2 = ага
-accent-german-words-replace-1 = я
+accent-german-words-replace-1 = ja
 
 accent-german-words-2 = ні
-accent-german-words-replace-2 = найн
+accent-german-words-replace-2 = nein
 
 accent-german-words-3 = те
 accent-german-words-replace-3 = це
@@ -82,8 +82,8 @@ accent-german-words-replace-26 = ват
 accent-german-words-27 = дякую
 accent-german-words-replace-27 = данкешен
 
-accent-german-words-28 = дяки
-accent-german-words-replace-28 = данке
+accent-german-words-28 = дяка
+accent-german-words-replace-28 = danke
 
 accent-german-words-29 = будь здоровий
 accent-german-words-replace-29 = гезундхайт
@@ -177,7 +177,7 @@ accent-german-words-replace-56 = ферботен
 
 accent-german-words-57 = швидко
 accent-german-words-57-2 = швидше
-accent-german-words-replace-57 = шнел
+accent-german-words-replace-57 = шнеля
 
 accent-german-words-58 = лікарня
 accent-german-words-replace-58 = кранкенхаус

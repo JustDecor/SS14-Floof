@@ -1,6 +1,6 @@
-﻿admin-logs-title = Admin Logs Panel
+﻿admin-logs-title = Адмін логи
 admin-logs-count = Показано {$showing}/{$total} за {$round}
-admin-logs-pop-out = Попаут
+admin-logs-pop-out = Поп-аут
 
 # Round
 admin-logs-round = Раунд{" "}

@@ -1,10 +1,10 @@
 - type: gameMapPool
   id: DefaultMapPool
   maps:
-  - Arena
-  - Asterisk
-  - Core # - Maintainer Dunrab
-  - Edge
+  #- Arena
+  #- Asterisk
+  #- Core # - Maintainer Dunrab
+  #- Edge
   - Glacier # - Maintainer WhiteLightningTwister
   - Hammurabi
   - Lighthouse # - Maintainer Dunrab
@@ -16,10 +16,11 @@
   - TheHive
   #- Gax # Floof - Remove Gax due to mapping issues, power, access, etc. | M3739 - No current maintainer
   - Rad
-  - Meta # - Maintainer Dunrab
+  #- Meta # - Maintainer Dunrab
   - Kettle # Floof - Maintainer Dunrab
-  - Fland # Floof - Maintainer Dunrab
+  #- Fland # Floof - Maintainer Dunrab
   - Train # Floof - Maintainer Dunrab
-  - Amber # Floof
+  #- Amber # Floof
   - Getaway # Floof - Maintainer Dunrab
   #- talos # Floof!  - Removed from rotation due to severe design issues. Maintainer presumed to be Mudyin.
+  - ERPIsland

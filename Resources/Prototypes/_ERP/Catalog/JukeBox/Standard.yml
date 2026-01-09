@@ -1,0 +1,227 @@
+- type: jukebox
+  id: songMore
+  name: Скрябін - Моє море
+  path:
+    path: /Audio/_ERP/Jukebox/More.ogg
+
+- type: jukebox
+  id: songKinuli
+  name: Скрябін - Нас кинули
+  path:
+    path: /Audio/_ERP/Jukebox/Kinuli.ogg
+
+- type: jukebox
+  id: songSam-sobi
+  name: Скрябін - Сам собі країна
+  path:
+    path: /Audio/_ERP/Jukebox/Sam-sobi.ogg
+
+- type: jukebox
+  id: songSuka
+  name: Скрябін - Сука війна
+  path:
+    path: /Audio/_ERP/Jukebox/Suka.ogg
+
+- type: jukebox
+  id: songEnergetik
+  name: ДК-Енергетик - Енергетик
+  path:
+    path: /Audio/_ERP/Jukebox/Energetik.ogg
+
+- type: jukebox
+  id: song2x2
+  name: ДК-Енергетик - 2x2
+  path:
+    path: /Audio/_ERP/Jukebox/2x2.ogg
+
+- type: jukebox
+  id: songKaseta
+  name: SadSvit - Касета
+  path:
+    path: /Audio/_ERP/Jukebox/Kaseta.ogg
+
+- type: jukebox
+  id: songEstafeta
+  name: Апатія - Естафета страждань
+  path:
+    path: /Audio/_ERP/Jukebox/Estafeta.ogg
+
+- type: jukebox
+  id: songMolodist
+  name: SadSvit - Молодість
+  path:
+    path: /Audio/_ERP/Jukebox/Molodist.ogg
+
+- type: jukebox
+  id: songSyluety
+  name: Структура-Щастя - Силуети
+  path:
+    path: /Audio/_ERP/Jukebox/Syluety.ogg
+
+- type: jukebox
+  id: songLipshiy-den
+  name: Апатія - Ліпший день
+  path:
+    path: /Audio/_ERP/Jukebox/Lipshiy-den.ogg
+
+- type: jukebox
+  id: songSidativy
+  name: Структура-Щастя - Сидативи
+  path:
+    path: /Audio/_ERP/Jukebox/Sidativy.ogg
+
+- type: jukebox
+  id: songSlovo
+  name: Sudno - Слово
+  path:
+    path: /Audio/_ERP/Jukebox/Slovo.ogg
+
+- type: jukebox
+  id: songRozbudy-mene
+  name: Sudno - Розбуди мене
+  path:
+    path: /Audio/_ERP/Jukebox/Rozbudy-mene.ogg
+
+- type: jukebox
+  id: songPotopelnyk
+  name: BaWN - Потопельник
+  path:
+    path: /Audio/_ERP/Jukebox/Potopelnyk.ogg
+
+- type: jukebox
+  id: songKinec-filmu
+  name: BaWN - Кінець фільму
+  path:
+    path: /Audio/_ERP/Jukebox/Kinec-filmu.ogg
+
+- type: jukebox
+  id: song911
+  name: Океан-Ельзи - 911
+  path:
+    path: /Audio/_ERP/Jukebox/911.ogg
+
+- type: jukebox
+  id: songLviv
+  name: Океан-Ельзи - Місто Весни
+  path:
+    path: /Audio/_ERP/Jukebox/Lviv.ogg
+
+- type: jukebox
+  id: songAvtozak
+  name: Жадан-і-Собаки - Автозак
+  path:
+    path: /Audio/_ERP/Jukebox/Avtozak.ogg
+
+- type: jukebox
+  id: songMalvy
+  name: Жадан-і-Собаки - Мальви
+  path:
+    path: /Audio/_ERP/Jukebox/Malvy.ogg
+
+- type: jukebox
+  id: songBiblioteka
+  name: Колос - Бібліотека
+  path:
+    path: /Audio/_ERP/Jukebox/Biblioteka.ogg
+
+- type: jukebox
+  id: songHvora_na_lubov
+  name: vioria - Хвора на любов
+  path:
+    path: /Audio/_ERP/Jukebox/Hvora_na_lubov.ogg
+
+- type: jukebox
+  id: songDont_Know
+  name: Erika - I Don't Know
+  path:
+    path: /Audio/_ERP/Jukebox/Dont_Know.ogg
+
+- type: jukebox
+  id: song4_00AM
+  name: Taeko-Onuki - 4:00 AM
+  path:
+    path: /Audio/_ERP/Jukebox/4_00AM.ogg
+
+- type: jukebox
+  id: songNSYNC-Bye-Bye-Bye
+  name: NSYNC - Bye-Bye-Bye
+  path:
+    path: /Audio/_ERP/Jukebox/NSYNC-Bye-Bye-Bye.ogg
+
+- type: jukebox
+  id: songMr-Blue-Sky
+  name: ELO - Mr Blue Sky
+  path:
+    path: /Audio/_ERP/Jukebox/Mr-Blue-Sky.ogg
+
+- type: jukebox
+  id: songKavinsky-Nightcall
+  name: Kavinsky - Nightcall
+  path:
+    path: /Audio/_ERP/Jukebox/Kavinsky-Nightcall.ogg
+
+- type: jukebox
+  id: songTak_Vtomyvsya
+  name: Hate-Optimists - Так втомився
+  path:
+    path: /Audio/_ERP/Jukebox/Tak_Vtomyvsya.ogg
+
+- type: jukebox
+  id: songBattle_Theme_I
+  name: Unknown - Battle Theme I
+  path:
+    path: /Audio/_ERP/Jukebox/Battle_Theme_I.ogg
+
+- type: jukebox
+  id: songBattle_Theme_II
+  name: Unknown - Battle Theme II
+  path:
+    path: /Audio/_ERP/Jukebox/Battle_Theme_II.ogg
+
+- type: jukebox
+  id: songBIG_SHOT
+  name: Toby-Fox - BIG SHOT
+  path:
+    path: /Audio/_ERP/Jukebox/BIG_SHOT.ogg
+
+- type: jukebox
+  id: songCHANCE_TO_BE
+  name: Toby-Fox - NOW'S YOUR CHANCE TO BE A
+  path:
+    path: /Audio/_ERP/Jukebox/CHANCE_TO_BE.ogg
+
+- type: jukebox
+  id: songCYBERS_WORLD
+  name: Toby-Fox - A CYBER'S WORLD?
+  path:
+    path: /Audio/_ERP/Jukebox/CYBERS_WORLD.ogg
+
+- type: jukebox
+  id: songPandora_Palace
+  name: Toby-Fox - Pandora Palace
+  path:
+    path: /Audio/_ERP/Jukebox/Pandora_Palace.ogg
+
+- type: jukebox
+  id: songAttack_Killer_Queen
+  name: Toby-Fox - Attack of the Killer Queen
+  path:
+    path: /Audio/_ERP/Jukebox/Attack_Killer_Queen.ogg
+
+- type: jukebox
+  id: songVovchyca
+  name: Олег-Винник - Вовчиця
+  path:
+    path: /Audio/_ERP/Jukebox/oleg-vinnik-vovchicya.ogg
+
+- type: jukebox
+  id: songNebo
+  name: DREVO - Смарагдове небо
+  path:
+    path: /Audio/_ERP/Jukebox/Smaragdove-nebo.ogg
+
+- type: jukebox
+  id: songMath_Class
+  name: IOSYS - Cirno's Perfect Math Class
+  path:
+    path: /Audio/_ERP/Jukebox/Perfect_Math_Class.ogg

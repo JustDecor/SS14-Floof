@@ -1,4 +1,4 @@
-﻿marking-WingsDragon = Dragon Wings
+﻿marking-WingsDragon = Крила Дракона
 marking-WingsDragon-dragon = Крила
 marking-WingsDragonTwotone = Крила дракона (двоколірні)
 marking-WingsDragonTwotone-dragon = Крила
