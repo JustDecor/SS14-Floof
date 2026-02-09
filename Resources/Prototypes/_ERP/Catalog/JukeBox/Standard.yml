@@ -210,7 +210,7 @@
 
 - type: jukebox
   id: songVovchyca
-  name: Олег-Винник - Вовчиця
+  name: Олег Винник - Вовчиця
   path:
     path: /Audio/_ERP/Jukebox/oleg-vinnik-vovchicya.ogg
 
@@ -225,3 +225,21 @@
   name: IOSYS - Cirno's Perfect Math Class
   path:
     path: /Audio/_ERP/Jukebox/Perfect_Math_Class.ogg
+    
+- type: jukebox
+  id: songTheOnly
+  name: MGR - The Only Thing I Know For Real
+  path:
+    path: /Audio/_ERP/Jukebox/The-Only-Thing-I-Know-For-Real.ogg
+
+- type: jukebox
+  id: songItHasToBeThisWay
+  name: MGR - It Has To Be This Way
+  path:
+    path: /Audio/_ERP/Jukebox/It-Has-To-Be-This-Way.ogg
+
+- type: jukebox
+  id: songRulesOfNature
+  name: MGR - Rules-of-Nature
+  path:
+    path: /Audio/_ERP/Jukebox/Rules-of-Nature.ogg
