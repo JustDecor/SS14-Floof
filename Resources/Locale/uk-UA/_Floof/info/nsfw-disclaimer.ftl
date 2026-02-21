@@ -1,17 +1,14 @@
 nsfw-disclaimer-title = ⚠️ Застереження сервера ERP — Відвертий дорослий контент ⚠️
 nsfw-disclaimer-text = 
-    Зверніть увагу, що [color=yellow]кожної неділі це 'Синдикатна неділя', коли зміни мають набагато менше шансів бути спокійними. Адміністраторські події в ці дні також мають тенденцію бути більш хаотичними та впливовими.[/color]
+    Цей сервер містить [bold]відверті сексуальні рольові ігри для дорослих (ERP)[/bold] та теми для дорослих, які не підходять для неповнолітніх або осіб, чутливих до зазначених відвертих матеріалів.
 
-    This server contains [bold]explicit adult sexual roleplay (ERP)[/bold] and mature themes that are not suitable for minors or individuals sensitive to said explicit material.
+    Приєднуючись, ви підтверджуєте, що вам виповнилося 18 років, і ви розумієте, що можете переглядати матеріали та теми для дорослих, зокрема рольові ігри сексуального характеру.
 
-    By joining, you confirm you are 18+ and understand that you may view adult explicit material and topics, including roleplay that includes sexual content.
-    All players are [bold]expected to follow strict out-of-character consent boundaries, understand the boundaries of explicit material of all parties involved in a situation, and to keep extreme content out of generally public spaces, as to avoid violation of others boundaries of consent.[/bold]
+    Крім того, ви можете ненавмисно натрапити на приватну сцену відвертого характеру, яка містить контент, який ви вважаєте незручним або екстремальним за своєю природою. Якщо це станеться, вам дозволено та рекомендується залишити цю зону, не визнаючи такого випадку. Від вас не очікується залишатися в сцені, яка викликає у вас дискомфорт. [bold]Невідповідна поведінка без згоди поза межами попередньо узгодженої рольової гри суворо заборонена та призведе до виключення зі спільноти.[/bold]
 
-    Furthermore, you may inadvertently come across a private explicit scene that includes content you find uncomfortable or extreme in nature. If this happens, you are allowed and encouraged to leave the area without acknowledging such instance. You are not expected to stay in a scene that makes you uncomfortable. [bold]Out-of-Character Non-Consensual behavior outside of pre-negotiated roleplay is strictly prohibited and will result in removal from the community.[/bold]
+    Якщо ви опинитеся в явній ситуації, коли почуваєтеся некомфортно, вам рекомендується використовувати позаштатні засоби, включаючи LOOC та Subtle OOC, щоб попросити сторону(и) ввічливо зупинитися. Якщо вони продовжують свідомо порушувати межі вашого комфорту та/або згоди, негайно надішліть AHelp, щоб наші співробітники могли вжити заходів. Якщо це не допомогло, закрийте гру та напишіть адміністрації у Discord.
 
-    If you happen to be in an explicit situation where you feel uncomfortable, you are encouraged to use Out-of-Character mediums, including LOOC & Subtle OOC to request for the party(ies) involved to politely stop. If they continue to knowingly violate the boundaries of your comfort and/or consent, submit an AHelp immediately so our staff can take action. If your are made too uncomfortable to continue playing and feel like you cannot AHelp, we allow and encourage you to leave the round OOCly and in-character means (cryoing) and follow this by writing up a ticket in our discord so that staff may respond.
-
-    If you are uncomfortable with general explicit and/or sexual themes, or you are below our minimum 18+ requirements and/or not legally permitted to view or interact with such content, [bold]please disconnect immediately.[/bold]
+    Якщо вам незручно загальні відверті та/або сексуальні теми, або ви не досягли мінімальних вимог 18+ та/або вам не дозволено законом переглядати чи взаємодіяти з таким контентом, [bold] будь ласка, негайно відключіться.[/bold]
 
 nsfw-disclaimer-decline = Відхилити та вийти
 nsfw-disclaimer-accept = Прийняти та продовжити
